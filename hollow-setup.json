@@ -1,0 +1,126 @@
+{
+  "projectId": "proj_7263khydhi",
+  "baseUrl": "https://hollow-3mbn.onrender.com",
+  "pattern": "https://hollow-3mbn.onrender.com/proj_7263khydhi/{endpoint}",
+  "dynamicEndpoints": [
+    {
+      "path": "/users",
+      "mode": "dynamic",
+      "purpose": "MVP-only account records using ordinary Hollow CRUD. Includes a salted PBKDF2 password hash, never plaintext. If this collection is publicly readable, account email/profile data and password hashes may be exposed; use test accounts and unique passwords only. Not production authentication.",
+      "fields": {
+        "name": "string required",
+        "email": "email required; lowercase; app checks duplicate before insert",
+        "institutionId": "string",
+        "departmentId": "string",
+        "level": "string",
+        "semester": "string",
+        "studyGoal": "string",
+        "passwordSalt": "base64 string required for MVP sign-in",
+        "passwordHash": "base64 PBKDF2-SHA256 hash required for MVP sign-in",
+        "createdAt": "ISO timestamp",
+        "updatedAt": "ISO timestamp"
+      }
+    },
+    {
+      "path": "/profiles",
+      "mode": "dynamic",
+      "purpose": "Student academic profile only; never include passwords or tokens.",
+      "fields": {
+        "id": "string optional",
+        "displayName": "string required",
+        "email": "email required",
+        "institutionId": "string",
+        "institutionName": "string",
+        "departmentId": "string",
+        "programme": "string",
+        "level": "string",
+        "semester": "string",
+        "studyGoals": "array",
+        "createdAt": "string",
+        "updatedAt": "string"
+      }
+    },
+    {
+      "path": "/progress",
+      "mode": "dynamic",
+      "purpose": "Matches the existing Student Plug/ClearWords-style sync adapter. This collection is not private unless the endpoint is protected; do not sync sensitive profile details or use it for production private records without access control.",
+      "fields": {
+        "userKey": "string required",
+        "schemaVersion": "number",
+        "selectedCourses": "array",
+        "saved": "array",
+        "completedTopics": "array",
+        "practiceHistory": "array",
+        "updatedAt": "string"
+      }
+    },
+    {
+      "path": "/practice-attempts",
+      "mode": "dynamic",
+      "purpose": "Practice history; each row should include userId, courseId, topicId, score, total, answers, createdAt.",
+      "fields": {
+        "userId": "string required",
+        "courseId": "string",
+        "topicId": "string",
+        "score": "number",
+        "total": "number",
+        "answers": "array",
+        "createdAt": "string"
+      }
+    },
+    {
+      "path": "/saved-courses",
+      "mode": "dynamic",
+      "purpose": "Saved course references.",
+      "fields": {
+        "key": "string required",
+        "userId": "string required",
+        "courseId": "string required",
+        "createdAt": "string"
+      }
+    },
+    {
+      "path": "/community-posts",
+      "mode": "dynamic",
+      "purpose": "Public course Q&A. Validate length and moderate submissions.",
+      "fields": {
+        "courseId": "string",
+        "courseCode": "string",
+        "title": "string required",
+        "body": "string required",
+        "displayName": "string",
+        "createdAt": "string"
+      }
+    },
+    {
+      "path": "/resource-submissions",
+      "mode": "dynamic",
+      "purpose": "Student-submitted links; treat URLs as untrusted and review before promotion.",
+      "fields": {
+        "title": "string required",
+        "url": "url required",
+        "courseId": "string",
+        "submittedBy": "string",
+        "createdAt": "string"
+      }
+    },
+    {
+      "path": "/notifications",
+      "mode": "dynamic",
+      "purpose": "Optional public/non-sensitive notifications only.",
+      "fields": {
+        "title": "string",
+        "body": "string",
+        "createdAt": "string"
+      }
+    }
+  ],
+  "important": "The Student Plug MVP intentionally uses ordinary Hollow CRUD for account records as requested. This is a prototype convenience, not secure production authentication. Public CRUD cannot guarantee private profiles, protect password hashes from being read, or prevent users from editing/deleting records. Use test data and unique test passwords only.",
+  "mvpAccountFlow": {
+    "signup": "POST /users after checking email duplicates with GET /users?email=...; browser derives a salted PBKDF2-SHA256 hash and stores only salt/hash, never plaintext password.",
+    "signin": "GET /users?email=... then compare derived password hash locally.",
+    "profile": "GET /users/{recordId} and PATCH /users/{recordId}.",
+    "session": "Opaque local browser session marker only; it is not verified by Hollow and is not secure authentication.",
+    "warning": "For MVP testing only. Public CRUD cannot protect user records or verify identity server-side. Do not use real/reused passwords or sensitive personal data."
+  }
+}

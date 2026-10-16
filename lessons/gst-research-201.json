@@ -1,0 +1,545 @@
+{
+  "courseId": "gst-research-201",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "200-level undergraduate learning depth",
+  "topics": [
+    {
+      "id": "search-strategy-and-keywords",
+      "title": "Search strategy and keywords",
+      "description": "Search strategy and keywords: a structured set of explanations, method, worked application, and critical checks for Academic Research and Information Literacy.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Search strategy and keywords accurately.",
+        "Apply the central ideas in Search strategy and keywords to a structured course problem.",
+        "Check a solution to Search strategy and keywords for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Search strategy and keywords in Academic Research and Information Literacy",
+          "paragraphs": [
+            "Search strategy and keywords is studied here as a specific part of Academic Research and Information Literacy. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Research turns a topic into an answerable question and then uses a transparent method to gather and interpret evidence. The design should follow the question rather than convenience alone. Sampling, measurement, missing data, researcher decisions, and ethics all affect the credibility and transferability of findings.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Specify the population and setting; define the research question and constructs; select a design and sampling plan; choose instruments; plan analysis before looking for a preferred result; address consent, confidentiality, risk, and data management; and report limitations.",
+            "Apply that method directly to “Search strategy and keywords”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Academic Research and Information Literacy; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A question about the association between study hours and examination scores can be addressed with an observational design, but the result may be confounded by prior preparation, course difficulty, and access to resources. A causal question requires stronger design assumptions than a simple correlation.",
+            "Now adapt the example to the topic “Search strategy and keywords”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Search strategy and keywords include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Research question",
+          "definition": "A focused, answerable question guiding the study."
+        },
+        {
+          "term": "Confounder",
+          "definition": "A variable associated with both an exposure/predictor and outcome that can distort their relationship."
+        },
+        {
+          "term": "Operational definition",
+          "definition": "A specification of how a construct is observed or measured."
+        },
+        {
+          "term": "Search strategy and keywords",
+          "definition": "The specific concept or method examined in this topic within Academic Research and Information Literacy; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Search strategy and keywords",
+          "steps": [
+            "For a study involving “Search strategy and keywords”, connect the question to the design, sampling, measurement, analysis, and ethics plan. State what the design can support, what it cannot establish, and how another researcher could inspect or reproduce the decisions made.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "gst-research-201-search-strategy-and-keywords-q1",
+          "type": "mcq",
+          "prompt": "Which feature most strengthens work on Search strategy and keywords?",
+          "options": [
+            "Transparent methods, justified decisions, ethical safeguards, and explicit limitations",
+            "Removing unfavourable findings",
+            "Selecting participants only after seeing the desired result",
+            "Reporting conclusions without describing the method"
+          ],
+          "answerIndex": 0,
+          "explanation": "Transparent and ethically sound methods make the evidence assessable."
+        },
+        {
+          "id": "gst-research-201-search-strategy-and-keywords-q2",
+          "type": "short-answer",
+          "prompt": "Explain Search strategy and keywords in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Search strategy and keywords accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "gst-research-201-search-strategy-and-keywords-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Search strategy and keywords. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "evaluating-source-authority",
+      "title": "Evaluating source authority",
+      "description": "Evaluating source authority: a structured set of explanations, method, worked application, and critical checks for Academic Research and Information Literacy.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Evaluating source authority accurately.",
+        "Apply the central ideas in Evaluating source authority to a structured course problem.",
+        "Check a solution to Evaluating source authority for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Evaluating source authority in Academic Research and Information Literacy",
+          "paragraphs": [
+            "Evaluating source authority is studied here as a specific part of Academic Research and Information Literacy. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Research turns a topic into an answerable question and then uses a transparent method to gather and interpret evidence. The design should follow the question rather than convenience alone. Sampling, measurement, missing data, researcher decisions, and ethics all affect the credibility and transferability of findings.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Specify the population and setting; define the research question and constructs; select a design and sampling plan; choose instruments; plan analysis before looking for a preferred result; address consent, confidentiality, risk, and data management; and report limitations.",
+            "Apply that method directly to “Evaluating source authority”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Academic Research and Information Literacy; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A question about the association between study hours and examination scores can be addressed with an observational design, but the result may be confounded by prior preparation, course difficulty, and access to resources. A causal question requires stronger design assumptions than a simple correlation.",
+            "Now adapt the example to the topic “Evaluating source authority”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Evaluating source authority include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Research question",
+          "definition": "A focused, answerable question guiding the study."
+        },
+        {
+          "term": "Confounder",
+          "definition": "A variable associated with both an exposure/predictor and outcome that can distort their relationship."
+        },
+        {
+          "term": "Operational definition",
+          "definition": "A specification of how a construct is observed or measured."
+        },
+        {
+          "term": "Evaluating source authority",
+          "definition": "The specific concept or method examined in this topic within Academic Research and Information Literacy; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Evaluating source authority",
+          "steps": [
+            "For a study involving “Evaluating source authority”, connect the question to the design, sampling, measurement, analysis, and ethics plan. State what the design can support, what it cannot establish, and how another researcher could inspect or reproduce the decisions made.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "gst-research-201-evaluating-source-authority-q1",
+          "type": "mcq",
+          "prompt": "Which feature most strengthens work on Evaluating source authority?",
+          "options": [
+            "Transparent methods, justified decisions, ethical safeguards, and explicit limitations",
+            "Removing unfavourable findings",
+            "Selecting participants only after seeing the desired result",
+            "Reporting conclusions without describing the method"
+          ],
+          "answerIndex": 0,
+          "explanation": "Transparent and ethically sound methods make the evidence assessable."
+        },
+        {
+          "id": "gst-research-201-evaluating-source-authority-q2",
+          "type": "short-answer",
+          "prompt": "Explain Evaluating source authority in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Evaluating source authority accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "gst-research-201-evaluating-source-authority-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Evaluating source authority. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "paraphrasing-and-citation",
+      "title": "Paraphrasing and citation",
+      "description": "Paraphrasing and citation: a structured set of explanations, method, worked application, and critical checks for Academic Research and Information Literacy.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Paraphrasing and citation accurately.",
+        "Apply the central ideas in Paraphrasing and citation to a structured course problem.",
+        "Check a solution to Paraphrasing and citation for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Paraphrasing and citation in Academic Research and Information Literacy",
+          "paragraphs": [
+            "Paraphrasing and citation is studied here as a specific part of Academic Research and Information Literacy. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Research turns a topic into an answerable question and then uses a transparent method to gather and interpret evidence. The design should follow the question rather than convenience alone. Sampling, measurement, missing data, researcher decisions, and ethics all affect the credibility and transferability of findings.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Specify the population and setting; define the research question and constructs; select a design and sampling plan; choose instruments; plan analysis before looking for a preferred result; address consent, confidentiality, risk, and data management; and report limitations.",
+            "Apply that method directly to “Paraphrasing and citation”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Academic Research and Information Literacy; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A question about the association between study hours and examination scores can be addressed with an observational design, but the result may be confounded by prior preparation, course difficulty, and access to resources. A causal question requires stronger design assumptions than a simple correlation.",
+            "Now adapt the example to the topic “Paraphrasing and citation”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Paraphrasing and citation include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Research question",
+          "definition": "A focused, answerable question guiding the study."
+        },
+        {
+          "term": "Confounder",
+          "definition": "A variable associated with both an exposure/predictor and outcome that can distort their relationship."
+        },
+        {
+          "term": "Operational definition",
+          "definition": "A specification of how a construct is observed or measured."
+        },
+        {
+          "term": "Paraphrasing and citation",
+          "definition": "The specific concept or method examined in this topic within Academic Research and Information Literacy; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Paraphrasing and citation",
+          "steps": [
+            "A citation connects a claim or borrowed idea to a traceable source. The reference list should allow a reader to locate the work, and quotations require clear marking and page or locator details when the style requires them. Citing a source does not make a misrepresentation acceptable; sources must be read and claims represented accurately.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "gst-research-201-paraphrasing-and-citation-q1",
+          "type": "mcq",
+          "prompt": "What is the main academic purpose of a citation?",
+          "options": [
+            "To let readers trace the source of a claim or idea",
+            "To make unsupported claims automatically true",
+            "To replace the need to evaluate evidence",
+            "To increase word count"
+          ],
+          "answerIndex": 0,
+          "explanation": "Citations support attribution and traceability; the writer remains responsible for accurate representation."
+        },
+        {
+          "id": "gst-research-201-paraphrasing-and-citation-q2",
+          "type": "short-answer",
+          "prompt": "Explain Paraphrasing and citation in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Paraphrasing and citation accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "gst-research-201-paraphrasing-and-citation-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Paraphrasing and citation. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "literature-synthesis",
+      "title": "Literature synthesis",
+      "description": "Literature synthesis: a structured set of explanations, method, worked application, and critical checks for Academic Research and Information Literacy.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Literature synthesis accurately.",
+        "Apply the central ideas in Literature synthesis to a structured course problem.",
+        "Check a solution to Literature synthesis for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Literature synthesis in Academic Research and Information Literacy",
+          "paragraphs": [
+            "Literature synthesis is studied here as a specific part of Academic Research and Information Literacy. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Research turns a topic into an answerable question and then uses a transparent method to gather and interpret evidence. The design should follow the question rather than convenience alone. Sampling, measurement, missing data, researcher decisions, and ethics all affect the credibility and transferability of findings.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Specify the population and setting; define the research question and constructs; select a design and sampling plan; choose instruments; plan analysis before looking for a preferred result; address consent, confidentiality, risk, and data management; and report limitations.",
+            "Apply that method directly to “Literature synthesis”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Academic Research and Information Literacy; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A question about the association between study hours and examination scores can be addressed with an observational design, but the result may be confounded by prior preparation, course difficulty, and access to resources. A causal question requires stronger design assumptions than a simple correlation.",
+            "Now adapt the example to the topic “Literature synthesis”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Literature synthesis include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Research question",
+          "definition": "A focused, answerable question guiding the study."
+        },
+        {
+          "term": "Confounder",
+          "definition": "A variable associated with both an exposure/predictor and outcome that can distort their relationship."
+        },
+        {
+          "term": "Operational definition",
+          "definition": "A specification of how a construct is observed or measured."
+        },
+        {
+          "term": "Literature synthesis",
+          "definition": "The specific concept or method examined in this topic within Academic Research and Information Literacy; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Literature synthesis",
+          "steps": [
+            "For a study involving “Literature synthesis”, connect the question to the design, sampling, measurement, analysis, and ethics plan. State what the design can support, what it cannot establish, and how another researcher could inspect or reproduce the decisions made.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "gst-research-201-literature-synthesis-q1",
+          "type": "mcq",
+          "prompt": "Which feature most strengthens work on Literature synthesis?",
+          "options": [
+            "Transparent methods, justified decisions, ethical safeguards, and explicit limitations",
+            "Removing unfavourable findings",
+            "Selecting participants only after seeing the desired result",
+            "Reporting conclusions without describing the method"
+          ],
+          "answerIndex": 0,
+          "explanation": "Transparent and ethically sound methods make the evidence assessable."
+        },
+        {
+          "id": "gst-research-201-literature-synthesis-q2",
+          "type": "short-answer",
+          "prompt": "Explain Literature synthesis in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Literature synthesis accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "gst-research-201-literature-synthesis-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Literature synthesis. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "academic-integrity-and-plagiarism-avoidance",
+      "title": "Academic integrity and plagiarism avoidance",
+      "description": "Academic integrity and plagiarism avoidance: a structured set of explanations, method, worked application, and critical checks for Academic Research and Information Literacy.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Academic integrity and plagiarism avoidance accurately.",
+        "Apply the central ideas in Academic integrity and plagiarism avoidance to a structured course problem.",
+        "Check a solution to Academic integrity and plagiarism avoidance for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Academic integrity and plagiarism avoidance in Academic Research and Information Literacy",
+          "paragraphs": [
+            "Academic integrity and plagiarism avoidance is studied here as a specific part of Academic Research and Information Literacy. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Research turns a topic into an answerable question and then uses a transparent method to gather and interpret evidence. The design should follow the question rather than convenience alone. Sampling, measurement, missing data, researcher decisions, and ethics all affect the credibility and transferability of findings.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Specify the population and setting; define the research question and constructs; select a design and sampling plan; choose instruments; plan analysis before looking for a preferred result; address consent, confidentiality, risk, and data management; and report limitations.",
+            "Apply that method directly to “Academic integrity and plagiarism avoidance”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Academic Research and Information Literacy; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A question about the association between study hours and examination scores can be addressed with an observational design, but the result may be confounded by prior preparation, course difficulty, and access to resources. A causal question requires stronger design assumptions than a simple correlation.",
+            "Now adapt the example to the topic “Academic integrity and plagiarism avoidance”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Academic integrity and plagiarism avoidance include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Research question",
+          "definition": "A focused, answerable question guiding the study."
+        },
+        {
+          "term": "Confounder",
+          "definition": "A variable associated with both an exposure/predictor and outcome that can distort their relationship."
+        },
+        {
+          "term": "Operational definition",
+          "definition": "A specification of how a construct is observed or measured."
+        },
+        {
+          "term": "Academic integrity and plagiarism avoidance",
+          "definition": "The specific concept or method examined in this topic within Academic Research and Information Literacy; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Academic integrity and plagiarism avoidance",
+          "steps": [
+            "For a study involving “Academic integrity and plagiarism avoidance”, connect the question to the design, sampling, measurement, analysis, and ethics plan. State what the design can support, what it cannot establish, and how another researcher could inspect or reproduce the decisions made.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "gst-research-201-academic-integrity-and-plagiarism-avoidance-q1",
+          "type": "mcq",
+          "prompt": "Which feature most strengthens work on Academic integrity and plagiarism avoidance?",
+          "options": [
+            "Transparent methods, justified decisions, ethical safeguards, and explicit limitations",
+            "Removing unfavourable findings",
+            "Selecting participants only after seeing the desired result",
+            "Reporting conclusions without describing the method"
+          ],
+          "answerIndex": 0,
+          "explanation": "Transparent and ethically sound methods make the evidence assessable."
+        },
+        {
+          "id": "gst-research-201-academic-integrity-and-plagiarism-avoidance-q2",
+          "type": "short-answer",
+          "prompt": "Explain Academic integrity and plagiarism avoidance in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Academic integrity and plagiarism avoidance accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "gst-research-201-academic-integrity-and-plagiarism-avoidance-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Academic integrity and plagiarism avoidance. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ],
+  "contentNotice": "Original instructional draft. Course title/code is illustrative and must be checked against the student’s current departmental course outline. Not an authentic past paper.",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "All questions in this lesson are original practice questions unless a separate verified source record explicitly says otherwise."
+  }
+}

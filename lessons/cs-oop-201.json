@@ -1,0 +1,544 @@
+{
+  "courseId": "cs-oop-201",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "200-level undergraduate learning depth",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "Original practice questions; no verified past papers included."
+  },
+  "topics": [
+    {
+      "id": "classes-objects-and-encapsulation",
+      "title": "Classes, objects, and encapsulation",
+      "description": "Classes, objects, and encapsulation: a structured set of explanations, method, worked application, and critical checks for Object-Oriented Programming.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Classes, objects, and encapsulation accurately.",
+        "Apply the central ideas in Classes, objects, and encapsulation to a structured course problem.",
+        "Check a solution to Classes, objects, and encapsulation for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Classes, objects, and encapsulation in Object-Oriented Programming",
+          "paragraphs": [
+            "Classes, objects, and encapsulation is studied here as a specific part of Object-Oriented Programming. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Computing systems transform data through algorithms, software, and hardware. A rigorous explanation specifies the abstraction level, inputs, outputs, constraints, and failure conditions. Performance must be considered alongside correctness, maintainability, security, and resource limits.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the problem and assumptions; represent the system or data; explain the mechanism step by step; analyse correctness and resource use; then discuss edge cases and trade-offs. Distinguish an implementation detail from a property guaranteed by the model.",
+            "Apply that method directly to “Classes, objects, and encapsulation”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Object-Oriented Programming; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A hash table can provide expected constant-time lookup when a suitable hash function distributes keys well and collisions are managed. This is an expected-case statement, not a guarantee that every lookup takes exactly the same time; worst-case behaviour depends on collision patterns and implementation.",
+            "Now adapt the example to the topic “Classes, objects, and encapsulation”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Classes, objects, and encapsulation include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Abstraction",
+          "definition": "Emphasising relevant properties while hiding irrelevant detail."
+        },
+        {
+          "term": "Invariant",
+          "definition": "A condition that must remain true at defined points in an algorithm or system."
+        },
+        {
+          "term": "Trade-off",
+          "definition": "A design choice that improves one criterion while potentially worsening another."
+        },
+        {
+          "term": "Classes, objects, and encapsulation",
+          "definition": "The specific concept or method examined in this topic within Object-Oriented Programming; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Classes, objects, and encapsulation",
+          "steps": [
+            "For “Classes, objects, and encapsulation”, begin by identifying the system inputs, outputs, assumptions, and failure cases. Trace one small case manually, then test a boundary case. For example, if an operation is expected to process n records, test n=0, n=1, duplicate values, and malformed input; document which behaviour is intended.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "cs-oop-201-classes-objects-and-encapsulation-q1",
+          "type": "mcq",
+          "prompt": "When applying Classes, objects, and encapsulation, which practice most directly improves the reliability of the result?",
+          "options": [
+            "State assumptions and test normal, boundary, and failure cases",
+            "Assume the first run proves correctness",
+            "Ignore inputs that are not typical",
+            "Measure only the visual appearance"
+          ],
+          "answerIndex": 0,
+          "explanation": "Systematic assumptions and boundary tests expose failures that a single normal case may miss."
+        },
+        {
+          "id": "cs-oop-201-classes-objects-and-encapsulation-q2",
+          "type": "short-answer",
+          "prompt": "Explain Classes, objects, and encapsulation in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Classes, objects, and encapsulation accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "cs-oop-201-classes-objects-and-encapsulation-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Classes, objects, and encapsulation. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "inheritance-and-composition",
+      "title": "Inheritance and composition",
+      "description": "Inheritance and composition: a structured set of explanations, method, worked application, and critical checks for Object-Oriented Programming.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Inheritance and composition accurately.",
+        "Apply the central ideas in Inheritance and composition to a structured course problem.",
+        "Check a solution to Inheritance and composition for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Inheritance and composition in Object-Oriented Programming",
+          "paragraphs": [
+            "Inheritance and composition is studied here as a specific part of Object-Oriented Programming. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Computing systems transform data through algorithms, software, and hardware. A rigorous explanation specifies the abstraction level, inputs, outputs, constraints, and failure conditions. Performance must be considered alongside correctness, maintainability, security, and resource limits.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the problem and assumptions; represent the system or data; explain the mechanism step by step; analyse correctness and resource use; then discuss edge cases and trade-offs. Distinguish an implementation detail from a property guaranteed by the model.",
+            "Apply that method directly to “Inheritance and composition”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Object-Oriented Programming; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A hash table can provide expected constant-time lookup when a suitable hash function distributes keys well and collisions are managed. This is an expected-case statement, not a guarantee that every lookup takes exactly the same time; worst-case behaviour depends on collision patterns and implementation.",
+            "Now adapt the example to the topic “Inheritance and composition”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Inheritance and composition include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Abstraction",
+          "definition": "Emphasising relevant properties while hiding irrelevant detail."
+        },
+        {
+          "term": "Invariant",
+          "definition": "A condition that must remain true at defined points in an algorithm or system."
+        },
+        {
+          "term": "Trade-off",
+          "definition": "A design choice that improves one criterion while potentially worsening another."
+        },
+        {
+          "term": "Inheritance and composition",
+          "definition": "The specific concept or method examined in this topic within Object-Oriented Programming; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Inheritance and composition",
+          "steps": [
+            "For “Inheritance and composition”, begin by identifying the system inputs, outputs, assumptions, and failure cases. Trace one small case manually, then test a boundary case. For example, if an operation is expected to process n records, test n=0, n=1, duplicate values, and malformed input; document which behaviour is intended.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "cs-oop-201-inheritance-and-composition-q1",
+          "type": "mcq",
+          "prompt": "When applying Inheritance and composition, which practice most directly improves the reliability of the result?",
+          "options": [
+            "State assumptions and test normal, boundary, and failure cases",
+            "Assume the first run proves correctness",
+            "Ignore inputs that are not typical",
+            "Measure only the visual appearance"
+          ],
+          "answerIndex": 0,
+          "explanation": "Systematic assumptions and boundary tests expose failures that a single normal case may miss."
+        },
+        {
+          "id": "cs-oop-201-inheritance-and-composition-q2",
+          "type": "short-answer",
+          "prompt": "Explain Inheritance and composition in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Inheritance and composition accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "cs-oop-201-inheritance-and-composition-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Inheritance and composition. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "polymorphism-and-interfaces",
+      "title": "Polymorphism and interfaces",
+      "description": "Polymorphism and interfaces: a structured set of explanations, method, worked application, and critical checks for Object-Oriented Programming.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Polymorphism and interfaces accurately.",
+        "Apply the central ideas in Polymorphism and interfaces to a structured course problem.",
+        "Check a solution to Polymorphism and interfaces for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Polymorphism and interfaces in Object-Oriented Programming",
+          "paragraphs": [
+            "Polymorphism and interfaces is studied here as a specific part of Object-Oriented Programming. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Computing systems transform data through algorithms, software, and hardware. A rigorous explanation specifies the abstraction level, inputs, outputs, constraints, and failure conditions. Performance must be considered alongside correctness, maintainability, security, and resource limits.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the problem and assumptions; represent the system or data; explain the mechanism step by step; analyse correctness and resource use; then discuss edge cases and trade-offs. Distinguish an implementation detail from a property guaranteed by the model.",
+            "Apply that method directly to “Polymorphism and interfaces”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Object-Oriented Programming; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A hash table can provide expected constant-time lookup when a suitable hash function distributes keys well and collisions are managed. This is an expected-case statement, not a guarantee that every lookup takes exactly the same time; worst-case behaviour depends on collision patterns and implementation.",
+            "Now adapt the example to the topic “Polymorphism and interfaces”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Polymorphism and interfaces include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Abstraction",
+          "definition": "Emphasising relevant properties while hiding irrelevant detail."
+        },
+        {
+          "term": "Invariant",
+          "definition": "A condition that must remain true at defined points in an algorithm or system."
+        },
+        {
+          "term": "Trade-off",
+          "definition": "A design choice that improves one criterion while potentially worsening another."
+        },
+        {
+          "term": "Polymorphism and interfaces",
+          "definition": "The specific concept or method examined in this topic within Object-Oriented Programming; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Polymorphism and interfaces",
+          "steps": [
+            "For “Polymorphism and interfaces”, begin by identifying the system inputs, outputs, assumptions, and failure cases. Trace one small case manually, then test a boundary case. For example, if an operation is expected to process n records, test n=0, n=1, duplicate values, and malformed input; document which behaviour is intended.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "cs-oop-201-polymorphism-and-interfaces-q1",
+          "type": "mcq",
+          "prompt": "When applying Polymorphism and interfaces, which practice most directly improves the reliability of the result?",
+          "options": [
+            "State assumptions and test normal, boundary, and failure cases",
+            "Assume the first run proves correctness",
+            "Ignore inputs that are not typical",
+            "Measure only the visual appearance"
+          ],
+          "answerIndex": 0,
+          "explanation": "Systematic assumptions and boundary tests expose failures that a single normal case may miss."
+        },
+        {
+          "id": "cs-oop-201-polymorphism-and-interfaces-q2",
+          "type": "short-answer",
+          "prompt": "Explain Polymorphism and interfaces in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Polymorphism and interfaces accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "cs-oop-201-polymorphism-and-interfaces-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Polymorphism and interfaces. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "exceptions-and-defensive-programming",
+      "title": "Exceptions and defensive programming",
+      "description": "Exceptions and defensive programming: a structured set of explanations, method, worked application, and critical checks for Object-Oriented Programming.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Exceptions and defensive programming accurately.",
+        "Apply the central ideas in Exceptions and defensive programming to a structured course problem.",
+        "Check a solution to Exceptions and defensive programming for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Exceptions and defensive programming in Object-Oriented Programming",
+          "paragraphs": [
+            "Exceptions and defensive programming is studied here as a specific part of Object-Oriented Programming. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Computing systems transform data through algorithms, software, and hardware. A rigorous explanation specifies the abstraction level, inputs, outputs, constraints, and failure conditions. Performance must be considered alongside correctness, maintainability, security, and resource limits.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the problem and assumptions; represent the system or data; explain the mechanism step by step; analyse correctness and resource use; then discuss edge cases and trade-offs. Distinguish an implementation detail from a property guaranteed by the model.",
+            "Apply that method directly to “Exceptions and defensive programming”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Object-Oriented Programming; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A hash table can provide expected constant-time lookup when a suitable hash function distributes keys well and collisions are managed. This is an expected-case statement, not a guarantee that every lookup takes exactly the same time; worst-case behaviour depends on collision patterns and implementation.",
+            "Now adapt the example to the topic “Exceptions and defensive programming”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Exceptions and defensive programming include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Abstraction",
+          "definition": "Emphasising relevant properties while hiding irrelevant detail."
+        },
+        {
+          "term": "Invariant",
+          "definition": "A condition that must remain true at defined points in an algorithm or system."
+        },
+        {
+          "term": "Trade-off",
+          "definition": "A design choice that improves one criterion while potentially worsening another."
+        },
+        {
+          "term": "Exceptions and defensive programming",
+          "definition": "The specific concept or method examined in this topic within Object-Oriented Programming; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Exceptions and defensive programming",
+          "steps": [
+            "For “Exceptions and defensive programming”, begin by identifying the system inputs, outputs, assumptions, and failure cases. Trace one small case manually, then test a boundary case. For example, if an operation is expected to process n records, test n=0, n=1, duplicate values, and malformed input; document which behaviour is intended.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "cs-oop-201-exceptions-and-defensive-programming-q1",
+          "type": "mcq",
+          "prompt": "When applying Exceptions and defensive programming, which practice most directly improves the reliability of the result?",
+          "options": [
+            "State assumptions and test normal, boundary, and failure cases",
+            "Assume the first run proves correctness",
+            "Ignore inputs that are not typical",
+            "Measure only the visual appearance"
+          ],
+          "answerIndex": 0,
+          "explanation": "Systematic assumptions and boundary tests expose failures that a single normal case may miss."
+        },
+        {
+          "id": "cs-oop-201-exceptions-and-defensive-programming-q2",
+          "type": "short-answer",
+          "prompt": "Explain Exceptions and defensive programming in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Exceptions and defensive programming accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "cs-oop-201-exceptions-and-defensive-programming-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Exceptions and defensive programming. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "unit-testing-and-object-design",
+      "title": "Unit testing and object design",
+      "description": "Unit testing and object design: a structured set of explanations, method, worked application, and critical checks for Object-Oriented Programming.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Unit testing and object design accurately.",
+        "Apply the central ideas in Unit testing and object design to a structured course problem.",
+        "Check a solution to Unit testing and object design for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Unit testing and object design in Object-Oriented Programming",
+          "paragraphs": [
+            "Unit testing and object design is studied here as a specific part of Object-Oriented Programming. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Computing systems transform data through algorithms, software, and hardware. A rigorous explanation specifies the abstraction level, inputs, outputs, constraints, and failure conditions. Performance must be considered alongside correctness, maintainability, security, and resource limits.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the problem and assumptions; represent the system or data; explain the mechanism step by step; analyse correctness and resource use; then discuss edge cases and trade-offs. Distinguish an implementation detail from a property guaranteed by the model.",
+            "Apply that method directly to “Unit testing and object design”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Object-Oriented Programming; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A hash table can provide expected constant-time lookup when a suitable hash function distributes keys well and collisions are managed. This is an expected-case statement, not a guarantee that every lookup takes exactly the same time; worst-case behaviour depends on collision patterns and implementation.",
+            "Now adapt the example to the topic “Unit testing and object design”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Unit testing and object design include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Abstraction",
+          "definition": "Emphasising relevant properties while hiding irrelevant detail."
+        },
+        {
+          "term": "Invariant",
+          "definition": "A condition that must remain true at defined points in an algorithm or system."
+        },
+        {
+          "term": "Trade-off",
+          "definition": "A design choice that improves one criterion while potentially worsening another."
+        },
+        {
+          "term": "Unit testing and object design",
+          "definition": "The specific concept or method examined in this topic within Object-Oriented Programming; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Unit testing and object design",
+          "steps": [
+            "For “Unit testing and object design”, begin by identifying the system inputs, outputs, assumptions, and failure cases. Trace one small case manually, then test a boundary case. For example, if an operation is expected to process n records, test n=0, n=1, duplicate values, and malformed input; document which behaviour is intended.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "cs-oop-201-unit-testing-and-object-design-q1",
+          "type": "mcq",
+          "prompt": "When applying Unit testing and object design, which practice most directly improves the reliability of the result?",
+          "options": [
+            "State assumptions and test normal, boundary, and failure cases",
+            "Assume the first run proves correctness",
+            "Ignore inputs that are not typical",
+            "Measure only the visual appearance"
+          ],
+          "answerIndex": 0,
+          "explanation": "Systematic assumptions and boundary tests expose failures that a single normal case may miss."
+        },
+        {
+          "id": "cs-oop-201-unit-testing-and-object-design-q2",
+          "type": "short-answer",
+          "prompt": "Explain Unit testing and object design in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Unit testing and object design accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "cs-oop-201-unit-testing-and-object-design-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Unit testing and object design. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ]
+}

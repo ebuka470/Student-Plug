@@ -1,0 +1,545 @@
+{
+  "courseId": "acc-cost-201",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "200-level undergraduate learning depth",
+  "topics": [
+    {
+      "id": "cost-classification-and-behaviour",
+      "title": "Cost classification and behaviour",
+      "description": "Cost classification and behaviour: a structured set of explanations, method, worked application, and critical checks for Cost and Management Accounting.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Cost classification and behaviour accurately.",
+        "Apply the central ideas in Cost classification and behaviour to a structured course problem.",
+        "Check a solution to Cost classification and behaviour for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Cost classification and behaviour in Cost and Management Accounting",
+          "paragraphs": [
+            "Cost classification and behaviour is studied here as a specific part of Cost and Management Accounting. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Accounting records and communicates financial effects of transactions. The accounting equation is Assets = Liabilities + Equity. Double-entry recording means each transaction affects at least two accounts so total debits equal total credits; this arithmetic equality does not, by itself, prove that every transaction is correct or complete.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the transaction, accounts affected, account classification, increase or decrease, and debit/credit treatment. Post entries to the ledger, balance accounts, prepare a trial balance, and then consider adjustments before producing financial statements.",
+            "Apply that method directly to “Cost classification and behaviour”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Cost and Management Accounting; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If a business owner contributes ₦100,000 cash, cash (an asset) increases by ₦100,000 and owner’s capital (equity) increases by ₦100,000. The equation remains balanced: assets rise by the same amount as equity.",
+            "Now adapt the example to the topic “Cost classification and behaviour”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Cost classification and behaviour include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Asset",
+          "definition": "A resource controlled by an entity as a result of past events."
+        },
+        {
+          "term": "Liability",
+          "definition": "A present obligation arising from past events."
+        },
+        {
+          "term": "Accrual basis",
+          "definition": "Recognising transactions when the relevant economic events occur, rather than only when cash moves."
+        },
+        {
+          "term": "Cost classification and behaviour",
+          "definition": "The specific concept or method examined in this topic within Cost and Management Accounting; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Cost classification and behaviour",
+          "steps": [
+            "In an accounting case about “Cost classification and behaviour”, identify the reporting period, the relevant accounts or disclosure, the applicable recognition/measurement principle, and the evidence supporting the treatment. Then explain the effect on profit, assets, liabilities, equity, or cash flow as appropriate.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "acc-cost-201-cost-classification-and-behaviour-q1",
+          "type": "mcq",
+          "prompt": "Which approach is strongest when answering a question on Cost classification and behaviour?",
+          "options": [
+            "Identify the relevant accounting treatment, support it with facts, and explain the financial-statement effect",
+            "Choose a treatment solely because it improves profit",
+            "Ignore the reporting period",
+            "Record every transaction as cash revenue"
+          ],
+          "answerIndex": 0,
+          "explanation": "Accounting treatments should follow the applicable principles and evidence, not the desired result."
+        },
+        {
+          "id": "acc-cost-201-cost-classification-and-behaviour-q2",
+          "type": "short-answer",
+          "prompt": "Explain Cost classification and behaviour in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Cost classification and behaviour accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "acc-cost-201-cost-classification-and-behaviour-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Cost classification and behaviour. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "job-and-process-costing",
+      "title": "Job and process costing",
+      "description": "Job and process costing: a structured set of explanations, method, worked application, and critical checks for Cost and Management Accounting.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Job and process costing accurately.",
+        "Apply the central ideas in Job and process costing to a structured course problem.",
+        "Check a solution to Job and process costing for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Job and process costing in Cost and Management Accounting",
+          "paragraphs": [
+            "Job and process costing is studied here as a specific part of Cost and Management Accounting. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Accounting records and communicates financial effects of transactions. The accounting equation is Assets = Liabilities + Equity. Double-entry recording means each transaction affects at least two accounts so total debits equal total credits; this arithmetic equality does not, by itself, prove that every transaction is correct or complete.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the transaction, accounts affected, account classification, increase or decrease, and debit/credit treatment. Post entries to the ledger, balance accounts, prepare a trial balance, and then consider adjustments before producing financial statements.",
+            "Apply that method directly to “Job and process costing”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Cost and Management Accounting; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If a business owner contributes ₦100,000 cash, cash (an asset) increases by ₦100,000 and owner’s capital (equity) increases by ₦100,000. The equation remains balanced: assets rise by the same amount as equity.",
+            "Now adapt the example to the topic “Job and process costing”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Job and process costing include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Asset",
+          "definition": "A resource controlled by an entity as a result of past events."
+        },
+        {
+          "term": "Liability",
+          "definition": "A present obligation arising from past events."
+        },
+        {
+          "term": "Accrual basis",
+          "definition": "Recognising transactions when the relevant economic events occur, rather than only when cash moves."
+        },
+        {
+          "term": "Job and process costing",
+          "definition": "The specific concept or method examined in this topic within Cost and Management Accounting; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Job and process costing",
+          "steps": [
+            "In an accounting case about “Job and process costing”, identify the reporting period, the relevant accounts or disclosure, the applicable recognition/measurement principle, and the evidence supporting the treatment. Then explain the effect on profit, assets, liabilities, equity, or cash flow as appropriate.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "acc-cost-201-job-and-process-costing-q1",
+          "type": "mcq",
+          "prompt": "Which approach is strongest when answering a question on Job and process costing?",
+          "options": [
+            "Identify the relevant accounting treatment, support it with facts, and explain the financial-statement effect",
+            "Choose a treatment solely because it improves profit",
+            "Ignore the reporting period",
+            "Record every transaction as cash revenue"
+          ],
+          "answerIndex": 0,
+          "explanation": "Accounting treatments should follow the applicable principles and evidence, not the desired result."
+        },
+        {
+          "id": "acc-cost-201-job-and-process-costing-q2",
+          "type": "short-answer",
+          "prompt": "Explain Job and process costing in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Job and process costing accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "acc-cost-201-job-and-process-costing-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Job and process costing. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "cost-volume-profit-analysis",
+      "title": "Cost-volume-profit analysis",
+      "description": "Cost-volume-profit analysis: a structured set of explanations, method, worked application, and critical checks for Cost and Management Accounting.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Cost-volume-profit analysis accurately.",
+        "Apply the central ideas in Cost-volume-profit analysis to a structured course problem.",
+        "Check a solution to Cost-volume-profit analysis for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Cost-volume-profit analysis in Cost and Management Accounting",
+          "paragraphs": [
+            "Cost-volume-profit analysis is studied here as a specific part of Cost and Management Accounting. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Accounting records and communicates financial effects of transactions. The accounting equation is Assets = Liabilities + Equity. Double-entry recording means each transaction affects at least two accounts so total debits equal total credits; this arithmetic equality does not, by itself, prove that every transaction is correct or complete.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the transaction, accounts affected, account classification, increase or decrease, and debit/credit treatment. Post entries to the ledger, balance accounts, prepare a trial balance, and then consider adjustments before producing financial statements.",
+            "Apply that method directly to “Cost-volume-profit analysis”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Cost and Management Accounting; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If a business owner contributes ₦100,000 cash, cash (an asset) increases by ₦100,000 and owner’s capital (equity) increases by ₦100,000. The equation remains balanced: assets rise by the same amount as equity.",
+            "Now adapt the example to the topic “Cost-volume-profit analysis”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Cost-volume-profit analysis include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Asset",
+          "definition": "A resource controlled by an entity as a result of past events."
+        },
+        {
+          "term": "Liability",
+          "definition": "A present obligation arising from past events."
+        },
+        {
+          "term": "Accrual basis",
+          "definition": "Recognising transactions when the relevant economic events occur, rather than only when cash moves."
+        },
+        {
+          "term": "Cost-volume-profit analysis",
+          "definition": "The specific concept or method examined in this topic within Cost and Management Accounting; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Cost-volume-profit analysis",
+          "steps": [
+            "Cost-volume-profit analysis models the relationship among selling price, variable cost, fixed cost, volume, and profit. Contribution per unit equals selling price minus variable cost per unit. Break-even units equal fixed costs divided by contribution per unit, assuming constant prices/cost behaviour and a relevant range.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "acc-cost-201-cost-volume-profit-analysis-q1",
+          "type": "mcq",
+          "prompt": "A product sells for ₦5,000 and has variable cost ₦3,000 per unit. What is its contribution per unit?",
+          "options": [
+            "₦2,000",
+            "₦3,000",
+            "₦5,000",
+            "₦8,000"
+          ],
+          "answerIndex": 0,
+          "explanation": "Contribution per unit is selling price minus variable cost: ₦5,000−₦3,000=₦2,000."
+        },
+        {
+          "id": "acc-cost-201-cost-volume-profit-analysis-q2",
+          "type": "short-answer",
+          "prompt": "Explain Cost-volume-profit analysis in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Cost-volume-profit analysis accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "acc-cost-201-cost-volume-profit-analysis-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Cost-volume-profit analysis. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "budget-preparation-and-variance",
+      "title": "Budget preparation and variance",
+      "description": "Budget preparation and variance: a structured set of explanations, method, worked application, and critical checks for Cost and Management Accounting.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Budget preparation and variance accurately.",
+        "Apply the central ideas in Budget preparation and variance to a structured course problem.",
+        "Check a solution to Budget preparation and variance for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Budget preparation and variance in Cost and Management Accounting",
+          "paragraphs": [
+            "Budget preparation and variance is studied here as a specific part of Cost and Management Accounting. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Accounting records and communicates financial effects of transactions. The accounting equation is Assets = Liabilities + Equity. Double-entry recording means each transaction affects at least two accounts so total debits equal total credits; this arithmetic equality does not, by itself, prove that every transaction is correct or complete.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the transaction, accounts affected, account classification, increase or decrease, and debit/credit treatment. Post entries to the ledger, balance accounts, prepare a trial balance, and then consider adjustments before producing financial statements.",
+            "Apply that method directly to “Budget preparation and variance”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Cost and Management Accounting; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If a business owner contributes ₦100,000 cash, cash (an asset) increases by ₦100,000 and owner’s capital (equity) increases by ₦100,000. The equation remains balanced: assets rise by the same amount as equity.",
+            "Now adapt the example to the topic “Budget preparation and variance”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Budget preparation and variance include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Asset",
+          "definition": "A resource controlled by an entity as a result of past events."
+        },
+        {
+          "term": "Liability",
+          "definition": "A present obligation arising from past events."
+        },
+        {
+          "term": "Accrual basis",
+          "definition": "Recognising transactions when the relevant economic events occur, rather than only when cash moves."
+        },
+        {
+          "term": "Budget preparation and variance",
+          "definition": "The specific concept or method examined in this topic within Cost and Management Accounting; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Budget preparation and variance",
+          "steps": [
+            "A budget is a quantified plan for a defined period. A variance is the difference between a recorded outcome and a budget or standard; whether it is favourable depends on the item and its effect on profit or objectives. Variance analysis should investigate causes, controllability, and whether the original budget assumptions remain relevant.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "acc-cost-201-budget-preparation-and-variance-q1",
+          "type": "mcq",
+          "prompt": "Why should a favourable cost variance still be investigated?",
+          "options": [
+            "It may result from lower quality, delayed activity, or an unrealistic budget",
+            "Favourable always means every objective was achieved",
+            "It proves fraud occurred",
+            "It removes the need for future budgets"
+          ],
+          "answerIndex": 0,
+          "explanation": "A numerical variance needs context; underspending may reflect efficiency or failure to deliver planned work."
+        },
+        {
+          "id": "acc-cost-201-budget-preparation-and-variance-q2",
+          "type": "short-answer",
+          "prompt": "Explain Budget preparation and variance in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Budget preparation and variance accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "acc-cost-201-budget-preparation-and-variance-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Budget preparation and variance. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "relevant-costs-for-decisions",
+      "title": "Relevant costs for decisions",
+      "description": "Relevant costs for decisions: a structured set of explanations, method, worked application, and critical checks for Cost and Management Accounting.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Relevant costs for decisions accurately.",
+        "Apply the central ideas in Relevant costs for decisions to a structured course problem.",
+        "Check a solution to Relevant costs for decisions for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Relevant costs for decisions in Cost and Management Accounting",
+          "paragraphs": [
+            "Relevant costs for decisions is studied here as a specific part of Cost and Management Accounting. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Accounting records and communicates financial effects of transactions. The accounting equation is Assets = Liabilities + Equity. Double-entry recording means each transaction affects at least two accounts so total debits equal total credits; this arithmetic equality does not, by itself, prove that every transaction is correct or complete.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the transaction, accounts affected, account classification, increase or decrease, and debit/credit treatment. Post entries to the ledger, balance accounts, prepare a trial balance, and then consider adjustments before producing financial statements.",
+            "Apply that method directly to “Relevant costs for decisions”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Cost and Management Accounting; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If a business owner contributes ₦100,000 cash, cash (an asset) increases by ₦100,000 and owner’s capital (equity) increases by ₦100,000. The equation remains balanced: assets rise by the same amount as equity.",
+            "Now adapt the example to the topic “Relevant costs for decisions”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Relevant costs for decisions include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Asset",
+          "definition": "A resource controlled by an entity as a result of past events."
+        },
+        {
+          "term": "Liability",
+          "definition": "A present obligation arising from past events."
+        },
+        {
+          "term": "Accrual basis",
+          "definition": "Recognising transactions when the relevant economic events occur, rather than only when cash moves."
+        },
+        {
+          "term": "Relevant costs for decisions",
+          "definition": "The specific concept or method examined in this topic within Cost and Management Accounting; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Relevant costs for decisions",
+          "steps": [
+            "In an accounting case about “Relevant costs for decisions”, identify the reporting period, the relevant accounts or disclosure, the applicable recognition/measurement principle, and the evidence supporting the treatment. Then explain the effect on profit, assets, liabilities, equity, or cash flow as appropriate.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "acc-cost-201-relevant-costs-for-decisions-q1",
+          "type": "mcq",
+          "prompt": "Which approach is strongest when answering a question on Relevant costs for decisions?",
+          "options": [
+            "Identify the relevant accounting treatment, support it with facts, and explain the financial-statement effect",
+            "Choose a treatment solely because it improves profit",
+            "Ignore the reporting period",
+            "Record every transaction as cash revenue"
+          ],
+          "answerIndex": 0,
+          "explanation": "Accounting treatments should follow the applicable principles and evidence, not the desired result."
+        },
+        {
+          "id": "acc-cost-201-relevant-costs-for-decisions-q2",
+          "type": "short-answer",
+          "prompt": "Explain Relevant costs for decisions in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Relevant costs for decisions accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "acc-cost-201-relevant-costs-for-decisions-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Relevant costs for decisions. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ],
+  "contentNotice": "Original instructional draft. Course title/code is illustrative and must be checked against the student’s current departmental course outline. Not an authentic past paper.",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "All questions in this lesson are original practice questions unless a separate verified source record explicitly says otherwise."
+  }
+}

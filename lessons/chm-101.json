@@ -1,0 +1,332 @@
+{
+  "courseId": "chm-101",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "topics": [
+    {
+      "id": "atomic-structure",
+      "title": "Atomic structure",
+      "description": "Atomic structure: a structured set of explanations, method, worked application, and critical checks for General Chemistry I.",
+      "estimatedMinutes": 20,
+      "difficulty": "introductory",
+      "learningObjectives": [
+        "Define and explain Atomic structure accurately.",
+        "Apply the central ideas in Atomic structure to a structured course problem.",
+        "Check a solution to Atomic structure for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Atomic structure in General Chemistry I",
+          "paragraphs": [
+            "Atomic structure is studied here as a specific part of General Chemistry I. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Chemical equations represent conservation of atoms and, for ionic equations, charge. The mole links a microscopic count of entities to measurable quantities. Identify the chemical species and balanced equation before calculating; coefficients provide mole ratios, not mass ratios.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At introductory level, establish accurate definitions first, then explain the relationship between concepts and practise a worked example. Be able to explain the idea in your own words rather than memorising a phrase."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Convert given mass to moles using n=m/M, use the balanced equation to apply the stoichiometric ratio, then convert to the requested unit. Record significant figures consistently and check limiting-reagent assumptions.",
+            "Apply that method directly to “Atomic structure”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of General Chemistry I; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For 2H₂ + O₂ → 2H₂O, two moles of hydrogen react with one mole of oxygen to form two moles of water, assuming sufficient oxygen and complete reaction. The coefficients are the required mole ratio; equal coefficients do not imply equal masses.",
+            "Now adapt the example to the topic “Atomic structure”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Atomic structure include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Mole",
+          "definition": "Amount containing approximately 6.022×10²³ specified entities."
+        },
+        {
+          "term": "Molar mass",
+          "definition": "Mass of one mole of a substance, commonly expressed in g mol⁻¹."
+        },
+        {
+          "term": "Stoichiometry",
+          "definition": "Quantitative relationships among reactants and products in a balanced reaction."
+        },
+        {
+          "term": "Atomic structure",
+          "definition": "The specific concept or method examined in this topic within General Chemistry I; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Atomic structure",
+          "steps": [
+            "For “Atomic structure”, write the relevant species and balanced relationship first, define symbols and units, then apply the appropriate chemical rule. Show conversions and intermediate steps; check atom/charge conservation and significant figures where applicable.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "chm-101-atomic-structure-q1",
+          "type": "mcq",
+          "prompt": "Which check is essential when solving a chemistry problem involving Atomic structure?",
+          "options": [
+            "Check the balanced relationship, units, and conservation constraints",
+            "Use coefficients as mass ratios without conversion",
+            "Round every intermediate value immediately",
+            "Ignore chemical species and states"
+          ],
+          "answerIndex": 0,
+          "explanation": "Balanced equations and consistent units are prerequisites for reliable quantitative work."
+        },
+        {
+          "id": "chm-101-atomic-structure-q2",
+          "type": "short-answer",
+          "prompt": "Explain Atomic structure in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Atomic structure accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "chm-101-atomic-structure-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Atomic structure. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "chemical-bonding",
+      "title": "Chemical bonding",
+      "description": "Chemical bonding: a structured set of explanations, method, worked application, and critical checks for General Chemistry I.",
+      "estimatedMinutes": 20,
+      "difficulty": "introductory",
+      "learningObjectives": [
+        "Define and explain Chemical bonding accurately.",
+        "Apply the central ideas in Chemical bonding to a structured course problem.",
+        "Check a solution to Chemical bonding for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Chemical bonding in General Chemistry I",
+          "paragraphs": [
+            "Chemical bonding is studied here as a specific part of General Chemistry I. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Chemical equations represent conservation of atoms and, for ionic equations, charge. The mole links a microscopic count of entities to measurable quantities. Identify the chemical species and balanced equation before calculating; coefficients provide mole ratios, not mass ratios.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At introductory level, establish accurate definitions first, then explain the relationship between concepts and practise a worked example. Be able to explain the idea in your own words rather than memorising a phrase."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Convert given mass to moles using n=m/M, use the balanced equation to apply the stoichiometric ratio, then convert to the requested unit. Record significant figures consistently and check limiting-reagent assumptions.",
+            "Apply that method directly to “Chemical bonding”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of General Chemistry I; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For 2H₂ + O₂ → 2H₂O, two moles of hydrogen react with one mole of oxygen to form two moles of water, assuming sufficient oxygen and complete reaction. The coefficients are the required mole ratio; equal coefficients do not imply equal masses.",
+            "Now adapt the example to the topic “Chemical bonding”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Chemical bonding include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Mole",
+          "definition": "Amount containing approximately 6.022×10²³ specified entities."
+        },
+        {
+          "term": "Molar mass",
+          "definition": "Mass of one mole of a substance, commonly expressed in g mol⁻¹."
+        },
+        {
+          "term": "Stoichiometry",
+          "definition": "Quantitative relationships among reactants and products in a balanced reaction."
+        },
+        {
+          "term": "Chemical bonding",
+          "definition": "The specific concept or method examined in this topic within General Chemistry I; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Chemical bonding",
+          "steps": [
+            "For “Chemical bonding”, write the relevant species and balanced relationship first, define symbols and units, then apply the appropriate chemical rule. Show conversions and intermediate steps; check atom/charge conservation and significant figures where applicable.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "chm-101-chemical-bonding-q1",
+          "type": "mcq",
+          "prompt": "Which check is essential when solving a chemistry problem involving Chemical bonding?",
+          "options": [
+            "Check the balanced relationship, units, and conservation constraints",
+            "Use coefficients as mass ratios without conversion",
+            "Round every intermediate value immediately",
+            "Ignore chemical species and states"
+          ],
+          "answerIndex": 0,
+          "explanation": "Balanced equations and consistent units are prerequisites for reliable quantitative work."
+        },
+        {
+          "id": "chm-101-chemical-bonding-q2",
+          "type": "short-answer",
+          "prompt": "Explain Chemical bonding in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Chemical bonding accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "chm-101-chemical-bonding-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Chemical bonding. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "the-mole-and-chemical-quantities",
+      "title": "The mole and chemical quantities",
+      "description": "The mole and chemical quantities: a structured set of explanations, method, worked application, and critical checks for General Chemistry I.",
+      "estimatedMinutes": 20,
+      "difficulty": "introductory",
+      "learningObjectives": [
+        "Define and explain The mole and chemical quantities accurately.",
+        "Apply the central ideas in The mole and chemical quantities to a structured course problem.",
+        "Check a solution to The mole and chemical quantities for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "The mole and chemical quantities in General Chemistry I",
+          "paragraphs": [
+            "The mole and chemical quantities is studied here as a specific part of General Chemistry I. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Chemical equations represent conservation of atoms and, for ionic equations, charge. The mole links a microscopic count of entities to measurable quantities. Identify the chemical species and balanced equation before calculating; coefficients provide mole ratios, not mass ratios.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At introductory level, establish accurate definitions first, then explain the relationship between concepts and practise a worked example. Be able to explain the idea in your own words rather than memorising a phrase."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Convert given mass to moles using n=m/M, use the balanced equation to apply the stoichiometric ratio, then convert to the requested unit. Record significant figures consistently and check limiting-reagent assumptions.",
+            "Apply that method directly to “The mole and chemical quantities”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of General Chemistry I; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For 2H₂ + O₂ → 2H₂O, two moles of hydrogen react with one mole of oxygen to form two moles of water, assuming sufficient oxygen and complete reaction. The coefficients are the required mole ratio; equal coefficients do not imply equal masses.",
+            "Now adapt the example to the topic “The mole and chemical quantities”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying The mole and chemical quantities include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Mole",
+          "definition": "Amount containing approximately 6.022×10²³ specified entities."
+        },
+        {
+          "term": "Molar mass",
+          "definition": "Mass of one mole of a substance, commonly expressed in g mol⁻¹."
+        },
+        {
+          "term": "Stoichiometry",
+          "definition": "Quantitative relationships among reactants and products in a balanced reaction."
+        },
+        {
+          "term": "The mole and chemical quantities",
+          "definition": "The specific concept or method examined in this topic within General Chemistry I; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: The mole and chemical quantities",
+          "steps": [
+            "For “The mole and chemical quantities”, write the relevant species and balanced relationship first, define symbols and units, then apply the appropriate chemical rule. Show conversions and intermediate steps; check atom/charge conservation and significant figures where applicable.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "chm-101-the-mole-and-chemical-quantities-q1",
+          "type": "mcq",
+          "prompt": "Which check is essential when solving a chemistry problem involving The mole and chemical quantities?",
+          "options": [
+            "Check the balanced relationship, units, and conservation constraints",
+            "Use coefficients as mass ratios without conversion",
+            "Round every intermediate value immediately",
+            "Ignore chemical species and states"
+          ],
+          "answerIndex": 0,
+          "explanation": "Balanced equations and consistent units are prerequisites for reliable quantitative work."
+        },
+        {
+          "id": "chm-101-the-mole-and-chemical-quantities-q2",
+          "type": "short-answer",
+          "prompt": "Explain The mole and chemical quantities in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines The mole and chemical quantities accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "chm-101-the-mole-and-chemical-quantities-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about The mole and chemical quantities. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ],
+  "levelFit": "100-level undergraduate learning depth",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "All questions in this lesson are original practice questions unless a separate verified source record explicitly says otherwise."
+  }
+}

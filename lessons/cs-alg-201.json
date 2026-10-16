@@ -1,0 +1,545 @@
+{
+  "courseId": "cs-alg-201",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "200-level undergraduate learning depth",
+  "topics": [
+    {
+      "id": "algorithm-analysis",
+      "title": "Algorithm analysis",
+      "description": "Algorithm analysis: a structured set of explanations, method, worked application, and critical checks for Data Structures and Algorithms.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Algorithm analysis accurately.",
+        "Apply the central ideas in Algorithm analysis to a structured course problem.",
+        "Check a solution to Algorithm analysis for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Algorithm analysis in Data Structures and Algorithms",
+          "paragraphs": [
+            "Algorithm analysis is studied here as a specific part of Data Structures and Algorithms. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Computing systems transform data through algorithms, software, and hardware. A rigorous explanation specifies the abstraction level, inputs, outputs, constraints, and failure conditions. Performance must be considered alongside correctness, maintainability, security, and resource limits.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the problem and assumptions; represent the system or data; explain the mechanism step by step; analyse correctness and resource use; then discuss edge cases and trade-offs. Distinguish an implementation detail from a property guaranteed by the model.",
+            "Apply that method directly to “Algorithm analysis”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Data Structures and Algorithms; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A hash table can provide expected constant-time lookup when a suitable hash function distributes keys well and collisions are managed. This is an expected-case statement, not a guarantee that every lookup takes exactly the same time; worst-case behaviour depends on collision patterns and implementation.",
+            "Now adapt the example to the topic “Algorithm analysis”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Algorithm analysis include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Abstraction",
+          "definition": "Emphasising relevant properties while hiding irrelevant detail."
+        },
+        {
+          "term": "Invariant",
+          "definition": "A condition that must remain true at defined points in an algorithm or system."
+        },
+        {
+          "term": "Trade-off",
+          "definition": "A design choice that improves one criterion while potentially worsening another."
+        },
+        {
+          "term": "Algorithm analysis",
+          "definition": "The specific concept or method examined in this topic within Data Structures and Algorithms; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Algorithm analysis",
+          "steps": [
+            "Asymptotic analysis describes how resource use grows with input size, abstracting away machine-specific constants. Big-O is an upper-bound notation; it is not automatically the exact running time. Analyse the dominant operation, state the case being measured, and account for nested loops, recursion, and auxiliary memory.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "cs-alg-201-algorithm-analysis-q1",
+          "type": "mcq",
+          "prompt": "If an algorithm examines every pair in a list of n items using two full nested loops, what is the usual time order?",
+          "options": [
+            "O(n²)",
+            "O(log n)",
+            "O(1)",
+            "O(n log log n)"
+          ],
+          "answerIndex": 0,
+          "explanation": "Two nested loops each scaling with n generally produce a quadratic number of iterations."
+        },
+        {
+          "id": "cs-alg-201-algorithm-analysis-q2",
+          "type": "short-answer",
+          "prompt": "Explain Algorithm analysis in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Algorithm analysis accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "cs-alg-201-algorithm-analysis-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Algorithm analysis. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "arrays-linked-lists-and-stacks",
+      "title": "Arrays, linked lists and stacks",
+      "description": "Arrays, linked lists and stacks: a structured set of explanations, method, worked application, and critical checks for Data Structures and Algorithms.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Arrays, linked lists and stacks accurately.",
+        "Apply the central ideas in Arrays, linked lists and stacks to a structured course problem.",
+        "Check a solution to Arrays, linked lists and stacks for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Arrays, linked lists and stacks in Data Structures and Algorithms",
+          "paragraphs": [
+            "Arrays, linked lists and stacks is studied here as a specific part of Data Structures and Algorithms. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Computing systems transform data through algorithms, software, and hardware. A rigorous explanation specifies the abstraction level, inputs, outputs, constraints, and failure conditions. Performance must be considered alongside correctness, maintainability, security, and resource limits.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the problem and assumptions; represent the system or data; explain the mechanism step by step; analyse correctness and resource use; then discuss edge cases and trade-offs. Distinguish an implementation detail from a property guaranteed by the model.",
+            "Apply that method directly to “Arrays, linked lists and stacks”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Data Structures and Algorithms; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A hash table can provide expected constant-time lookup when a suitable hash function distributes keys well and collisions are managed. This is an expected-case statement, not a guarantee that every lookup takes exactly the same time; worst-case behaviour depends on collision patterns and implementation.",
+            "Now adapt the example to the topic “Arrays, linked lists and stacks”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Arrays, linked lists and stacks include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Abstraction",
+          "definition": "Emphasising relevant properties while hiding irrelevant detail."
+        },
+        {
+          "term": "Invariant",
+          "definition": "A condition that must remain true at defined points in an algorithm or system."
+        },
+        {
+          "term": "Trade-off",
+          "definition": "A design choice that improves one criterion while potentially worsening another."
+        },
+        {
+          "term": "Arrays, linked lists and stacks",
+          "definition": "The specific concept or method examined in this topic within Data Structures and Algorithms; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Arrays, linked lists and stacks",
+          "steps": [
+            "For “Arrays, linked lists and stacks”, begin by identifying the system inputs, outputs, assumptions, and failure cases. Trace one small case manually, then test a boundary case. For example, if an operation is expected to process n records, test n=0, n=1, duplicate values, and malformed input; document which behaviour is intended.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "cs-alg-201-arrays-linked-lists-and-stacks-q1",
+          "type": "mcq",
+          "prompt": "When applying Arrays, linked lists and stacks, which practice most directly improves the reliability of the result?",
+          "options": [
+            "State assumptions and test normal, boundary, and failure cases",
+            "Assume the first run proves correctness",
+            "Ignore inputs that are not typical",
+            "Measure only the visual appearance"
+          ],
+          "answerIndex": 0,
+          "explanation": "Systematic assumptions and boundary tests expose failures that a single normal case may miss."
+        },
+        {
+          "id": "cs-alg-201-arrays-linked-lists-and-stacks-q2",
+          "type": "short-answer",
+          "prompt": "Explain Arrays, linked lists and stacks in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Arrays, linked lists and stacks accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "cs-alg-201-arrays-linked-lists-and-stacks-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Arrays, linked lists and stacks. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "trees-and-hash-tables",
+      "title": "Trees and hash tables",
+      "description": "Trees and hash tables: a structured set of explanations, method, worked application, and critical checks for Data Structures and Algorithms.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Trees and hash tables accurately.",
+        "Apply the central ideas in Trees and hash tables to a structured course problem.",
+        "Check a solution to Trees and hash tables for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Trees and hash tables in Data Structures and Algorithms",
+          "paragraphs": [
+            "Trees and hash tables is studied here as a specific part of Data Structures and Algorithms. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Computing systems transform data through algorithms, software, and hardware. A rigorous explanation specifies the abstraction level, inputs, outputs, constraints, and failure conditions. Performance must be considered alongside correctness, maintainability, security, and resource limits.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the problem and assumptions; represent the system or data; explain the mechanism step by step; analyse correctness and resource use; then discuss edge cases and trade-offs. Distinguish an implementation detail from a property guaranteed by the model.",
+            "Apply that method directly to “Trees and hash tables”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Data Structures and Algorithms; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A hash table can provide expected constant-time lookup when a suitable hash function distributes keys well and collisions are managed. This is an expected-case statement, not a guarantee that every lookup takes exactly the same time; worst-case behaviour depends on collision patterns and implementation.",
+            "Now adapt the example to the topic “Trees and hash tables”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Trees and hash tables include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Abstraction",
+          "definition": "Emphasising relevant properties while hiding irrelevant detail."
+        },
+        {
+          "term": "Invariant",
+          "definition": "A condition that must remain true at defined points in an algorithm or system."
+        },
+        {
+          "term": "Trade-off",
+          "definition": "A design choice that improves one criterion while potentially worsening another."
+        },
+        {
+          "term": "Trees and hash tables",
+          "definition": "The specific concept or method examined in this topic within Data Structures and Algorithms; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Trees and hash tables",
+          "steps": [
+            "For “Trees and hash tables”, begin by identifying the system inputs, outputs, assumptions, and failure cases. Trace one small case manually, then test a boundary case. For example, if an operation is expected to process n records, test n=0, n=1, duplicate values, and malformed input; document which behaviour is intended.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "cs-alg-201-trees-and-hash-tables-q1",
+          "type": "mcq",
+          "prompt": "When applying Trees and hash tables, which practice most directly improves the reliability of the result?",
+          "options": [
+            "State assumptions and test normal, boundary, and failure cases",
+            "Assume the first run proves correctness",
+            "Ignore inputs that are not typical",
+            "Measure only the visual appearance"
+          ],
+          "answerIndex": 0,
+          "explanation": "Systematic assumptions and boundary tests expose failures that a single normal case may miss."
+        },
+        {
+          "id": "cs-alg-201-trees-and-hash-tables-q2",
+          "type": "short-answer",
+          "prompt": "Explain Trees and hash tables in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Trees and hash tables accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "cs-alg-201-trees-and-hash-tables-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Trees and hash tables. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "graph-traversal-and-shortest-paths",
+      "title": "Graph traversal and shortest paths",
+      "description": "Graph traversal and shortest paths: a structured set of explanations, method, worked application, and critical checks for Data Structures and Algorithms.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Graph traversal and shortest paths accurately.",
+        "Apply the central ideas in Graph traversal and shortest paths to a structured course problem.",
+        "Check a solution to Graph traversal and shortest paths for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Graph traversal and shortest paths in Data Structures and Algorithms",
+          "paragraphs": [
+            "Graph traversal and shortest paths is studied here as a specific part of Data Structures and Algorithms. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Computing systems transform data through algorithms, software, and hardware. A rigorous explanation specifies the abstraction level, inputs, outputs, constraints, and failure conditions. Performance must be considered alongside correctness, maintainability, security, and resource limits.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the problem and assumptions; represent the system or data; explain the mechanism step by step; analyse correctness and resource use; then discuss edge cases and trade-offs. Distinguish an implementation detail from a property guaranteed by the model.",
+            "Apply that method directly to “Graph traversal and shortest paths”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Data Structures and Algorithms; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A hash table can provide expected constant-time lookup when a suitable hash function distributes keys well and collisions are managed. This is an expected-case statement, not a guarantee that every lookup takes exactly the same time; worst-case behaviour depends on collision patterns and implementation.",
+            "Now adapt the example to the topic “Graph traversal and shortest paths”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Graph traversal and shortest paths include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Abstraction",
+          "definition": "Emphasising relevant properties while hiding irrelevant detail."
+        },
+        {
+          "term": "Invariant",
+          "definition": "A condition that must remain true at defined points in an algorithm or system."
+        },
+        {
+          "term": "Trade-off",
+          "definition": "A design choice that improves one criterion while potentially worsening another."
+        },
+        {
+          "term": "Graph traversal and shortest paths",
+          "definition": "The specific concept or method examined in this topic within Data Structures and Algorithms; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Graph traversal and shortest paths",
+          "steps": [
+            "For “Graph traversal and shortest paths”, begin by identifying the system inputs, outputs, assumptions, and failure cases. Trace one small case manually, then test a boundary case. For example, if an operation is expected to process n records, test n=0, n=1, duplicate values, and malformed input; document which behaviour is intended.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "cs-alg-201-graph-traversal-and-shortest-paths-q1",
+          "type": "mcq",
+          "prompt": "When applying Graph traversal and shortest paths, which practice most directly improves the reliability of the result?",
+          "options": [
+            "State assumptions and test normal, boundary, and failure cases",
+            "Assume the first run proves correctness",
+            "Ignore inputs that are not typical",
+            "Measure only the visual appearance"
+          ],
+          "answerIndex": 0,
+          "explanation": "Systematic assumptions and boundary tests expose failures that a single normal case may miss."
+        },
+        {
+          "id": "cs-alg-201-graph-traversal-and-shortest-paths-q2",
+          "type": "short-answer",
+          "prompt": "Explain Graph traversal and shortest paths in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Graph traversal and shortest paths accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "cs-alg-201-graph-traversal-and-shortest-paths-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Graph traversal and shortest paths. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "sorting-and-searching-trade-offs",
+      "title": "Sorting and searching trade-offs",
+      "description": "Sorting and searching trade-offs: a structured set of explanations, method, worked application, and critical checks for Data Structures and Algorithms.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Sorting and searching trade-offs accurately.",
+        "Apply the central ideas in Sorting and searching trade-offs to a structured course problem.",
+        "Check a solution to Sorting and searching trade-offs for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Sorting and searching trade-offs in Data Structures and Algorithms",
+          "paragraphs": [
+            "Sorting and searching trade-offs is studied here as a specific part of Data Structures and Algorithms. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Computing systems transform data through algorithms, software, and hardware. A rigorous explanation specifies the abstraction level, inputs, outputs, constraints, and failure conditions. Performance must be considered alongside correctness, maintainability, security, and resource limits.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the problem and assumptions; represent the system or data; explain the mechanism step by step; analyse correctness and resource use; then discuss edge cases and trade-offs. Distinguish an implementation detail from a property guaranteed by the model.",
+            "Apply that method directly to “Sorting and searching trade-offs”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Data Structures and Algorithms; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A hash table can provide expected constant-time lookup when a suitable hash function distributes keys well and collisions are managed. This is an expected-case statement, not a guarantee that every lookup takes exactly the same time; worst-case behaviour depends on collision patterns and implementation.",
+            "Now adapt the example to the topic “Sorting and searching trade-offs”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Sorting and searching trade-offs include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Abstraction",
+          "definition": "Emphasising relevant properties while hiding irrelevant detail."
+        },
+        {
+          "term": "Invariant",
+          "definition": "A condition that must remain true at defined points in an algorithm or system."
+        },
+        {
+          "term": "Trade-off",
+          "definition": "A design choice that improves one criterion while potentially worsening another."
+        },
+        {
+          "term": "Sorting and searching trade-offs",
+          "definition": "The specific concept or method examined in this topic within Data Structures and Algorithms; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Sorting and searching trade-offs",
+          "steps": [
+            "For “Sorting and searching trade-offs”, begin by identifying the system inputs, outputs, assumptions, and failure cases. Trace one small case manually, then test a boundary case. For example, if an operation is expected to process n records, test n=0, n=1, duplicate values, and malformed input; document which behaviour is intended.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "cs-alg-201-sorting-and-searching-trade-offs-q1",
+          "type": "mcq",
+          "prompt": "When applying Sorting and searching trade-offs, which practice most directly improves the reliability of the result?",
+          "options": [
+            "State assumptions and test normal, boundary, and failure cases",
+            "Assume the first run proves correctness",
+            "Ignore inputs that are not typical",
+            "Measure only the visual appearance"
+          ],
+          "answerIndex": 0,
+          "explanation": "Systematic assumptions and boundary tests expose failures that a single normal case may miss."
+        },
+        {
+          "id": "cs-alg-201-sorting-and-searching-trade-offs-q2",
+          "type": "short-answer",
+          "prompt": "Explain Sorting and searching trade-offs in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Sorting and searching trade-offs accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "cs-alg-201-sorting-and-searching-trade-offs-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Sorting and searching trade-offs. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ],
+  "contentNotice": "Original instructional draft. Course title/code is illustrative and must be checked against the student’s current departmental course outline. Not an authentic past paper.",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "All questions in this lesson are original practice questions unless a separate verified source record explicitly says otherwise."
+  }
+}

@@ -1,0 +1,545 @@
+{
+  "courseId": "soc-policy-401",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "400-level undergraduate learning depth",
+  "topics": [
+    {
+      "id": "policy-problem-framing",
+      "title": "Policy problem framing",
+      "description": "Policy problem framing: a structured set of explanations, method, worked application, and critical checks for Social Policy and Development.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Policy problem framing accurately.",
+        "Apply the central ideas in Policy problem framing to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Policy problem framing in Social Policy and Development",
+          "paragraphs": [
+            "Policy problem framing is studied here as a specific part of Social Policy and Development. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Economics studies choices under scarcity and how incentives shape allocation. Separate a movement along a curve, caused by a change in a variable already on an axis, from a shift of the entire curve caused by another determinant. State whether a claim is positive (testable) or normative (value-based).",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the market or decision-maker, state assumptions, identify the relevant curve or model, explain the causal chain, and evaluate short-run and long-run effects. Use a ceteris paribus statement when holding other influences constant.",
+            "Apply that method directly to “Policy problem framing”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Social Policy and Development; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If demand rises while supply is unchanged, the demand curve shifts right. At the old price there is excess demand, which creates upward pressure on price. The new equilibrium generally has a higher price and higher quantity, provided the usual upward-sloping supply and downward-sloping demand assumptions hold.",
+            "Now adapt the example to the topic “Policy problem framing”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Policy problem framing include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Opportunity cost",
+          "definition": "Value of the best alternative forgone."
+        },
+        {
+          "term": "Equilibrium",
+          "definition": "A point where opposing plans are mutually compatible under the model."
+        },
+        {
+          "term": "Elasticity",
+          "definition": "A proportional measure of responsiveness of one variable to another."
+        },
+        {
+          "term": "Policy problem framing",
+          "definition": "The specific concept or method examined in this topic within Social Policy and Development; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Policy problem framing",
+          "steps": [
+            "Apply “Policy problem framing” by defining the concept, selecting a level of analysis, identifying relevant institutions or actors, and using evidence from the case. Compare structural conditions with individual agency and consider at least one alternative explanation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "soc-policy-401-policy-problem-framing-q1",
+          "type": "mcq",
+          "prompt": "Which answer best applies Policy problem framing to a real social or political case?",
+          "options": [
+            "A defined concept linked to evidence, actors, context, and an alternative explanation",
+            "A personal opinion without supporting evidence",
+            "A universal claim based on one anecdote",
+            "A list of names without analysis"
+          ],
+          "answerIndex": 0,
+          "explanation": "Application requires concepts, evidence, context, and critical comparison."
+        },
+        {
+          "id": "soc-policy-401-policy-problem-framing-q2",
+          "type": "short-answer",
+          "prompt": "Explain Policy problem framing in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Policy problem framing accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "soc-policy-401-policy-problem-framing-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Policy problem framing. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "welfare-and-inequality",
+      "title": "Welfare and inequality",
+      "description": "Welfare and inequality: a structured set of explanations, method, worked application, and critical checks for Social Policy and Development.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Welfare and inequality accurately.",
+        "Apply the central ideas in Welfare and inequality to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Welfare and inequality in Social Policy and Development",
+          "paragraphs": [
+            "Welfare and inequality is studied here as a specific part of Social Policy and Development. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Economics studies choices under scarcity and how incentives shape allocation. Separate a movement along a curve, caused by a change in a variable already on an axis, from a shift of the entire curve caused by another determinant. State whether a claim is positive (testable) or normative (value-based).",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the market or decision-maker, state assumptions, identify the relevant curve or model, explain the causal chain, and evaluate short-run and long-run effects. Use a ceteris paribus statement when holding other influences constant.",
+            "Apply that method directly to “Welfare and inequality”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Social Policy and Development; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If demand rises while supply is unchanged, the demand curve shifts right. At the old price there is excess demand, which creates upward pressure on price. The new equilibrium generally has a higher price and higher quantity, provided the usual upward-sloping supply and downward-sloping demand assumptions hold.",
+            "Now adapt the example to the topic “Welfare and inequality”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Welfare and inequality include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Opportunity cost",
+          "definition": "Value of the best alternative forgone."
+        },
+        {
+          "term": "Equilibrium",
+          "definition": "A point where opposing plans are mutually compatible under the model."
+        },
+        {
+          "term": "Elasticity",
+          "definition": "A proportional measure of responsiveness of one variable to another."
+        },
+        {
+          "term": "Welfare and inequality",
+          "definition": "The specific concept or method examined in this topic within Social Policy and Development; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Welfare and inequality",
+          "steps": [
+            "Apply “Welfare and inequality” by defining the concept, selecting a level of analysis, identifying relevant institutions or actors, and using evidence from the case. Compare structural conditions with individual agency and consider at least one alternative explanation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "soc-policy-401-welfare-and-inequality-q1",
+          "type": "mcq",
+          "prompt": "Which answer best applies Welfare and inequality to a real social or political case?",
+          "options": [
+            "A defined concept linked to evidence, actors, context, and an alternative explanation",
+            "A personal opinion without supporting evidence",
+            "A universal claim based on one anecdote",
+            "A list of names without analysis"
+          ],
+          "answerIndex": 0,
+          "explanation": "Application requires concepts, evidence, context, and critical comparison."
+        },
+        {
+          "id": "soc-policy-401-welfare-and-inequality-q2",
+          "type": "short-answer",
+          "prompt": "Explain Welfare and inequality in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Welfare and inequality accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "soc-policy-401-welfare-and-inequality-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Welfare and inequality. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "policy-design-and-targeting",
+      "title": "Policy design and targeting",
+      "description": "Policy design and targeting: a structured set of explanations, method, worked application, and critical checks for Social Policy and Development.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Policy design and targeting accurately.",
+        "Apply the central ideas in Policy design and targeting to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Policy design and targeting in Social Policy and Development",
+          "paragraphs": [
+            "Policy design and targeting is studied here as a specific part of Social Policy and Development. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Economics studies choices under scarcity and how incentives shape allocation. Separate a movement along a curve, caused by a change in a variable already on an axis, from a shift of the entire curve caused by another determinant. State whether a claim is positive (testable) or normative (value-based).",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the market or decision-maker, state assumptions, identify the relevant curve or model, explain the causal chain, and evaluate short-run and long-run effects. Use a ceteris paribus statement when holding other influences constant.",
+            "Apply that method directly to “Policy design and targeting”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Social Policy and Development; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If demand rises while supply is unchanged, the demand curve shifts right. At the old price there is excess demand, which creates upward pressure on price. The new equilibrium generally has a higher price and higher quantity, provided the usual upward-sloping supply and downward-sloping demand assumptions hold.",
+            "Now adapt the example to the topic “Policy design and targeting”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Policy design and targeting include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Opportunity cost",
+          "definition": "Value of the best alternative forgone."
+        },
+        {
+          "term": "Equilibrium",
+          "definition": "A point where opposing plans are mutually compatible under the model."
+        },
+        {
+          "term": "Elasticity",
+          "definition": "A proportional measure of responsiveness of one variable to another."
+        },
+        {
+          "term": "Policy design and targeting",
+          "definition": "The specific concept or method examined in this topic within Social Policy and Development; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Policy design and targeting",
+          "steps": [
+            "Apply “Policy design and targeting” by defining the concept, selecting a level of analysis, identifying relevant institutions or actors, and using evidence from the case. Compare structural conditions with individual agency and consider at least one alternative explanation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "soc-policy-401-policy-design-and-targeting-q1",
+          "type": "mcq",
+          "prompt": "Which answer best applies Policy design and targeting to a real social or political case?",
+          "options": [
+            "A defined concept linked to evidence, actors, context, and an alternative explanation",
+            "A personal opinion without supporting evidence",
+            "A universal claim based on one anecdote",
+            "A list of names without analysis"
+          ],
+          "answerIndex": 0,
+          "explanation": "Application requires concepts, evidence, context, and critical comparison."
+        },
+        {
+          "id": "soc-policy-401-policy-design-and-targeting-q2",
+          "type": "short-answer",
+          "prompt": "Explain Policy design and targeting in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Policy design and targeting accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "soc-policy-401-policy-design-and-targeting-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Policy design and targeting. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "implementation-and-street-level-practice",
+      "title": "Implementation and street-level practice",
+      "description": "Implementation and street-level practice: a structured set of explanations, method, worked application, and critical checks for Social Policy and Development.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Implementation and street-level practice accurately.",
+        "Apply the central ideas in Implementation and street-level practice to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Implementation and street-level practice in Social Policy and Development",
+          "paragraphs": [
+            "Implementation and street-level practice is studied here as a specific part of Social Policy and Development. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Economics studies choices under scarcity and how incentives shape allocation. Separate a movement along a curve, caused by a change in a variable already on an axis, from a shift of the entire curve caused by another determinant. State whether a claim is positive (testable) or normative (value-based).",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the market or decision-maker, state assumptions, identify the relevant curve or model, explain the causal chain, and evaluate short-run and long-run effects. Use a ceteris paribus statement when holding other influences constant.",
+            "Apply that method directly to “Implementation and street-level practice”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Social Policy and Development; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If demand rises while supply is unchanged, the demand curve shifts right. At the old price there is excess demand, which creates upward pressure on price. The new equilibrium generally has a higher price and higher quantity, provided the usual upward-sloping supply and downward-sloping demand assumptions hold.",
+            "Now adapt the example to the topic “Implementation and street-level practice”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Implementation and street-level practice include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Opportunity cost",
+          "definition": "Value of the best alternative forgone."
+        },
+        {
+          "term": "Equilibrium",
+          "definition": "A point where opposing plans are mutually compatible under the model."
+        },
+        {
+          "term": "Elasticity",
+          "definition": "A proportional measure of responsiveness of one variable to another."
+        },
+        {
+          "term": "Implementation and street-level practice",
+          "definition": "The specific concept or method examined in this topic within Social Policy and Development; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Implementation and street-level practice",
+          "steps": [
+            "Apply “Implementation and street-level practice” by defining the concept, selecting a level of analysis, identifying relevant institutions or actors, and using evidence from the case. Compare structural conditions with individual agency and consider at least one alternative explanation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "soc-policy-401-implementation-and-street-level-practice-q1",
+          "type": "mcq",
+          "prompt": "Which answer best applies Implementation and street-level practice to a real social or political case?",
+          "options": [
+            "A defined concept linked to evidence, actors, context, and an alternative explanation",
+            "A personal opinion without supporting evidence",
+            "A universal claim based on one anecdote",
+            "A list of names without analysis"
+          ],
+          "answerIndex": 0,
+          "explanation": "Application requires concepts, evidence, context, and critical comparison."
+        },
+        {
+          "id": "soc-policy-401-implementation-and-street-level-practice-q2",
+          "type": "short-answer",
+          "prompt": "Explain Implementation and street-level practice in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Implementation and street-level practice accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "soc-policy-401-implementation-and-street-level-practice-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Implementation and street-level practice. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "evaluation-and-unintended-consequences",
+      "title": "Evaluation and unintended consequences",
+      "description": "Evaluation and unintended consequences: a structured set of explanations, method, worked application, and critical checks for Social Policy and Development.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Evaluation and unintended consequences accurately.",
+        "Apply the central ideas in Evaluation and unintended consequences to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Evaluation and unintended consequences in Social Policy and Development",
+          "paragraphs": [
+            "Evaluation and unintended consequences is studied here as a specific part of Social Policy and Development. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Economics studies choices under scarcity and how incentives shape allocation. Separate a movement along a curve, caused by a change in a variable already on an axis, from a shift of the entire curve caused by another determinant. State whether a claim is positive (testable) or normative (value-based).",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the market or decision-maker, state assumptions, identify the relevant curve or model, explain the causal chain, and evaluate short-run and long-run effects. Use a ceteris paribus statement when holding other influences constant.",
+            "Apply that method directly to “Evaluation and unintended consequences”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Social Policy and Development; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If demand rises while supply is unchanged, the demand curve shifts right. At the old price there is excess demand, which creates upward pressure on price. The new equilibrium generally has a higher price and higher quantity, provided the usual upward-sloping supply and downward-sloping demand assumptions hold.",
+            "Now adapt the example to the topic “Evaluation and unintended consequences”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Evaluation and unintended consequences include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Opportunity cost",
+          "definition": "Value of the best alternative forgone."
+        },
+        {
+          "term": "Equilibrium",
+          "definition": "A point where opposing plans are mutually compatible under the model."
+        },
+        {
+          "term": "Elasticity",
+          "definition": "A proportional measure of responsiveness of one variable to another."
+        },
+        {
+          "term": "Evaluation and unintended consequences",
+          "definition": "The specific concept or method examined in this topic within Social Policy and Development; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Evaluation and unintended consequences",
+          "steps": [
+            "Apply “Evaluation and unintended consequences” by defining the concept, selecting a level of analysis, identifying relevant institutions or actors, and using evidence from the case. Compare structural conditions with individual agency and consider at least one alternative explanation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "soc-policy-401-evaluation-and-unintended-consequences-q1",
+          "type": "mcq",
+          "prompt": "Which answer best applies Evaluation and unintended consequences to a real social or political case?",
+          "options": [
+            "A defined concept linked to evidence, actors, context, and an alternative explanation",
+            "A personal opinion without supporting evidence",
+            "A universal claim based on one anecdote",
+            "A list of names without analysis"
+          ],
+          "answerIndex": 0,
+          "explanation": "Application requires concepts, evidence, context, and critical comparison."
+        },
+        {
+          "id": "soc-policy-401-evaluation-and-unintended-consequences-q2",
+          "type": "short-answer",
+          "prompt": "Explain Evaluation and unintended consequences in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Evaluation and unintended consequences accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "soc-policy-401-evaluation-and-unintended-consequences-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Evaluation and unintended consequences. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ],
+  "contentNotice": "Original instructional draft. Course title/code is illustrative and must be checked against the student’s current departmental course outline. Not an authentic past paper.",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "All questions in this lesson are original practice questions unless a separate verified source record explicitly says otherwise."
+  }
+}

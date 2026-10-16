@@ -1,0 +1,544 @@
+{
+  "courseId": "pol-comparative-301",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "300-level undergraduate learning depth",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "Original practice questions; no verified past papers included."
+  },
+  "topics": [
+    {
+      "id": "comparative-method-and-case-selection",
+      "title": "Comparative method and case selection",
+      "description": "Comparative method and case selection: a structured set of explanations, method, worked application, and critical checks for Comparative Politics and Institutions.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Comparative method and case selection accurately.",
+        "Apply the central ideas in Comparative method and case selection to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Comparative method and case selection in Comparative Politics and Institutions",
+          "paragraphs": [
+            "Comparative method and case selection is studied here as a specific part of Comparative Politics and Institutions. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Social sciences examine patterned relationships, institutions, power, culture, and collective outcomes. A strong answer distinguishes individual explanations from structural explanations and links claims to evidence. Concepts and theories are analytical tools: their assumptions and limits should be stated rather than treated as universal laws.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the concept, identify the level of analysis, apply the theory to a specific case, use evidence, consider competing explanations, and state what the framework explains well or leaves unresolved.",
+            "Apply that method directly to “Comparative method and case selection”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Comparative Politics and Institutions; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A low rate of school attendance may involve household income, transport, school access, safety, policy, and family expectations. Explaining it solely as an individual choice overlooks structural constraints; explaining it only structurally may overlook differences in agency and local circumstances.",
+            "Now adapt the example to the topic “Comparative method and case selection”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Comparative method and case selection include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Institution",
+          "definition": "A durable set of rules and practices organising social life."
+        },
+        {
+          "term": "Operationalisation",
+          "definition": "Turning an abstract concept into observable indicators."
+        },
+        {
+          "term": "Agency",
+          "definition": "Capacity of people to act within, negotiate, or alter constraints."
+        },
+        {
+          "term": "Comparative method and case selection",
+          "definition": "The specific concept or method examined in this topic within Comparative Politics and Institutions; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Comparative method and case selection",
+          "steps": [
+            "Apply “Comparative method and case selection” by defining the concept, selecting a level of analysis, identifying relevant institutions or actors, and using evidence from the case. Compare structural conditions with individual agency and consider at least one alternative explanation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "pol-comparative-301-comparative-method-and-case-selection-q1",
+          "type": "mcq",
+          "prompt": "Which answer best applies Comparative method and case selection to a real social or political case?",
+          "options": [
+            "A defined concept linked to evidence, actors, context, and an alternative explanation",
+            "A personal opinion without supporting evidence",
+            "A universal claim based on one anecdote",
+            "A list of names without analysis"
+          ],
+          "answerIndex": 0,
+          "explanation": "Application requires concepts, evidence, context, and critical comparison."
+        },
+        {
+          "id": "pol-comparative-301-comparative-method-and-case-selection-q2",
+          "type": "short-answer",
+          "prompt": "Explain Comparative method and case selection in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Comparative method and case selection accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "pol-comparative-301-comparative-method-and-case-selection-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Comparative method and case selection. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "state-capacity-and-institutional-design",
+      "title": "State capacity and institutional design",
+      "description": "State capacity and institutional design: a structured set of explanations, method, worked application, and critical checks for Comparative Politics and Institutions.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain State capacity and institutional design accurately.",
+        "Apply the central ideas in State capacity and institutional design to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "State capacity and institutional design in Comparative Politics and Institutions",
+          "paragraphs": [
+            "State capacity and institutional design is studied here as a specific part of Comparative Politics and Institutions. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Social sciences examine patterned relationships, institutions, power, culture, and collective outcomes. A strong answer distinguishes individual explanations from structural explanations and links claims to evidence. Concepts and theories are analytical tools: their assumptions and limits should be stated rather than treated as universal laws.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the concept, identify the level of analysis, apply the theory to a specific case, use evidence, consider competing explanations, and state what the framework explains well or leaves unresolved.",
+            "Apply that method directly to “State capacity and institutional design”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Comparative Politics and Institutions; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A low rate of school attendance may involve household income, transport, school access, safety, policy, and family expectations. Explaining it solely as an individual choice overlooks structural constraints; explaining it only structurally may overlook differences in agency and local circumstances.",
+            "Now adapt the example to the topic “State capacity and institutional design”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying State capacity and institutional design include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Institution",
+          "definition": "A durable set of rules and practices organising social life."
+        },
+        {
+          "term": "Operationalisation",
+          "definition": "Turning an abstract concept into observable indicators."
+        },
+        {
+          "term": "Agency",
+          "definition": "Capacity of people to act within, negotiate, or alter constraints."
+        },
+        {
+          "term": "State capacity and institutional design",
+          "definition": "The specific concept or method examined in this topic within Comparative Politics and Institutions; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: State capacity and institutional design",
+          "steps": [
+            "Apply “State capacity and institutional design” by defining the concept, selecting a level of analysis, identifying relevant institutions or actors, and using evidence from the case. Compare structural conditions with individual agency and consider at least one alternative explanation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "pol-comparative-301-state-capacity-and-institutional-design-q1",
+          "type": "mcq",
+          "prompt": "Which answer best applies State capacity and institutional design to a real social or political case?",
+          "options": [
+            "A defined concept linked to evidence, actors, context, and an alternative explanation",
+            "A personal opinion without supporting evidence",
+            "A universal claim based on one anecdote",
+            "A list of names without analysis"
+          ],
+          "answerIndex": 0,
+          "explanation": "Application requires concepts, evidence, context, and critical comparison."
+        },
+        {
+          "id": "pol-comparative-301-state-capacity-and-institutional-design-q2",
+          "type": "short-answer",
+          "prompt": "Explain State capacity and institutional design in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines State capacity and institutional design accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "pol-comparative-301-state-capacity-and-institutional-design-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about State capacity and institutional design. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "electoral-systems-and-representation",
+      "title": "Electoral systems and representation",
+      "description": "Electoral systems and representation: a structured set of explanations, method, worked application, and critical checks for Comparative Politics and Institutions.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Electoral systems and representation accurately.",
+        "Apply the central ideas in Electoral systems and representation to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Electoral systems and representation in Comparative Politics and Institutions",
+          "paragraphs": [
+            "Electoral systems and representation is studied here as a specific part of Comparative Politics and Institutions. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Social sciences examine patterned relationships, institutions, power, culture, and collective outcomes. A strong answer distinguishes individual explanations from structural explanations and links claims to evidence. Concepts and theories are analytical tools: their assumptions and limits should be stated rather than treated as universal laws.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the concept, identify the level of analysis, apply the theory to a specific case, use evidence, consider competing explanations, and state what the framework explains well or leaves unresolved.",
+            "Apply that method directly to “Electoral systems and representation”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Comparative Politics and Institutions; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A low rate of school attendance may involve household income, transport, school access, safety, policy, and family expectations. Explaining it solely as an individual choice overlooks structural constraints; explaining it only structurally may overlook differences in agency and local circumstances.",
+            "Now adapt the example to the topic “Electoral systems and representation”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Electoral systems and representation include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Institution",
+          "definition": "A durable set of rules and practices organising social life."
+        },
+        {
+          "term": "Operationalisation",
+          "definition": "Turning an abstract concept into observable indicators."
+        },
+        {
+          "term": "Agency",
+          "definition": "Capacity of people to act within, negotiate, or alter constraints."
+        },
+        {
+          "term": "Electoral systems and representation",
+          "definition": "The specific concept or method examined in this topic within Comparative Politics and Institutions; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Electoral systems and representation",
+          "steps": [
+            "Apply “Electoral systems and representation” by defining the concept, selecting a level of analysis, identifying relevant institutions or actors, and using evidence from the case. Compare structural conditions with individual agency and consider at least one alternative explanation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "pol-comparative-301-electoral-systems-and-representation-q1",
+          "type": "mcq",
+          "prompt": "Which answer best applies Electoral systems and representation to a real social or political case?",
+          "options": [
+            "A defined concept linked to evidence, actors, context, and an alternative explanation",
+            "A personal opinion without supporting evidence",
+            "A universal claim based on one anecdote",
+            "A list of names without analysis"
+          ],
+          "answerIndex": 0,
+          "explanation": "Application requires concepts, evidence, context, and critical comparison."
+        },
+        {
+          "id": "pol-comparative-301-electoral-systems-and-representation-q2",
+          "type": "short-answer",
+          "prompt": "Explain Electoral systems and representation in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Electoral systems and representation accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "pol-comparative-301-electoral-systems-and-representation-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Electoral systems and representation. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "political-participation-and-legitimacy",
+      "title": "Political participation and legitimacy",
+      "description": "Political participation and legitimacy: a structured set of explanations, method, worked application, and critical checks for Comparative Politics and Institutions.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Political participation and legitimacy accurately.",
+        "Apply the central ideas in Political participation and legitimacy to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Political participation and legitimacy in Comparative Politics and Institutions",
+          "paragraphs": [
+            "Political participation and legitimacy is studied here as a specific part of Comparative Politics and Institutions. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Social sciences examine patterned relationships, institutions, power, culture, and collective outcomes. A strong answer distinguishes individual explanations from structural explanations and links claims to evidence. Concepts and theories are analytical tools: their assumptions and limits should be stated rather than treated as universal laws.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the concept, identify the level of analysis, apply the theory to a specific case, use evidence, consider competing explanations, and state what the framework explains well or leaves unresolved.",
+            "Apply that method directly to “Political participation and legitimacy”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Comparative Politics and Institutions; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A low rate of school attendance may involve household income, transport, school access, safety, policy, and family expectations. Explaining it solely as an individual choice overlooks structural constraints; explaining it only structurally may overlook differences in agency and local circumstances.",
+            "Now adapt the example to the topic “Political participation and legitimacy”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Political participation and legitimacy include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Institution",
+          "definition": "A durable set of rules and practices organising social life."
+        },
+        {
+          "term": "Operationalisation",
+          "definition": "Turning an abstract concept into observable indicators."
+        },
+        {
+          "term": "Agency",
+          "definition": "Capacity of people to act within, negotiate, or alter constraints."
+        },
+        {
+          "term": "Political participation and legitimacy",
+          "definition": "The specific concept or method examined in this topic within Comparative Politics and Institutions; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Political participation and legitimacy",
+          "steps": [
+            "Apply “Political participation and legitimacy” by defining the concept, selecting a level of analysis, identifying relevant institutions or actors, and using evidence from the case. Compare structural conditions with individual agency and consider at least one alternative explanation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "pol-comparative-301-political-participation-and-legitimacy-q1",
+          "type": "mcq",
+          "prompt": "Which answer best applies Political participation and legitimacy to a real social or political case?",
+          "options": [
+            "A defined concept linked to evidence, actors, context, and an alternative explanation",
+            "A personal opinion without supporting evidence",
+            "A universal claim based on one anecdote",
+            "A list of names without analysis"
+          ],
+          "answerIndex": 0,
+          "explanation": "Application requires concepts, evidence, context, and critical comparison."
+        },
+        {
+          "id": "pol-comparative-301-political-participation-and-legitimacy-q2",
+          "type": "short-answer",
+          "prompt": "Explain Political participation and legitimacy in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Political participation and legitimacy accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "pol-comparative-301-political-participation-and-legitimacy-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Political participation and legitimacy. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "comparing-explanations-across-cases",
+      "title": "Comparing explanations across cases",
+      "description": "Comparing explanations across cases: a structured set of explanations, method, worked application, and critical checks for Comparative Politics and Institutions.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Comparing explanations across cases accurately.",
+        "Apply the central ideas in Comparing explanations across cases to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Comparing explanations across cases in Comparative Politics and Institutions",
+          "paragraphs": [
+            "Comparing explanations across cases is studied here as a specific part of Comparative Politics and Institutions. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Social sciences examine patterned relationships, institutions, power, culture, and collective outcomes. A strong answer distinguishes individual explanations from structural explanations and links claims to evidence. Concepts and theories are analytical tools: their assumptions and limits should be stated rather than treated as universal laws.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the concept, identify the level of analysis, apply the theory to a specific case, use evidence, consider competing explanations, and state what the framework explains well or leaves unresolved.",
+            "Apply that method directly to “Comparing explanations across cases”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Comparative Politics and Institutions; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A low rate of school attendance may involve household income, transport, school access, safety, policy, and family expectations. Explaining it solely as an individual choice overlooks structural constraints; explaining it only structurally may overlook differences in agency and local circumstances.",
+            "Now adapt the example to the topic “Comparing explanations across cases”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Comparing explanations across cases include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Institution",
+          "definition": "A durable set of rules and practices organising social life."
+        },
+        {
+          "term": "Operationalisation",
+          "definition": "Turning an abstract concept into observable indicators."
+        },
+        {
+          "term": "Agency",
+          "definition": "Capacity of people to act within, negotiate, or alter constraints."
+        },
+        {
+          "term": "Comparing explanations across cases",
+          "definition": "The specific concept or method examined in this topic within Comparative Politics and Institutions; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Comparing explanations across cases",
+          "steps": [
+            "Apply “Comparing explanations across cases” by defining the concept, selecting a level of analysis, identifying relevant institutions or actors, and using evidence from the case. Compare structural conditions with individual agency and consider at least one alternative explanation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "pol-comparative-301-comparing-explanations-across-cases-q1",
+          "type": "mcq",
+          "prompt": "Which answer best applies Comparing explanations across cases to a real social or political case?",
+          "options": [
+            "A defined concept linked to evidence, actors, context, and an alternative explanation",
+            "A personal opinion without supporting evidence",
+            "A universal claim based on one anecdote",
+            "A list of names without analysis"
+          ],
+          "answerIndex": 0,
+          "explanation": "Application requires concepts, evidence, context, and critical comparison."
+        },
+        {
+          "id": "pol-comparative-301-comparing-explanations-across-cases-q2",
+          "type": "short-answer",
+          "prompt": "Explain Comparing explanations across cases in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Comparing explanations across cases accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "pol-comparative-301-comparing-explanations-across-cases-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Comparing explanations across cases. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ]
+}

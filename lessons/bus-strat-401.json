@@ -1,0 +1,545 @@
+{
+  "courseId": "bus-strat-401",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "400-level undergraduate learning depth",
+  "topics": [
+    {
+      "id": "industry-analysis-and-competitive-forces",
+      "title": "Industry analysis and competitive forces",
+      "description": "Industry analysis and competitive forces: a structured set of explanations, method, worked application, and critical checks for Strategic Management.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Industry analysis and competitive forces accurately.",
+        "Apply the central ideas in Industry analysis and competitive forces to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Industry analysis and competitive forces in Strategic Management",
+          "paragraphs": [
+            "Industry analysis and competitive forces is studied here as a specific part of Strategic Management. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Economics studies choices under scarcity and how incentives shape allocation. Separate a movement along a curve, caused by a change in a variable already on an axis, from a shift of the entire curve caused by another determinant. State whether a claim is positive (testable) or normative (value-based).",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the market or decision-maker, state assumptions, identify the relevant curve or model, explain the causal chain, and evaluate short-run and long-run effects. Use a ceteris paribus statement when holding other influences constant.",
+            "Apply that method directly to “Industry analysis and competitive forces”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Strategic Management; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If demand rises while supply is unchanged, the demand curve shifts right. At the old price there is excess demand, which creates upward pressure on price. The new equilibrium generally has a higher price and higher quantity, provided the usual upward-sloping supply and downward-sloping demand assumptions hold.",
+            "Now adapt the example to the topic “Industry analysis and competitive forces”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Industry analysis and competitive forces include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Opportunity cost",
+          "definition": "Value of the best alternative forgone."
+        },
+        {
+          "term": "Equilibrium",
+          "definition": "A point where opposing plans are mutually compatible under the model."
+        },
+        {
+          "term": "Elasticity",
+          "definition": "A proportional measure of responsiveness of one variable to another."
+        },
+        {
+          "term": "Industry analysis and competitive forces",
+          "definition": "The specific concept or method examined in this topic within Strategic Management; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Industry analysis and competitive forces",
+          "steps": [
+            "For a case involving “Industry analysis and competitive forces”, define the decision-maker and time period, state the model assumptions, identify the relevant incentives or constraints, and trace how a change affects behaviour and the resulting outcome. Distinguish a positive prediction from a normative judgement.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "bus-strat-401-industry-analysis-and-competitive-forces-q1",
+          "type": "mcq",
+          "prompt": "Which is the best first step in analysing Industry analysis and competitive forces?",
+          "options": [
+            "Define the model, variables, assumptions, and decision context",
+            "Assume every market has identical conditions",
+            "State a policy preference without analysis",
+            "Treat correlation as proof of causation"
+          ],
+          "answerIndex": 0,
+          "explanation": "Clear assumptions and context are needed before drawing a model-based conclusion."
+        },
+        {
+          "id": "bus-strat-401-industry-analysis-and-competitive-forces-q2",
+          "type": "short-answer",
+          "prompt": "Explain Industry analysis and competitive forces in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Industry analysis and competitive forces accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "bus-strat-401-industry-analysis-and-competitive-forces-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Industry analysis and competitive forces. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "resources-and-capabilities",
+      "title": "Resources and capabilities",
+      "description": "Resources and capabilities: a structured set of explanations, method, worked application, and critical checks for Strategic Management.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Resources and capabilities accurately.",
+        "Apply the central ideas in Resources and capabilities to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Resources and capabilities in Strategic Management",
+          "paragraphs": [
+            "Resources and capabilities is studied here as a specific part of Strategic Management. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Economics studies choices under scarcity and how incentives shape allocation. Separate a movement along a curve, caused by a change in a variable already on an axis, from a shift of the entire curve caused by another determinant. State whether a claim is positive (testable) or normative (value-based).",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the market or decision-maker, state assumptions, identify the relevant curve or model, explain the causal chain, and evaluate short-run and long-run effects. Use a ceteris paribus statement when holding other influences constant.",
+            "Apply that method directly to “Resources and capabilities”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Strategic Management; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If demand rises while supply is unchanged, the demand curve shifts right. At the old price there is excess demand, which creates upward pressure on price. The new equilibrium generally has a higher price and higher quantity, provided the usual upward-sloping supply and downward-sloping demand assumptions hold.",
+            "Now adapt the example to the topic “Resources and capabilities”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Resources and capabilities include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Opportunity cost",
+          "definition": "Value of the best alternative forgone."
+        },
+        {
+          "term": "Equilibrium",
+          "definition": "A point where opposing plans are mutually compatible under the model."
+        },
+        {
+          "term": "Elasticity",
+          "definition": "A proportional measure of responsiveness of one variable to another."
+        },
+        {
+          "term": "Resources and capabilities",
+          "definition": "The specific concept or method examined in this topic within Strategic Management; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Resources and capabilities",
+          "steps": [
+            "For a case involving “Resources and capabilities”, define the decision-maker and time period, state the model assumptions, identify the relevant incentives or constraints, and trace how a change affects behaviour and the resulting outcome. Distinguish a positive prediction from a normative judgement.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "bus-strat-401-resources-and-capabilities-q1",
+          "type": "mcq",
+          "prompt": "Which is the best first step in analysing Resources and capabilities?",
+          "options": [
+            "Define the model, variables, assumptions, and decision context",
+            "Assume every market has identical conditions",
+            "State a policy preference without analysis",
+            "Treat correlation as proof of causation"
+          ],
+          "answerIndex": 0,
+          "explanation": "Clear assumptions and context are needed before drawing a model-based conclusion."
+        },
+        {
+          "id": "bus-strat-401-resources-and-capabilities-q2",
+          "type": "short-answer",
+          "prompt": "Explain Resources and capabilities in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Resources and capabilities accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "bus-strat-401-resources-and-capabilities-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Resources and capabilities. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "swot-and-strategic-fit",
+      "title": "SWOT and strategic fit",
+      "description": "SWOT and strategic fit: a structured set of explanations, method, worked application, and critical checks for Strategic Management.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain SWOT and strategic fit accurately.",
+        "Apply the central ideas in SWOT and strategic fit to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "SWOT and strategic fit in Strategic Management",
+          "paragraphs": [
+            "SWOT and strategic fit is studied here as a specific part of Strategic Management. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Economics studies choices under scarcity and how incentives shape allocation. Separate a movement along a curve, caused by a change in a variable already on an axis, from a shift of the entire curve caused by another determinant. State whether a claim is positive (testable) or normative (value-based).",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the market or decision-maker, state assumptions, identify the relevant curve or model, explain the causal chain, and evaluate short-run and long-run effects. Use a ceteris paribus statement when holding other influences constant.",
+            "Apply that method directly to “SWOT and strategic fit”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Strategic Management; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If demand rises while supply is unchanged, the demand curve shifts right. At the old price there is excess demand, which creates upward pressure on price. The new equilibrium generally has a higher price and higher quantity, provided the usual upward-sloping supply and downward-sloping demand assumptions hold.",
+            "Now adapt the example to the topic “SWOT and strategic fit”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying SWOT and strategic fit include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Opportunity cost",
+          "definition": "Value of the best alternative forgone."
+        },
+        {
+          "term": "Equilibrium",
+          "definition": "A point where opposing plans are mutually compatible under the model."
+        },
+        {
+          "term": "Elasticity",
+          "definition": "A proportional measure of responsiveness of one variable to another."
+        },
+        {
+          "term": "SWOT and strategic fit",
+          "definition": "The specific concept or method examined in this topic within Strategic Management; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: SWOT and strategic fit",
+          "steps": [
+            "For a case involving “SWOT and strategic fit”, define the decision-maker and time period, state the model assumptions, identify the relevant incentives or constraints, and trace how a change affects behaviour and the resulting outcome. Distinguish a positive prediction from a normative judgement.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "bus-strat-401-swot-and-strategic-fit-q1",
+          "type": "mcq",
+          "prompt": "Which is the best first step in analysing SWOT and strategic fit?",
+          "options": [
+            "Define the model, variables, assumptions, and decision context",
+            "Assume every market has identical conditions",
+            "State a policy preference without analysis",
+            "Treat correlation as proof of causation"
+          ],
+          "answerIndex": 0,
+          "explanation": "Clear assumptions and context are needed before drawing a model-based conclusion."
+        },
+        {
+          "id": "bus-strat-401-swot-and-strategic-fit-q2",
+          "type": "short-answer",
+          "prompt": "Explain SWOT and strategic fit in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines SWOT and strategic fit accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "bus-strat-401-swot-and-strategic-fit-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about SWOT and strategic fit. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "corporate-and-business-level-strategy",
+      "title": "Corporate and business-level strategy",
+      "description": "Corporate and business-level strategy: a structured set of explanations, method, worked application, and critical checks for Strategic Management.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Corporate and business-level strategy accurately.",
+        "Apply the central ideas in Corporate and business-level strategy to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Corporate and business-level strategy in Strategic Management",
+          "paragraphs": [
+            "Corporate and business-level strategy is studied here as a specific part of Strategic Management. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Economics studies choices under scarcity and how incentives shape allocation. Separate a movement along a curve, caused by a change in a variable already on an axis, from a shift of the entire curve caused by another determinant. State whether a claim is positive (testable) or normative (value-based).",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the market or decision-maker, state assumptions, identify the relevant curve or model, explain the causal chain, and evaluate short-run and long-run effects. Use a ceteris paribus statement when holding other influences constant.",
+            "Apply that method directly to “Corporate and business-level strategy”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Strategic Management; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If demand rises while supply is unchanged, the demand curve shifts right. At the old price there is excess demand, which creates upward pressure on price. The new equilibrium generally has a higher price and higher quantity, provided the usual upward-sloping supply and downward-sloping demand assumptions hold.",
+            "Now adapt the example to the topic “Corporate and business-level strategy”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Corporate and business-level strategy include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Opportunity cost",
+          "definition": "Value of the best alternative forgone."
+        },
+        {
+          "term": "Equilibrium",
+          "definition": "A point where opposing plans are mutually compatible under the model."
+        },
+        {
+          "term": "Elasticity",
+          "definition": "A proportional measure of responsiveness of one variable to another."
+        },
+        {
+          "term": "Corporate and business-level strategy",
+          "definition": "The specific concept or method examined in this topic within Strategic Management; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Corporate and business-level strategy",
+          "steps": [
+            "For a case involving “Corporate and business-level strategy”, define the decision-maker and time period, state the model assumptions, identify the relevant incentives or constraints, and trace how a change affects behaviour and the resulting outcome. Distinguish a positive prediction from a normative judgement.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "bus-strat-401-corporate-and-business-level-strategy-q1",
+          "type": "mcq",
+          "prompt": "Which is the best first step in analysing Corporate and business-level strategy?",
+          "options": [
+            "Define the model, variables, assumptions, and decision context",
+            "Assume every market has identical conditions",
+            "State a policy preference without analysis",
+            "Treat correlation as proof of causation"
+          ],
+          "answerIndex": 0,
+          "explanation": "Clear assumptions and context are needed before drawing a model-based conclusion."
+        },
+        {
+          "id": "bus-strat-401-corporate-and-business-level-strategy-q2",
+          "type": "short-answer",
+          "prompt": "Explain Corporate and business-level strategy in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Corporate and business-level strategy accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "bus-strat-401-corporate-and-business-level-strategy-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Corporate and business-level strategy. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "implementation-governance-and-performance-measures",
+      "title": "Implementation, governance and performance measures",
+      "description": "Implementation, governance and performance measures: a structured set of explanations, method, worked application, and critical checks for Strategic Management.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Implementation, governance and performance measures accurately.",
+        "Apply the central ideas in Implementation, governance and performance measures to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Implementation, governance and performance measures in Strategic Management",
+          "paragraphs": [
+            "Implementation, governance and performance measures is studied here as a specific part of Strategic Management. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Economics studies choices under scarcity and how incentives shape allocation. Separate a movement along a curve, caused by a change in a variable already on an axis, from a shift of the entire curve caused by another determinant. State whether a claim is positive (testable) or normative (value-based).",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the market or decision-maker, state assumptions, identify the relevant curve or model, explain the causal chain, and evaluate short-run and long-run effects. Use a ceteris paribus statement when holding other influences constant.",
+            "Apply that method directly to “Implementation, governance and performance measures”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Strategic Management; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If demand rises while supply is unchanged, the demand curve shifts right. At the old price there is excess demand, which creates upward pressure on price. The new equilibrium generally has a higher price and higher quantity, provided the usual upward-sloping supply and downward-sloping demand assumptions hold.",
+            "Now adapt the example to the topic “Implementation, governance and performance measures”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Implementation, governance and performance measures include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Opportunity cost",
+          "definition": "Value of the best alternative forgone."
+        },
+        {
+          "term": "Equilibrium",
+          "definition": "A point where opposing plans are mutually compatible under the model."
+        },
+        {
+          "term": "Elasticity",
+          "definition": "A proportional measure of responsiveness of one variable to another."
+        },
+        {
+          "term": "Implementation, governance and performance measures",
+          "definition": "The specific concept or method examined in this topic within Strategic Management; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Implementation, governance and performance measures",
+          "steps": [
+            "For a case involving “Implementation, governance and performance measures”, define the decision-maker and time period, state the model assumptions, identify the relevant incentives or constraints, and trace how a change affects behaviour and the resulting outcome. Distinguish a positive prediction from a normative judgement.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "bus-strat-401-implementation-governance-and-performance-measures-q1",
+          "type": "mcq",
+          "prompt": "Which is the best first step in analysing Implementation, governance and performance measures?",
+          "options": [
+            "Define the model, variables, assumptions, and decision context",
+            "Assume every market has identical conditions",
+            "State a policy preference without analysis",
+            "Treat correlation as proof of causation"
+          ],
+          "answerIndex": 0,
+          "explanation": "Clear assumptions and context are needed before drawing a model-based conclusion."
+        },
+        {
+          "id": "bus-strat-401-implementation-governance-and-performance-measures-q2",
+          "type": "short-answer",
+          "prompt": "Explain Implementation, governance and performance measures in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Implementation, governance and performance measures accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "bus-strat-401-implementation-governance-and-performance-measures-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Implementation, governance and performance measures. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ],
+  "contentNotice": "Original instructional draft. Course title/code is illustrative and must be checked against the student’s current departmental course outline. Not an authentic past paper.",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "All questions in this lesson are original practice questions unless a separate verified source record explicitly says otherwise."
+  }
+}

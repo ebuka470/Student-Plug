@@ -1,0 +1,332 @@
+{
+  "courseId": "sta-101",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "topics": [
+    {
+      "id": "data-and-sampling",
+      "title": "Data and sampling",
+      "description": "Data and sampling: a structured set of explanations, method, worked application, and critical checks for Introduction to Statistics.",
+      "estimatedMinutes": 20,
+      "difficulty": "introductory",
+      "learningObjectives": [
+        "Define and explain Data and sampling accurately.",
+        "Apply the central ideas in Data and sampling to a structured course problem.",
+        "Check a solution to Data and sampling for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Data and sampling in Introduction to Statistics",
+          "paragraphs": [
+            "Data and sampling is studied here as a specific part of Introduction to Statistics. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Statistics separates describing observed data from drawing conclusions about a wider population. The sampling method, measurement process, missingness, and variability affect how much confidence a result deserves. A statistic is a sample summary; a parameter describes the population.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At introductory level, establish accurate definitions first, then explain the relationship between concepts and practise a worked example. Be able to explain the idea in your own words rather than memorising a phrase."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Inspect data quality and measurement scale, summarise the distribution, select a method aligned to the question and assumptions, report an estimate with uncertainty, and interpret the result in the original context rather than treating a p-value as the size or importance of an effect.",
+            "Apply that method directly to “Data and sampling”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Introduction to Statistics; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For values 2, 4, 4, 10, the mean is 5 while the median is 4. The high value 10 pulls the mean upward, illustrating why centre should be considered alongside spread and shape.",
+            "Now adapt the example to the topic “Data and sampling”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Data and sampling include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Population",
+          "definition": "The complete set of units or outcomes about which a study asks."
+        },
+        {
+          "term": "Sample",
+          "definition": "The observed subset used to learn about a population."
+        },
+        {
+          "term": "Confidence interval",
+          "definition": "A procedure-based interval estimate with a stated long-run coverage property under its assumptions."
+        },
+        {
+          "term": "Data and sampling",
+          "definition": "The specific concept or method examined in this topic within Introduction to Statistics; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Data and sampling",
+          "steps": [
+            "For “Data and sampling”, specify the variable types, target population, sampling or data-collection process, and question to be answered. Select a summary or model that fits those features, check its assumptions, and report uncertainty and practical interpretation rather than only a number.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "sta-101-data-and-sampling-q1",
+          "type": "mcq",
+          "prompt": "What should guide the choice of method for Data and sampling?",
+          "options": [
+            "The research question, data type, design, and assumptions",
+            "Which method produces the smallest p-value",
+            "The software menu order",
+            "The sample size alone, regardless of design"
+          ],
+          "answerIndex": 0,
+          "explanation": "Method selection must fit the question and data structure; sample size alone is not enough."
+        },
+        {
+          "id": "sta-101-data-and-sampling-q2",
+          "type": "short-answer",
+          "prompt": "Explain Data and sampling in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Data and sampling accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "sta-101-data-and-sampling-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Data and sampling. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "mean-median-and-mode",
+      "title": "Mean, median, and mode",
+      "description": "Mean, median, and mode: a structured set of explanations, method, worked application, and critical checks for Introduction to Statistics.",
+      "estimatedMinutes": 20,
+      "difficulty": "introductory",
+      "learningObjectives": [
+        "Define and explain Mean, median, and mode accurately.",
+        "Apply the central ideas in Mean, median, and mode to a structured course problem.",
+        "Check a solution to Mean, median, and mode for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Mean, median, and mode in Introduction to Statistics",
+          "paragraphs": [
+            "Mean, median, and mode is studied here as a specific part of Introduction to Statistics. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Statistics separates describing observed data from drawing conclusions about a wider population. The sampling method, measurement process, missingness, and variability affect how much confidence a result deserves. A statistic is a sample summary; a parameter describes the population.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At introductory level, establish accurate definitions first, then explain the relationship between concepts and practise a worked example. Be able to explain the idea in your own words rather than memorising a phrase."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Inspect data quality and measurement scale, summarise the distribution, select a method aligned to the question and assumptions, report an estimate with uncertainty, and interpret the result in the original context rather than treating a p-value as the size or importance of an effect.",
+            "Apply that method directly to “Mean, median, and mode”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Introduction to Statistics; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For values 2, 4, 4, 10, the mean is 5 while the median is 4. The high value 10 pulls the mean upward, illustrating why centre should be considered alongside spread and shape.",
+            "Now adapt the example to the topic “Mean, median, and mode”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Mean, median, and mode include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Population",
+          "definition": "The complete set of units or outcomes about which a study asks."
+        },
+        {
+          "term": "Sample",
+          "definition": "The observed subset used to learn about a population."
+        },
+        {
+          "term": "Confidence interval",
+          "definition": "A procedure-based interval estimate with a stated long-run coverage property under its assumptions."
+        },
+        {
+          "term": "Mean, median, and mode",
+          "definition": "The specific concept or method examined in this topic within Introduction to Statistics; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Mean, median, and mode",
+          "steps": [
+            "For “Mean, median, and mode”, specify the variable types, target population, sampling or data-collection process, and question to be answered. Select a summary or model that fits those features, check its assumptions, and report uncertainty and practical interpretation rather than only a number.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "sta-101-mean-median-and-mode-q1",
+          "type": "mcq",
+          "prompt": "What should guide the choice of method for Mean, median, and mode?",
+          "options": [
+            "The research question, data type, design, and assumptions",
+            "Which method produces the smallest p-value",
+            "The software menu order",
+            "The sample size alone, regardless of design"
+          ],
+          "answerIndex": 0,
+          "explanation": "Method selection must fit the question and data structure; sample size alone is not enough."
+        },
+        {
+          "id": "sta-101-mean-median-and-mode-q2",
+          "type": "short-answer",
+          "prompt": "Explain Mean, median, and mode in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Mean, median, and mode accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "sta-101-mean-median-and-mode-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Mean, median, and mode. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "probability-fundamentals",
+      "title": "Probability fundamentals",
+      "description": "Probability fundamentals: a structured set of explanations, method, worked application, and critical checks for Introduction to Statistics.",
+      "estimatedMinutes": 20,
+      "difficulty": "introductory",
+      "learningObjectives": [
+        "Define and explain Probability fundamentals accurately.",
+        "Apply the central ideas in Probability fundamentals to a structured course problem.",
+        "Check a solution to Probability fundamentals for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Probability fundamentals in Introduction to Statistics",
+          "paragraphs": [
+            "Probability fundamentals is studied here as a specific part of Introduction to Statistics. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Statistics separates describing observed data from drawing conclusions about a wider population. The sampling method, measurement process, missingness, and variability affect how much confidence a result deserves. A statistic is a sample summary; a parameter describes the population.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At introductory level, establish accurate definitions first, then explain the relationship between concepts and practise a worked example. Be able to explain the idea in your own words rather than memorising a phrase."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Inspect data quality and measurement scale, summarise the distribution, select a method aligned to the question and assumptions, report an estimate with uncertainty, and interpret the result in the original context rather than treating a p-value as the size or importance of an effect.",
+            "Apply that method directly to “Probability fundamentals”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Introduction to Statistics; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For values 2, 4, 4, 10, the mean is 5 while the median is 4. The high value 10 pulls the mean upward, illustrating why centre should be considered alongside spread and shape.",
+            "Now adapt the example to the topic “Probability fundamentals”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Probability fundamentals include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Population",
+          "definition": "The complete set of units or outcomes about which a study asks."
+        },
+        {
+          "term": "Sample",
+          "definition": "The observed subset used to learn about a population."
+        },
+        {
+          "term": "Confidence interval",
+          "definition": "A procedure-based interval estimate with a stated long-run coverage property under its assumptions."
+        },
+        {
+          "term": "Probability fundamentals",
+          "definition": "The specific concept or method examined in this topic within Introduction to Statistics; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Probability fundamentals",
+          "steps": [
+            "For “Probability fundamentals”, specify the variable types, target population, sampling or data-collection process, and question to be answered. Select a summary or model that fits those features, check its assumptions, and report uncertainty and practical interpretation rather than only a number.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "sta-101-probability-fundamentals-q1",
+          "type": "mcq",
+          "prompt": "What should guide the choice of method for Probability fundamentals?",
+          "options": [
+            "The research question, data type, design, and assumptions",
+            "Which method produces the smallest p-value",
+            "The software menu order",
+            "The sample size alone, regardless of design"
+          ],
+          "answerIndex": 0,
+          "explanation": "Method selection must fit the question and data structure; sample size alone is not enough."
+        },
+        {
+          "id": "sta-101-probability-fundamentals-q2",
+          "type": "short-answer",
+          "prompt": "Explain Probability fundamentals in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Probability fundamentals accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "sta-101-probability-fundamentals-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Probability fundamentals. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ],
+  "levelFit": "100-level undergraduate learning depth",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "All questions in this lesson are original practice questions unless a separate verified source record explicitly says otherwise."
+  }
+}

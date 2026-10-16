@@ -1,0 +1,545 @@
+{
+  "courseId": "sta-reg-201",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "200-level undergraduate learning depth",
+  "topics": [
+    {
+      "id": "random-variables-and-distributions",
+      "title": "Random variables and distributions",
+      "description": "Random variables and distributions: a structured set of explanations, method, worked application, and critical checks for Probability and Statistical Inference.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Random variables and distributions accurately.",
+        "Apply the central ideas in Random variables and distributions to a structured course problem.",
+        "Check a solution to Random variables and distributions for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Random variables and distributions in Probability and Statistical Inference",
+          "paragraphs": [
+            "Random variables and distributions is studied here as a specific part of Probability and Statistical Inference. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Statistics separates describing observed data from drawing conclusions about a wider population. The sampling method, measurement process, missingness, and variability affect how much confidence a result deserves. A statistic is a sample summary; a parameter describes the population.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Inspect data quality and measurement scale, summarise the distribution, select a method aligned to the question and assumptions, report an estimate with uncertainty, and interpret the result in the original context rather than treating a p-value as the size or importance of an effect.",
+            "Apply that method directly to “Random variables and distributions”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Probability and Statistical Inference; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For values 2, 4, 4, 10, the mean is 5 while the median is 4. The high value 10 pulls the mean upward, illustrating why centre should be considered alongside spread and shape.",
+            "Now adapt the example to the topic “Random variables and distributions”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Random variables and distributions include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Population",
+          "definition": "The complete set of units or outcomes about which a study asks."
+        },
+        {
+          "term": "Sample",
+          "definition": "The observed subset used to learn about a population."
+        },
+        {
+          "term": "Confidence interval",
+          "definition": "A procedure-based interval estimate with a stated long-run coverage property under its assumptions."
+        },
+        {
+          "term": "Random variables and distributions",
+          "definition": "The specific concept or method examined in this topic within Probability and Statistical Inference; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Random variables and distributions",
+          "steps": [
+            "For “Random variables and distributions”, specify the variable types, target population, sampling or data-collection process, and question to be answered. Select a summary or model that fits those features, check its assumptions, and report uncertainty and practical interpretation rather than only a number.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "sta-reg-201-random-variables-and-distributions-q1",
+          "type": "mcq",
+          "prompt": "What should guide the choice of method for Random variables and distributions?",
+          "options": [
+            "The research question, data type, design, and assumptions",
+            "Which method produces the smallest p-value",
+            "The software menu order",
+            "The sample size alone, regardless of design"
+          ],
+          "answerIndex": 0,
+          "explanation": "Method selection must fit the question and data structure; sample size alone is not enough."
+        },
+        {
+          "id": "sta-reg-201-random-variables-and-distributions-q2",
+          "type": "short-answer",
+          "prompt": "Explain Random variables and distributions in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Random variables and distributions accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "sta-reg-201-random-variables-and-distributions-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Random variables and distributions. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "expectation-and-variance",
+      "title": "Expectation and variance",
+      "description": "Expectation and variance: a structured set of explanations, method, worked application, and critical checks for Probability and Statistical Inference.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Expectation and variance accurately.",
+        "Apply the central ideas in Expectation and variance to a structured course problem.",
+        "Check a solution to Expectation and variance for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Expectation and variance in Probability and Statistical Inference",
+          "paragraphs": [
+            "Expectation and variance is studied here as a specific part of Probability and Statistical Inference. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Statistics separates describing observed data from drawing conclusions about a wider population. The sampling method, measurement process, missingness, and variability affect how much confidence a result deserves. A statistic is a sample summary; a parameter describes the population.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Inspect data quality and measurement scale, summarise the distribution, select a method aligned to the question and assumptions, report an estimate with uncertainty, and interpret the result in the original context rather than treating a p-value as the size or importance of an effect.",
+            "Apply that method directly to “Expectation and variance”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Probability and Statistical Inference; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For values 2, 4, 4, 10, the mean is 5 while the median is 4. The high value 10 pulls the mean upward, illustrating why centre should be considered alongside spread and shape.",
+            "Now adapt the example to the topic “Expectation and variance”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Expectation and variance include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Population",
+          "definition": "The complete set of units or outcomes about which a study asks."
+        },
+        {
+          "term": "Sample",
+          "definition": "The observed subset used to learn about a population."
+        },
+        {
+          "term": "Confidence interval",
+          "definition": "A procedure-based interval estimate with a stated long-run coverage property under its assumptions."
+        },
+        {
+          "term": "Expectation and variance",
+          "definition": "The specific concept or method examined in this topic within Probability and Statistical Inference; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Expectation and variance",
+          "steps": [
+            "For “Expectation and variance”, specify the variable types, target population, sampling or data-collection process, and question to be answered. Select a summary or model that fits those features, check its assumptions, and report uncertainty and practical interpretation rather than only a number.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "sta-reg-201-expectation-and-variance-q1",
+          "type": "mcq",
+          "prompt": "What should guide the choice of method for Expectation and variance?",
+          "options": [
+            "The research question, data type, design, and assumptions",
+            "Which method produces the smallest p-value",
+            "The software menu order",
+            "The sample size alone, regardless of design"
+          ],
+          "answerIndex": 0,
+          "explanation": "Method selection must fit the question and data structure; sample size alone is not enough."
+        },
+        {
+          "id": "sta-reg-201-expectation-and-variance-q2",
+          "type": "short-answer",
+          "prompt": "Explain Expectation and variance in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Expectation and variance accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "sta-reg-201-expectation-and-variance-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Expectation and variance. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "sampling-distributions",
+      "title": "Sampling distributions",
+      "description": "Sampling distributions: a structured set of explanations, method, worked application, and critical checks for Probability and Statistical Inference.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Sampling distributions accurately.",
+        "Apply the central ideas in Sampling distributions to a structured course problem.",
+        "Check a solution to Sampling distributions for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Sampling distributions in Probability and Statistical Inference",
+          "paragraphs": [
+            "Sampling distributions is studied here as a specific part of Probability and Statistical Inference. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Statistics separates describing observed data from drawing conclusions about a wider population. The sampling method, measurement process, missingness, and variability affect how much confidence a result deserves. A statistic is a sample summary; a parameter describes the population.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Inspect data quality and measurement scale, summarise the distribution, select a method aligned to the question and assumptions, report an estimate with uncertainty, and interpret the result in the original context rather than treating a p-value as the size or importance of an effect.",
+            "Apply that method directly to “Sampling distributions”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Probability and Statistical Inference; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For values 2, 4, 4, 10, the mean is 5 while the median is 4. The high value 10 pulls the mean upward, illustrating why centre should be considered alongside spread and shape.",
+            "Now adapt the example to the topic “Sampling distributions”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Sampling distributions include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Population",
+          "definition": "The complete set of units or outcomes about which a study asks."
+        },
+        {
+          "term": "Sample",
+          "definition": "The observed subset used to learn about a population."
+        },
+        {
+          "term": "Confidence interval",
+          "definition": "A procedure-based interval estimate with a stated long-run coverage property under its assumptions."
+        },
+        {
+          "term": "Sampling distributions",
+          "definition": "The specific concept or method examined in this topic within Probability and Statistical Inference; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Sampling distributions",
+          "steps": [
+            "For “Sampling distributions”, specify the variable types, target population, sampling or data-collection process, and question to be answered. Select a summary or model that fits those features, check its assumptions, and report uncertainty and practical interpretation rather than only a number.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "sta-reg-201-sampling-distributions-q1",
+          "type": "mcq",
+          "prompt": "What should guide the choice of method for Sampling distributions?",
+          "options": [
+            "The research question, data type, design, and assumptions",
+            "Which method produces the smallest p-value",
+            "The software menu order",
+            "The sample size alone, regardless of design"
+          ],
+          "answerIndex": 0,
+          "explanation": "Method selection must fit the question and data structure; sample size alone is not enough."
+        },
+        {
+          "id": "sta-reg-201-sampling-distributions-q2",
+          "type": "short-answer",
+          "prompt": "Explain Sampling distributions in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Sampling distributions accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "sta-reg-201-sampling-distributions-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Sampling distributions. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "confidence-intervals",
+      "title": "Confidence intervals",
+      "description": "Confidence intervals: a structured set of explanations, method, worked application, and critical checks for Probability and Statistical Inference.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Confidence intervals accurately.",
+        "Apply the central ideas in Confidence intervals to a structured course problem.",
+        "Check a solution to Confidence intervals for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Confidence intervals in Probability and Statistical Inference",
+          "paragraphs": [
+            "Confidence intervals is studied here as a specific part of Probability and Statistical Inference. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Statistics separates describing observed data from drawing conclusions about a wider population. The sampling method, measurement process, missingness, and variability affect how much confidence a result deserves. A statistic is a sample summary; a parameter describes the population.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Inspect data quality and measurement scale, summarise the distribution, select a method aligned to the question and assumptions, report an estimate with uncertainty, and interpret the result in the original context rather than treating a p-value as the size or importance of an effect.",
+            "Apply that method directly to “Confidence intervals”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Probability and Statistical Inference; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For values 2, 4, 4, 10, the mean is 5 while the median is 4. The high value 10 pulls the mean upward, illustrating why centre should be considered alongside spread and shape.",
+            "Now adapt the example to the topic “Confidence intervals”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Confidence intervals include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Population",
+          "definition": "The complete set of units or outcomes about which a study asks."
+        },
+        {
+          "term": "Sample",
+          "definition": "The observed subset used to learn about a population."
+        },
+        {
+          "term": "Confidence interval",
+          "definition": "A procedure-based interval estimate with a stated long-run coverage property under its assumptions."
+        },
+        {
+          "term": "Confidence intervals",
+          "definition": "The specific concept or method examined in this topic within Probability and Statistical Inference; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Confidence intervals",
+          "steps": [
+            "A confidence interval is produced by a method with a stated long-run coverage rate under its assumptions. A 95% confidence procedure captures the fixed population parameter in 95% of repeated samples in the long run. After one interval is calculated, it is not strictly correct in the frequentist interpretation to say the fixed parameter has a 95% probability of lying inside that particular interval.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "sta-reg-201-confidence-intervals-q1",
+          "type": "mcq",
+          "prompt": "What does a 95% confidence level describe?",
+          "options": [
+            "Long-run coverage of the interval procedure under its assumptions",
+            "A 95% probability that every observation is correct",
+            "A guarantee that the sample has no bias",
+            "A 95% chance the null hypothesis is true"
+          ],
+          "answerIndex": 0,
+          "explanation": "The confidence level describes the long-run behaviour of the procedure, not certainty about a particular interval."
+        },
+        {
+          "id": "sta-reg-201-confidence-intervals-q2",
+          "type": "short-answer",
+          "prompt": "Explain Confidence intervals in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Confidence intervals accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "sta-reg-201-confidence-intervals-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Confidence intervals. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "hypothesis-testing-and-errors",
+      "title": "Hypothesis testing and errors",
+      "description": "Hypothesis testing and errors: a structured set of explanations, method, worked application, and critical checks for Probability and Statistical Inference.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Hypothesis testing and errors accurately.",
+        "Apply the central ideas in Hypothesis testing and errors to a structured course problem.",
+        "Check a solution to Hypothesis testing and errors for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Hypothesis testing and errors in Probability and Statistical Inference",
+          "paragraphs": [
+            "Hypothesis testing and errors is studied here as a specific part of Probability and Statistical Inference. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Statistics separates describing observed data from drawing conclusions about a wider population. The sampling method, measurement process, missingness, and variability affect how much confidence a result deserves. A statistic is a sample summary; a parameter describes the population.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Inspect data quality and measurement scale, summarise the distribution, select a method aligned to the question and assumptions, report an estimate with uncertainty, and interpret the result in the original context rather than treating a p-value as the size or importance of an effect.",
+            "Apply that method directly to “Hypothesis testing and errors”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Probability and Statistical Inference; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For values 2, 4, 4, 10, the mean is 5 while the median is 4. The high value 10 pulls the mean upward, illustrating why centre should be considered alongside spread and shape.",
+            "Now adapt the example to the topic “Hypothesis testing and errors”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Hypothesis testing and errors include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Population",
+          "definition": "The complete set of units or outcomes about which a study asks."
+        },
+        {
+          "term": "Sample",
+          "definition": "The observed subset used to learn about a population."
+        },
+        {
+          "term": "Confidence interval",
+          "definition": "A procedure-based interval estimate with a stated long-run coverage property under its assumptions."
+        },
+        {
+          "term": "Hypothesis testing and errors",
+          "definition": "The specific concept or method examined in this topic within Probability and Statistical Inference; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Hypothesis testing and errors",
+          "steps": [
+            "A null hypothesis specifies a reference claim, while an alternative describes departures of interest. A p-value is the probability, assuming the null model and its assumptions, of obtaining data at least as incompatible with the null as the observed result. It is not the probability that the null is true and does not measure effect size.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "sta-reg-201-hypothesis-testing-and-errors-q1",
+          "type": "mcq",
+          "prompt": "What does a p-value of 0.03 mean under the specified test model?",
+          "options": [
+            "If the null and assumptions hold, results at least this extreme have probability 0.03",
+            "There is a 97% probability the research hypothesis is true",
+            "The effect is necessarily large",
+            "The data have a 3% chance of being real"
+          ],
+          "answerIndex": 0,
+          "explanation": "The p-value is conditional on the null model; it is not a posterior probability of a hypothesis."
+        },
+        {
+          "id": "sta-reg-201-hypothesis-testing-and-errors-q2",
+          "type": "short-answer",
+          "prompt": "Explain Hypothesis testing and errors in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Hypothesis testing and errors accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "sta-reg-201-hypothesis-testing-and-errors-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Hypothesis testing and errors. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ],
+  "contentNotice": "Original instructional draft. Course title/code is illustrative and must be checked against the student’s current departmental course outline. Not an authentic past paper.",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "All questions in this lesson are original practice questions unless a separate verified source record explicitly says otherwise."
+  }
+}

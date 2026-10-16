@@ -1,0 +1,332 @@
+{
+  "courseId": "bio-101",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "topics": [
+    {
+      "id": "cell-structure",
+      "title": "Cell structure",
+      "description": "Cell structure: a structured set of explanations, method, worked application, and critical checks for General Biology I.",
+      "estimatedMinutes": 20,
+      "difficulty": "introductory",
+      "learningObjectives": [
+        "Define and explain Cell structure accurately.",
+        "Apply the central ideas in Cell structure to a structured course problem.",
+        "Check a solution to Cell structure for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Cell structure in General Biology I",
+          "paragraphs": [
+            "Cell structure is studied here as a specific part of General Biology I. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Biology explains living systems across levels of organisation, from molecules and cells to organisms, populations, communities, and ecosystems. Strong explanations connect structure to function and distinguish observations from inferences. A proposed biological mechanism should be consistent with evidence and acknowledge variation among organisms.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At introductory level, establish accurate definitions first, then explain the relationship between concepts and practise a worked example. Be able to explain the idea in your own words rather than memorising a phrase."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the biological level being discussed, define the process, describe its sequence, connect each step to the outcome, and use an example. For comparisons, use the same criteria for both organisms or processes.",
+            "Apply that method directly to “Cell structure”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of General Biology I; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A cell membrane is selectively permeable: some substances cross more readily than others. Small non-polar molecules can diffuse through the lipid bilayer, while ions generally require channels or transport proteins. The direction of net diffusion depends on the relevant concentration or electrochemical gradient.",
+            "Now adapt the example to the topic “Cell structure”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Cell structure include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Homeostasis",
+          "definition": "Regulation that maintains internal conditions within a viable range."
+        },
+        {
+          "term": "Diffusion",
+          "definition": "Net movement down a concentration gradient due to random molecular motion."
+        },
+        {
+          "term": "Ecosystem",
+          "definition": "Organisms interacting with one another and with their physical environment."
+        },
+        {
+          "term": "Cell structure",
+          "definition": "The specific concept or method examined in this topic within General Biology I; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Cell structure",
+          "steps": [
+            "For “Cell structure”, connect structure to function and explain the process in sequence. Identify the biological level, the relevant variables or conditions, and what evidence would support the explanation. Distinguish a well-supported mechanism from a simplified model.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "bio-101-cell-structure-q1",
+          "type": "mcq",
+          "prompt": "Which answer best demonstrates understanding of Cell structure?",
+          "options": [
+            "A mechanism explained step by step with structure, function, and relevant conditions",
+            "A definition without any biological relationship",
+            "A claim that ignores variation and conditions",
+            "A list of terms without a process"
+          ],
+          "answerIndex": 0,
+          "explanation": "Biological explanations connect mechanism, structure, function, and evidence."
+        },
+        {
+          "id": "bio-101-cell-structure-q2",
+          "type": "short-answer",
+          "prompt": "Explain Cell structure in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Cell structure accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "bio-101-cell-structure-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Cell structure. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "biological-organisation",
+      "title": "Biological organisation",
+      "description": "Biological organisation: a structured set of explanations, method, worked application, and critical checks for General Biology I.",
+      "estimatedMinutes": 20,
+      "difficulty": "introductory",
+      "learningObjectives": [
+        "Define and explain Biological organisation accurately.",
+        "Apply the central ideas in Biological organisation to a structured course problem.",
+        "Check a solution to Biological organisation for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Biological organisation in General Biology I",
+          "paragraphs": [
+            "Biological organisation is studied here as a specific part of General Biology I. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Biology explains living systems across levels of organisation, from molecules and cells to organisms, populations, communities, and ecosystems. Strong explanations connect structure to function and distinguish observations from inferences. A proposed biological mechanism should be consistent with evidence and acknowledge variation among organisms.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At introductory level, establish accurate definitions first, then explain the relationship between concepts and practise a worked example. Be able to explain the idea in your own words rather than memorising a phrase."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the biological level being discussed, define the process, describe its sequence, connect each step to the outcome, and use an example. For comparisons, use the same criteria for both organisms or processes.",
+            "Apply that method directly to “Biological organisation”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of General Biology I; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A cell membrane is selectively permeable: some substances cross more readily than others. Small non-polar molecules can diffuse through the lipid bilayer, while ions generally require channels or transport proteins. The direction of net diffusion depends on the relevant concentration or electrochemical gradient.",
+            "Now adapt the example to the topic “Biological organisation”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Biological organisation include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Homeostasis",
+          "definition": "Regulation that maintains internal conditions within a viable range."
+        },
+        {
+          "term": "Diffusion",
+          "definition": "Net movement down a concentration gradient due to random molecular motion."
+        },
+        {
+          "term": "Ecosystem",
+          "definition": "Organisms interacting with one another and with their physical environment."
+        },
+        {
+          "term": "Biological organisation",
+          "definition": "The specific concept or method examined in this topic within General Biology I; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Biological organisation",
+          "steps": [
+            "For “Biological organisation”, connect structure to function and explain the process in sequence. Identify the biological level, the relevant variables or conditions, and what evidence would support the explanation. Distinguish a well-supported mechanism from a simplified model.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "bio-101-biological-organisation-q1",
+          "type": "mcq",
+          "prompt": "Which answer best demonstrates understanding of Biological organisation?",
+          "options": [
+            "A mechanism explained step by step with structure, function, and relevant conditions",
+            "A definition without any biological relationship",
+            "A claim that ignores variation and conditions",
+            "A list of terms without a process"
+          ],
+          "answerIndex": 0,
+          "explanation": "Biological explanations connect mechanism, structure, function, and evidence."
+        },
+        {
+          "id": "bio-101-biological-organisation-q2",
+          "type": "short-answer",
+          "prompt": "Explain Biological organisation in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Biological organisation accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "bio-101-biological-organisation-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Biological organisation. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "ecology-and-ecosystems",
+      "title": "Ecology and ecosystems",
+      "description": "Ecology and ecosystems: a structured set of explanations, method, worked application, and critical checks for General Biology I.",
+      "estimatedMinutes": 20,
+      "difficulty": "introductory",
+      "learningObjectives": [
+        "Define and explain Ecology and ecosystems accurately.",
+        "Apply the central ideas in Ecology and ecosystems to a structured course problem.",
+        "Check a solution to Ecology and ecosystems for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Ecology and ecosystems in General Biology I",
+          "paragraphs": [
+            "Ecology and ecosystems is studied here as a specific part of General Biology I. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Biology explains living systems across levels of organisation, from molecules and cells to organisms, populations, communities, and ecosystems. Strong explanations connect structure to function and distinguish observations from inferences. A proposed biological mechanism should be consistent with evidence and acknowledge variation among organisms.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At introductory level, establish accurate definitions first, then explain the relationship between concepts and practise a worked example. Be able to explain the idea in your own words rather than memorising a phrase."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the biological level being discussed, define the process, describe its sequence, connect each step to the outcome, and use an example. For comparisons, use the same criteria for both organisms or processes.",
+            "Apply that method directly to “Ecology and ecosystems”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of General Biology I; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A cell membrane is selectively permeable: some substances cross more readily than others. Small non-polar molecules can diffuse through the lipid bilayer, while ions generally require channels or transport proteins. The direction of net diffusion depends on the relevant concentration or electrochemical gradient.",
+            "Now adapt the example to the topic “Ecology and ecosystems”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Ecology and ecosystems include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Homeostasis",
+          "definition": "Regulation that maintains internal conditions within a viable range."
+        },
+        {
+          "term": "Diffusion",
+          "definition": "Net movement down a concentration gradient due to random molecular motion."
+        },
+        {
+          "term": "Ecosystem",
+          "definition": "Organisms interacting with one another and with their physical environment."
+        },
+        {
+          "term": "Ecology and ecosystems",
+          "definition": "The specific concept or method examined in this topic within General Biology I; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Ecology and ecosystems",
+          "steps": [
+            "For “Ecology and ecosystems”, connect structure to function and explain the process in sequence. Identify the biological level, the relevant variables or conditions, and what evidence would support the explanation. Distinguish a well-supported mechanism from a simplified model.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "bio-101-ecology-and-ecosystems-q1",
+          "type": "mcq",
+          "prompt": "Which answer best demonstrates understanding of Ecology and ecosystems?",
+          "options": [
+            "A mechanism explained step by step with structure, function, and relevant conditions",
+            "A definition without any biological relationship",
+            "A claim that ignores variation and conditions",
+            "A list of terms without a process"
+          ],
+          "answerIndex": 0,
+          "explanation": "Biological explanations connect mechanism, structure, function, and evidence."
+        },
+        {
+          "id": "bio-101-ecology-and-ecosystems-q2",
+          "type": "short-answer",
+          "prompt": "Explain Ecology and ecosystems in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Ecology and ecosystems accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "bio-101-ecology-and-ecosystems-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Ecology and ecosystems. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ],
+  "levelFit": "100-level undergraduate learning depth",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "All questions in this lesson are original practice questions unless a separate verified source record explicitly says otherwise."
+  }
+}

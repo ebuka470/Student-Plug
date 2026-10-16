@@ -1,0 +1,545 @@
+{
+  "courseId": "com-theory-201",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "200-level undergraduate learning depth",
+  "topics": [
+    {
+      "id": "transmission-and-interaction-models",
+      "title": "Transmission and interaction models",
+      "description": "Transmission and interaction models: a structured set of explanations, method, worked application, and critical checks for Communication Theories.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Transmission and interaction models accurately.",
+        "Apply the central ideas in Transmission and interaction models to a structured course problem.",
+        "Check a solution to Transmission and interaction models for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Transmission and interaction models in Communication Theories",
+          "paragraphs": [
+            "Transmission and interaction models is studied here as a specific part of Communication Theories. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Communication is a process shaped by sender, message, channel, audience, context, feedback, and noise. Media effects are not automatic: audience interpretation, prior knowledge, social networks, platform design, and political or commercial incentives can shape outcomes.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the communication problem and intended audience, choose a theory or measure that fits, distinguish exposure from engagement and outcomes, assess sampling and bias, and make claims proportional to the evidence.",
+            "Apply that method directly to “Transmission and interaction models”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Communication Theories; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A post receiving many views has demonstrated reach, not necessarily understanding or behaviour change. To assess learning, collect a measure aligned with the objective, such as a pre/post knowledge item or a carefully designed follow-up, while considering self-selection and privacy.",
+            "Now adapt the example to the topic “Transmission and interaction models”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Transmission and interaction models include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Audience segmentation",
+          "definition": "Grouping an audience using relevant characteristics or behaviours."
+        },
+        {
+          "term": "Framing",
+          "definition": "Selecting and emphasising aspects of an issue in ways that shape interpretation."
+        },
+        {
+          "term": "Construct validity",
+          "definition": "How well a measure captures the concept it claims to measure."
+        },
+        {
+          "term": "Transmission and interaction models",
+          "definition": "The specific concept or method examined in this topic within Communication Theories; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Transmission and interaction models",
+          "steps": [
+            "For “Transmission and interaction models”, define the audience and communication objective, identify the channel and measure, and separate exposure, engagement, knowledge, attitude, and behaviour outcomes. Explain how selection bias, platform incentives, or measurement choices could distort conclusions.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "com-theory-201-transmission-and-interaction-models-q1",
+          "type": "mcq",
+          "prompt": "When evaluating Transmission and interaction models, what is the strongest practice?",
+          "options": [
+            "Match the metric to the communication objective and acknowledge measurement limits",
+            "Treat views as proof of behaviour change",
+            "Assume all audiences interpret a message identically",
+            "Ignore privacy and consent"
+          ],
+          "answerIndex": 0,
+          "explanation": "Metrics must correspond to the objective; reach alone does not prove an outcome."
+        },
+        {
+          "id": "com-theory-201-transmission-and-interaction-models-q2",
+          "type": "short-answer",
+          "prompt": "Explain Transmission and interaction models in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Transmission and interaction models accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "com-theory-201-transmission-and-interaction-models-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Transmission and interaction models. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "agenda-setting-and-framing",
+      "title": "Agenda-setting and framing",
+      "description": "Agenda-setting and framing: a structured set of explanations, method, worked application, and critical checks for Communication Theories.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Agenda-setting and framing accurately.",
+        "Apply the central ideas in Agenda-setting and framing to a structured course problem.",
+        "Check a solution to Agenda-setting and framing for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Agenda-setting and framing in Communication Theories",
+          "paragraphs": [
+            "Agenda-setting and framing is studied here as a specific part of Communication Theories. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Communication is a process shaped by sender, message, channel, audience, context, feedback, and noise. Media effects are not automatic: audience interpretation, prior knowledge, social networks, platform design, and political or commercial incentives can shape outcomes.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the communication problem and intended audience, choose a theory or measure that fits, distinguish exposure from engagement and outcomes, assess sampling and bias, and make claims proportional to the evidence.",
+            "Apply that method directly to “Agenda-setting and framing”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Communication Theories; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A post receiving many views has demonstrated reach, not necessarily understanding or behaviour change. To assess learning, collect a measure aligned with the objective, such as a pre/post knowledge item or a carefully designed follow-up, while considering self-selection and privacy.",
+            "Now adapt the example to the topic “Agenda-setting and framing”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Agenda-setting and framing include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Audience segmentation",
+          "definition": "Grouping an audience using relevant characteristics or behaviours."
+        },
+        {
+          "term": "Framing",
+          "definition": "Selecting and emphasising aspects of an issue in ways that shape interpretation."
+        },
+        {
+          "term": "Construct validity",
+          "definition": "How well a measure captures the concept it claims to measure."
+        },
+        {
+          "term": "Agenda-setting and framing",
+          "definition": "The specific concept or method examined in this topic within Communication Theories; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Agenda-setting and framing",
+          "steps": [
+            "For “Agenda-setting and framing”, define the audience and communication objective, identify the channel and measure, and separate exposure, engagement, knowledge, attitude, and behaviour outcomes. Explain how selection bias, platform incentives, or measurement choices could distort conclusions.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "com-theory-201-agenda-setting-and-framing-q1",
+          "type": "mcq",
+          "prompt": "When evaluating Agenda-setting and framing, what is the strongest practice?",
+          "options": [
+            "Match the metric to the communication objective and acknowledge measurement limits",
+            "Treat views as proof of behaviour change",
+            "Assume all audiences interpret a message identically",
+            "Ignore privacy and consent"
+          ],
+          "answerIndex": 0,
+          "explanation": "Metrics must correspond to the objective; reach alone does not prove an outcome."
+        },
+        {
+          "id": "com-theory-201-agenda-setting-and-framing-q2",
+          "type": "short-answer",
+          "prompt": "Explain Agenda-setting and framing in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Agenda-setting and framing accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "com-theory-201-agenda-setting-and-framing-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Agenda-setting and framing. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "uses-and-gratifications",
+      "title": "Uses and gratifications",
+      "description": "Uses and gratifications: a structured set of explanations, method, worked application, and critical checks for Communication Theories.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Uses and gratifications accurately.",
+        "Apply the central ideas in Uses and gratifications to a structured course problem.",
+        "Check a solution to Uses and gratifications for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Uses and gratifications in Communication Theories",
+          "paragraphs": [
+            "Uses and gratifications is studied here as a specific part of Communication Theories. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Communication is a process shaped by sender, message, channel, audience, context, feedback, and noise. Media effects are not automatic: audience interpretation, prior knowledge, social networks, platform design, and political or commercial incentives can shape outcomes.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the communication problem and intended audience, choose a theory or measure that fits, distinguish exposure from engagement and outcomes, assess sampling and bias, and make claims proportional to the evidence.",
+            "Apply that method directly to “Uses and gratifications”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Communication Theories; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A post receiving many views has demonstrated reach, not necessarily understanding or behaviour change. To assess learning, collect a measure aligned with the objective, such as a pre/post knowledge item or a carefully designed follow-up, while considering self-selection and privacy.",
+            "Now adapt the example to the topic “Uses and gratifications”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Uses and gratifications include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Audience segmentation",
+          "definition": "Grouping an audience using relevant characteristics or behaviours."
+        },
+        {
+          "term": "Framing",
+          "definition": "Selecting and emphasising aspects of an issue in ways that shape interpretation."
+        },
+        {
+          "term": "Construct validity",
+          "definition": "How well a measure captures the concept it claims to measure."
+        },
+        {
+          "term": "Uses and gratifications",
+          "definition": "The specific concept or method examined in this topic within Communication Theories; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Uses and gratifications",
+          "steps": [
+            "For “Uses and gratifications”, define the audience and communication objective, identify the channel and measure, and separate exposure, engagement, knowledge, attitude, and behaviour outcomes. Explain how selection bias, platform incentives, or measurement choices could distort conclusions.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "com-theory-201-uses-and-gratifications-q1",
+          "type": "mcq",
+          "prompt": "When evaluating Uses and gratifications, what is the strongest practice?",
+          "options": [
+            "Match the metric to the communication objective and acknowledge measurement limits",
+            "Treat views as proof of behaviour change",
+            "Assume all audiences interpret a message identically",
+            "Ignore privacy and consent"
+          ],
+          "answerIndex": 0,
+          "explanation": "Metrics must correspond to the objective; reach alone does not prove an outcome."
+        },
+        {
+          "id": "com-theory-201-uses-and-gratifications-q2",
+          "type": "short-answer",
+          "prompt": "Explain Uses and gratifications in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Uses and gratifications accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "com-theory-201-uses-and-gratifications-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Uses and gratifications. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "media-effects-and-audience-agency",
+      "title": "Media effects and audience agency",
+      "description": "Media effects and audience agency: a structured set of explanations, method, worked application, and critical checks for Communication Theories.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Media effects and audience agency accurately.",
+        "Apply the central ideas in Media effects and audience agency to a structured course problem.",
+        "Check a solution to Media effects and audience agency for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Media effects and audience agency in Communication Theories",
+          "paragraphs": [
+            "Media effects and audience agency is studied here as a specific part of Communication Theories. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Communication is a process shaped by sender, message, channel, audience, context, feedback, and noise. Media effects are not automatic: audience interpretation, prior knowledge, social networks, platform design, and political or commercial incentives can shape outcomes.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the communication problem and intended audience, choose a theory or measure that fits, distinguish exposure from engagement and outcomes, assess sampling and bias, and make claims proportional to the evidence.",
+            "Apply that method directly to “Media effects and audience agency”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Communication Theories; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A post receiving many views has demonstrated reach, not necessarily understanding or behaviour change. To assess learning, collect a measure aligned with the objective, such as a pre/post knowledge item or a carefully designed follow-up, while considering self-selection and privacy.",
+            "Now adapt the example to the topic “Media effects and audience agency”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Media effects and audience agency include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Audience segmentation",
+          "definition": "Grouping an audience using relevant characteristics or behaviours."
+        },
+        {
+          "term": "Framing",
+          "definition": "Selecting and emphasising aspects of an issue in ways that shape interpretation."
+        },
+        {
+          "term": "Construct validity",
+          "definition": "How well a measure captures the concept it claims to measure."
+        },
+        {
+          "term": "Media effects and audience agency",
+          "definition": "The specific concept or method examined in this topic within Communication Theories; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Media effects and audience agency",
+          "steps": [
+            "For “Media effects and audience agency”, define the audience and communication objective, identify the channel and measure, and separate exposure, engagement, knowledge, attitude, and behaviour outcomes. Explain how selection bias, platform incentives, or measurement choices could distort conclusions.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "com-theory-201-media-effects-and-audience-agency-q1",
+          "type": "mcq",
+          "prompt": "When evaluating Media effects and audience agency, what is the strongest practice?",
+          "options": [
+            "Match the metric to the communication objective and acknowledge measurement limits",
+            "Treat views as proof of behaviour change",
+            "Assume all audiences interpret a message identically",
+            "Ignore privacy and consent"
+          ],
+          "answerIndex": 0,
+          "explanation": "Metrics must correspond to the objective; reach alone does not prove an outcome."
+        },
+        {
+          "id": "com-theory-201-media-effects-and-audience-agency-q2",
+          "type": "short-answer",
+          "prompt": "Explain Media effects and audience agency in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Media effects and audience agency accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "com-theory-201-media-effects-and-audience-agency-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Media effects and audience agency. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "theory-critique-and-application",
+      "title": "Theory critique and application",
+      "description": "Theory critique and application: a structured set of explanations, method, worked application, and critical checks for Communication Theories.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Theory critique and application accurately.",
+        "Apply the central ideas in Theory critique and application to a structured course problem.",
+        "Check a solution to Theory critique and application for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Theory critique and application in Communication Theories",
+          "paragraphs": [
+            "Theory critique and application is studied here as a specific part of Communication Theories. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Communication is a process shaped by sender, message, channel, audience, context, feedback, and noise. Media effects are not automatic: audience interpretation, prior knowledge, social networks, platform design, and political or commercial incentives can shape outcomes.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the communication problem and intended audience, choose a theory or measure that fits, distinguish exposure from engagement and outcomes, assess sampling and bias, and make claims proportional to the evidence.",
+            "Apply that method directly to “Theory critique and application”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Communication Theories; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A post receiving many views has demonstrated reach, not necessarily understanding or behaviour change. To assess learning, collect a measure aligned with the objective, such as a pre/post knowledge item or a carefully designed follow-up, while considering self-selection and privacy.",
+            "Now adapt the example to the topic “Theory critique and application”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Theory critique and application include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Audience segmentation",
+          "definition": "Grouping an audience using relevant characteristics or behaviours."
+        },
+        {
+          "term": "Framing",
+          "definition": "Selecting and emphasising aspects of an issue in ways that shape interpretation."
+        },
+        {
+          "term": "Construct validity",
+          "definition": "How well a measure captures the concept it claims to measure."
+        },
+        {
+          "term": "Theory critique and application",
+          "definition": "The specific concept or method examined in this topic within Communication Theories; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Theory critique and application",
+          "steps": [
+            "For “Theory critique and application”, define the audience and communication objective, identify the channel and measure, and separate exposure, engagement, knowledge, attitude, and behaviour outcomes. Explain how selection bias, platform incentives, or measurement choices could distort conclusions.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "com-theory-201-theory-critique-and-application-q1",
+          "type": "mcq",
+          "prompt": "When evaluating Theory critique and application, what is the strongest practice?",
+          "options": [
+            "Match the metric to the communication objective and acknowledge measurement limits",
+            "Treat views as proof of behaviour change",
+            "Assume all audiences interpret a message identically",
+            "Ignore privacy and consent"
+          ],
+          "answerIndex": 0,
+          "explanation": "Metrics must correspond to the objective; reach alone does not prove an outcome."
+        },
+        {
+          "id": "com-theory-201-theory-critique-and-application-q2",
+          "type": "short-answer",
+          "prompt": "Explain Theory critique and application in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Theory critique and application accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "com-theory-201-theory-critique-and-application-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Theory critique and application. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ],
+  "contentNotice": "Original instructional draft. Course title/code is illustrative and must be checked against the student’s current departmental course outline. Not an authentic past paper.",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "All questions in this lesson are original practice questions unless a separate verified source record explicitly says otherwise."
+  }
+}

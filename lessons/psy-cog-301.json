@@ -1,0 +1,544 @@
+{
+  "courseId": "psy-cog-301",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "300-level undergraduate learning depth",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "Original practice questions; no verified past papers included."
+  },
+  "topics": [
+    {
+      "id": "attention-and-selective-processing",
+      "title": "Attention and selective processing",
+      "description": "Attention and selective processing: a structured set of explanations, method, worked application, and critical checks for Cognitive Psychology.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Attention and selective processing accurately.",
+        "Apply the central ideas in Attention and selective processing to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Attention and selective processing in Cognitive Psychology",
+          "paragraphs": [
+            "Attention and selective processing is studied here as a specific part of Cognitive Psychology. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Psychology studies behaviour and mental processes using multiple methods. Correlation indicates association but does not establish that one variable causes another. Psychological measures require evidence of reliability and validity, and findings should be interpreted with attention to context, culture, sampling, and ethical constraints.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the construct, explain how it is measured, identify the design, state what inference the design supports, and discuss alternative explanations. Avoid diagnosing a person from a single behaviour or treating a group-level pattern as a certainty about an individual.",
+            "Apply that method directly to “Attention and selective processing”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Cognitive Psychology; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If students who sleep longer also report higher concentration, the association could reflect sleep effects, but workload, health, stress, or other factors may influence both. A cross-sectional correlation alone cannot establish the direction or causal mechanism.",
+            "Now adapt the example to the topic “Attention and selective processing”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Attention and selective processing include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Construct",
+          "definition": "A theoretical attribute that is not always directly observable."
+        },
+        {
+          "term": "Reliability",
+          "definition": "Consistency of measurement under specified conditions."
+        },
+        {
+          "term": "Validity",
+          "definition": "Evidence that supports the intended interpretation and use of a measure."
+        },
+        {
+          "term": "Attention and selective processing",
+          "definition": "The specific concept or method examined in this topic within Cognitive Psychology; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Attention and selective processing",
+          "steps": [
+            "For “Attention and selective processing”, define the psychological construct and distinguish it from related constructs. Explain how it would be observed or measured, what alternative explanations could affect the result, and how culture, context, and individual differences constrain interpretation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "psy-cog-301-attention-and-selective-processing-q1",
+          "type": "mcq",
+          "prompt": "Which conclusion is most defensible in a psychology question on Attention and selective processing?",
+          "options": [
+            "A conclusion proportionate to the design and measurement evidence",
+            "A diagnosis based on one isolated behaviour",
+            "A causal claim from any correlation",
+            "A claim that ignores context and measurement validity"
+          ],
+          "answerIndex": 0,
+          "explanation": "Interpretations must match the design, measurement quality, and evidence."
+        },
+        {
+          "id": "psy-cog-301-attention-and-selective-processing-q2",
+          "type": "short-answer",
+          "prompt": "Explain Attention and selective processing in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Attention and selective processing accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "psy-cog-301-attention-and-selective-processing-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Attention and selective processing. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "working-memory-and-long-term-memory",
+      "title": "Working memory and long-term memory",
+      "description": "Working memory and long-term memory: a structured set of explanations, method, worked application, and critical checks for Cognitive Psychology.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Working memory and long-term memory accurately.",
+        "Apply the central ideas in Working memory and long-term memory to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Working memory and long-term memory in Cognitive Psychology",
+          "paragraphs": [
+            "Working memory and long-term memory is studied here as a specific part of Cognitive Psychology. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Psychology studies behaviour and mental processes using multiple methods. Correlation indicates association but does not establish that one variable causes another. Psychological measures require evidence of reliability and validity, and findings should be interpreted with attention to context, culture, sampling, and ethical constraints.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the construct, explain how it is measured, identify the design, state what inference the design supports, and discuss alternative explanations. Avoid diagnosing a person from a single behaviour or treating a group-level pattern as a certainty about an individual.",
+            "Apply that method directly to “Working memory and long-term memory”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Cognitive Psychology; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If students who sleep longer also report higher concentration, the association could reflect sleep effects, but workload, health, stress, or other factors may influence both. A cross-sectional correlation alone cannot establish the direction or causal mechanism.",
+            "Now adapt the example to the topic “Working memory and long-term memory”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Working memory and long-term memory include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Construct",
+          "definition": "A theoretical attribute that is not always directly observable."
+        },
+        {
+          "term": "Reliability",
+          "definition": "Consistency of measurement under specified conditions."
+        },
+        {
+          "term": "Validity",
+          "definition": "Evidence that supports the intended interpretation and use of a measure."
+        },
+        {
+          "term": "Working memory and long-term memory",
+          "definition": "The specific concept or method examined in this topic within Cognitive Psychology; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Working memory and long-term memory",
+          "steps": [
+            "For “Working memory and long-term memory”, define the psychological construct and distinguish it from related constructs. Explain how it would be observed or measured, what alternative explanations could affect the result, and how culture, context, and individual differences constrain interpretation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "psy-cog-301-working-memory-and-long-term-memory-q1",
+          "type": "mcq",
+          "prompt": "Which conclusion is most defensible in a psychology question on Working memory and long-term memory?",
+          "options": [
+            "A conclusion proportionate to the design and measurement evidence",
+            "A diagnosis based on one isolated behaviour",
+            "A causal claim from any correlation",
+            "A claim that ignores context and measurement validity"
+          ],
+          "answerIndex": 0,
+          "explanation": "Interpretations must match the design, measurement quality, and evidence."
+        },
+        {
+          "id": "psy-cog-301-working-memory-and-long-term-memory-q2",
+          "type": "short-answer",
+          "prompt": "Explain Working memory and long-term memory in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Working memory and long-term memory accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "psy-cog-301-working-memory-and-long-term-memory-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Working memory and long-term memory. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "learning-retrieval-and-forgetting",
+      "title": "Learning, retrieval, and forgetting",
+      "description": "Learning, retrieval, and forgetting: a structured set of explanations, method, worked application, and critical checks for Cognitive Psychology.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Learning, retrieval, and forgetting accurately.",
+        "Apply the central ideas in Learning, retrieval, and forgetting to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Learning, retrieval, and forgetting in Cognitive Psychology",
+          "paragraphs": [
+            "Learning, retrieval, and forgetting is studied here as a specific part of Cognitive Psychology. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Psychology studies behaviour and mental processes using multiple methods. Correlation indicates association but does not establish that one variable causes another. Psychological measures require evidence of reliability and validity, and findings should be interpreted with attention to context, culture, sampling, and ethical constraints.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the construct, explain how it is measured, identify the design, state what inference the design supports, and discuss alternative explanations. Avoid diagnosing a person from a single behaviour or treating a group-level pattern as a certainty about an individual.",
+            "Apply that method directly to “Learning, retrieval, and forgetting”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Cognitive Psychology; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If students who sleep longer also report higher concentration, the association could reflect sleep effects, but workload, health, stress, or other factors may influence both. A cross-sectional correlation alone cannot establish the direction or causal mechanism.",
+            "Now adapt the example to the topic “Learning, retrieval, and forgetting”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Learning, retrieval, and forgetting include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Construct",
+          "definition": "A theoretical attribute that is not always directly observable."
+        },
+        {
+          "term": "Reliability",
+          "definition": "Consistency of measurement under specified conditions."
+        },
+        {
+          "term": "Validity",
+          "definition": "Evidence that supports the intended interpretation and use of a measure."
+        },
+        {
+          "term": "Learning, retrieval, and forgetting",
+          "definition": "The specific concept or method examined in this topic within Cognitive Psychology; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Learning, retrieval, and forgetting",
+          "steps": [
+            "For “Learning, retrieval, and forgetting”, define the psychological construct and distinguish it from related constructs. Explain how it would be observed or measured, what alternative explanations could affect the result, and how culture, context, and individual differences constrain interpretation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "psy-cog-301-learning-retrieval-and-forgetting-q1",
+          "type": "mcq",
+          "prompt": "Which conclusion is most defensible in a psychology question on Learning, retrieval, and forgetting?",
+          "options": [
+            "A conclusion proportionate to the design and measurement evidence",
+            "A diagnosis based on one isolated behaviour",
+            "A causal claim from any correlation",
+            "A claim that ignores context and measurement validity"
+          ],
+          "answerIndex": 0,
+          "explanation": "Interpretations must match the design, measurement quality, and evidence."
+        },
+        {
+          "id": "psy-cog-301-learning-retrieval-and-forgetting-q2",
+          "type": "short-answer",
+          "prompt": "Explain Learning, retrieval, and forgetting in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Learning, retrieval, and forgetting accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "psy-cog-301-learning-retrieval-and-forgetting-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Learning, retrieval, and forgetting. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "language-reasoning-and-decision-making",
+      "title": "Language, reasoning, and decision-making",
+      "description": "Language, reasoning, and decision-making: a structured set of explanations, method, worked application, and critical checks for Cognitive Psychology.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Language, reasoning, and decision-making accurately.",
+        "Apply the central ideas in Language, reasoning, and decision-making to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Language, reasoning, and decision-making in Cognitive Psychology",
+          "paragraphs": [
+            "Language, reasoning, and decision-making is studied here as a specific part of Cognitive Psychology. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Psychology studies behaviour and mental processes using multiple methods. Correlation indicates association but does not establish that one variable causes another. Psychological measures require evidence of reliability and validity, and findings should be interpreted with attention to context, culture, sampling, and ethical constraints.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the construct, explain how it is measured, identify the design, state what inference the design supports, and discuss alternative explanations. Avoid diagnosing a person from a single behaviour or treating a group-level pattern as a certainty about an individual.",
+            "Apply that method directly to “Language, reasoning, and decision-making”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Cognitive Psychology; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If students who sleep longer also report higher concentration, the association could reflect sleep effects, but workload, health, stress, or other factors may influence both. A cross-sectional correlation alone cannot establish the direction or causal mechanism.",
+            "Now adapt the example to the topic “Language, reasoning, and decision-making”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Language, reasoning, and decision-making include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Construct",
+          "definition": "A theoretical attribute that is not always directly observable."
+        },
+        {
+          "term": "Reliability",
+          "definition": "Consistency of measurement under specified conditions."
+        },
+        {
+          "term": "Validity",
+          "definition": "Evidence that supports the intended interpretation and use of a measure."
+        },
+        {
+          "term": "Language, reasoning, and decision-making",
+          "definition": "The specific concept or method examined in this topic within Cognitive Psychology; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Language, reasoning, and decision-making",
+          "steps": [
+            "For “Language, reasoning, and decision-making”, define the psychological construct and distinguish it from related constructs. Explain how it would be observed or measured, what alternative explanations could affect the result, and how culture, context, and individual differences constrain interpretation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "psy-cog-301-language-reasoning-and-decision-making-q1",
+          "type": "mcq",
+          "prompt": "Which conclusion is most defensible in a psychology question on Language, reasoning, and decision-making?",
+          "options": [
+            "A conclusion proportionate to the design and measurement evidence",
+            "A diagnosis based on one isolated behaviour",
+            "A causal claim from any correlation",
+            "A claim that ignores context and measurement validity"
+          ],
+          "answerIndex": 0,
+          "explanation": "Interpretations must match the design, measurement quality, and evidence."
+        },
+        {
+          "id": "psy-cog-301-language-reasoning-and-decision-making-q2",
+          "type": "short-answer",
+          "prompt": "Explain Language, reasoning, and decision-making in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Language, reasoning, and decision-making accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "psy-cog-301-language-reasoning-and-decision-making-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Language, reasoning, and decision-making. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "cognitive-evidence-and-experimental-limits",
+      "title": "Cognitive evidence and experimental limits",
+      "description": "Cognitive evidence and experimental limits: a structured set of explanations, method, worked application, and critical checks for Cognitive Psychology.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Cognitive evidence and experimental limits accurately.",
+        "Apply the central ideas in Cognitive evidence and experimental limits to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Cognitive evidence and experimental limits in Cognitive Psychology",
+          "paragraphs": [
+            "Cognitive evidence and experimental limits is studied here as a specific part of Cognitive Psychology. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Psychology studies behaviour and mental processes using multiple methods. Correlation indicates association but does not establish that one variable causes another. Psychological measures require evidence of reliability and validity, and findings should be interpreted with attention to context, culture, sampling, and ethical constraints.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the construct, explain how it is measured, identify the design, state what inference the design supports, and discuss alternative explanations. Avoid diagnosing a person from a single behaviour or treating a group-level pattern as a certainty about an individual.",
+            "Apply that method directly to “Cognitive evidence and experimental limits”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Cognitive Psychology; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If students who sleep longer also report higher concentration, the association could reflect sleep effects, but workload, health, stress, or other factors may influence both. A cross-sectional correlation alone cannot establish the direction or causal mechanism.",
+            "Now adapt the example to the topic “Cognitive evidence and experimental limits”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Cognitive evidence and experimental limits include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Construct",
+          "definition": "A theoretical attribute that is not always directly observable."
+        },
+        {
+          "term": "Reliability",
+          "definition": "Consistency of measurement under specified conditions."
+        },
+        {
+          "term": "Validity",
+          "definition": "Evidence that supports the intended interpretation and use of a measure."
+        },
+        {
+          "term": "Cognitive evidence and experimental limits",
+          "definition": "The specific concept or method examined in this topic within Cognitive Psychology; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Cognitive evidence and experimental limits",
+          "steps": [
+            "For “Cognitive evidence and experimental limits”, define the psychological construct and distinguish it from related constructs. Explain how it would be observed or measured, what alternative explanations could affect the result, and how culture, context, and individual differences constrain interpretation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "psy-cog-301-cognitive-evidence-and-experimental-limits-q1",
+          "type": "mcq",
+          "prompt": "Which conclusion is most defensible in a psychology question on Cognitive evidence and experimental limits?",
+          "options": [
+            "A conclusion proportionate to the design and measurement evidence",
+            "A diagnosis based on one isolated behaviour",
+            "A causal claim from any correlation",
+            "A claim that ignores context and measurement validity"
+          ],
+          "answerIndex": 0,
+          "explanation": "Interpretations must match the design, measurement quality, and evidence."
+        },
+        {
+          "id": "psy-cog-301-cognitive-evidence-and-experimental-limits-q2",
+          "type": "short-answer",
+          "prompt": "Explain Cognitive evidence and experimental limits in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Cognitive evidence and experimental limits accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "psy-cog-301-cognitive-evidence-and-experimental-limits-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Cognitive evidence and experimental limits. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ]
+}

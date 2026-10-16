@@ -1,0 +1,545 @@
+{
+  "courseId": "eco-macro-301",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "300-level undergraduate learning depth",
+  "topics": [
+    {
+      "id": "national-income-accounting",
+      "title": "National income accounting",
+      "description": "National income accounting: a structured set of explanations, method, worked application, and critical checks for Macroeconomic Analysis.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain National income accounting accurately.",
+        "Apply the central ideas in National income accounting to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "National income accounting in Macroeconomic Analysis",
+          "paragraphs": [
+            "National income accounting is studied here as a specific part of Macroeconomic Analysis. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Economics studies choices under scarcity and how incentives shape allocation. Separate a movement along a curve, caused by a change in a variable already on an axis, from a shift of the entire curve caused by another determinant. State whether a claim is positive (testable) or normative (value-based).",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the market or decision-maker, state assumptions, identify the relevant curve or model, explain the causal chain, and evaluate short-run and long-run effects. Use a ceteris paribus statement when holding other influences constant.",
+            "Apply that method directly to “National income accounting”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Macroeconomic Analysis; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If demand rises while supply is unchanged, the demand curve shifts right. At the old price there is excess demand, which creates upward pressure on price. The new equilibrium generally has a higher price and higher quantity, provided the usual upward-sloping supply and downward-sloping demand assumptions hold.",
+            "Now adapt the example to the topic “National income accounting”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying National income accounting include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Opportunity cost",
+          "definition": "Value of the best alternative forgone."
+        },
+        {
+          "term": "Equilibrium",
+          "definition": "A point where opposing plans are mutually compatible under the model."
+        },
+        {
+          "term": "Elasticity",
+          "definition": "A proportional measure of responsiveness of one variable to another."
+        },
+        {
+          "term": "National income accounting",
+          "definition": "The specific concept or method examined in this topic within Macroeconomic Analysis; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: National income accounting",
+          "steps": [
+            "GDP measures the market value of final goods and services produced within a country during a period. Expenditure accounting uses GDP=C+I+G+(X−M), with definitions chosen to avoid double counting. GDP is not a complete measure of welfare: distribution, unpaid work, environmental costs, and leisure are not fully captured.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "eco-macro-301-national-income-accounting-q1",
+          "type": "mcq",
+          "prompt": "In the expenditure identity, what does X−M represent?",
+          "options": [
+            "Net exports",
+            "Household saving only",
+            "Government tax revenue",
+            "Depreciation only"
+          ],
+          "answerIndex": 0,
+          "explanation": "Net exports are exports minus imports."
+        },
+        {
+          "id": "eco-macro-301-national-income-accounting-q2",
+          "type": "short-answer",
+          "prompt": "Explain National income accounting in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines National income accounting accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "eco-macro-301-national-income-accounting-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about National income accounting. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "aggregate-demand-and-supply",
+      "title": "Aggregate demand and supply",
+      "description": "Aggregate demand and supply: a structured set of explanations, method, worked application, and critical checks for Macroeconomic Analysis.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Aggregate demand and supply accurately.",
+        "Apply the central ideas in Aggregate demand and supply to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Aggregate demand and supply in Macroeconomic Analysis",
+          "paragraphs": [
+            "Aggregate demand and supply is studied here as a specific part of Macroeconomic Analysis. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Economics studies choices under scarcity and how incentives shape allocation. Separate a movement along a curve, caused by a change in a variable already on an axis, from a shift of the entire curve caused by another determinant. State whether a claim is positive (testable) or normative (value-based).",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the market or decision-maker, state assumptions, identify the relevant curve or model, explain the causal chain, and evaluate short-run and long-run effects. Use a ceteris paribus statement when holding other influences constant.",
+            "Apply that method directly to “Aggregate demand and supply”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Macroeconomic Analysis; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If demand rises while supply is unchanged, the demand curve shifts right. At the old price there is excess demand, which creates upward pressure on price. The new equilibrium generally has a higher price and higher quantity, provided the usual upward-sloping supply and downward-sloping demand assumptions hold.",
+            "Now adapt the example to the topic “Aggregate demand and supply”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Aggregate demand and supply include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Opportunity cost",
+          "definition": "Value of the best alternative forgone."
+        },
+        {
+          "term": "Equilibrium",
+          "definition": "A point where opposing plans are mutually compatible under the model."
+        },
+        {
+          "term": "Elasticity",
+          "definition": "A proportional measure of responsiveness of one variable to another."
+        },
+        {
+          "term": "Aggregate demand and supply",
+          "definition": "The specific concept or method examined in this topic within Macroeconomic Analysis; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Aggregate demand and supply",
+          "steps": [
+            "Demand describes quantities consumers are willing and able to buy at different prices over a period, holding other determinants constant. Supply describes quantities producers are willing and able to offer. A change in the good’s own price produces movement along a curve; changes in income, tastes, input costs, technology, or expectations may shift a curve.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "eco-macro-301-aggregate-demand-and-supply-q1",
+          "type": "mcq",
+          "prompt": "If consumer income rises and the good is normal, what is the usual effect on demand?",
+          "options": [
+            "The demand curve shifts right",
+            "The supply curve must shift left",
+            "There is only movement along the demand curve caused by the good’s price",
+            "Demand becomes zero"
+          ],
+          "answerIndex": 0,
+          "explanation": "For a normal good, higher income tends to increase demand at each price, shifting the demand curve right."
+        },
+        {
+          "id": "eco-macro-301-aggregate-demand-and-supply-q2",
+          "type": "short-answer",
+          "prompt": "Explain Aggregate demand and supply in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Aggregate demand and supply accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "eco-macro-301-aggregate-demand-and-supply-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Aggregate demand and supply. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "money-interest-rates-and-monetary-policy",
+      "title": "Money, interest rates and monetary policy",
+      "description": "Money, interest rates and monetary policy: a structured set of explanations, method, worked application, and critical checks for Macroeconomic Analysis.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Money, interest rates and monetary policy accurately.",
+        "Apply the central ideas in Money, interest rates and monetary policy to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Money, interest rates and monetary policy in Macroeconomic Analysis",
+          "paragraphs": [
+            "Money, interest rates and monetary policy is studied here as a specific part of Macroeconomic Analysis. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Economics studies choices under scarcity and how incentives shape allocation. Separate a movement along a curve, caused by a change in a variable already on an axis, from a shift of the entire curve caused by another determinant. State whether a claim is positive (testable) or normative (value-based).",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the market or decision-maker, state assumptions, identify the relevant curve or model, explain the causal chain, and evaluate short-run and long-run effects. Use a ceteris paribus statement when holding other influences constant.",
+            "Apply that method directly to “Money, interest rates and monetary policy”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Macroeconomic Analysis; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If demand rises while supply is unchanged, the demand curve shifts right. At the old price there is excess demand, which creates upward pressure on price. The new equilibrium generally has a higher price and higher quantity, provided the usual upward-sloping supply and downward-sloping demand assumptions hold.",
+            "Now adapt the example to the topic “Money, interest rates and monetary policy”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Money, interest rates and monetary policy include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Opportunity cost",
+          "definition": "Value of the best alternative forgone."
+        },
+        {
+          "term": "Equilibrium",
+          "definition": "A point where opposing plans are mutually compatible under the model."
+        },
+        {
+          "term": "Elasticity",
+          "definition": "A proportional measure of responsiveness of one variable to another."
+        },
+        {
+          "term": "Money, interest rates and monetary policy",
+          "definition": "The specific concept or method examined in this topic within Macroeconomic Analysis; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Money, interest rates and monetary policy",
+          "steps": [
+            "For a case involving “Money, interest rates and monetary policy”, define the decision-maker and time period, state the model assumptions, identify the relevant incentives or constraints, and trace how a change affects behaviour and the resulting outcome. Distinguish a positive prediction from a normative judgement.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "eco-macro-301-money-interest-rates-and-monetary-policy-q1",
+          "type": "mcq",
+          "prompt": "Which is the best first step in analysing Money, interest rates and monetary policy?",
+          "options": [
+            "Define the model, variables, assumptions, and decision context",
+            "Assume every market has identical conditions",
+            "State a policy preference without analysis",
+            "Treat correlation as proof of causation"
+          ],
+          "answerIndex": 0,
+          "explanation": "Clear assumptions and context are needed before drawing a model-based conclusion."
+        },
+        {
+          "id": "eco-macro-301-money-interest-rates-and-monetary-policy-q2",
+          "type": "short-answer",
+          "prompt": "Explain Money, interest rates and monetary policy in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Money, interest rates and monetary policy accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "eco-macro-301-money-interest-rates-and-monetary-policy-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Money, interest rates and monetary policy. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "fiscal-policy-and-public-debt",
+      "title": "Fiscal policy and public debt",
+      "description": "Fiscal policy and public debt: a structured set of explanations, method, worked application, and critical checks for Macroeconomic Analysis.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Fiscal policy and public debt accurately.",
+        "Apply the central ideas in Fiscal policy and public debt to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Fiscal policy and public debt in Macroeconomic Analysis",
+          "paragraphs": [
+            "Fiscal policy and public debt is studied here as a specific part of Macroeconomic Analysis. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Economics studies choices under scarcity and how incentives shape allocation. Separate a movement along a curve, caused by a change in a variable already on an axis, from a shift of the entire curve caused by another determinant. State whether a claim is positive (testable) or normative (value-based).",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the market or decision-maker, state assumptions, identify the relevant curve or model, explain the causal chain, and evaluate short-run and long-run effects. Use a ceteris paribus statement when holding other influences constant.",
+            "Apply that method directly to “Fiscal policy and public debt”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Macroeconomic Analysis; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If demand rises while supply is unchanged, the demand curve shifts right. At the old price there is excess demand, which creates upward pressure on price. The new equilibrium generally has a higher price and higher quantity, provided the usual upward-sloping supply and downward-sloping demand assumptions hold.",
+            "Now adapt the example to the topic “Fiscal policy and public debt”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Fiscal policy and public debt include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Opportunity cost",
+          "definition": "Value of the best alternative forgone."
+        },
+        {
+          "term": "Equilibrium",
+          "definition": "A point where opposing plans are mutually compatible under the model."
+        },
+        {
+          "term": "Elasticity",
+          "definition": "A proportional measure of responsiveness of one variable to another."
+        },
+        {
+          "term": "Fiscal policy and public debt",
+          "definition": "The specific concept or method examined in this topic within Macroeconomic Analysis; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Fiscal policy and public debt",
+          "steps": [
+            "For a case involving “Fiscal policy and public debt”, define the decision-maker and time period, state the model assumptions, identify the relevant incentives or constraints, and trace how a change affects behaviour and the resulting outcome. Distinguish a positive prediction from a normative judgement.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "eco-macro-301-fiscal-policy-and-public-debt-q1",
+          "type": "mcq",
+          "prompt": "Which is the best first step in analysing Fiscal policy and public debt?",
+          "options": [
+            "Define the model, variables, assumptions, and decision context",
+            "Assume every market has identical conditions",
+            "State a policy preference without analysis",
+            "Treat correlation as proof of causation"
+          ],
+          "answerIndex": 0,
+          "explanation": "Clear assumptions and context are needed before drawing a model-based conclusion."
+        },
+        {
+          "id": "eco-macro-301-fiscal-policy-and-public-debt-q2",
+          "type": "short-answer",
+          "prompt": "Explain Fiscal policy and public debt in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Fiscal policy and public debt accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "eco-macro-301-fiscal-policy-and-public-debt-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Fiscal policy and public debt. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "inflation-unemployment-and-growth",
+      "title": "Inflation, unemployment and growth",
+      "description": "Inflation, unemployment and growth: a structured set of explanations, method, worked application, and critical checks for Macroeconomic Analysis.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Inflation, unemployment and growth accurately.",
+        "Apply the central ideas in Inflation, unemployment and growth to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Inflation, unemployment and growth in Macroeconomic Analysis",
+          "paragraphs": [
+            "Inflation, unemployment and growth is studied here as a specific part of Macroeconomic Analysis. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Economics studies choices under scarcity and how incentives shape allocation. Separate a movement along a curve, caused by a change in a variable already on an axis, from a shift of the entire curve caused by another determinant. State whether a claim is positive (testable) or normative (value-based).",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the market or decision-maker, state assumptions, identify the relevant curve or model, explain the causal chain, and evaluate short-run and long-run effects. Use a ceteris paribus statement when holding other influences constant.",
+            "Apply that method directly to “Inflation, unemployment and growth”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Macroeconomic Analysis; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If demand rises while supply is unchanged, the demand curve shifts right. At the old price there is excess demand, which creates upward pressure on price. The new equilibrium generally has a higher price and higher quantity, provided the usual upward-sloping supply and downward-sloping demand assumptions hold.",
+            "Now adapt the example to the topic “Inflation, unemployment and growth”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Inflation, unemployment and growth include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Opportunity cost",
+          "definition": "Value of the best alternative forgone."
+        },
+        {
+          "term": "Equilibrium",
+          "definition": "A point where opposing plans are mutually compatible under the model."
+        },
+        {
+          "term": "Elasticity",
+          "definition": "A proportional measure of responsiveness of one variable to another."
+        },
+        {
+          "term": "Inflation, unemployment and growth",
+          "definition": "The specific concept or method examined in this topic within Macroeconomic Analysis; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Inflation, unemployment and growth",
+          "steps": [
+            "For a case involving “Inflation, unemployment and growth”, define the decision-maker and time period, state the model assumptions, identify the relevant incentives or constraints, and trace how a change affects behaviour and the resulting outcome. Distinguish a positive prediction from a normative judgement.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "eco-macro-301-inflation-unemployment-and-growth-q1",
+          "type": "mcq",
+          "prompt": "Which is the best first step in analysing Inflation, unemployment and growth?",
+          "options": [
+            "Define the model, variables, assumptions, and decision context",
+            "Assume every market has identical conditions",
+            "State a policy preference without analysis",
+            "Treat correlation as proof of causation"
+          ],
+          "answerIndex": 0,
+          "explanation": "Clear assumptions and context are needed before drawing a model-based conclusion."
+        },
+        {
+          "id": "eco-macro-301-inflation-unemployment-and-growth-q2",
+          "type": "short-answer",
+          "prompt": "Explain Inflation, unemployment and growth in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Inflation, unemployment and growth accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "eco-macro-301-inflation-unemployment-and-growth-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Inflation, unemployment and growth. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ],
+  "contentNotice": "Original instructional draft. Course title/code is illustrative and must be checked against the student’s current departmental course outline. Not an authentic past paper.",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "All questions in this lesson are original practice questions unless a separate verified source record explicitly says otherwise."
+  }
+}

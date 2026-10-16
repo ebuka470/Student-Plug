@@ -1,0 +1,332 @@
+{
+  "courseId": "phy-101",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "topics": [
+    {
+      "id": "measurement-and-si-units",
+      "title": "Measurement and SI units",
+      "description": "Measurement and SI units: a structured set of explanations, method, worked application, and critical checks for General Physics I.",
+      "estimatedMinutes": 20,
+      "difficulty": "introductory",
+      "learningObjectives": [
+        "Define and explain Measurement and SI units accurately.",
+        "Apply the central ideas in Measurement and SI units to a structured course problem.",
+        "Check a solution to Measurement and SI units for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Measurement and SI units in General Physics I",
+          "paragraphs": [
+            "Measurement and SI units is studied here as a specific part of General Physics I. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "A physical model links measurable quantities through definitions and laws. Always distinguish scalar quantities, which have magnitude only, from vectors, which also have direction. State the reference frame and use SI units consistently. A formula is meaningful only when its assumptions match the physical situation.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At introductory level, establish accurate definitions first, then explain the relationship between concepts and practise a worked example. Be able to explain the idea in your own words rather than memorising a phrase."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "List known quantities with units, convert to SI, draw a labelled diagram where useful, choose the relevant law, substitute values with units, and assess whether the magnitude and direction of the answer are physically plausible.",
+            "Apply that method directly to “Measurement and SI units”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of General Physics I; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For uniform motion, average speed is distance divided by elapsed time. A student who covers 150 m in 30 s has average speed 150/30 = 5 m s⁻¹. This is speed, not velocity, unless direction or displacement is also specified.",
+            "Now adapt the example to the topic “Measurement and SI units”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Measurement and SI units include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Scalar",
+          "definition": "A quantity described by magnitude only."
+        },
+        {
+          "term": "Vector",
+          "definition": "A quantity with magnitude and direction."
+        },
+        {
+          "term": "Model assumption",
+          "definition": "A simplification accepted to make a physical problem tractable."
+        },
+        {
+          "term": "Measurement and SI units",
+          "definition": "The specific concept or method examined in this topic within General Physics I; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Measurement and SI units",
+          "steps": [
+            "For “Measurement and SI units”, draw a labelled representation, identify known and unknown quantities, select the relevant physical law, and state its assumptions. Convert to SI units and verify that the answer has the correct dimensions and physically sensible direction or magnitude.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "phy-101-measurement-and-si-units-q1",
+          "type": "mcq",
+          "prompt": "Which step should precede numerical substitution in a physics problem on Measurement and SI units?",
+          "options": [
+            "Identify the model, known quantities, unknown, and assumptions",
+            "Choose an equation because it contains the most symbols",
+            "Ignore units until the end",
+            "Assume every quantity is a scalar"
+          ],
+          "answerIndex": 0,
+          "explanation": "The equation must fit the physical model, variables, and units."
+        },
+        {
+          "id": "phy-101-measurement-and-si-units-q2",
+          "type": "short-answer",
+          "prompt": "Explain Measurement and SI units in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Measurement and SI units accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "phy-101-measurement-and-si-units-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Measurement and SI units. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "motion-and-speed",
+      "title": "Motion and speed",
+      "description": "Motion and speed: a structured set of explanations, method, worked application, and critical checks for General Physics I.",
+      "estimatedMinutes": 20,
+      "difficulty": "introductory",
+      "learningObjectives": [
+        "Define and explain Motion and speed accurately.",
+        "Apply the central ideas in Motion and speed to a structured course problem.",
+        "Check a solution to Motion and speed for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Motion and speed in General Physics I",
+          "paragraphs": [
+            "Motion and speed is studied here as a specific part of General Physics I. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "A physical model links measurable quantities through definitions and laws. Always distinguish scalar quantities, which have magnitude only, from vectors, which also have direction. State the reference frame and use SI units consistently. A formula is meaningful only when its assumptions match the physical situation.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At introductory level, establish accurate definitions first, then explain the relationship between concepts and practise a worked example. Be able to explain the idea in your own words rather than memorising a phrase."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "List known quantities with units, convert to SI, draw a labelled diagram where useful, choose the relevant law, substitute values with units, and assess whether the magnitude and direction of the answer are physically plausible.",
+            "Apply that method directly to “Motion and speed”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of General Physics I; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For uniform motion, average speed is distance divided by elapsed time. A student who covers 150 m in 30 s has average speed 150/30 = 5 m s⁻¹. This is speed, not velocity, unless direction or displacement is also specified.",
+            "Now adapt the example to the topic “Motion and speed”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Motion and speed include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Scalar",
+          "definition": "A quantity described by magnitude only."
+        },
+        {
+          "term": "Vector",
+          "definition": "A quantity with magnitude and direction."
+        },
+        {
+          "term": "Model assumption",
+          "definition": "A simplification accepted to make a physical problem tractable."
+        },
+        {
+          "term": "Motion and speed",
+          "definition": "The specific concept or method examined in this topic within General Physics I; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Motion and speed",
+          "steps": [
+            "For “Motion and speed”, draw a labelled representation, identify known and unknown quantities, select the relevant physical law, and state its assumptions. Convert to SI units and verify that the answer has the correct dimensions and physically sensible direction or magnitude.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "phy-101-motion-and-speed-q1",
+          "type": "mcq",
+          "prompt": "Which step should precede numerical substitution in a physics problem on Motion and speed?",
+          "options": [
+            "Identify the model, known quantities, unknown, and assumptions",
+            "Choose an equation because it contains the most symbols",
+            "Ignore units until the end",
+            "Assume every quantity is a scalar"
+          ],
+          "answerIndex": 0,
+          "explanation": "The equation must fit the physical model, variables, and units."
+        },
+        {
+          "id": "phy-101-motion-and-speed-q2",
+          "type": "short-answer",
+          "prompt": "Explain Motion and speed in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Motion and speed accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "phy-101-motion-and-speed-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Motion and speed. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "forces-and-newton-s-laws",
+      "title": "Forces and Newton’s laws",
+      "description": "Forces and Newton’s laws: a structured set of explanations, method, worked application, and critical checks for General Physics I.",
+      "estimatedMinutes": 20,
+      "difficulty": "introductory",
+      "learningObjectives": [
+        "Define and explain Forces and Newton’s laws accurately.",
+        "Apply the central ideas in Forces and Newton’s laws to a structured course problem.",
+        "Check a solution to Forces and Newton’s laws for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Forces and Newton’s laws in General Physics I",
+          "paragraphs": [
+            "Forces and Newton’s laws is studied here as a specific part of General Physics I. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "A physical model links measurable quantities through definitions and laws. Always distinguish scalar quantities, which have magnitude only, from vectors, which also have direction. State the reference frame and use SI units consistently. A formula is meaningful only when its assumptions match the physical situation.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At introductory level, establish accurate definitions first, then explain the relationship between concepts and practise a worked example. Be able to explain the idea in your own words rather than memorising a phrase."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "List known quantities with units, convert to SI, draw a labelled diagram where useful, choose the relevant law, substitute values with units, and assess whether the magnitude and direction of the answer are physically plausible.",
+            "Apply that method directly to “Forces and Newton’s laws”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of General Physics I; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For uniform motion, average speed is distance divided by elapsed time. A student who covers 150 m in 30 s has average speed 150/30 = 5 m s⁻¹. This is speed, not velocity, unless direction or displacement is also specified.",
+            "Now adapt the example to the topic “Forces and Newton’s laws”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Forces and Newton’s laws include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Scalar",
+          "definition": "A quantity described by magnitude only."
+        },
+        {
+          "term": "Vector",
+          "definition": "A quantity with magnitude and direction."
+        },
+        {
+          "term": "Model assumption",
+          "definition": "A simplification accepted to make a physical problem tractable."
+        },
+        {
+          "term": "Forces and Newton’s laws",
+          "definition": "The specific concept or method examined in this topic within General Physics I; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Forces and Newton’s laws",
+          "steps": [
+            "For “Forces and Newton’s laws”, draw a labelled representation, identify known and unknown quantities, select the relevant physical law, and state its assumptions. Convert to SI units and verify that the answer has the correct dimensions and physically sensible direction or magnitude.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "phy-101-forces-and-newton-s-laws-q1",
+          "type": "mcq",
+          "prompt": "Which step should precede numerical substitution in a physics problem on Forces and Newton’s laws?",
+          "options": [
+            "Identify the model, known quantities, unknown, and assumptions",
+            "Choose an equation because it contains the most symbols",
+            "Ignore units until the end",
+            "Assume every quantity is a scalar"
+          ],
+          "answerIndex": 0,
+          "explanation": "The equation must fit the physical model, variables, and units."
+        },
+        {
+          "id": "phy-101-forces-and-newton-s-laws-q2",
+          "type": "short-answer",
+          "prompt": "Explain Forces and Newton’s laws in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Forces and Newton’s laws accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "phy-101-forces-and-newton-s-laws-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Forces and Newton’s laws. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ],
+  "levelFit": "100-level undergraduate learning depth",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "All questions in this lesson are original practice questions unless a separate verified source record explicitly says otherwise."
+  }
+}

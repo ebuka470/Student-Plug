@@ -1,0 +1,544 @@
+{
+  "courseId": "eco-public-301",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "300-level undergraduate learning depth",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "Original practice questions; no verified past papers included."
+  },
+  "topics": [
+    {
+      "id": "public-goods-and-externalities",
+      "title": "Public goods and externalities",
+      "description": "Public goods and externalities: a structured set of explanations, method, worked application, and critical checks for Public Finance and Taxation.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Public goods and externalities accurately.",
+        "Apply the central ideas in Public goods and externalities to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Public goods and externalities in Public Finance and Taxation",
+          "paragraphs": [
+            "Public goods and externalities is studied here as a specific part of Public Finance and Taxation. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Economics studies choices under scarcity and how incentives shape allocation. Separate a movement along a curve, caused by a change in a variable already on an axis, from a shift of the entire curve caused by another determinant. State whether a claim is positive (testable) or normative (value-based).",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the market or decision-maker, state assumptions, identify the relevant curve or model, explain the causal chain, and evaluate short-run and long-run effects. Use a ceteris paribus statement when holding other influences constant.",
+            "Apply that method directly to “Public goods and externalities”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Public Finance and Taxation; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If demand rises while supply is unchanged, the demand curve shifts right. At the old price there is excess demand, which creates upward pressure on price. The new equilibrium generally has a higher price and higher quantity, provided the usual upward-sloping supply and downward-sloping demand assumptions hold.",
+            "Now adapt the example to the topic “Public goods and externalities”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Public goods and externalities include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Opportunity cost",
+          "definition": "Value of the best alternative forgone."
+        },
+        {
+          "term": "Equilibrium",
+          "definition": "A point where opposing plans are mutually compatible under the model."
+        },
+        {
+          "term": "Elasticity",
+          "definition": "A proportional measure of responsiveness of one variable to another."
+        },
+        {
+          "term": "Public goods and externalities",
+          "definition": "The specific concept or method examined in this topic within Public Finance and Taxation; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Public goods and externalities",
+          "steps": [
+            "In an accounting case about “Public goods and externalities”, identify the reporting period, the relevant accounts or disclosure, the applicable recognition/measurement principle, and the evidence supporting the treatment. Then explain the effect on profit, assets, liabilities, equity, or cash flow as appropriate.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "eco-public-301-public-goods-and-externalities-q1",
+          "type": "mcq",
+          "prompt": "Which approach is strongest when answering a question on Public goods and externalities?",
+          "options": [
+            "Identify the relevant accounting treatment, support it with facts, and explain the financial-statement effect",
+            "Choose a treatment solely because it improves profit",
+            "Ignore the reporting period",
+            "Record every transaction as cash revenue"
+          ],
+          "answerIndex": 0,
+          "explanation": "Accounting treatments should follow the applicable principles and evidence, not the desired result."
+        },
+        {
+          "id": "eco-public-301-public-goods-and-externalities-q2",
+          "type": "short-answer",
+          "prompt": "Explain Public goods and externalities in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Public goods and externalities accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "eco-public-301-public-goods-and-externalities-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Public goods and externalities. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "tax-bases-rates-and-incidence",
+      "title": "Tax bases, rates, and incidence",
+      "description": "Tax bases, rates, and incidence: a structured set of explanations, method, worked application, and critical checks for Public Finance and Taxation.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Tax bases, rates, and incidence accurately.",
+        "Apply the central ideas in Tax bases, rates, and incidence to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Tax bases, rates, and incidence in Public Finance and Taxation",
+          "paragraphs": [
+            "Tax bases, rates, and incidence is studied here as a specific part of Public Finance and Taxation. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Economics studies choices under scarcity and how incentives shape allocation. Separate a movement along a curve, caused by a change in a variable already on an axis, from a shift of the entire curve caused by another determinant. State whether a claim is positive (testable) or normative (value-based).",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the market or decision-maker, state assumptions, identify the relevant curve or model, explain the causal chain, and evaluate short-run and long-run effects. Use a ceteris paribus statement when holding other influences constant.",
+            "Apply that method directly to “Tax bases, rates, and incidence”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Public Finance and Taxation; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If demand rises while supply is unchanged, the demand curve shifts right. At the old price there is excess demand, which creates upward pressure on price. The new equilibrium generally has a higher price and higher quantity, provided the usual upward-sloping supply and downward-sloping demand assumptions hold.",
+            "Now adapt the example to the topic “Tax bases, rates, and incidence”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Tax bases, rates, and incidence include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Opportunity cost",
+          "definition": "Value of the best alternative forgone."
+        },
+        {
+          "term": "Equilibrium",
+          "definition": "A point where opposing plans are mutually compatible under the model."
+        },
+        {
+          "term": "Elasticity",
+          "definition": "A proportional measure of responsiveness of one variable to another."
+        },
+        {
+          "term": "Tax bases, rates, and incidence",
+          "definition": "The specific concept or method examined in this topic within Public Finance and Taxation; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Tax bases, rates, and incidence",
+          "steps": [
+            "In an accounting case about “Tax bases, rates, and incidence”, identify the reporting period, the relevant accounts or disclosure, the applicable recognition/measurement principle, and the evidence supporting the treatment. Then explain the effect on profit, assets, liabilities, equity, or cash flow as appropriate.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "eco-public-301-tax-bases-rates-and-incidence-q1",
+          "type": "mcq",
+          "prompt": "Which approach is strongest when answering a question on Tax bases, rates, and incidence?",
+          "options": [
+            "Identify the relevant accounting treatment, support it with facts, and explain the financial-statement effect",
+            "Choose a treatment solely because it improves profit",
+            "Ignore the reporting period",
+            "Record every transaction as cash revenue"
+          ],
+          "answerIndex": 0,
+          "explanation": "Accounting treatments should follow the applicable principles and evidence, not the desired result."
+        },
+        {
+          "id": "eco-public-301-tax-bases-rates-and-incidence-q2",
+          "type": "short-answer",
+          "prompt": "Explain Tax bases, rates, and incidence in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Tax bases, rates, and incidence accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "eco-public-301-tax-bases-rates-and-incidence-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Tax bases, rates, and incidence. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "efficiency-and-equity-in-taxation",
+      "title": "Efficiency and equity in taxation",
+      "description": "Efficiency and equity in taxation: a structured set of explanations, method, worked application, and critical checks for Public Finance and Taxation.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Efficiency and equity in taxation accurately.",
+        "Apply the central ideas in Efficiency and equity in taxation to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Efficiency and equity in taxation in Public Finance and Taxation",
+          "paragraphs": [
+            "Efficiency and equity in taxation is studied here as a specific part of Public Finance and Taxation. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Economics studies choices under scarcity and how incentives shape allocation. Separate a movement along a curve, caused by a change in a variable already on an axis, from a shift of the entire curve caused by another determinant. State whether a claim is positive (testable) or normative (value-based).",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the market or decision-maker, state assumptions, identify the relevant curve or model, explain the causal chain, and evaluate short-run and long-run effects. Use a ceteris paribus statement when holding other influences constant.",
+            "Apply that method directly to “Efficiency and equity in taxation”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Public Finance and Taxation; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If demand rises while supply is unchanged, the demand curve shifts right. At the old price there is excess demand, which creates upward pressure on price. The new equilibrium generally has a higher price and higher quantity, provided the usual upward-sloping supply and downward-sloping demand assumptions hold.",
+            "Now adapt the example to the topic “Efficiency and equity in taxation”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Efficiency and equity in taxation include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Opportunity cost",
+          "definition": "Value of the best alternative forgone."
+        },
+        {
+          "term": "Equilibrium",
+          "definition": "A point where opposing plans are mutually compatible under the model."
+        },
+        {
+          "term": "Elasticity",
+          "definition": "A proportional measure of responsiveness of one variable to another."
+        },
+        {
+          "term": "Efficiency and equity in taxation",
+          "definition": "The specific concept or method examined in this topic within Public Finance and Taxation; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Efficiency and equity in taxation",
+          "steps": [
+            "In an accounting case about “Efficiency and equity in taxation”, identify the reporting period, the relevant accounts or disclosure, the applicable recognition/measurement principle, and the evidence supporting the treatment. Then explain the effect on profit, assets, liabilities, equity, or cash flow as appropriate.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "eco-public-301-efficiency-and-equity-in-taxation-q1",
+          "type": "mcq",
+          "prompt": "Which approach is strongest when answering a question on Efficiency and equity in taxation?",
+          "options": [
+            "Identify the relevant accounting treatment, support it with facts, and explain the financial-statement effect",
+            "Choose a treatment solely because it improves profit",
+            "Ignore the reporting period",
+            "Record every transaction as cash revenue"
+          ],
+          "answerIndex": 0,
+          "explanation": "Accounting treatments should follow the applicable principles and evidence, not the desired result."
+        },
+        {
+          "id": "eco-public-301-efficiency-and-equity-in-taxation-q2",
+          "type": "short-answer",
+          "prompt": "Explain Efficiency and equity in taxation in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Efficiency and equity in taxation accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "eco-public-301-efficiency-and-equity-in-taxation-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Efficiency and equity in taxation. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "public-expenditure-and-budgeting",
+      "title": "Public expenditure and budgeting",
+      "description": "Public expenditure and budgeting: a structured set of explanations, method, worked application, and critical checks for Public Finance and Taxation.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Public expenditure and budgeting accurately.",
+        "Apply the central ideas in Public expenditure and budgeting to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Public expenditure and budgeting in Public Finance and Taxation",
+          "paragraphs": [
+            "Public expenditure and budgeting is studied here as a specific part of Public Finance and Taxation. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Economics studies choices under scarcity and how incentives shape allocation. Separate a movement along a curve, caused by a change in a variable already on an axis, from a shift of the entire curve caused by another determinant. State whether a claim is positive (testable) or normative (value-based).",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the market or decision-maker, state assumptions, identify the relevant curve or model, explain the causal chain, and evaluate short-run and long-run effects. Use a ceteris paribus statement when holding other influences constant.",
+            "Apply that method directly to “Public expenditure and budgeting”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Public Finance and Taxation; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If demand rises while supply is unchanged, the demand curve shifts right. At the old price there is excess demand, which creates upward pressure on price. The new equilibrium generally has a higher price and higher quantity, provided the usual upward-sloping supply and downward-sloping demand assumptions hold.",
+            "Now adapt the example to the topic “Public expenditure and budgeting”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Public expenditure and budgeting include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Opportunity cost",
+          "definition": "Value of the best alternative forgone."
+        },
+        {
+          "term": "Equilibrium",
+          "definition": "A point where opposing plans are mutually compatible under the model."
+        },
+        {
+          "term": "Elasticity",
+          "definition": "A proportional measure of responsiveness of one variable to another."
+        },
+        {
+          "term": "Public expenditure and budgeting",
+          "definition": "The specific concept or method examined in this topic within Public Finance and Taxation; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Public expenditure and budgeting",
+          "steps": [
+            "In an accounting case about “Public expenditure and budgeting”, identify the reporting period, the relevant accounts or disclosure, the applicable recognition/measurement principle, and the evidence supporting the treatment. Then explain the effect on profit, assets, liabilities, equity, or cash flow as appropriate.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "eco-public-301-public-expenditure-and-budgeting-q1",
+          "type": "mcq",
+          "prompt": "Which approach is strongest when answering a question on Public expenditure and budgeting?",
+          "options": [
+            "Identify the relevant accounting treatment, support it with facts, and explain the financial-statement effect",
+            "Choose a treatment solely because it improves profit",
+            "Ignore the reporting period",
+            "Record every transaction as cash revenue"
+          ],
+          "answerIndex": 0,
+          "explanation": "Accounting treatments should follow the applicable principles and evidence, not the desired result."
+        },
+        {
+          "id": "eco-public-301-public-expenditure-and-budgeting-q2",
+          "type": "short-answer",
+          "prompt": "Explain Public expenditure and budgeting in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Public expenditure and budgeting accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "eco-public-301-public-expenditure-and-budgeting-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Public expenditure and budgeting. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "fiscal-federalism-and-accountability",
+      "title": "Fiscal federalism and accountability",
+      "description": "Fiscal federalism and accountability: a structured set of explanations, method, worked application, and critical checks for Public Finance and Taxation.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Fiscal federalism and accountability accurately.",
+        "Apply the central ideas in Fiscal federalism and accountability to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Fiscal federalism and accountability in Public Finance and Taxation",
+          "paragraphs": [
+            "Fiscal federalism and accountability is studied here as a specific part of Public Finance and Taxation. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Economics studies choices under scarcity and how incentives shape allocation. Separate a movement along a curve, caused by a change in a variable already on an axis, from a shift of the entire curve caused by another determinant. State whether a claim is positive (testable) or normative (value-based).",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the market or decision-maker, state assumptions, identify the relevant curve or model, explain the causal chain, and evaluate short-run and long-run effects. Use a ceteris paribus statement when holding other influences constant.",
+            "Apply that method directly to “Fiscal federalism and accountability”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Public Finance and Taxation; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If demand rises while supply is unchanged, the demand curve shifts right. At the old price there is excess demand, which creates upward pressure on price. The new equilibrium generally has a higher price and higher quantity, provided the usual upward-sloping supply and downward-sloping demand assumptions hold.",
+            "Now adapt the example to the topic “Fiscal federalism and accountability”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Fiscal federalism and accountability include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Opportunity cost",
+          "definition": "Value of the best alternative forgone."
+        },
+        {
+          "term": "Equilibrium",
+          "definition": "A point where opposing plans are mutually compatible under the model."
+        },
+        {
+          "term": "Elasticity",
+          "definition": "A proportional measure of responsiveness of one variable to another."
+        },
+        {
+          "term": "Fiscal federalism and accountability",
+          "definition": "The specific concept or method examined in this topic within Public Finance and Taxation; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Fiscal federalism and accountability",
+          "steps": [
+            "In an accounting case about “Fiscal federalism and accountability”, identify the reporting period, the relevant accounts or disclosure, the applicable recognition/measurement principle, and the evidence supporting the treatment. Then explain the effect on profit, assets, liabilities, equity, or cash flow as appropriate.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "eco-public-301-fiscal-federalism-and-accountability-q1",
+          "type": "mcq",
+          "prompt": "Which approach is strongest when answering a question on Fiscal federalism and accountability?",
+          "options": [
+            "Identify the relevant accounting treatment, support it with facts, and explain the financial-statement effect",
+            "Choose a treatment solely because it improves profit",
+            "Ignore the reporting period",
+            "Record every transaction as cash revenue"
+          ],
+          "answerIndex": 0,
+          "explanation": "Accounting treatments should follow the applicable principles and evidence, not the desired result."
+        },
+        {
+          "id": "eco-public-301-fiscal-federalism-and-accountability-q2",
+          "type": "short-answer",
+          "prompt": "Explain Fiscal federalism and accountability in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Fiscal federalism and accountability accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "eco-public-301-fiscal-federalism-and-accountability-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Fiscal federalism and accountability. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ]
+}

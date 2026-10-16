@@ -1,0 +1,545 @@
+{
+  "courseId": "eco-dev-401",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "400-level undergraduate learning depth",
+  "topics": [
+    {
+      "id": "measuring-poverty-and-inequality",
+      "title": "Measuring poverty and inequality",
+      "description": "Measuring poverty and inequality: a structured set of explanations, method, worked application, and critical checks for Development Economics.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Measuring poverty and inequality accurately.",
+        "Apply the central ideas in Measuring poverty and inequality to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Measuring poverty and inequality in Development Economics",
+          "paragraphs": [
+            "Measuring poverty and inequality is studied here as a specific part of Development Economics. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Economics studies choices under scarcity and how incentives shape allocation. Separate a movement along a curve, caused by a change in a variable already on an axis, from a shift of the entire curve caused by another determinant. State whether a claim is positive (testable) or normative (value-based).",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the market or decision-maker, state assumptions, identify the relevant curve or model, explain the causal chain, and evaluate short-run and long-run effects. Use a ceteris paribus statement when holding other influences constant.",
+            "Apply that method directly to “Measuring poverty and inequality”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Development Economics; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If demand rises while supply is unchanged, the demand curve shifts right. At the old price there is excess demand, which creates upward pressure on price. The new equilibrium generally has a higher price and higher quantity, provided the usual upward-sloping supply and downward-sloping demand assumptions hold.",
+            "Now adapt the example to the topic “Measuring poverty and inequality”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Measuring poverty and inequality include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Opportunity cost",
+          "definition": "Value of the best alternative forgone."
+        },
+        {
+          "term": "Equilibrium",
+          "definition": "A point where opposing plans are mutually compatible under the model."
+        },
+        {
+          "term": "Elasticity",
+          "definition": "A proportional measure of responsiveness of one variable to another."
+        },
+        {
+          "term": "Measuring poverty and inequality",
+          "definition": "The specific concept or method examined in this topic within Development Economics; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Measuring poverty and inequality",
+          "steps": [
+            "For a case involving “Measuring poverty and inequality”, define the decision-maker and time period, state the model assumptions, identify the relevant incentives or constraints, and trace how a change affects behaviour and the resulting outcome. Distinguish a positive prediction from a normative judgement.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "eco-dev-401-measuring-poverty-and-inequality-q1",
+          "type": "mcq",
+          "prompt": "Which is the best first step in analysing Measuring poverty and inequality?",
+          "options": [
+            "Define the model, variables, assumptions, and decision context",
+            "Assume every market has identical conditions",
+            "State a policy preference without analysis",
+            "Treat correlation as proof of causation"
+          ],
+          "answerIndex": 0,
+          "explanation": "Clear assumptions and context are needed before drawing a model-based conclusion."
+        },
+        {
+          "id": "eco-dev-401-measuring-poverty-and-inequality-q2",
+          "type": "short-answer",
+          "prompt": "Explain Measuring poverty and inequality in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Measuring poverty and inequality accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "eco-dev-401-measuring-poverty-and-inequality-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Measuring poverty and inequality. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "human-capital-and-demographic-change",
+      "title": "Human capital and demographic change",
+      "description": "Human capital and demographic change: a structured set of explanations, method, worked application, and critical checks for Development Economics.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Human capital and demographic change accurately.",
+        "Apply the central ideas in Human capital and demographic change to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Human capital and demographic change in Development Economics",
+          "paragraphs": [
+            "Human capital and demographic change is studied here as a specific part of Development Economics. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Economics studies choices under scarcity and how incentives shape allocation. Separate a movement along a curve, caused by a change in a variable already on an axis, from a shift of the entire curve caused by another determinant. State whether a claim is positive (testable) or normative (value-based).",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the market or decision-maker, state assumptions, identify the relevant curve or model, explain the causal chain, and evaluate short-run and long-run effects. Use a ceteris paribus statement when holding other influences constant.",
+            "Apply that method directly to “Human capital and demographic change”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Development Economics; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If demand rises while supply is unchanged, the demand curve shifts right. At the old price there is excess demand, which creates upward pressure on price. The new equilibrium generally has a higher price and higher quantity, provided the usual upward-sloping supply and downward-sloping demand assumptions hold.",
+            "Now adapt the example to the topic “Human capital and demographic change”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Human capital and demographic change include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Opportunity cost",
+          "definition": "Value of the best alternative forgone."
+        },
+        {
+          "term": "Equilibrium",
+          "definition": "A point where opposing plans are mutually compatible under the model."
+        },
+        {
+          "term": "Elasticity",
+          "definition": "A proportional measure of responsiveness of one variable to another."
+        },
+        {
+          "term": "Human capital and demographic change",
+          "definition": "The specific concept or method examined in this topic within Development Economics; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Human capital and demographic change",
+          "steps": [
+            "For a case involving “Human capital and demographic change”, define the decision-maker and time period, state the model assumptions, identify the relevant incentives or constraints, and trace how a change affects behaviour and the resulting outcome. Distinguish a positive prediction from a normative judgement.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "eco-dev-401-human-capital-and-demographic-change-q1",
+          "type": "mcq",
+          "prompt": "Which is the best first step in analysing Human capital and demographic change?",
+          "options": [
+            "Define the model, variables, assumptions, and decision context",
+            "Assume every market has identical conditions",
+            "State a policy preference without analysis",
+            "Treat correlation as proof of causation"
+          ],
+          "answerIndex": 0,
+          "explanation": "Clear assumptions and context are needed before drawing a model-based conclusion."
+        },
+        {
+          "id": "eco-dev-401-human-capital-and-demographic-change-q2",
+          "type": "short-answer",
+          "prompt": "Explain Human capital and demographic change in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Human capital and demographic change accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "eco-dev-401-human-capital-and-demographic-change-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Human capital and demographic change. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "institutions-and-governance",
+      "title": "Institutions and governance",
+      "description": "Institutions and governance: a structured set of explanations, method, worked application, and critical checks for Development Economics.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Institutions and governance accurately.",
+        "Apply the central ideas in Institutions and governance to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Institutions and governance in Development Economics",
+          "paragraphs": [
+            "Institutions and governance is studied here as a specific part of Development Economics. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Economics studies choices under scarcity and how incentives shape allocation. Separate a movement along a curve, caused by a change in a variable already on an axis, from a shift of the entire curve caused by another determinant. State whether a claim is positive (testable) or normative (value-based).",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the market or decision-maker, state assumptions, identify the relevant curve or model, explain the causal chain, and evaluate short-run and long-run effects. Use a ceteris paribus statement when holding other influences constant.",
+            "Apply that method directly to “Institutions and governance”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Development Economics; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If demand rises while supply is unchanged, the demand curve shifts right. At the old price there is excess demand, which creates upward pressure on price. The new equilibrium generally has a higher price and higher quantity, provided the usual upward-sloping supply and downward-sloping demand assumptions hold.",
+            "Now adapt the example to the topic “Institutions and governance”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Institutions and governance include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Opportunity cost",
+          "definition": "Value of the best alternative forgone."
+        },
+        {
+          "term": "Equilibrium",
+          "definition": "A point where opposing plans are mutually compatible under the model."
+        },
+        {
+          "term": "Elasticity",
+          "definition": "A proportional measure of responsiveness of one variable to another."
+        },
+        {
+          "term": "Institutions and governance",
+          "definition": "The specific concept or method examined in this topic within Development Economics; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Institutions and governance",
+          "steps": [
+            "For a case involving “Institutions and governance”, define the decision-maker and time period, state the model assumptions, identify the relevant incentives or constraints, and trace how a change affects behaviour and the resulting outcome. Distinguish a positive prediction from a normative judgement.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "eco-dev-401-institutions-and-governance-q1",
+          "type": "mcq",
+          "prompt": "Which is the best first step in analysing Institutions and governance?",
+          "options": [
+            "Define the model, variables, assumptions, and decision context",
+            "Assume every market has identical conditions",
+            "State a policy preference without analysis",
+            "Treat correlation as proof of causation"
+          ],
+          "answerIndex": 0,
+          "explanation": "Clear assumptions and context are needed before drawing a model-based conclusion."
+        },
+        {
+          "id": "eco-dev-401-institutions-and-governance-q2",
+          "type": "short-answer",
+          "prompt": "Explain Institutions and governance in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Institutions and governance accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "eco-dev-401-institutions-and-governance-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Institutions and governance. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "agriculture-industry-and-structural-transformation",
+      "title": "Agriculture, industry and structural transformation",
+      "description": "Agriculture, industry and structural transformation: a structured set of explanations, method, worked application, and critical checks for Development Economics.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Agriculture, industry and structural transformation accurately.",
+        "Apply the central ideas in Agriculture, industry and structural transformation to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Agriculture, industry and structural transformation in Development Economics",
+          "paragraphs": [
+            "Agriculture, industry and structural transformation is studied here as a specific part of Development Economics. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Economics studies choices under scarcity and how incentives shape allocation. Separate a movement along a curve, caused by a change in a variable already on an axis, from a shift of the entire curve caused by another determinant. State whether a claim is positive (testable) or normative (value-based).",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the market or decision-maker, state assumptions, identify the relevant curve or model, explain the causal chain, and evaluate short-run and long-run effects. Use a ceteris paribus statement when holding other influences constant.",
+            "Apply that method directly to “Agriculture, industry and structural transformation”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Development Economics; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If demand rises while supply is unchanged, the demand curve shifts right. At the old price there is excess demand, which creates upward pressure on price. The new equilibrium generally has a higher price and higher quantity, provided the usual upward-sloping supply and downward-sloping demand assumptions hold.",
+            "Now adapt the example to the topic “Agriculture, industry and structural transformation”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Agriculture, industry and structural transformation include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Opportunity cost",
+          "definition": "Value of the best alternative forgone."
+        },
+        {
+          "term": "Equilibrium",
+          "definition": "A point where opposing plans are mutually compatible under the model."
+        },
+        {
+          "term": "Elasticity",
+          "definition": "A proportional measure of responsiveness of one variable to another."
+        },
+        {
+          "term": "Agriculture, industry and structural transformation",
+          "definition": "The specific concept or method examined in this topic within Development Economics; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Agriculture, industry and structural transformation",
+          "steps": [
+            "For a case involving “Agriculture, industry and structural transformation”, define the decision-maker and time period, state the model assumptions, identify the relevant incentives or constraints, and trace how a change affects behaviour and the resulting outcome. Distinguish a positive prediction from a normative judgement.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "eco-dev-401-agriculture-industry-and-structural-transformation-q1",
+          "type": "mcq",
+          "prompt": "Which is the best first step in analysing Agriculture, industry and structural transformation?",
+          "options": [
+            "Define the model, variables, assumptions, and decision context",
+            "Assume every market has identical conditions",
+            "State a policy preference without analysis",
+            "Treat correlation as proof of causation"
+          ],
+          "answerIndex": 0,
+          "explanation": "Clear assumptions and context are needed before drawing a model-based conclusion."
+        },
+        {
+          "id": "eco-dev-401-agriculture-industry-and-structural-transformation-q2",
+          "type": "short-answer",
+          "prompt": "Explain Agriculture, industry and structural transformation in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Agriculture, industry and structural transformation accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "eco-dev-401-agriculture-industry-and-structural-transformation-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Agriculture, industry and structural transformation. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "evaluating-development-interventions",
+      "title": "Evaluating development interventions",
+      "description": "Evaluating development interventions: a structured set of explanations, method, worked application, and critical checks for Development Economics.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Evaluating development interventions accurately.",
+        "Apply the central ideas in Evaluating development interventions to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Evaluating development interventions in Development Economics",
+          "paragraphs": [
+            "Evaluating development interventions is studied here as a specific part of Development Economics. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Economics studies choices under scarcity and how incentives shape allocation. Separate a movement along a curve, caused by a change in a variable already on an axis, from a shift of the entire curve caused by another determinant. State whether a claim is positive (testable) or normative (value-based).",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the market or decision-maker, state assumptions, identify the relevant curve or model, explain the causal chain, and evaluate short-run and long-run effects. Use a ceteris paribus statement when holding other influences constant.",
+            "Apply that method directly to “Evaluating development interventions”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Development Economics; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If demand rises while supply is unchanged, the demand curve shifts right. At the old price there is excess demand, which creates upward pressure on price. The new equilibrium generally has a higher price and higher quantity, provided the usual upward-sloping supply and downward-sloping demand assumptions hold.",
+            "Now adapt the example to the topic “Evaluating development interventions”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Evaluating development interventions include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Opportunity cost",
+          "definition": "Value of the best alternative forgone."
+        },
+        {
+          "term": "Equilibrium",
+          "definition": "A point where opposing plans are mutually compatible under the model."
+        },
+        {
+          "term": "Elasticity",
+          "definition": "A proportional measure of responsiveness of one variable to another."
+        },
+        {
+          "term": "Evaluating development interventions",
+          "definition": "The specific concept or method examined in this topic within Development Economics; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Evaluating development interventions",
+          "steps": [
+            "For a case involving “Evaluating development interventions”, define the decision-maker and time period, state the model assumptions, identify the relevant incentives or constraints, and trace how a change affects behaviour and the resulting outcome. Distinguish a positive prediction from a normative judgement.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "eco-dev-401-evaluating-development-interventions-q1",
+          "type": "mcq",
+          "prompt": "Which is the best first step in analysing Evaluating development interventions?",
+          "options": [
+            "Define the model, variables, assumptions, and decision context",
+            "Assume every market has identical conditions",
+            "State a policy preference without analysis",
+            "Treat correlation as proof of causation"
+          ],
+          "answerIndex": 0,
+          "explanation": "Clear assumptions and context are needed before drawing a model-based conclusion."
+        },
+        {
+          "id": "eco-dev-401-evaluating-development-interventions-q2",
+          "type": "short-answer",
+          "prompt": "Explain Evaluating development interventions in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Evaluating development interventions accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "eco-dev-401-evaluating-development-interventions-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Evaluating development interventions. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ],
+  "contentNotice": "Original instructional draft. Course title/code is illustrative and must be checked against the student’s current departmental course outline. Not an authentic past paper.",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "All questions in this lesson are original practice questions unless a separate verified source record explicitly says otherwise."
+  }
+}

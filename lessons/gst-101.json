@@ -1,0 +1,332 @@
+{
+  "courseId": "gst-101",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "topics": [
+    {
+      "id": "academic-reading",
+      "title": "Academic reading",
+      "description": "Academic reading: a structured set of explanations, method, worked application, and critical checks for Use of English.",
+      "estimatedMinutes": 20,
+      "difficulty": "introductory",
+      "learningObjectives": [
+        "Define and explain Academic reading accurately.",
+        "Apply the central ideas in Academic reading to a structured course problem.",
+        "Check a solution to Academic reading for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Academic reading in Use of English",
+          "paragraphs": [
+            "Academic reading is studied here as a specific part of Use of English. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "This topic should be learned as a connected argument rather than a list of isolated definitions. Identify the main concept, the relationship between its parts, the conditions under which the explanation applies, and a case that illustrates both the value and the limits of the idea.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At introductory level, establish accurate definitions first, then explain the relationship between concepts and practise a worked example. Be able to explain the idea in your own words rather than memorising a phrase."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Start with a precise definition, explain the mechanism in sequence, apply it to a concrete example, distinguish evidence from assumption, and conclude by answering the question directly. For compare/contrast prompts, use the same criteria for each side.",
+            "Apply that method directly to “Academic reading”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Use of English; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A strong examination response defines the central term, gives a relevant explanation, applies the concept to a realistic case, and then evaluates one limitation or alternative. This is more persuasive than listing terms without showing how they relate.",
+            "Now adapt the example to the topic “Academic reading”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Academic reading include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Concept",
+          "definition": "An abstract idea used to organise observations or reasoning."
+        },
+        {
+          "term": "Application",
+          "definition": "Using a principle or method to interpret a specific case."
+        },
+        {
+          "term": "Evaluation",
+          "definition": "Judging strengths, limitations, assumptions, and alternatives against stated criteria."
+        },
+        {
+          "term": "Academic reading",
+          "definition": "The specific concept or method examined in this topic within Use of English; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Academic reading",
+          "steps": [
+            "For “Academic reading”, define the concept, explain how its components relate, apply it to a concrete case, and state one assumption or limitation. Use evidence and explicit reasoning rather than relying on a memorised definition alone.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "gst-101-academic-reading-q1",
+          "type": "mcq",
+          "prompt": "Which approach best demonstrates understanding of Academic reading?",
+          "options": [
+            "Accurate definition, reasoned application, and a justified limitation",
+            "A memorised phrase with no application",
+            "An unsupported opinion",
+            "A list of unrelated terms"
+          ],
+          "answerIndex": 0,
+          "explanation": "Strong academic work links the definition to a justified application and acknowledges limits where relevant."
+        },
+        {
+          "id": "gst-101-academic-reading-q2",
+          "type": "short-answer",
+          "prompt": "Explain Academic reading in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Academic reading accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "gst-101-academic-reading-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Academic reading. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "paragraphs-and-coherence",
+      "title": "Paragraphs and coherence",
+      "description": "Paragraphs and coherence: a structured set of explanations, method, worked application, and critical checks for Use of English.",
+      "estimatedMinutes": 20,
+      "difficulty": "introductory",
+      "learningObjectives": [
+        "Define and explain Paragraphs and coherence accurately.",
+        "Apply the central ideas in Paragraphs and coherence to a structured course problem.",
+        "Check a solution to Paragraphs and coherence for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Paragraphs and coherence in Use of English",
+          "paragraphs": [
+            "Paragraphs and coherence is studied here as a specific part of Use of English. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "This topic should be learned as a connected argument rather than a list of isolated definitions. Identify the main concept, the relationship between its parts, the conditions under which the explanation applies, and a case that illustrates both the value and the limits of the idea.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At introductory level, establish accurate definitions first, then explain the relationship between concepts and practise a worked example. Be able to explain the idea in your own words rather than memorising a phrase."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Start with a precise definition, explain the mechanism in sequence, apply it to a concrete example, distinguish evidence from assumption, and conclude by answering the question directly. For compare/contrast prompts, use the same criteria for each side.",
+            "Apply that method directly to “Paragraphs and coherence”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Use of English; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A strong examination response defines the central term, gives a relevant explanation, applies the concept to a realistic case, and then evaluates one limitation or alternative. This is more persuasive than listing terms without showing how they relate.",
+            "Now adapt the example to the topic “Paragraphs and coherence”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Paragraphs and coherence include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Concept",
+          "definition": "An abstract idea used to organise observations or reasoning."
+        },
+        {
+          "term": "Application",
+          "definition": "Using a principle or method to interpret a specific case."
+        },
+        {
+          "term": "Evaluation",
+          "definition": "Judging strengths, limitations, assumptions, and alternatives against stated criteria."
+        },
+        {
+          "term": "Paragraphs and coherence",
+          "definition": "The specific concept or method examined in this topic within Use of English; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Paragraphs and coherence",
+          "steps": [
+            "For “Paragraphs and coherence”, define the concept, explain how its components relate, apply it to a concrete case, and state one assumption or limitation. Use evidence and explicit reasoning rather than relying on a memorised definition alone.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "gst-101-paragraphs-and-coherence-q1",
+          "type": "mcq",
+          "prompt": "Which approach best demonstrates understanding of Paragraphs and coherence?",
+          "options": [
+            "Accurate definition, reasoned application, and a justified limitation",
+            "A memorised phrase with no application",
+            "An unsupported opinion",
+            "A list of unrelated terms"
+          ],
+          "answerIndex": 0,
+          "explanation": "Strong academic work links the definition to a justified application and acknowledges limits where relevant."
+        },
+        {
+          "id": "gst-101-paragraphs-and-coherence-q2",
+          "type": "short-answer",
+          "prompt": "Explain Paragraphs and coherence in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Paragraphs and coherence accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "gst-101-paragraphs-and-coherence-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Paragraphs and coherence. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "referencing-and-academic-integrity",
+      "title": "Referencing and academic integrity",
+      "description": "Referencing and academic integrity: a structured set of explanations, method, worked application, and critical checks for Use of English.",
+      "estimatedMinutes": 20,
+      "difficulty": "introductory",
+      "learningObjectives": [
+        "Define and explain Referencing and academic integrity accurately.",
+        "Apply the central ideas in Referencing and academic integrity to a structured course problem.",
+        "Check a solution to Referencing and academic integrity for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Referencing and academic integrity in Use of English",
+          "paragraphs": [
+            "Referencing and academic integrity is studied here as a specific part of Use of English. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "This topic should be learned as a connected argument rather than a list of isolated definitions. Identify the main concept, the relationship between its parts, the conditions under which the explanation applies, and a case that illustrates both the value and the limits of the idea.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At introductory level, establish accurate definitions first, then explain the relationship between concepts and practise a worked example. Be able to explain the idea in your own words rather than memorising a phrase."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Start with a precise definition, explain the mechanism in sequence, apply it to a concrete example, distinguish evidence from assumption, and conclude by answering the question directly. For compare/contrast prompts, use the same criteria for each side.",
+            "Apply that method directly to “Referencing and academic integrity”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Use of English; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A strong examination response defines the central term, gives a relevant explanation, applies the concept to a realistic case, and then evaluates one limitation or alternative. This is more persuasive than listing terms without showing how they relate.",
+            "Now adapt the example to the topic “Referencing and academic integrity”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Referencing and academic integrity include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Concept",
+          "definition": "An abstract idea used to organise observations or reasoning."
+        },
+        {
+          "term": "Application",
+          "definition": "Using a principle or method to interpret a specific case."
+        },
+        {
+          "term": "Evaluation",
+          "definition": "Judging strengths, limitations, assumptions, and alternatives against stated criteria."
+        },
+        {
+          "term": "Referencing and academic integrity",
+          "definition": "The specific concept or method examined in this topic within Use of English; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Referencing and academic integrity",
+          "steps": [
+            "For “Referencing and academic integrity”, define the concept, explain how its components relate, apply it to a concrete case, and state one assumption or limitation. Use evidence and explicit reasoning rather than relying on a memorised definition alone.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "gst-101-referencing-and-academic-integrity-q1",
+          "type": "mcq",
+          "prompt": "Which approach best demonstrates understanding of Referencing and academic integrity?",
+          "options": [
+            "Accurate definition, reasoned application, and a justified limitation",
+            "A memorised phrase with no application",
+            "An unsupported opinion",
+            "A list of unrelated terms"
+          ],
+          "answerIndex": 0,
+          "explanation": "Strong academic work links the definition to a justified application and acknowledges limits where relevant."
+        },
+        {
+          "id": "gst-101-referencing-and-academic-integrity-q2",
+          "type": "short-answer",
+          "prompt": "Explain Referencing and academic integrity in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Referencing and academic integrity accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "gst-101-referencing-and-academic-integrity-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Referencing and academic integrity. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ],
+  "levelFit": "100-level undergraduate learning depth",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "All questions in this lesson are original practice questions unless a separate verified source record explicitly says otherwise."
+  }
+}

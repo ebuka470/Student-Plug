@@ -1,0 +1,545 @@
+{
+  "courseId": "cs-sec-401",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "400-level undergraduate learning depth",
+  "topics": [
+    {
+      "id": "threat-modelling-and-attack-surfaces",
+      "title": "Threat modelling and attack surfaces",
+      "description": "Threat modelling and attack surfaces: a structured set of explanations, method, worked application, and critical checks for Information Security.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Threat modelling and attack surfaces accurately.",
+        "Apply the central ideas in Threat modelling and attack surfaces to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Threat modelling and attack surfaces in Information Security",
+          "paragraphs": [
+            "Threat modelling and attack surfaces is studied here as a specific part of Information Security. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Computing systems transform data through algorithms, software, and hardware. A rigorous explanation specifies the abstraction level, inputs, outputs, constraints, and failure conditions. Performance must be considered alongside correctness, maintainability, security, and resource limits.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the problem and assumptions; represent the system or data; explain the mechanism step by step; analyse correctness and resource use; then discuss edge cases and trade-offs. Distinguish an implementation detail from a property guaranteed by the model.",
+            "Apply that method directly to “Threat modelling and attack surfaces”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Information Security; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A hash table can provide expected constant-time lookup when a suitable hash function distributes keys well and collisions are managed. This is an expected-case statement, not a guarantee that every lookup takes exactly the same time; worst-case behaviour depends on collision patterns and implementation.",
+            "Now adapt the example to the topic “Threat modelling and attack surfaces”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Threat modelling and attack surfaces include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Abstraction",
+          "definition": "Emphasising relevant properties while hiding irrelevant detail."
+        },
+        {
+          "term": "Invariant",
+          "definition": "A condition that must remain true at defined points in an algorithm or system."
+        },
+        {
+          "term": "Trade-off",
+          "definition": "A design choice that improves one criterion while potentially worsening another."
+        },
+        {
+          "term": "Threat modelling and attack surfaces",
+          "definition": "The specific concept or method examined in this topic within Information Security; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Threat modelling and attack surfaces",
+          "steps": [
+            "For “Threat modelling and attack surfaces”, begin by identifying the system inputs, outputs, assumptions, and failure cases. Trace one small case manually, then test a boundary case. For example, if an operation is expected to process n records, test n=0, n=1, duplicate values, and malformed input; document which behaviour is intended.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "cs-sec-401-threat-modelling-and-attack-surfaces-q1",
+          "type": "mcq",
+          "prompt": "When applying Threat modelling and attack surfaces, which practice most directly improves the reliability of the result?",
+          "options": [
+            "State assumptions and test normal, boundary, and failure cases",
+            "Assume the first run proves correctness",
+            "Ignore inputs that are not typical",
+            "Measure only the visual appearance"
+          ],
+          "answerIndex": 0,
+          "explanation": "Systematic assumptions and boundary tests expose failures that a single normal case may miss."
+        },
+        {
+          "id": "cs-sec-401-threat-modelling-and-attack-surfaces-q2",
+          "type": "short-answer",
+          "prompt": "Explain Threat modelling and attack surfaces in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Threat modelling and attack surfaces accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "cs-sec-401-threat-modelling-and-attack-surfaces-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Threat modelling and attack surfaces. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "access-control-and-identity",
+      "title": "Access control and identity",
+      "description": "Access control and identity: a structured set of explanations, method, worked application, and critical checks for Information Security.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Access control and identity accurately.",
+        "Apply the central ideas in Access control and identity to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Access control and identity in Information Security",
+          "paragraphs": [
+            "Access control and identity is studied here as a specific part of Information Security. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Computing systems transform data through algorithms, software, and hardware. A rigorous explanation specifies the abstraction level, inputs, outputs, constraints, and failure conditions. Performance must be considered alongside correctness, maintainability, security, and resource limits.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the problem and assumptions; represent the system or data; explain the mechanism step by step; analyse correctness and resource use; then discuss edge cases and trade-offs. Distinguish an implementation detail from a property guaranteed by the model.",
+            "Apply that method directly to “Access control and identity”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Information Security; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A hash table can provide expected constant-time lookup when a suitable hash function distributes keys well and collisions are managed. This is an expected-case statement, not a guarantee that every lookup takes exactly the same time; worst-case behaviour depends on collision patterns and implementation.",
+            "Now adapt the example to the topic “Access control and identity”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Access control and identity include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Abstraction",
+          "definition": "Emphasising relevant properties while hiding irrelevant detail."
+        },
+        {
+          "term": "Invariant",
+          "definition": "A condition that must remain true at defined points in an algorithm or system."
+        },
+        {
+          "term": "Trade-off",
+          "definition": "A design choice that improves one criterion while potentially worsening another."
+        },
+        {
+          "term": "Access control and identity",
+          "definition": "The specific concept or method examined in this topic within Information Security; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Access control and identity",
+          "steps": [
+            "For “Access control and identity”, begin by identifying the system inputs, outputs, assumptions, and failure cases. Trace one small case manually, then test a boundary case. For example, if an operation is expected to process n records, test n=0, n=1, duplicate values, and malformed input; document which behaviour is intended.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "cs-sec-401-access-control-and-identity-q1",
+          "type": "mcq",
+          "prompt": "When applying Access control and identity, which practice most directly improves the reliability of the result?",
+          "options": [
+            "State assumptions and test normal, boundary, and failure cases",
+            "Assume the first run proves correctness",
+            "Ignore inputs that are not typical",
+            "Measure only the visual appearance"
+          ],
+          "answerIndex": 0,
+          "explanation": "Systematic assumptions and boundary tests expose failures that a single normal case may miss."
+        },
+        {
+          "id": "cs-sec-401-access-control-and-identity-q2",
+          "type": "short-answer",
+          "prompt": "Explain Access control and identity in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Access control and identity accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "cs-sec-401-access-control-and-identity-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Access control and identity. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "cryptographic-goals-and-key-management",
+      "title": "Cryptographic goals and key management",
+      "description": "Cryptographic goals and key management: a structured set of explanations, method, worked application, and critical checks for Information Security.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Cryptographic goals and key management accurately.",
+        "Apply the central ideas in Cryptographic goals and key management to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Cryptographic goals and key management in Information Security",
+          "paragraphs": [
+            "Cryptographic goals and key management is studied here as a specific part of Information Security. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Computing systems transform data through algorithms, software, and hardware. A rigorous explanation specifies the abstraction level, inputs, outputs, constraints, and failure conditions. Performance must be considered alongside correctness, maintainability, security, and resource limits.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the problem and assumptions; represent the system or data; explain the mechanism step by step; analyse correctness and resource use; then discuss edge cases and trade-offs. Distinguish an implementation detail from a property guaranteed by the model.",
+            "Apply that method directly to “Cryptographic goals and key management”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Information Security; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A hash table can provide expected constant-time lookup when a suitable hash function distributes keys well and collisions are managed. This is an expected-case statement, not a guarantee that every lookup takes exactly the same time; worst-case behaviour depends on collision patterns and implementation.",
+            "Now adapt the example to the topic “Cryptographic goals and key management”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Cryptographic goals and key management include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Abstraction",
+          "definition": "Emphasising relevant properties while hiding irrelevant detail."
+        },
+        {
+          "term": "Invariant",
+          "definition": "A condition that must remain true at defined points in an algorithm or system."
+        },
+        {
+          "term": "Trade-off",
+          "definition": "A design choice that improves one criterion while potentially worsening another."
+        },
+        {
+          "term": "Cryptographic goals and key management",
+          "definition": "The specific concept or method examined in this topic within Information Security; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Cryptographic goals and key management",
+          "steps": [
+            "For “Cryptographic goals and key management”, begin by identifying the system inputs, outputs, assumptions, and failure cases. Trace one small case manually, then test a boundary case. For example, if an operation is expected to process n records, test n=0, n=1, duplicate values, and malformed input; document which behaviour is intended.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "cs-sec-401-cryptographic-goals-and-key-management-q1",
+          "type": "mcq",
+          "prompt": "When applying Cryptographic goals and key management, which practice most directly improves the reliability of the result?",
+          "options": [
+            "State assumptions and test normal, boundary, and failure cases",
+            "Assume the first run proves correctness",
+            "Ignore inputs that are not typical",
+            "Measure only the visual appearance"
+          ],
+          "answerIndex": 0,
+          "explanation": "Systematic assumptions and boundary tests expose failures that a single normal case may miss."
+        },
+        {
+          "id": "cs-sec-401-cryptographic-goals-and-key-management-q2",
+          "type": "short-answer",
+          "prompt": "Explain Cryptographic goals and key management in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Cryptographic goals and key management accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "cs-sec-401-cryptographic-goals-and-key-management-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Cryptographic goals and key management. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "secure-software-lifecycle",
+      "title": "Secure software lifecycle",
+      "description": "Secure software lifecycle: a structured set of explanations, method, worked application, and critical checks for Information Security.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Secure software lifecycle accurately.",
+        "Apply the central ideas in Secure software lifecycle to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Secure software lifecycle in Information Security",
+          "paragraphs": [
+            "Secure software lifecycle is studied here as a specific part of Information Security. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Computing systems transform data through algorithms, software, and hardware. A rigorous explanation specifies the abstraction level, inputs, outputs, constraints, and failure conditions. Performance must be considered alongside correctness, maintainability, security, and resource limits.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the problem and assumptions; represent the system or data; explain the mechanism step by step; analyse correctness and resource use; then discuss edge cases and trade-offs. Distinguish an implementation detail from a property guaranteed by the model.",
+            "Apply that method directly to “Secure software lifecycle”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Information Security; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A hash table can provide expected constant-time lookup when a suitable hash function distributes keys well and collisions are managed. This is an expected-case statement, not a guarantee that every lookup takes exactly the same time; worst-case behaviour depends on collision patterns and implementation.",
+            "Now adapt the example to the topic “Secure software lifecycle”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Secure software lifecycle include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Abstraction",
+          "definition": "Emphasising relevant properties while hiding irrelevant detail."
+        },
+        {
+          "term": "Invariant",
+          "definition": "A condition that must remain true at defined points in an algorithm or system."
+        },
+        {
+          "term": "Trade-off",
+          "definition": "A design choice that improves one criterion while potentially worsening another."
+        },
+        {
+          "term": "Secure software lifecycle",
+          "definition": "The specific concept or method examined in this topic within Information Security; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Secure software lifecycle",
+          "steps": [
+            "For “Secure software lifecycle”, begin by identifying the system inputs, outputs, assumptions, and failure cases. Trace one small case manually, then test a boundary case. For example, if an operation is expected to process n records, test n=0, n=1, duplicate values, and malformed input; document which behaviour is intended.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "cs-sec-401-secure-software-lifecycle-q1",
+          "type": "mcq",
+          "prompt": "When applying Secure software lifecycle, which practice most directly improves the reliability of the result?",
+          "options": [
+            "State assumptions and test normal, boundary, and failure cases",
+            "Assume the first run proves correctness",
+            "Ignore inputs that are not typical",
+            "Measure only the visual appearance"
+          ],
+          "answerIndex": 0,
+          "explanation": "Systematic assumptions and boundary tests expose failures that a single normal case may miss."
+        },
+        {
+          "id": "cs-sec-401-secure-software-lifecycle-q2",
+          "type": "short-answer",
+          "prompt": "Explain Secure software lifecycle in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Secure software lifecycle accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "cs-sec-401-secure-software-lifecycle-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Secure software lifecycle. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "incident-response-and-risk-assessment",
+      "title": "Incident response and risk assessment",
+      "description": "Incident response and risk assessment: a structured set of explanations, method, worked application, and critical checks for Information Security.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Incident response and risk assessment accurately.",
+        "Apply the central ideas in Incident response and risk assessment to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Incident response and risk assessment in Information Security",
+          "paragraphs": [
+            "Incident response and risk assessment is studied here as a specific part of Information Security. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Computing systems transform data through algorithms, software, and hardware. A rigorous explanation specifies the abstraction level, inputs, outputs, constraints, and failure conditions. Performance must be considered alongside correctness, maintainability, security, and resource limits.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the problem and assumptions; represent the system or data; explain the mechanism step by step; analyse correctness and resource use; then discuss edge cases and trade-offs. Distinguish an implementation detail from a property guaranteed by the model.",
+            "Apply that method directly to “Incident response and risk assessment”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Information Security; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A hash table can provide expected constant-time lookup when a suitable hash function distributes keys well and collisions are managed. This is an expected-case statement, not a guarantee that every lookup takes exactly the same time; worst-case behaviour depends on collision patterns and implementation.",
+            "Now adapt the example to the topic “Incident response and risk assessment”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Incident response and risk assessment include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Abstraction",
+          "definition": "Emphasising relevant properties while hiding irrelevant detail."
+        },
+        {
+          "term": "Invariant",
+          "definition": "A condition that must remain true at defined points in an algorithm or system."
+        },
+        {
+          "term": "Trade-off",
+          "definition": "A design choice that improves one criterion while potentially worsening another."
+        },
+        {
+          "term": "Incident response and risk assessment",
+          "definition": "The specific concept or method examined in this topic within Information Security; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Incident response and risk assessment",
+          "steps": [
+            "For “Incident response and risk assessment”, begin by identifying the system inputs, outputs, assumptions, and failure cases. Trace one small case manually, then test a boundary case. For example, if an operation is expected to process n records, test n=0, n=1, duplicate values, and malformed input; document which behaviour is intended.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "cs-sec-401-incident-response-and-risk-assessment-q1",
+          "type": "mcq",
+          "prompt": "When applying Incident response and risk assessment, which practice most directly improves the reliability of the result?",
+          "options": [
+            "State assumptions and test normal, boundary, and failure cases",
+            "Assume the first run proves correctness",
+            "Ignore inputs that are not typical",
+            "Measure only the visual appearance"
+          ],
+          "answerIndex": 0,
+          "explanation": "Systematic assumptions and boundary tests expose failures that a single normal case may miss."
+        },
+        {
+          "id": "cs-sec-401-incident-response-and-risk-assessment-q2",
+          "type": "short-answer",
+          "prompt": "Explain Incident response and risk assessment in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Incident response and risk assessment accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "cs-sec-401-incident-response-and-risk-assessment-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Incident response and risk assessment. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ],
+  "contentNotice": "Original instructional draft. Course title/code is illustrative and must be checked against the student’s current departmental course outline. Not an authentic past paper.",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "All questions in this lesson are original practice questions unless a separate verified source record explicitly says otherwise."
+  }
+}

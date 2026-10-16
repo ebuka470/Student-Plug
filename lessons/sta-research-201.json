@@ -1,0 +1,544 @@
+{
+  "courseId": "sta-research-201",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "200-level undergraduate learning depth",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "Original practice questions; no verified past papers included."
+  },
+  "topics": [
+    {
+      "id": "data-cleaning-and-variable-coding",
+      "title": "Data cleaning and variable coding",
+      "description": "Data cleaning and variable coding: a structured set of explanations, method, worked application, and critical checks for Statistical Computing and Data Presentation.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Data cleaning and variable coding accurately.",
+        "Apply the central ideas in Data cleaning and variable coding to a structured course problem.",
+        "Check a solution to Data cleaning and variable coding for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Data cleaning and variable coding in Statistical Computing and Data Presentation",
+          "paragraphs": [
+            "Data cleaning and variable coding is studied here as a specific part of Statistical Computing and Data Presentation. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Computing systems transform data through algorithms, software, and hardware. A rigorous explanation specifies the abstraction level, inputs, outputs, constraints, and failure conditions. Performance must be considered alongside correctness, maintainability, security, and resource limits.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the problem and assumptions; represent the system or data; explain the mechanism step by step; analyse correctness and resource use; then discuss edge cases and trade-offs. Distinguish an implementation detail from a property guaranteed by the model.",
+            "Apply that method directly to “Data cleaning and variable coding”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Statistical Computing and Data Presentation; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A hash table can provide expected constant-time lookup when a suitable hash function distributes keys well and collisions are managed. This is an expected-case statement, not a guarantee that every lookup takes exactly the same time; worst-case behaviour depends on collision patterns and implementation.",
+            "Now adapt the example to the topic “Data cleaning and variable coding”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Data cleaning and variable coding include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Abstraction",
+          "definition": "Emphasising relevant properties while hiding irrelevant detail."
+        },
+        {
+          "term": "Invariant",
+          "definition": "A condition that must remain true at defined points in an algorithm or system."
+        },
+        {
+          "term": "Trade-off",
+          "definition": "A design choice that improves one criterion while potentially worsening another."
+        },
+        {
+          "term": "Data cleaning and variable coding",
+          "definition": "The specific concept or method examined in this topic within Statistical Computing and Data Presentation; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Data cleaning and variable coding",
+          "steps": [
+            "For “Data cleaning and variable coding”, begin by identifying the system inputs, outputs, assumptions, and failure cases. Trace one small case manually, then test a boundary case. For example, if an operation is expected to process n records, test n=0, n=1, duplicate values, and malformed input; document which behaviour is intended.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "sta-research-201-data-cleaning-and-variable-coding-q1",
+          "type": "mcq",
+          "prompt": "When applying Data cleaning and variable coding, which practice most directly improves the reliability of the result?",
+          "options": [
+            "State assumptions and test normal, boundary, and failure cases",
+            "Assume the first run proves correctness",
+            "Ignore inputs that are not typical",
+            "Measure only the visual appearance"
+          ],
+          "answerIndex": 0,
+          "explanation": "Systematic assumptions and boundary tests expose failures that a single normal case may miss."
+        },
+        {
+          "id": "sta-research-201-data-cleaning-and-variable-coding-q2",
+          "type": "short-answer",
+          "prompt": "Explain Data cleaning and variable coding in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Data cleaning and variable coding accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "sta-research-201-data-cleaning-and-variable-coding-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Data cleaning and variable coding. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "tabulation-and-graphical-summaries",
+      "title": "Tabulation and graphical summaries",
+      "description": "Tabulation and graphical summaries: a structured set of explanations, method, worked application, and critical checks for Statistical Computing and Data Presentation.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Tabulation and graphical summaries accurately.",
+        "Apply the central ideas in Tabulation and graphical summaries to a structured course problem.",
+        "Check a solution to Tabulation and graphical summaries for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Tabulation and graphical summaries in Statistical Computing and Data Presentation",
+          "paragraphs": [
+            "Tabulation and graphical summaries is studied here as a specific part of Statistical Computing and Data Presentation. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Computing systems transform data through algorithms, software, and hardware. A rigorous explanation specifies the abstraction level, inputs, outputs, constraints, and failure conditions. Performance must be considered alongside correctness, maintainability, security, and resource limits.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the problem and assumptions; represent the system or data; explain the mechanism step by step; analyse correctness and resource use; then discuss edge cases and trade-offs. Distinguish an implementation detail from a property guaranteed by the model.",
+            "Apply that method directly to “Tabulation and graphical summaries”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Statistical Computing and Data Presentation; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A hash table can provide expected constant-time lookup when a suitable hash function distributes keys well and collisions are managed. This is an expected-case statement, not a guarantee that every lookup takes exactly the same time; worst-case behaviour depends on collision patterns and implementation.",
+            "Now adapt the example to the topic “Tabulation and graphical summaries”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Tabulation and graphical summaries include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Abstraction",
+          "definition": "Emphasising relevant properties while hiding irrelevant detail."
+        },
+        {
+          "term": "Invariant",
+          "definition": "A condition that must remain true at defined points in an algorithm or system."
+        },
+        {
+          "term": "Trade-off",
+          "definition": "A design choice that improves one criterion while potentially worsening another."
+        },
+        {
+          "term": "Tabulation and graphical summaries",
+          "definition": "The specific concept or method examined in this topic within Statistical Computing and Data Presentation; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Tabulation and graphical summaries",
+          "steps": [
+            "For “Tabulation and graphical summaries”, begin by identifying the system inputs, outputs, assumptions, and failure cases. Trace one small case manually, then test a boundary case. For example, if an operation is expected to process n records, test n=0, n=1, duplicate values, and malformed input; document which behaviour is intended.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "sta-research-201-tabulation-and-graphical-summaries-q1",
+          "type": "mcq",
+          "prompt": "When applying Tabulation and graphical summaries, which practice most directly improves the reliability of the result?",
+          "options": [
+            "State assumptions and test normal, boundary, and failure cases",
+            "Assume the first run proves correctness",
+            "Ignore inputs that are not typical",
+            "Measure only the visual appearance"
+          ],
+          "answerIndex": 0,
+          "explanation": "Systematic assumptions and boundary tests expose failures that a single normal case may miss."
+        },
+        {
+          "id": "sta-research-201-tabulation-and-graphical-summaries-q2",
+          "type": "short-answer",
+          "prompt": "Explain Tabulation and graphical summaries in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Tabulation and graphical summaries accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "sta-research-201-tabulation-and-graphical-summaries-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Tabulation and graphical summaries. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "descriptive-statistics-and-spread",
+      "title": "Descriptive statistics and spread",
+      "description": "Descriptive statistics and spread: a structured set of explanations, method, worked application, and critical checks for Statistical Computing and Data Presentation.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Descriptive statistics and spread accurately.",
+        "Apply the central ideas in Descriptive statistics and spread to a structured course problem.",
+        "Check a solution to Descriptive statistics and spread for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Descriptive statistics and spread in Statistical Computing and Data Presentation",
+          "paragraphs": [
+            "Descriptive statistics and spread is studied here as a specific part of Statistical Computing and Data Presentation. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Computing systems transform data through algorithms, software, and hardware. A rigorous explanation specifies the abstraction level, inputs, outputs, constraints, and failure conditions. Performance must be considered alongside correctness, maintainability, security, and resource limits.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the problem and assumptions; represent the system or data; explain the mechanism step by step; analyse correctness and resource use; then discuss edge cases and trade-offs. Distinguish an implementation detail from a property guaranteed by the model.",
+            "Apply that method directly to “Descriptive statistics and spread”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Statistical Computing and Data Presentation; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A hash table can provide expected constant-time lookup when a suitable hash function distributes keys well and collisions are managed. This is an expected-case statement, not a guarantee that every lookup takes exactly the same time; worst-case behaviour depends on collision patterns and implementation.",
+            "Now adapt the example to the topic “Descriptive statistics and spread”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Descriptive statistics and spread include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Abstraction",
+          "definition": "Emphasising relevant properties while hiding irrelevant detail."
+        },
+        {
+          "term": "Invariant",
+          "definition": "A condition that must remain true at defined points in an algorithm or system."
+        },
+        {
+          "term": "Trade-off",
+          "definition": "A design choice that improves one criterion while potentially worsening another."
+        },
+        {
+          "term": "Descriptive statistics and spread",
+          "definition": "The specific concept or method examined in this topic within Statistical Computing and Data Presentation; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Descriptive statistics and spread",
+          "steps": [
+            "For “Descriptive statistics and spread”, begin by identifying the system inputs, outputs, assumptions, and failure cases. Trace one small case manually, then test a boundary case. For example, if an operation is expected to process n records, test n=0, n=1, duplicate values, and malformed input; document which behaviour is intended.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "sta-research-201-descriptive-statistics-and-spread-q1",
+          "type": "mcq",
+          "prompt": "When applying Descriptive statistics and spread, which practice most directly improves the reliability of the result?",
+          "options": [
+            "State assumptions and test normal, boundary, and failure cases",
+            "Assume the first run proves correctness",
+            "Ignore inputs that are not typical",
+            "Measure only the visual appearance"
+          ],
+          "answerIndex": 0,
+          "explanation": "Systematic assumptions and boundary tests expose failures that a single normal case may miss."
+        },
+        {
+          "id": "sta-research-201-descriptive-statistics-and-spread-q2",
+          "type": "short-answer",
+          "prompt": "Explain Descriptive statistics and spread in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Descriptive statistics and spread accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "sta-research-201-descriptive-statistics-and-spread-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Descriptive statistics and spread. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "choosing-statistical-summaries",
+      "title": "Choosing statistical summaries",
+      "description": "Choosing statistical summaries: a structured set of explanations, method, worked application, and critical checks for Statistical Computing and Data Presentation.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Choosing statistical summaries accurately.",
+        "Apply the central ideas in Choosing statistical summaries to a structured course problem.",
+        "Check a solution to Choosing statistical summaries for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Choosing statistical summaries in Statistical Computing and Data Presentation",
+          "paragraphs": [
+            "Choosing statistical summaries is studied here as a specific part of Statistical Computing and Data Presentation. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Computing systems transform data through algorithms, software, and hardware. A rigorous explanation specifies the abstraction level, inputs, outputs, constraints, and failure conditions. Performance must be considered alongside correctness, maintainability, security, and resource limits.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the problem and assumptions; represent the system or data; explain the mechanism step by step; analyse correctness and resource use; then discuss edge cases and trade-offs. Distinguish an implementation detail from a property guaranteed by the model.",
+            "Apply that method directly to “Choosing statistical summaries”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Statistical Computing and Data Presentation; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A hash table can provide expected constant-time lookup when a suitable hash function distributes keys well and collisions are managed. This is an expected-case statement, not a guarantee that every lookup takes exactly the same time; worst-case behaviour depends on collision patterns and implementation.",
+            "Now adapt the example to the topic “Choosing statistical summaries”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Choosing statistical summaries include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Abstraction",
+          "definition": "Emphasising relevant properties while hiding irrelevant detail."
+        },
+        {
+          "term": "Invariant",
+          "definition": "A condition that must remain true at defined points in an algorithm or system."
+        },
+        {
+          "term": "Trade-off",
+          "definition": "A design choice that improves one criterion while potentially worsening another."
+        },
+        {
+          "term": "Choosing statistical summaries",
+          "definition": "The specific concept or method examined in this topic within Statistical Computing and Data Presentation; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Choosing statistical summaries",
+          "steps": [
+            "For “Choosing statistical summaries”, begin by identifying the system inputs, outputs, assumptions, and failure cases. Trace one small case manually, then test a boundary case. For example, if an operation is expected to process n records, test n=0, n=1, duplicate values, and malformed input; document which behaviour is intended.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "sta-research-201-choosing-statistical-summaries-q1",
+          "type": "mcq",
+          "prompt": "When applying Choosing statistical summaries, which practice most directly improves the reliability of the result?",
+          "options": [
+            "State assumptions and test normal, boundary, and failure cases",
+            "Assume the first run proves correctness",
+            "Ignore inputs that are not typical",
+            "Measure only the visual appearance"
+          ],
+          "answerIndex": 0,
+          "explanation": "Systematic assumptions and boundary tests expose failures that a single normal case may miss."
+        },
+        {
+          "id": "sta-research-201-choosing-statistical-summaries-q2",
+          "type": "short-answer",
+          "prompt": "Explain Choosing statistical summaries in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Choosing statistical summaries accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "sta-research-201-choosing-statistical-summaries-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Choosing statistical summaries. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "communicating-uncertainty-and-limitations",
+      "title": "Communicating uncertainty and limitations",
+      "description": "Communicating uncertainty and limitations: a structured set of explanations, method, worked application, and critical checks for Statistical Computing and Data Presentation.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Communicating uncertainty and limitations accurately.",
+        "Apply the central ideas in Communicating uncertainty and limitations to a structured course problem.",
+        "Check a solution to Communicating uncertainty and limitations for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Communicating uncertainty and limitations in Statistical Computing and Data Presentation",
+          "paragraphs": [
+            "Communicating uncertainty and limitations is studied here as a specific part of Statistical Computing and Data Presentation. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Computing systems transform data through algorithms, software, and hardware. A rigorous explanation specifies the abstraction level, inputs, outputs, constraints, and failure conditions. Performance must be considered alongside correctness, maintainability, security, and resource limits.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the problem and assumptions; represent the system or data; explain the mechanism step by step; analyse correctness and resource use; then discuss edge cases and trade-offs. Distinguish an implementation detail from a property guaranteed by the model.",
+            "Apply that method directly to “Communicating uncertainty and limitations”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Statistical Computing and Data Presentation; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A hash table can provide expected constant-time lookup when a suitable hash function distributes keys well and collisions are managed. This is an expected-case statement, not a guarantee that every lookup takes exactly the same time; worst-case behaviour depends on collision patterns and implementation.",
+            "Now adapt the example to the topic “Communicating uncertainty and limitations”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Communicating uncertainty and limitations include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Abstraction",
+          "definition": "Emphasising relevant properties while hiding irrelevant detail."
+        },
+        {
+          "term": "Invariant",
+          "definition": "A condition that must remain true at defined points in an algorithm or system."
+        },
+        {
+          "term": "Trade-off",
+          "definition": "A design choice that improves one criterion while potentially worsening another."
+        },
+        {
+          "term": "Communicating uncertainty and limitations",
+          "definition": "The specific concept or method examined in this topic within Statistical Computing and Data Presentation; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Communicating uncertainty and limitations",
+          "steps": [
+            "For “Communicating uncertainty and limitations”, begin by identifying the system inputs, outputs, assumptions, and failure cases. Trace one small case manually, then test a boundary case. For example, if an operation is expected to process n records, test n=0, n=1, duplicate values, and malformed input; document which behaviour is intended.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "sta-research-201-communicating-uncertainty-and-limitations-q1",
+          "type": "mcq",
+          "prompt": "When applying Communicating uncertainty and limitations, which practice most directly improves the reliability of the result?",
+          "options": [
+            "State assumptions and test normal, boundary, and failure cases",
+            "Assume the first run proves correctness",
+            "Ignore inputs that are not typical",
+            "Measure only the visual appearance"
+          ],
+          "answerIndex": 0,
+          "explanation": "Systematic assumptions and boundary tests expose failures that a single normal case may miss."
+        },
+        {
+          "id": "sta-research-201-communicating-uncertainty-and-limitations-q2",
+          "type": "short-answer",
+          "prompt": "Explain Communicating uncertainty and limitations in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Communicating uncertainty and limitations accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "sta-research-201-communicating-uncertainty-and-limitations-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Communicating uncertainty and limitations. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ]
+}

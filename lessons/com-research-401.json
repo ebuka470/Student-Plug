@@ -1,0 +1,545 @@
+{
+  "courseId": "com-research-401",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "400-level undergraduate learning depth",
+  "topics": [
+    {
+      "id": "research-objectives-and-audience-segmentation",
+      "title": "Research objectives and audience segmentation",
+      "description": "Research objectives and audience segmentation: a structured set of explanations, method, worked application, and critical checks for Media Research and Audience Analytics.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Research objectives and audience segmentation accurately.",
+        "Apply the central ideas in Research objectives and audience segmentation to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Research objectives and audience segmentation in Media Research and Audience Analytics",
+          "paragraphs": [
+            "Research objectives and audience segmentation is studied here as a specific part of Media Research and Audience Analytics. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Communication is a process shaped by sender, message, channel, audience, context, feedback, and noise. Media effects are not automatic: audience interpretation, prior knowledge, social networks, platform design, and political or commercial incentives can shape outcomes.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the communication problem and intended audience, choose a theory or measure that fits, distinguish exposure from engagement and outcomes, assess sampling and bias, and make claims proportional to the evidence.",
+            "Apply that method directly to “Research objectives and audience segmentation”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Media Research and Audience Analytics; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A post receiving many views has demonstrated reach, not necessarily understanding or behaviour change. To assess learning, collect a measure aligned with the objective, such as a pre/post knowledge item or a carefully designed follow-up, while considering self-selection and privacy.",
+            "Now adapt the example to the topic “Research objectives and audience segmentation”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Research objectives and audience segmentation include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Audience segmentation",
+          "definition": "Grouping an audience using relevant characteristics or behaviours."
+        },
+        {
+          "term": "Framing",
+          "definition": "Selecting and emphasising aspects of an issue in ways that shape interpretation."
+        },
+        {
+          "term": "Construct validity",
+          "definition": "How well a measure captures the concept it claims to measure."
+        },
+        {
+          "term": "Research objectives and audience segmentation",
+          "definition": "The specific concept or method examined in this topic within Media Research and Audience Analytics; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Research objectives and audience segmentation",
+          "steps": [
+            "For “Research objectives and audience segmentation”, define the audience and communication objective, identify the channel and measure, and separate exposure, engagement, knowledge, attitude, and behaviour outcomes. Explain how selection bias, platform incentives, or measurement choices could distort conclusions.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "com-research-401-research-objectives-and-audience-segmentation-q1",
+          "type": "mcq",
+          "prompt": "When evaluating Research objectives and audience segmentation, what is the strongest practice?",
+          "options": [
+            "Match the metric to the communication objective and acknowledge measurement limits",
+            "Treat views as proof of behaviour change",
+            "Assume all audiences interpret a message identically",
+            "Ignore privacy and consent"
+          ],
+          "answerIndex": 0,
+          "explanation": "Metrics must correspond to the objective; reach alone does not prove an outcome."
+        },
+        {
+          "id": "com-research-401-research-objectives-and-audience-segmentation-q2",
+          "type": "short-answer",
+          "prompt": "Explain Research objectives and audience segmentation in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Research objectives and audience segmentation accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "com-research-401-research-objectives-and-audience-segmentation-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Research objectives and audience segmentation. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "sampling-and-questionnaire-design",
+      "title": "Sampling and questionnaire design",
+      "description": "Sampling and questionnaire design: a structured set of explanations, method, worked application, and critical checks for Media Research and Audience Analytics.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Sampling and questionnaire design accurately.",
+        "Apply the central ideas in Sampling and questionnaire design to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Sampling and questionnaire design in Media Research and Audience Analytics",
+          "paragraphs": [
+            "Sampling and questionnaire design is studied here as a specific part of Media Research and Audience Analytics. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Communication is a process shaped by sender, message, channel, audience, context, feedback, and noise. Media effects are not automatic: audience interpretation, prior knowledge, social networks, platform design, and political or commercial incentives can shape outcomes.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the communication problem and intended audience, choose a theory or measure that fits, distinguish exposure from engagement and outcomes, assess sampling and bias, and make claims proportional to the evidence.",
+            "Apply that method directly to “Sampling and questionnaire design”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Media Research and Audience Analytics; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A post receiving many views has demonstrated reach, not necessarily understanding or behaviour change. To assess learning, collect a measure aligned with the objective, such as a pre/post knowledge item or a carefully designed follow-up, while considering self-selection and privacy.",
+            "Now adapt the example to the topic “Sampling and questionnaire design”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Sampling and questionnaire design include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Audience segmentation",
+          "definition": "Grouping an audience using relevant characteristics or behaviours."
+        },
+        {
+          "term": "Framing",
+          "definition": "Selecting and emphasising aspects of an issue in ways that shape interpretation."
+        },
+        {
+          "term": "Construct validity",
+          "definition": "How well a measure captures the concept it claims to measure."
+        },
+        {
+          "term": "Sampling and questionnaire design",
+          "definition": "The specific concept or method examined in this topic within Media Research and Audience Analytics; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Sampling and questionnaire design",
+          "steps": [
+            "For “Sampling and questionnaire design”, define the audience and communication objective, identify the channel and measure, and separate exposure, engagement, knowledge, attitude, and behaviour outcomes. Explain how selection bias, platform incentives, or measurement choices could distort conclusions.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "com-research-401-sampling-and-questionnaire-design-q1",
+          "type": "mcq",
+          "prompt": "When evaluating Sampling and questionnaire design, what is the strongest practice?",
+          "options": [
+            "Match the metric to the communication objective and acknowledge measurement limits",
+            "Treat views as proof of behaviour change",
+            "Assume all audiences interpret a message identically",
+            "Ignore privacy and consent"
+          ],
+          "answerIndex": 0,
+          "explanation": "Metrics must correspond to the objective; reach alone does not prove an outcome."
+        },
+        {
+          "id": "com-research-401-sampling-and-questionnaire-design-q2",
+          "type": "short-answer",
+          "prompt": "Explain Sampling and questionnaire design in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Sampling and questionnaire design accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "com-research-401-sampling-and-questionnaire-design-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Sampling and questionnaire design. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "content-analysis",
+      "title": "Content analysis",
+      "description": "Content analysis: a structured set of explanations, method, worked application, and critical checks for Media Research and Audience Analytics.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Content analysis accurately.",
+        "Apply the central ideas in Content analysis to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Content analysis in Media Research and Audience Analytics",
+          "paragraphs": [
+            "Content analysis is studied here as a specific part of Media Research and Audience Analytics. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Communication is a process shaped by sender, message, channel, audience, context, feedback, and noise. Media effects are not automatic: audience interpretation, prior knowledge, social networks, platform design, and political or commercial incentives can shape outcomes.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the communication problem and intended audience, choose a theory or measure that fits, distinguish exposure from engagement and outcomes, assess sampling and bias, and make claims proportional to the evidence.",
+            "Apply that method directly to “Content analysis”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Media Research and Audience Analytics; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A post receiving many views has demonstrated reach, not necessarily understanding or behaviour change. To assess learning, collect a measure aligned with the objective, such as a pre/post knowledge item or a carefully designed follow-up, while considering self-selection and privacy.",
+            "Now adapt the example to the topic “Content analysis”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Content analysis include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Audience segmentation",
+          "definition": "Grouping an audience using relevant characteristics or behaviours."
+        },
+        {
+          "term": "Framing",
+          "definition": "Selecting and emphasising aspects of an issue in ways that shape interpretation."
+        },
+        {
+          "term": "Construct validity",
+          "definition": "How well a measure captures the concept it claims to measure."
+        },
+        {
+          "term": "Content analysis",
+          "definition": "The specific concept or method examined in this topic within Media Research and Audience Analytics; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Content analysis",
+          "steps": [
+            "For “Content analysis”, define the audience and communication objective, identify the channel and measure, and separate exposure, engagement, knowledge, attitude, and behaviour outcomes. Explain how selection bias, platform incentives, or measurement choices could distort conclusions.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "com-research-401-content-analysis-q1",
+          "type": "mcq",
+          "prompt": "When evaluating Content analysis, what is the strongest practice?",
+          "options": [
+            "Match the metric to the communication objective and acknowledge measurement limits",
+            "Treat views as proof of behaviour change",
+            "Assume all audiences interpret a message identically",
+            "Ignore privacy and consent"
+          ],
+          "answerIndex": 0,
+          "explanation": "Metrics must correspond to the objective; reach alone does not prove an outcome."
+        },
+        {
+          "id": "com-research-401-content-analysis-q2",
+          "type": "short-answer",
+          "prompt": "Explain Content analysis in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Content analysis accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "com-research-401-content-analysis-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Content analysis. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "reach-engagement-and-outcome-metrics",
+      "title": "Reach, engagement and outcome metrics",
+      "description": "Reach, engagement and outcome metrics: a structured set of explanations, method, worked application, and critical checks for Media Research and Audience Analytics.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Reach, engagement and outcome metrics accurately.",
+        "Apply the central ideas in Reach, engagement and outcome metrics to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Reach, engagement and outcome metrics in Media Research and Audience Analytics",
+          "paragraphs": [
+            "Reach, engagement and outcome metrics is studied here as a specific part of Media Research and Audience Analytics. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Communication is a process shaped by sender, message, channel, audience, context, feedback, and noise. Media effects are not automatic: audience interpretation, prior knowledge, social networks, platform design, and political or commercial incentives can shape outcomes.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the communication problem and intended audience, choose a theory or measure that fits, distinguish exposure from engagement and outcomes, assess sampling and bias, and make claims proportional to the evidence.",
+            "Apply that method directly to “Reach, engagement and outcome metrics”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Media Research and Audience Analytics; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A post receiving many views has demonstrated reach, not necessarily understanding or behaviour change. To assess learning, collect a measure aligned with the objective, such as a pre/post knowledge item or a carefully designed follow-up, while considering self-selection and privacy.",
+            "Now adapt the example to the topic “Reach, engagement and outcome metrics”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Reach, engagement and outcome metrics include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Audience segmentation",
+          "definition": "Grouping an audience using relevant characteristics or behaviours."
+        },
+        {
+          "term": "Framing",
+          "definition": "Selecting and emphasising aspects of an issue in ways that shape interpretation."
+        },
+        {
+          "term": "Construct validity",
+          "definition": "How well a measure captures the concept it claims to measure."
+        },
+        {
+          "term": "Reach, engagement and outcome metrics",
+          "definition": "The specific concept or method examined in this topic within Media Research and Audience Analytics; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Reach, engagement and outcome metrics",
+          "steps": [
+            "For “Reach, engagement and outcome metrics”, define the audience and communication objective, identify the channel and measure, and separate exposure, engagement, knowledge, attitude, and behaviour outcomes. Explain how selection bias, platform incentives, or measurement choices could distort conclusions.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "com-research-401-reach-engagement-and-outcome-metrics-q1",
+          "type": "mcq",
+          "prompt": "When evaluating Reach, engagement and outcome metrics, what is the strongest practice?",
+          "options": [
+            "Match the metric to the communication objective and acknowledge measurement limits",
+            "Treat views as proof of behaviour change",
+            "Assume all audiences interpret a message identically",
+            "Ignore privacy and consent"
+          ],
+          "answerIndex": 0,
+          "explanation": "Metrics must correspond to the objective; reach alone does not prove an outcome."
+        },
+        {
+          "id": "com-research-401-reach-engagement-and-outcome-metrics-q2",
+          "type": "short-answer",
+          "prompt": "Explain Reach, engagement and outcome metrics in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Reach, engagement and outcome metrics accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "com-research-401-reach-engagement-and-outcome-metrics-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Reach, engagement and outcome metrics. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "privacy-bias-and-reporting",
+      "title": "Privacy, bias and reporting",
+      "description": "Privacy, bias and reporting: a structured set of explanations, method, worked application, and critical checks for Media Research and Audience Analytics.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Privacy, bias and reporting accurately.",
+        "Apply the central ideas in Privacy, bias and reporting to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Privacy, bias and reporting in Media Research and Audience Analytics",
+          "paragraphs": [
+            "Privacy, bias and reporting is studied here as a specific part of Media Research and Audience Analytics. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Communication is a process shaped by sender, message, channel, audience, context, feedback, and noise. Media effects are not automatic: audience interpretation, prior knowledge, social networks, platform design, and political or commercial incentives can shape outcomes.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the communication problem and intended audience, choose a theory or measure that fits, distinguish exposure from engagement and outcomes, assess sampling and bias, and make claims proportional to the evidence.",
+            "Apply that method directly to “Privacy, bias and reporting”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Media Research and Audience Analytics; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A post receiving many views has demonstrated reach, not necessarily understanding or behaviour change. To assess learning, collect a measure aligned with the objective, such as a pre/post knowledge item or a carefully designed follow-up, while considering self-selection and privacy.",
+            "Now adapt the example to the topic “Privacy, bias and reporting”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Privacy, bias and reporting include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Audience segmentation",
+          "definition": "Grouping an audience using relevant characteristics or behaviours."
+        },
+        {
+          "term": "Framing",
+          "definition": "Selecting and emphasising aspects of an issue in ways that shape interpretation."
+        },
+        {
+          "term": "Construct validity",
+          "definition": "How well a measure captures the concept it claims to measure."
+        },
+        {
+          "term": "Privacy, bias and reporting",
+          "definition": "The specific concept or method examined in this topic within Media Research and Audience Analytics; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Privacy, bias and reporting",
+          "steps": [
+            "For “Privacy, bias and reporting”, define the audience and communication objective, identify the channel and measure, and separate exposure, engagement, knowledge, attitude, and behaviour outcomes. Explain how selection bias, platform incentives, or measurement choices could distort conclusions.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "com-research-401-privacy-bias-and-reporting-q1",
+          "type": "mcq",
+          "prompt": "When evaluating Privacy, bias and reporting, what is the strongest practice?",
+          "options": [
+            "Match the metric to the communication objective and acknowledge measurement limits",
+            "Treat views as proof of behaviour change",
+            "Assume all audiences interpret a message identically",
+            "Ignore privacy and consent"
+          ],
+          "answerIndex": 0,
+          "explanation": "Metrics must correspond to the objective; reach alone does not prove an outcome."
+        },
+        {
+          "id": "com-research-401-privacy-bias-and-reporting-q2",
+          "type": "short-answer",
+          "prompt": "Explain Privacy, bias and reporting in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Privacy, bias and reporting accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "com-research-401-privacy-bias-and-reporting-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Privacy, bias and reporting. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ],
+  "contentNotice": "Original instructional draft. Course title/code is illustrative and must be checked against the student’s current departmental course outline. Not an authentic past paper.",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "All questions in this lesson are original practice questions unless a separate verified source record explicitly says otherwise."
+  }
+}

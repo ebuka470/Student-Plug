@@ -1,0 +1,545 @@
+{
+  "courseId": "cs-project-401",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "400-level undergraduate learning depth",
+  "topics": [
+    {
+      "id": "problem-statement-and-literature-review",
+      "title": "Problem statement and literature review",
+      "description": "Problem statement and literature review: a structured set of explanations, method, worked application, and critical checks for Final-Year Project and Research Methods.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Problem statement and literature review accurately.",
+        "Apply the central ideas in Problem statement and literature review to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Problem statement and literature review in Final-Year Project and Research Methods",
+          "paragraphs": [
+            "Problem statement and literature review is studied here as a specific part of Final-Year Project and Research Methods. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Computing systems transform data through algorithms, software, and hardware. A rigorous explanation specifies the abstraction level, inputs, outputs, constraints, and failure conditions. Performance must be considered alongside correctness, maintainability, security, and resource limits.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the problem and assumptions; represent the system or data; explain the mechanism step by step; analyse correctness and resource use; then discuss edge cases and trade-offs. Distinguish an implementation detail from a property guaranteed by the model.",
+            "Apply that method directly to “Problem statement and literature review”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Final-Year Project and Research Methods; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A hash table can provide expected constant-time lookup when a suitable hash function distributes keys well and collisions are managed. This is an expected-case statement, not a guarantee that every lookup takes exactly the same time; worst-case behaviour depends on collision patterns and implementation.",
+            "Now adapt the example to the topic “Problem statement and literature review”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Problem statement and literature review include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Abstraction",
+          "definition": "Emphasising relevant properties while hiding irrelevant detail."
+        },
+        {
+          "term": "Invariant",
+          "definition": "A condition that must remain true at defined points in an algorithm or system."
+        },
+        {
+          "term": "Trade-off",
+          "definition": "A design choice that improves one criterion while potentially worsening another."
+        },
+        {
+          "term": "Problem statement and literature review",
+          "definition": "The specific concept or method examined in this topic within Final-Year Project and Research Methods; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Problem statement and literature review",
+          "steps": [
+            "For “Problem statement and literature review”, begin by identifying the system inputs, outputs, assumptions, and failure cases. Trace one small case manually, then test a boundary case. For example, if an operation is expected to process n records, test n=0, n=1, duplicate values, and malformed input; document which behaviour is intended.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "cs-project-401-problem-statement-and-literature-review-q1",
+          "type": "mcq",
+          "prompt": "When applying Problem statement and literature review, which practice most directly improves the reliability of the result?",
+          "options": [
+            "State assumptions and test normal, boundary, and failure cases",
+            "Assume the first run proves correctness",
+            "Ignore inputs that are not typical",
+            "Measure only the visual appearance"
+          ],
+          "answerIndex": 0,
+          "explanation": "Systematic assumptions and boundary tests expose failures that a single normal case may miss."
+        },
+        {
+          "id": "cs-project-401-problem-statement-and-literature-review-q2",
+          "type": "short-answer",
+          "prompt": "Explain Problem statement and literature review in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Problem statement and literature review accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "cs-project-401-problem-statement-and-literature-review-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Problem statement and literature review. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "research-design-and-ethics",
+      "title": "Research design and ethics",
+      "description": "Research design and ethics: a structured set of explanations, method, worked application, and critical checks for Final-Year Project and Research Methods.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Research design and ethics accurately.",
+        "Apply the central ideas in Research design and ethics to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Research design and ethics in Final-Year Project and Research Methods",
+          "paragraphs": [
+            "Research design and ethics is studied here as a specific part of Final-Year Project and Research Methods. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Computing systems transform data through algorithms, software, and hardware. A rigorous explanation specifies the abstraction level, inputs, outputs, constraints, and failure conditions. Performance must be considered alongside correctness, maintainability, security, and resource limits.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the problem and assumptions; represent the system or data; explain the mechanism step by step; analyse correctness and resource use; then discuss edge cases and trade-offs. Distinguish an implementation detail from a property guaranteed by the model.",
+            "Apply that method directly to “Research design and ethics”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Final-Year Project and Research Methods; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A hash table can provide expected constant-time lookup when a suitable hash function distributes keys well and collisions are managed. This is an expected-case statement, not a guarantee that every lookup takes exactly the same time; worst-case behaviour depends on collision patterns and implementation.",
+            "Now adapt the example to the topic “Research design and ethics”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Research design and ethics include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Abstraction",
+          "definition": "Emphasising relevant properties while hiding irrelevant detail."
+        },
+        {
+          "term": "Invariant",
+          "definition": "A condition that must remain true at defined points in an algorithm or system."
+        },
+        {
+          "term": "Trade-off",
+          "definition": "A design choice that improves one criterion while potentially worsening another."
+        },
+        {
+          "term": "Research design and ethics",
+          "definition": "The specific concept or method examined in this topic within Final-Year Project and Research Methods; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Research design and ethics",
+          "steps": [
+            "For “Research design and ethics”, begin by identifying the system inputs, outputs, assumptions, and failure cases. Trace one small case manually, then test a boundary case. For example, if an operation is expected to process n records, test n=0, n=1, duplicate values, and malformed input; document which behaviour is intended.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "cs-project-401-research-design-and-ethics-q1",
+          "type": "mcq",
+          "prompt": "When applying Research design and ethics, which practice most directly improves the reliability of the result?",
+          "options": [
+            "State assumptions and test normal, boundary, and failure cases",
+            "Assume the first run proves correctness",
+            "Ignore inputs that are not typical",
+            "Measure only the visual appearance"
+          ],
+          "answerIndex": 0,
+          "explanation": "Systematic assumptions and boundary tests expose failures that a single normal case may miss."
+        },
+        {
+          "id": "cs-project-401-research-design-and-ethics-q2",
+          "type": "short-answer",
+          "prompt": "Explain Research design and ethics in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Research design and ethics accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "cs-project-401-research-design-and-ethics-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Research design and ethics. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "system-requirements-and-architecture",
+      "title": "System requirements and architecture",
+      "description": "System requirements and architecture: a structured set of explanations, method, worked application, and critical checks for Final-Year Project and Research Methods.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain System requirements and architecture accurately.",
+        "Apply the central ideas in System requirements and architecture to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "System requirements and architecture in Final-Year Project and Research Methods",
+          "paragraphs": [
+            "System requirements and architecture is studied here as a specific part of Final-Year Project and Research Methods. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Computing systems transform data through algorithms, software, and hardware. A rigorous explanation specifies the abstraction level, inputs, outputs, constraints, and failure conditions. Performance must be considered alongside correctness, maintainability, security, and resource limits.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the problem and assumptions; represent the system or data; explain the mechanism step by step; analyse correctness and resource use; then discuss edge cases and trade-offs. Distinguish an implementation detail from a property guaranteed by the model.",
+            "Apply that method directly to “System requirements and architecture”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Final-Year Project and Research Methods; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A hash table can provide expected constant-time lookup when a suitable hash function distributes keys well and collisions are managed. This is an expected-case statement, not a guarantee that every lookup takes exactly the same time; worst-case behaviour depends on collision patterns and implementation.",
+            "Now adapt the example to the topic “System requirements and architecture”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying System requirements and architecture include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Abstraction",
+          "definition": "Emphasising relevant properties while hiding irrelevant detail."
+        },
+        {
+          "term": "Invariant",
+          "definition": "A condition that must remain true at defined points in an algorithm or system."
+        },
+        {
+          "term": "Trade-off",
+          "definition": "A design choice that improves one criterion while potentially worsening another."
+        },
+        {
+          "term": "System requirements and architecture",
+          "definition": "The specific concept or method examined in this topic within Final-Year Project and Research Methods; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: System requirements and architecture",
+          "steps": [
+            "For “System requirements and architecture”, begin by identifying the system inputs, outputs, assumptions, and failure cases. Trace one small case manually, then test a boundary case. For example, if an operation is expected to process n records, test n=0, n=1, duplicate values, and malformed input; document which behaviour is intended.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "cs-project-401-system-requirements-and-architecture-q1",
+          "type": "mcq",
+          "prompt": "When applying System requirements and architecture, which practice most directly improves the reliability of the result?",
+          "options": [
+            "State assumptions and test normal, boundary, and failure cases",
+            "Assume the first run proves correctness",
+            "Ignore inputs that are not typical",
+            "Measure only the visual appearance"
+          ],
+          "answerIndex": 0,
+          "explanation": "Systematic assumptions and boundary tests expose failures that a single normal case may miss."
+        },
+        {
+          "id": "cs-project-401-system-requirements-and-architecture-q2",
+          "type": "short-answer",
+          "prompt": "Explain System requirements and architecture in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines System requirements and architecture accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "cs-project-401-system-requirements-and-architecture-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about System requirements and architecture. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "evaluation-metrics-and-reproducibility",
+      "title": "Evaluation metrics and reproducibility",
+      "description": "Evaluation metrics and reproducibility: a structured set of explanations, method, worked application, and critical checks for Final-Year Project and Research Methods.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Evaluation metrics and reproducibility accurately.",
+        "Apply the central ideas in Evaluation metrics and reproducibility to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Evaluation metrics and reproducibility in Final-Year Project and Research Methods",
+          "paragraphs": [
+            "Evaluation metrics and reproducibility is studied here as a specific part of Final-Year Project and Research Methods. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Computing systems transform data through algorithms, software, and hardware. A rigorous explanation specifies the abstraction level, inputs, outputs, constraints, and failure conditions. Performance must be considered alongside correctness, maintainability, security, and resource limits.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the problem and assumptions; represent the system or data; explain the mechanism step by step; analyse correctness and resource use; then discuss edge cases and trade-offs. Distinguish an implementation detail from a property guaranteed by the model.",
+            "Apply that method directly to “Evaluation metrics and reproducibility”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Final-Year Project and Research Methods; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A hash table can provide expected constant-time lookup when a suitable hash function distributes keys well and collisions are managed. This is an expected-case statement, not a guarantee that every lookup takes exactly the same time; worst-case behaviour depends on collision patterns and implementation.",
+            "Now adapt the example to the topic “Evaluation metrics and reproducibility”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Evaluation metrics and reproducibility include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Abstraction",
+          "definition": "Emphasising relevant properties while hiding irrelevant detail."
+        },
+        {
+          "term": "Invariant",
+          "definition": "A condition that must remain true at defined points in an algorithm or system."
+        },
+        {
+          "term": "Trade-off",
+          "definition": "A design choice that improves one criterion while potentially worsening another."
+        },
+        {
+          "term": "Evaluation metrics and reproducibility",
+          "definition": "The specific concept or method examined in this topic within Final-Year Project and Research Methods; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Evaluation metrics and reproducibility",
+          "steps": [
+            "For “Evaluation metrics and reproducibility”, begin by identifying the system inputs, outputs, assumptions, and failure cases. Trace one small case manually, then test a boundary case. For example, if an operation is expected to process n records, test n=0, n=1, duplicate values, and malformed input; document which behaviour is intended.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "cs-project-401-evaluation-metrics-and-reproducibility-q1",
+          "type": "mcq",
+          "prompt": "When applying Evaluation metrics and reproducibility, which practice most directly improves the reliability of the result?",
+          "options": [
+            "State assumptions and test normal, boundary, and failure cases",
+            "Assume the first run proves correctness",
+            "Ignore inputs that are not typical",
+            "Measure only the visual appearance"
+          ],
+          "answerIndex": 0,
+          "explanation": "Systematic assumptions and boundary tests expose failures that a single normal case may miss."
+        },
+        {
+          "id": "cs-project-401-evaluation-metrics-and-reproducibility-q2",
+          "type": "short-answer",
+          "prompt": "Explain Evaluation metrics and reproducibility in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Evaluation metrics and reproducibility accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "cs-project-401-evaluation-metrics-and-reproducibility-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Evaluation metrics and reproducibility. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "technical-writing-and-defence",
+      "title": "Technical writing and defence",
+      "description": "Technical writing and defence: a structured set of explanations, method, worked application, and critical checks for Final-Year Project and Research Methods.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Technical writing and defence accurately.",
+        "Apply the central ideas in Technical writing and defence to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Technical writing and defence in Final-Year Project and Research Methods",
+          "paragraphs": [
+            "Technical writing and defence is studied here as a specific part of Final-Year Project and Research Methods. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Computing systems transform data through algorithms, software, and hardware. A rigorous explanation specifies the abstraction level, inputs, outputs, constraints, and failure conditions. Performance must be considered alongside correctness, maintainability, security, and resource limits.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the problem and assumptions; represent the system or data; explain the mechanism step by step; analyse correctness and resource use; then discuss edge cases and trade-offs. Distinguish an implementation detail from a property guaranteed by the model.",
+            "Apply that method directly to “Technical writing and defence”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Final-Year Project and Research Methods; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A hash table can provide expected constant-time lookup when a suitable hash function distributes keys well and collisions are managed. This is an expected-case statement, not a guarantee that every lookup takes exactly the same time; worst-case behaviour depends on collision patterns and implementation.",
+            "Now adapt the example to the topic “Technical writing and defence”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Technical writing and defence include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Abstraction",
+          "definition": "Emphasising relevant properties while hiding irrelevant detail."
+        },
+        {
+          "term": "Invariant",
+          "definition": "A condition that must remain true at defined points in an algorithm or system."
+        },
+        {
+          "term": "Trade-off",
+          "definition": "A design choice that improves one criterion while potentially worsening another."
+        },
+        {
+          "term": "Technical writing and defence",
+          "definition": "The specific concept or method examined in this topic within Final-Year Project and Research Methods; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Technical writing and defence",
+          "steps": [
+            "For “Technical writing and defence”, begin by identifying the system inputs, outputs, assumptions, and failure cases. Trace one small case manually, then test a boundary case. For example, if an operation is expected to process n records, test n=0, n=1, duplicate values, and malformed input; document which behaviour is intended.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "cs-project-401-technical-writing-and-defence-q1",
+          "type": "mcq",
+          "prompt": "When applying Technical writing and defence, which practice most directly improves the reliability of the result?",
+          "options": [
+            "State assumptions and test normal, boundary, and failure cases",
+            "Assume the first run proves correctness",
+            "Ignore inputs that are not typical",
+            "Measure only the visual appearance"
+          ],
+          "answerIndex": 0,
+          "explanation": "Systematic assumptions and boundary tests expose failures that a single normal case may miss."
+        },
+        {
+          "id": "cs-project-401-technical-writing-and-defence-q2",
+          "type": "short-answer",
+          "prompt": "Explain Technical writing and defence in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Technical writing and defence accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "cs-project-401-technical-writing-and-defence-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Technical writing and defence. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ],
+  "contentNotice": "Original instructional draft. Course title/code is illustrative and must be checked against the student’s current departmental course outline. Not an authentic past paper.",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "All questions in this lesson are original practice questions unless a separate verified source record explicitly says otherwise."
+  }
+}

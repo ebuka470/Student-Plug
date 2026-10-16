@@ -1,0 +1,545 @@
+{
+  "courseId": "pol-method-201",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "200-level undergraduate learning depth",
+  "topics": [
+    {
+      "id": "concepts-and-operationalisation",
+      "title": "Concepts and operationalisation",
+      "description": "Concepts and operationalisation: a structured set of explanations, method, worked application, and critical checks for Political Analysis and Research Methods.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Concepts and operationalisation accurately.",
+        "Apply the central ideas in Concepts and operationalisation to a structured course problem.",
+        "Check a solution to Concepts and operationalisation for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Concepts and operationalisation in Political Analysis and Research Methods",
+          "paragraphs": [
+            "Concepts and operationalisation is studied here as a specific part of Political Analysis and Research Methods. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Research turns a topic into an answerable question and then uses a transparent method to gather and interpret evidence. The design should follow the question rather than convenience alone. Sampling, measurement, missing data, researcher decisions, and ethics all affect the credibility and transferability of findings.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Specify the population and setting; define the research question and constructs; select a design and sampling plan; choose instruments; plan analysis before looking for a preferred result; address consent, confidentiality, risk, and data management; and report limitations.",
+            "Apply that method directly to “Concepts and operationalisation”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Political Analysis and Research Methods; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A question about the association between study hours and examination scores can be addressed with an observational design, but the result may be confounded by prior preparation, course difficulty, and access to resources. A causal question requires stronger design assumptions than a simple correlation.",
+            "Now adapt the example to the topic “Concepts and operationalisation”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Concepts and operationalisation include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Research question",
+          "definition": "A focused, answerable question guiding the study."
+        },
+        {
+          "term": "Confounder",
+          "definition": "A variable associated with both an exposure/predictor and outcome that can distort their relationship."
+        },
+        {
+          "term": "Operational definition",
+          "definition": "A specification of how a construct is observed or measured."
+        },
+        {
+          "term": "Concepts and operationalisation",
+          "definition": "The specific concept or method examined in this topic within Political Analysis and Research Methods; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Concepts and operationalisation",
+          "steps": [
+            "For a study involving “Concepts and operationalisation”, connect the question to the design, sampling, measurement, analysis, and ethics plan. State what the design can support, what it cannot establish, and how another researcher could inspect or reproduce the decisions made.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "pol-method-201-concepts-and-operationalisation-q1",
+          "type": "mcq",
+          "prompt": "Which feature most strengthens work on Concepts and operationalisation?",
+          "options": [
+            "Transparent methods, justified decisions, ethical safeguards, and explicit limitations",
+            "Removing unfavourable findings",
+            "Selecting participants only after seeing the desired result",
+            "Reporting conclusions without describing the method"
+          ],
+          "answerIndex": 0,
+          "explanation": "Transparent and ethically sound methods make the evidence assessable."
+        },
+        {
+          "id": "pol-method-201-concepts-and-operationalisation-q2",
+          "type": "short-answer",
+          "prompt": "Explain Concepts and operationalisation in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Concepts and operationalisation accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "pol-method-201-concepts-and-operationalisation-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Concepts and operationalisation. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "case-selection",
+      "title": "Case selection",
+      "description": "Case selection: a structured set of explanations, method, worked application, and critical checks for Political Analysis and Research Methods.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Case selection accurately.",
+        "Apply the central ideas in Case selection to a structured course problem.",
+        "Check a solution to Case selection for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Case selection in Political Analysis and Research Methods",
+          "paragraphs": [
+            "Case selection is studied here as a specific part of Political Analysis and Research Methods. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Research turns a topic into an answerable question and then uses a transparent method to gather and interpret evidence. The design should follow the question rather than convenience alone. Sampling, measurement, missing data, researcher decisions, and ethics all affect the credibility and transferability of findings.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Specify the population and setting; define the research question and constructs; select a design and sampling plan; choose instruments; plan analysis before looking for a preferred result; address consent, confidentiality, risk, and data management; and report limitations.",
+            "Apply that method directly to “Case selection”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Political Analysis and Research Methods; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A question about the association between study hours and examination scores can be addressed with an observational design, but the result may be confounded by prior preparation, course difficulty, and access to resources. A causal question requires stronger design assumptions than a simple correlation.",
+            "Now adapt the example to the topic “Case selection”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Case selection include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Research question",
+          "definition": "A focused, answerable question guiding the study."
+        },
+        {
+          "term": "Confounder",
+          "definition": "A variable associated with both an exposure/predictor and outcome that can distort their relationship."
+        },
+        {
+          "term": "Operational definition",
+          "definition": "A specification of how a construct is observed or measured."
+        },
+        {
+          "term": "Case selection",
+          "definition": "The specific concept or method examined in this topic within Political Analysis and Research Methods; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Case selection",
+          "steps": [
+            "For a study involving “Case selection”, connect the question to the design, sampling, measurement, analysis, and ethics plan. State what the design can support, what it cannot establish, and how another researcher could inspect or reproduce the decisions made.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "pol-method-201-case-selection-q1",
+          "type": "mcq",
+          "prompt": "Which feature most strengthens work on Case selection?",
+          "options": [
+            "Transparent methods, justified decisions, ethical safeguards, and explicit limitations",
+            "Removing unfavourable findings",
+            "Selecting participants only after seeing the desired result",
+            "Reporting conclusions without describing the method"
+          ],
+          "answerIndex": 0,
+          "explanation": "Transparent and ethically sound methods make the evidence assessable."
+        },
+        {
+          "id": "pol-method-201-case-selection-q2",
+          "type": "short-answer",
+          "prompt": "Explain Case selection in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Case selection accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "pol-method-201-case-selection-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Case selection. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "comparative-method",
+      "title": "Comparative method",
+      "description": "Comparative method: a structured set of explanations, method, worked application, and critical checks for Political Analysis and Research Methods.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Comparative method accurately.",
+        "Apply the central ideas in Comparative method to a structured course problem.",
+        "Check a solution to Comparative method for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Comparative method in Political Analysis and Research Methods",
+          "paragraphs": [
+            "Comparative method is studied here as a specific part of Political Analysis and Research Methods. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Research turns a topic into an answerable question and then uses a transparent method to gather and interpret evidence. The design should follow the question rather than convenience alone. Sampling, measurement, missing data, researcher decisions, and ethics all affect the credibility and transferability of findings.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Specify the population and setting; define the research question and constructs; select a design and sampling plan; choose instruments; plan analysis before looking for a preferred result; address consent, confidentiality, risk, and data management; and report limitations.",
+            "Apply that method directly to “Comparative method”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Political Analysis and Research Methods; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A question about the association between study hours and examination scores can be addressed with an observational design, but the result may be confounded by prior preparation, course difficulty, and access to resources. A causal question requires stronger design assumptions than a simple correlation.",
+            "Now adapt the example to the topic “Comparative method”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Comparative method include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Research question",
+          "definition": "A focused, answerable question guiding the study."
+        },
+        {
+          "term": "Confounder",
+          "definition": "A variable associated with both an exposure/predictor and outcome that can distort their relationship."
+        },
+        {
+          "term": "Operational definition",
+          "definition": "A specification of how a construct is observed or measured."
+        },
+        {
+          "term": "Comparative method",
+          "definition": "The specific concept or method examined in this topic within Political Analysis and Research Methods; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Comparative method",
+          "steps": [
+            "For a study involving “Comparative method”, connect the question to the design, sampling, measurement, analysis, and ethics plan. State what the design can support, what it cannot establish, and how another researcher could inspect or reproduce the decisions made.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "pol-method-201-comparative-method-q1",
+          "type": "mcq",
+          "prompt": "Which feature most strengthens work on Comparative method?",
+          "options": [
+            "Transparent methods, justified decisions, ethical safeguards, and explicit limitations",
+            "Removing unfavourable findings",
+            "Selecting participants only after seeing the desired result",
+            "Reporting conclusions without describing the method"
+          ],
+          "answerIndex": 0,
+          "explanation": "Transparent and ethically sound methods make the evidence assessable."
+        },
+        {
+          "id": "pol-method-201-comparative-method-q2",
+          "type": "short-answer",
+          "prompt": "Explain Comparative method in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Comparative method accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "pol-method-201-comparative-method-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Comparative method. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "survey-and-interview-basics",
+      "title": "Survey and interview basics",
+      "description": "Survey and interview basics: a structured set of explanations, method, worked application, and critical checks for Political Analysis and Research Methods.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Survey and interview basics accurately.",
+        "Apply the central ideas in Survey and interview basics to a structured course problem.",
+        "Check a solution to Survey and interview basics for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Survey and interview basics in Political Analysis and Research Methods",
+          "paragraphs": [
+            "Survey and interview basics is studied here as a specific part of Political Analysis and Research Methods. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Research turns a topic into an answerable question and then uses a transparent method to gather and interpret evidence. The design should follow the question rather than convenience alone. Sampling, measurement, missing data, researcher decisions, and ethics all affect the credibility and transferability of findings.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Specify the population and setting; define the research question and constructs; select a design and sampling plan; choose instruments; plan analysis before looking for a preferred result; address consent, confidentiality, risk, and data management; and report limitations.",
+            "Apply that method directly to “Survey and interview basics”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Political Analysis and Research Methods; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A question about the association between study hours and examination scores can be addressed with an observational design, but the result may be confounded by prior preparation, course difficulty, and access to resources. A causal question requires stronger design assumptions than a simple correlation.",
+            "Now adapt the example to the topic “Survey and interview basics”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Survey and interview basics include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Research question",
+          "definition": "A focused, answerable question guiding the study."
+        },
+        {
+          "term": "Confounder",
+          "definition": "A variable associated with both an exposure/predictor and outcome that can distort their relationship."
+        },
+        {
+          "term": "Operational definition",
+          "definition": "A specification of how a construct is observed or measured."
+        },
+        {
+          "term": "Survey and interview basics",
+          "definition": "The specific concept or method examined in this topic within Political Analysis and Research Methods; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Survey and interview basics",
+          "steps": [
+            "For a study involving “Survey and interview basics”, connect the question to the design, sampling, measurement, analysis, and ethics plan. State what the design can support, what it cannot establish, and how another researcher could inspect or reproduce the decisions made.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "pol-method-201-survey-and-interview-basics-q1",
+          "type": "mcq",
+          "prompt": "Which feature most strengthens work on Survey and interview basics?",
+          "options": [
+            "Transparent methods, justified decisions, ethical safeguards, and explicit limitations",
+            "Removing unfavourable findings",
+            "Selecting participants only after seeing the desired result",
+            "Reporting conclusions without describing the method"
+          ],
+          "answerIndex": 0,
+          "explanation": "Transparent and ethically sound methods make the evidence assessable."
+        },
+        {
+          "id": "pol-method-201-survey-and-interview-basics-q2",
+          "type": "short-answer",
+          "prompt": "Explain Survey and interview basics in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Survey and interview basics accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "pol-method-201-survey-and-interview-basics-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Survey and interview basics. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "causal-claims-and-limitations",
+      "title": "Causal claims and limitations",
+      "description": "Causal claims and limitations: a structured set of explanations, method, worked application, and critical checks for Political Analysis and Research Methods.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Causal claims and limitations accurately.",
+        "Apply the central ideas in Causal claims and limitations to a structured course problem.",
+        "Check a solution to Causal claims and limitations for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Causal claims and limitations in Political Analysis and Research Methods",
+          "paragraphs": [
+            "Causal claims and limitations is studied here as a specific part of Political Analysis and Research Methods. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Research turns a topic into an answerable question and then uses a transparent method to gather and interpret evidence. The design should follow the question rather than convenience alone. Sampling, measurement, missing data, researcher decisions, and ethics all affect the credibility and transferability of findings.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Specify the population and setting; define the research question and constructs; select a design and sampling plan; choose instruments; plan analysis before looking for a preferred result; address consent, confidentiality, risk, and data management; and report limitations.",
+            "Apply that method directly to “Causal claims and limitations”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Political Analysis and Research Methods; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A question about the association between study hours and examination scores can be addressed with an observational design, but the result may be confounded by prior preparation, course difficulty, and access to resources. A causal question requires stronger design assumptions than a simple correlation.",
+            "Now adapt the example to the topic “Causal claims and limitations”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Causal claims and limitations include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Research question",
+          "definition": "A focused, answerable question guiding the study."
+        },
+        {
+          "term": "Confounder",
+          "definition": "A variable associated with both an exposure/predictor and outcome that can distort their relationship."
+        },
+        {
+          "term": "Operational definition",
+          "definition": "A specification of how a construct is observed or measured."
+        },
+        {
+          "term": "Causal claims and limitations",
+          "definition": "The specific concept or method examined in this topic within Political Analysis and Research Methods; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Causal claims and limitations",
+          "steps": [
+            "For a study involving “Causal claims and limitations”, connect the question to the design, sampling, measurement, analysis, and ethics plan. State what the design can support, what it cannot establish, and how another researcher could inspect or reproduce the decisions made.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "pol-method-201-causal-claims-and-limitations-q1",
+          "type": "mcq",
+          "prompt": "Which feature most strengthens work on Causal claims and limitations?",
+          "options": [
+            "Transparent methods, justified decisions, ethical safeguards, and explicit limitations",
+            "Removing unfavourable findings",
+            "Selecting participants only after seeing the desired result",
+            "Reporting conclusions without describing the method"
+          ],
+          "answerIndex": 0,
+          "explanation": "Transparent and ethically sound methods make the evidence assessable."
+        },
+        {
+          "id": "pol-method-201-causal-claims-and-limitations-q2",
+          "type": "short-answer",
+          "prompt": "Explain Causal claims and limitations in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Causal claims and limitations accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "pol-method-201-causal-claims-and-limitations-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Causal claims and limitations. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ],
+  "contentNotice": "Original instructional draft. Course title/code is illustrative and must be checked against the student’s current departmental course outline. Not an authentic past paper.",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "All questions in this lesson are original practice questions unless a separate verified source record explicitly says otherwise."
+  }
+}

@@ -1,0 +1,544 @@
+{
+  "courseId": "phy-elec-201",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "200-level undergraduate learning depth",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "Original practice questions; no verified past papers included."
+  },
+  "topics": [
+    {
+      "id": "electric-field-and-potential",
+      "title": "Electric field and potential",
+      "description": "Electric field and potential: a structured set of explanations, method, worked application, and critical checks for Electricity and Magnetism.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Electric field and potential accurately.",
+        "Apply the central ideas in Electric field and potential to a structured course problem.",
+        "Check a solution to Electric field and potential for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Electric field and potential in Electricity and Magnetism",
+          "paragraphs": [
+            "Electric field and potential is studied here as a specific part of Electricity and Magnetism. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "This topic should be learned as a connected argument rather than a list of isolated definitions. Identify the main concept, the relationship between its parts, the conditions under which the explanation applies, and a case that illustrates both the value and the limits of the idea.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Start with a precise definition, explain the mechanism in sequence, apply it to a concrete example, distinguish evidence from assumption, and conclude by answering the question directly. For compare/contrast prompts, use the same criteria for each side.",
+            "Apply that method directly to “Electric field and potential”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Electricity and Magnetism; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A strong examination response defines the central term, gives a relevant explanation, applies the concept to a realistic case, and then evaluates one limitation or alternative. This is more persuasive than listing terms without showing how they relate.",
+            "Now adapt the example to the topic “Electric field and potential”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Electric field and potential include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Concept",
+          "definition": "An abstract idea used to organise observations or reasoning."
+        },
+        {
+          "term": "Application",
+          "definition": "Using a principle or method to interpret a specific case."
+        },
+        {
+          "term": "Evaluation",
+          "definition": "Judging strengths, limitations, assumptions, and alternatives against stated criteria."
+        },
+        {
+          "term": "Electric field and potential",
+          "definition": "The specific concept or method examined in this topic within Electricity and Magnetism; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Electric field and potential",
+          "steps": [
+            "For “Electric field and potential”, define the system boundary and reference directions, record known quantities with SI units, write the governing relationship, solve before rounding, and check the result dimensionally. Compare the ideal-model answer with practical limits such as losses, tolerances, stability, or protection requirements where relevant.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "phy-elec-201-electric-field-and-potential-q1",
+          "type": "mcq",
+          "prompt": "Which check is most useful after solving an engineering problem on Electric field and potential?",
+          "options": [
+            "Check units, assumptions, and whether the result is physically plausible",
+            "Round every value before substituting",
+            "Ignore reference directions",
+            "Accept any numerical output from a calculator"
+          ],
+          "answerIndex": 0,
+          "explanation": "Dimensional and physical checks catch many modelling and arithmetic errors."
+        },
+        {
+          "id": "phy-elec-201-electric-field-and-potential-q2",
+          "type": "short-answer",
+          "prompt": "Explain Electric field and potential in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Electric field and potential accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "phy-elec-201-electric-field-and-potential-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Electric field and potential. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "capacitance-and-dielectric-materials",
+      "title": "Capacitance and dielectric materials",
+      "description": "Capacitance and dielectric materials: a structured set of explanations, method, worked application, and critical checks for Electricity and Magnetism.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Capacitance and dielectric materials accurately.",
+        "Apply the central ideas in Capacitance and dielectric materials to a structured course problem.",
+        "Check a solution to Capacitance and dielectric materials for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Capacitance and dielectric materials in Electricity and Magnetism",
+          "paragraphs": [
+            "Capacitance and dielectric materials is studied here as a specific part of Electricity and Magnetism. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "This topic should be learned as a connected argument rather than a list of isolated definitions. Identify the main concept, the relationship between its parts, the conditions under which the explanation applies, and a case that illustrates both the value and the limits of the idea.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Start with a precise definition, explain the mechanism in sequence, apply it to a concrete example, distinguish evidence from assumption, and conclude by answering the question directly. For compare/contrast prompts, use the same criteria for each side.",
+            "Apply that method directly to “Capacitance and dielectric materials”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Electricity and Magnetism; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A strong examination response defines the central term, gives a relevant explanation, applies the concept to a realistic case, and then evaluates one limitation or alternative. This is more persuasive than listing terms without showing how they relate.",
+            "Now adapt the example to the topic “Capacitance and dielectric materials”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Capacitance and dielectric materials include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Concept",
+          "definition": "An abstract idea used to organise observations or reasoning."
+        },
+        {
+          "term": "Application",
+          "definition": "Using a principle or method to interpret a specific case."
+        },
+        {
+          "term": "Evaluation",
+          "definition": "Judging strengths, limitations, assumptions, and alternatives against stated criteria."
+        },
+        {
+          "term": "Capacitance and dielectric materials",
+          "definition": "The specific concept or method examined in this topic within Electricity and Magnetism; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Capacitance and dielectric materials",
+          "steps": [
+            "For “Capacitance and dielectric materials”, define the system boundary and reference directions, record known quantities with SI units, write the governing relationship, solve before rounding, and check the result dimensionally. Compare the ideal-model answer with practical limits such as losses, tolerances, stability, or protection requirements where relevant.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "phy-elec-201-capacitance-and-dielectric-materials-q1",
+          "type": "mcq",
+          "prompt": "Which check is most useful after solving an engineering problem on Capacitance and dielectric materials?",
+          "options": [
+            "Check units, assumptions, and whether the result is physically plausible",
+            "Round every value before substituting",
+            "Ignore reference directions",
+            "Accept any numerical output from a calculator"
+          ],
+          "answerIndex": 0,
+          "explanation": "Dimensional and physical checks catch many modelling and arithmetic errors."
+        },
+        {
+          "id": "phy-elec-201-capacitance-and-dielectric-materials-q2",
+          "type": "short-answer",
+          "prompt": "Explain Capacitance and dielectric materials in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Capacitance and dielectric materials accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "phy-elec-201-capacitance-and-dielectric-materials-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Capacitance and dielectric materials. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "magnetic-forces-and-fields",
+      "title": "Magnetic forces and fields",
+      "description": "Magnetic forces and fields: a structured set of explanations, method, worked application, and critical checks for Electricity and Magnetism.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Magnetic forces and fields accurately.",
+        "Apply the central ideas in Magnetic forces and fields to a structured course problem.",
+        "Check a solution to Magnetic forces and fields for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Magnetic forces and fields in Electricity and Magnetism",
+          "paragraphs": [
+            "Magnetic forces and fields is studied here as a specific part of Electricity and Magnetism. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "This topic should be learned as a connected argument rather than a list of isolated definitions. Identify the main concept, the relationship between its parts, the conditions under which the explanation applies, and a case that illustrates both the value and the limits of the idea.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Start with a precise definition, explain the mechanism in sequence, apply it to a concrete example, distinguish evidence from assumption, and conclude by answering the question directly. For compare/contrast prompts, use the same criteria for each side.",
+            "Apply that method directly to “Magnetic forces and fields”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Electricity and Magnetism; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A strong examination response defines the central term, gives a relevant explanation, applies the concept to a realistic case, and then evaluates one limitation or alternative. This is more persuasive than listing terms without showing how they relate.",
+            "Now adapt the example to the topic “Magnetic forces and fields”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Magnetic forces and fields include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Concept",
+          "definition": "An abstract idea used to organise observations or reasoning."
+        },
+        {
+          "term": "Application",
+          "definition": "Using a principle or method to interpret a specific case."
+        },
+        {
+          "term": "Evaluation",
+          "definition": "Judging strengths, limitations, assumptions, and alternatives against stated criteria."
+        },
+        {
+          "term": "Magnetic forces and fields",
+          "definition": "The specific concept or method examined in this topic within Electricity and Magnetism; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Magnetic forces and fields",
+          "steps": [
+            "For “Magnetic forces and fields”, define the system boundary and reference directions, record known quantities with SI units, write the governing relationship, solve before rounding, and check the result dimensionally. Compare the ideal-model answer with practical limits such as losses, tolerances, stability, or protection requirements where relevant.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "phy-elec-201-magnetic-forces-and-fields-q1",
+          "type": "mcq",
+          "prompt": "Which check is most useful after solving an engineering problem on Magnetic forces and fields?",
+          "options": [
+            "Check units, assumptions, and whether the result is physically plausible",
+            "Round every value before substituting",
+            "Ignore reference directions",
+            "Accept any numerical output from a calculator"
+          ],
+          "answerIndex": 0,
+          "explanation": "Dimensional and physical checks catch many modelling and arithmetic errors."
+        },
+        {
+          "id": "phy-elec-201-magnetic-forces-and-fields-q2",
+          "type": "short-answer",
+          "prompt": "Explain Magnetic forces and fields in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Magnetic forces and fields accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "phy-elec-201-magnetic-forces-and-fields-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Magnetic forces and fields. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "electromagnetic-induction",
+      "title": "Electromagnetic induction",
+      "description": "Electromagnetic induction: a structured set of explanations, method, worked application, and critical checks for Electricity and Magnetism.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Electromagnetic induction accurately.",
+        "Apply the central ideas in Electromagnetic induction to a structured course problem.",
+        "Check a solution to Electromagnetic induction for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Electromagnetic induction in Electricity and Magnetism",
+          "paragraphs": [
+            "Electromagnetic induction is studied here as a specific part of Electricity and Magnetism. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "This topic should be learned as a connected argument rather than a list of isolated definitions. Identify the main concept, the relationship between its parts, the conditions under which the explanation applies, and a case that illustrates both the value and the limits of the idea.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Start with a precise definition, explain the mechanism in sequence, apply it to a concrete example, distinguish evidence from assumption, and conclude by answering the question directly. For compare/contrast prompts, use the same criteria for each side.",
+            "Apply that method directly to “Electromagnetic induction”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Electricity and Magnetism; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A strong examination response defines the central term, gives a relevant explanation, applies the concept to a realistic case, and then evaluates one limitation or alternative. This is more persuasive than listing terms without showing how they relate.",
+            "Now adapt the example to the topic “Electromagnetic induction”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Electromagnetic induction include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Concept",
+          "definition": "An abstract idea used to organise observations or reasoning."
+        },
+        {
+          "term": "Application",
+          "definition": "Using a principle or method to interpret a specific case."
+        },
+        {
+          "term": "Evaluation",
+          "definition": "Judging strengths, limitations, assumptions, and alternatives against stated criteria."
+        },
+        {
+          "term": "Electromagnetic induction",
+          "definition": "The specific concept or method examined in this topic within Electricity and Magnetism; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Electromagnetic induction",
+          "steps": [
+            "For “Electromagnetic induction”, define the system boundary and reference directions, record known quantities with SI units, write the governing relationship, solve before rounding, and check the result dimensionally. Compare the ideal-model answer with practical limits such as losses, tolerances, stability, or protection requirements where relevant.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "phy-elec-201-electromagnetic-induction-q1",
+          "type": "mcq",
+          "prompt": "Which check is most useful after solving an engineering problem on Electromagnetic induction?",
+          "options": [
+            "Check units, assumptions, and whether the result is physically plausible",
+            "Round every value before substituting",
+            "Ignore reference directions",
+            "Accept any numerical output from a calculator"
+          ],
+          "answerIndex": 0,
+          "explanation": "Dimensional and physical checks catch many modelling and arithmetic errors."
+        },
+        {
+          "id": "phy-elec-201-electromagnetic-induction-q2",
+          "type": "short-answer",
+          "prompt": "Explain Electromagnetic induction in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Electromagnetic induction accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "phy-elec-201-electromagnetic-induction-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Electromagnetic induction. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "dc-circuits-and-energy-transfer",
+      "title": "DC circuits and energy transfer",
+      "description": "DC circuits and energy transfer: a structured set of explanations, method, worked application, and critical checks for Electricity and Magnetism.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain DC circuits and energy transfer accurately.",
+        "Apply the central ideas in DC circuits and energy transfer to a structured course problem.",
+        "Check a solution to DC circuits and energy transfer for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "DC circuits and energy transfer in Electricity and Magnetism",
+          "paragraphs": [
+            "DC circuits and energy transfer is studied here as a specific part of Electricity and Magnetism. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "This topic should be learned as a connected argument rather than a list of isolated definitions. Identify the main concept, the relationship between its parts, the conditions under which the explanation applies, and a case that illustrates both the value and the limits of the idea.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Start with a precise definition, explain the mechanism in sequence, apply it to a concrete example, distinguish evidence from assumption, and conclude by answering the question directly. For compare/contrast prompts, use the same criteria for each side.",
+            "Apply that method directly to “DC circuits and energy transfer”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Electricity and Magnetism; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A strong examination response defines the central term, gives a relevant explanation, applies the concept to a realistic case, and then evaluates one limitation or alternative. This is more persuasive than listing terms without showing how they relate.",
+            "Now adapt the example to the topic “DC circuits and energy transfer”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying DC circuits and energy transfer include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Concept",
+          "definition": "An abstract idea used to organise observations or reasoning."
+        },
+        {
+          "term": "Application",
+          "definition": "Using a principle or method to interpret a specific case."
+        },
+        {
+          "term": "Evaluation",
+          "definition": "Judging strengths, limitations, assumptions, and alternatives against stated criteria."
+        },
+        {
+          "term": "DC circuits and energy transfer",
+          "definition": "The specific concept or method examined in this topic within Electricity and Magnetism; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: DC circuits and energy transfer",
+          "steps": [
+            "For “DC circuits and energy transfer”, define the system boundary and reference directions, record known quantities with SI units, write the governing relationship, solve before rounding, and check the result dimensionally. Compare the ideal-model answer with practical limits such as losses, tolerances, stability, or protection requirements where relevant.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "phy-elec-201-dc-circuits-and-energy-transfer-q1",
+          "type": "mcq",
+          "prompt": "Which check is most useful after solving an engineering problem on DC circuits and energy transfer?",
+          "options": [
+            "Check units, assumptions, and whether the result is physically plausible",
+            "Round every value before substituting",
+            "Ignore reference directions",
+            "Accept any numerical output from a calculator"
+          ],
+          "answerIndex": 0,
+          "explanation": "Dimensional and physical checks catch many modelling and arithmetic errors."
+        },
+        {
+          "id": "phy-elec-201-dc-circuits-and-energy-transfer-q2",
+          "type": "short-answer",
+          "prompt": "Explain DC circuits and energy transfer in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines DC circuits and energy transfer accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "phy-elec-201-dc-circuits-and-energy-transfer-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about DC circuits and energy transfer. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ]
+}

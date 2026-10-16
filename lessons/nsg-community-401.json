@@ -1,0 +1,545 @@
+{
+  "courseId": "nsg-community-401",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "400-level undergraduate learning depth",
+  "topics": [
+    {
+      "id": "community-diagnosis-and-needs-assessment",
+      "title": "Community diagnosis and needs assessment",
+      "description": "Community diagnosis and needs assessment: a structured set of explanations, method, worked application, and critical checks for Community Health Nursing.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Community diagnosis and needs assessment accurately.",
+        "Apply the central ideas in Community diagnosis and needs assessment to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Community diagnosis and needs assessment in Community Health Nursing",
+          "paragraphs": [
+            "Community diagnosis and needs assessment is studied here as a specific part of Community Health Nursing. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Nursing practice combines evidence, clinical judgement, communication, patient preferences, and local protocols. Educational notes do not replace supervised clinical instruction or a facility’s current procedures. Prioritise patient identification, consent, infection prevention, privacy, documentation, escalation, and scope of practice.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Use a structured assessment: collect relevant cues, identify immediate risks, prioritise concerns, plan a measurable goal, carry out authorised interventions, and evaluate the response. Document facts objectively and escalate deterioration promptly according to the clinical setting’s protocol.",
+            "Apply that method directly to “Community diagnosis and needs assessment”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Community Health Nursing; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "During a handover, communicate the patient’s identity using approved identifiers, current concern, relevant background, observations, actions already taken, and the next action required. Invite clarification and confirm responsibility for follow-up rather than relying on an ambiguous verbal message.",
+            "Now adapt the example to the topic “Community diagnosis and needs assessment”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Community diagnosis and needs assessment include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Evidence-based practice",
+          "definition": "Integrating best available evidence, professional expertise, and patient values."
+        },
+        {
+          "term": "Handover",
+          "definition": "Transfer of relevant information and responsibility between care providers."
+        },
+        {
+          "term": "Clinical escalation",
+          "definition": "Seeking timely review when a patient’s condition or risk requires a higher level of response."
+        },
+        {
+          "term": "Community diagnosis and needs assessment",
+          "definition": "The specific concept or method examined in this topic within Community Health Nursing; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Community diagnosis and needs assessment",
+          "steps": [
+            "In a learning case involving “Community diagnosis and needs assessment”, describe the relevant assessment cues, immediate safety considerations, authorised action, communication/documentation needs, and how the outcome would be evaluated. Use current institutional guidance and supervised clinical instruction for actual care decisions.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "nsg-community-401-community-diagnosis-and-needs-assessment-q1",
+          "type": "mcq",
+          "prompt": "Which response is most appropriate when applying Community diagnosis and needs assessment in a clinical learning scenario?",
+          "options": [
+            "Follow current protocol, document objectively, and escalate concerns within scope",
+            "Rely on memory when a protocol is available",
+            "Share identifiable patient details in a public forum",
+            "Perform any intervention without checking authorisation"
+          ],
+          "answerIndex": 0,
+          "explanation": "Safe practice depends on current protocols, scope, confidentiality, and escalation."
+        },
+        {
+          "id": "nsg-community-401-community-diagnosis-and-needs-assessment-q2",
+          "type": "short-answer",
+          "prompt": "Explain Community diagnosis and needs assessment in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Community diagnosis and needs assessment accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "nsg-community-401-community-diagnosis-and-needs-assessment-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Community diagnosis and needs assessment. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "primary-health-care-principles",
+      "title": "Primary health care principles",
+      "description": "Primary health care principles: a structured set of explanations, method, worked application, and critical checks for Community Health Nursing.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Primary health care principles accurately.",
+        "Apply the central ideas in Primary health care principles to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Primary health care principles in Community Health Nursing",
+          "paragraphs": [
+            "Primary health care principles is studied here as a specific part of Community Health Nursing. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Nursing practice combines evidence, clinical judgement, communication, patient preferences, and local protocols. Educational notes do not replace supervised clinical instruction or a facility’s current procedures. Prioritise patient identification, consent, infection prevention, privacy, documentation, escalation, and scope of practice.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Use a structured assessment: collect relevant cues, identify immediate risks, prioritise concerns, plan a measurable goal, carry out authorised interventions, and evaluate the response. Document facts objectively and escalate deterioration promptly according to the clinical setting’s protocol.",
+            "Apply that method directly to “Primary health care principles”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Community Health Nursing; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "During a handover, communicate the patient’s identity using approved identifiers, current concern, relevant background, observations, actions already taken, and the next action required. Invite clarification and confirm responsibility for follow-up rather than relying on an ambiguous verbal message.",
+            "Now adapt the example to the topic “Primary health care principles”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Primary health care principles include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Evidence-based practice",
+          "definition": "Integrating best available evidence, professional expertise, and patient values."
+        },
+        {
+          "term": "Handover",
+          "definition": "Transfer of relevant information and responsibility between care providers."
+        },
+        {
+          "term": "Clinical escalation",
+          "definition": "Seeking timely review when a patient’s condition or risk requires a higher level of response."
+        },
+        {
+          "term": "Primary health care principles",
+          "definition": "The specific concept or method examined in this topic within Community Health Nursing; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Primary health care principles",
+          "steps": [
+            "In a learning case involving “Primary health care principles”, describe the relevant assessment cues, immediate safety considerations, authorised action, communication/documentation needs, and how the outcome would be evaluated. Use current institutional guidance and supervised clinical instruction for actual care decisions.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "nsg-community-401-primary-health-care-principles-q1",
+          "type": "mcq",
+          "prompt": "Which response is most appropriate when applying Primary health care principles in a clinical learning scenario?",
+          "options": [
+            "Follow current protocol, document objectively, and escalate concerns within scope",
+            "Rely on memory when a protocol is available",
+            "Share identifiable patient details in a public forum",
+            "Perform any intervention without checking authorisation"
+          ],
+          "answerIndex": 0,
+          "explanation": "Safe practice depends on current protocols, scope, confidentiality, and escalation."
+        },
+        {
+          "id": "nsg-community-401-primary-health-care-principles-q2",
+          "type": "short-answer",
+          "prompt": "Explain Primary health care principles in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Primary health care principles accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "nsg-community-401-primary-health-care-principles-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Primary health care principles. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "epidemiology-and-surveillance",
+      "title": "Epidemiology and surveillance",
+      "description": "Epidemiology and surveillance: a structured set of explanations, method, worked application, and critical checks for Community Health Nursing.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Epidemiology and surveillance accurately.",
+        "Apply the central ideas in Epidemiology and surveillance to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Epidemiology and surveillance in Community Health Nursing",
+          "paragraphs": [
+            "Epidemiology and surveillance is studied here as a specific part of Community Health Nursing. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Nursing practice combines evidence, clinical judgement, communication, patient preferences, and local protocols. Educational notes do not replace supervised clinical instruction or a facility’s current procedures. Prioritise patient identification, consent, infection prevention, privacy, documentation, escalation, and scope of practice.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Use a structured assessment: collect relevant cues, identify immediate risks, prioritise concerns, plan a measurable goal, carry out authorised interventions, and evaluate the response. Document facts objectively and escalate deterioration promptly according to the clinical setting’s protocol.",
+            "Apply that method directly to “Epidemiology and surveillance”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Community Health Nursing; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "During a handover, communicate the patient’s identity using approved identifiers, current concern, relevant background, observations, actions already taken, and the next action required. Invite clarification and confirm responsibility for follow-up rather than relying on an ambiguous verbal message.",
+            "Now adapt the example to the topic “Epidemiology and surveillance”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Epidemiology and surveillance include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Evidence-based practice",
+          "definition": "Integrating best available evidence, professional expertise, and patient values."
+        },
+        {
+          "term": "Handover",
+          "definition": "Transfer of relevant information and responsibility between care providers."
+        },
+        {
+          "term": "Clinical escalation",
+          "definition": "Seeking timely review when a patient’s condition or risk requires a higher level of response."
+        },
+        {
+          "term": "Epidemiology and surveillance",
+          "definition": "The specific concept or method examined in this topic within Community Health Nursing; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Epidemiology and surveillance",
+          "steps": [
+            "In a learning case involving “Epidemiology and surveillance”, describe the relevant assessment cues, immediate safety considerations, authorised action, communication/documentation needs, and how the outcome would be evaluated. Use current institutional guidance and supervised clinical instruction for actual care decisions.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "nsg-community-401-epidemiology-and-surveillance-q1",
+          "type": "mcq",
+          "prompt": "Which response is most appropriate when applying Epidemiology and surveillance in a clinical learning scenario?",
+          "options": [
+            "Follow current protocol, document objectively, and escalate concerns within scope",
+            "Rely on memory when a protocol is available",
+            "Share identifiable patient details in a public forum",
+            "Perform any intervention without checking authorisation"
+          ],
+          "answerIndex": 0,
+          "explanation": "Safe practice depends on current protocols, scope, confidentiality, and escalation."
+        },
+        {
+          "id": "nsg-community-401-epidemiology-and-surveillance-q2",
+          "type": "short-answer",
+          "prompt": "Explain Epidemiology and surveillance in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Epidemiology and surveillance accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "nsg-community-401-epidemiology-and-surveillance-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Epidemiology and surveillance. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "health-education-planning",
+      "title": "Health education planning",
+      "description": "Health education planning: a structured set of explanations, method, worked application, and critical checks for Community Health Nursing.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Health education planning accurately.",
+        "Apply the central ideas in Health education planning to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Health education planning in Community Health Nursing",
+          "paragraphs": [
+            "Health education planning is studied here as a specific part of Community Health Nursing. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Nursing practice combines evidence, clinical judgement, communication, patient preferences, and local protocols. Educational notes do not replace supervised clinical instruction or a facility’s current procedures. Prioritise patient identification, consent, infection prevention, privacy, documentation, escalation, and scope of practice.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Use a structured assessment: collect relevant cues, identify immediate risks, prioritise concerns, plan a measurable goal, carry out authorised interventions, and evaluate the response. Document facts objectively and escalate deterioration promptly according to the clinical setting’s protocol.",
+            "Apply that method directly to “Health education planning”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Community Health Nursing; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "During a handover, communicate the patient’s identity using approved identifiers, current concern, relevant background, observations, actions already taken, and the next action required. Invite clarification and confirm responsibility for follow-up rather than relying on an ambiguous verbal message.",
+            "Now adapt the example to the topic “Health education planning”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Health education planning include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Evidence-based practice",
+          "definition": "Integrating best available evidence, professional expertise, and patient values."
+        },
+        {
+          "term": "Handover",
+          "definition": "Transfer of relevant information and responsibility between care providers."
+        },
+        {
+          "term": "Clinical escalation",
+          "definition": "Seeking timely review when a patient’s condition or risk requires a higher level of response."
+        },
+        {
+          "term": "Health education planning",
+          "definition": "The specific concept or method examined in this topic within Community Health Nursing; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Health education planning",
+          "steps": [
+            "In a learning case involving “Health education planning”, describe the relevant assessment cues, immediate safety considerations, authorised action, communication/documentation needs, and how the outcome would be evaluated. Use current institutional guidance and supervised clinical instruction for actual care decisions.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "nsg-community-401-health-education-planning-q1",
+          "type": "mcq",
+          "prompt": "Which response is most appropriate when applying Health education planning in a clinical learning scenario?",
+          "options": [
+            "Follow current protocol, document objectively, and escalate concerns within scope",
+            "Rely on memory when a protocol is available",
+            "Share identifiable patient details in a public forum",
+            "Perform any intervention without checking authorisation"
+          ],
+          "answerIndex": 0,
+          "explanation": "Safe practice depends on current protocols, scope, confidentiality, and escalation."
+        },
+        {
+          "id": "nsg-community-401-health-education-planning-q2",
+          "type": "short-answer",
+          "prompt": "Explain Health education planning in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Health education planning accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "nsg-community-401-health-education-planning-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Health education planning. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "monitoring-evaluation-and-referral-pathways",
+      "title": "Monitoring, evaluation and referral pathways",
+      "description": "Monitoring, evaluation and referral pathways: a structured set of explanations, method, worked application, and critical checks for Community Health Nursing.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Monitoring, evaluation and referral pathways accurately.",
+        "Apply the central ideas in Monitoring, evaluation and referral pathways to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Monitoring, evaluation and referral pathways in Community Health Nursing",
+          "paragraphs": [
+            "Monitoring, evaluation and referral pathways is studied here as a specific part of Community Health Nursing. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Nursing practice combines evidence, clinical judgement, communication, patient preferences, and local protocols. Educational notes do not replace supervised clinical instruction or a facility’s current procedures. Prioritise patient identification, consent, infection prevention, privacy, documentation, escalation, and scope of practice.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Use a structured assessment: collect relevant cues, identify immediate risks, prioritise concerns, plan a measurable goal, carry out authorised interventions, and evaluate the response. Document facts objectively and escalate deterioration promptly according to the clinical setting’s protocol.",
+            "Apply that method directly to “Monitoring, evaluation and referral pathways”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Community Health Nursing; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "During a handover, communicate the patient’s identity using approved identifiers, current concern, relevant background, observations, actions already taken, and the next action required. Invite clarification and confirm responsibility for follow-up rather than relying on an ambiguous verbal message.",
+            "Now adapt the example to the topic “Monitoring, evaluation and referral pathways”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Monitoring, evaluation and referral pathways include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Evidence-based practice",
+          "definition": "Integrating best available evidence, professional expertise, and patient values."
+        },
+        {
+          "term": "Handover",
+          "definition": "Transfer of relevant information and responsibility between care providers."
+        },
+        {
+          "term": "Clinical escalation",
+          "definition": "Seeking timely review when a patient’s condition or risk requires a higher level of response."
+        },
+        {
+          "term": "Monitoring, evaluation and referral pathways",
+          "definition": "The specific concept or method examined in this topic within Community Health Nursing; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Monitoring, evaluation and referral pathways",
+          "steps": [
+            "In a learning case involving “Monitoring, evaluation and referral pathways”, describe the relevant assessment cues, immediate safety considerations, authorised action, communication/documentation needs, and how the outcome would be evaluated. Use current institutional guidance and supervised clinical instruction for actual care decisions.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "nsg-community-401-monitoring-evaluation-and-referral-pathways-q1",
+          "type": "mcq",
+          "prompt": "Which response is most appropriate when applying Monitoring, evaluation and referral pathways in a clinical learning scenario?",
+          "options": [
+            "Follow current protocol, document objectively, and escalate concerns within scope",
+            "Rely on memory when a protocol is available",
+            "Share identifiable patient details in a public forum",
+            "Perform any intervention without checking authorisation"
+          ],
+          "answerIndex": 0,
+          "explanation": "Safe practice depends on current protocols, scope, confidentiality, and escalation."
+        },
+        {
+          "id": "nsg-community-401-monitoring-evaluation-and-referral-pathways-q2",
+          "type": "short-answer",
+          "prompt": "Explain Monitoring, evaluation and referral pathways in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Monitoring, evaluation and referral pathways accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "nsg-community-401-monitoring-evaluation-and-referral-pathways-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Monitoring, evaluation and referral pathways. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ],
+  "contentNotice": "Original instructional draft. Course title/code is illustrative and must be checked against the student’s current departmental course outline. Not an authentic past paper.",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "All questions in this lesson are original practice questions unless a separate verified source record explicitly says otherwise."
+  }
+}

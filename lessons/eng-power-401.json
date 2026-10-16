@@ -1,0 +1,545 @@
+{
+  "courseId": "eng-power-401",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "400-level undergraduate learning depth",
+  "topics": [
+    {
+      "id": "per-unit-system-and-network-models",
+      "title": "Per-unit system and network models",
+      "description": "Per-unit system and network models: a structured set of explanations, method, worked application, and critical checks for Power Systems Analysis.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Per-unit system and network models accurately.",
+        "Apply the central ideas in Per-unit system and network models to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Per-unit system and network models in Power Systems Analysis",
+          "paragraphs": [
+            "Per-unit system and network models is studied here as a specific part of Power Systems Analysis. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Engineering analysis begins with a defined system boundary, idealisations, units, and conservation laws. State whether quantities are steady-state or transient, ideal or measured, and whether losses or uncertainty are included. Check that equations are dimensionally consistent and that the result respects physical constraints.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Draw the system or circuit, label directions and reference values, write governing equations before substituting numbers, solve systematically, and validate using units, limiting cases, or an independent check.",
+            "Apply that method directly to “Per-unit system and network models”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Power Systems Analysis; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For a resistor under the passive sign convention, Ohm’s law gives V=IR. A 2 kΩ resistor carrying 3 mA has V=(2000 Ω)(0.003 A)=6 V. Converting kΩ and mA before multiplication prevents a factor-of-one-thousand error.",
+            "Now adapt the example to the topic “Per-unit system and network models”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Per-unit system and network models include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Boundary condition",
+          "definition": "A constraint specified at the edge of a model or domain."
+        },
+        {
+          "term": "Steady state",
+          "definition": "A condition in which the relevant system variables no longer change with time."
+        },
+        {
+          "term": "Dimensional analysis",
+          "definition": "Checking relationships through physical units."
+        },
+        {
+          "term": "Per-unit system and network models",
+          "definition": "The specific concept or method examined in this topic within Power Systems Analysis; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Per-unit system and network models",
+          "steps": [
+            "For “Per-unit system and network models”, define the system boundary and reference directions, record known quantities with SI units, write the governing relationship, solve before rounding, and check the result dimensionally. Compare the ideal-model answer with practical limits such as losses, tolerances, stability, or protection requirements where relevant.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "eng-power-401-per-unit-system-and-network-models-q1",
+          "type": "mcq",
+          "prompt": "Which check is most useful after solving an engineering problem on Per-unit system and network models?",
+          "options": [
+            "Check units, assumptions, and whether the result is physically plausible",
+            "Round every value before substituting",
+            "Ignore reference directions",
+            "Accept any numerical output from a calculator"
+          ],
+          "answerIndex": 0,
+          "explanation": "Dimensional and physical checks catch many modelling and arithmetic errors."
+        },
+        {
+          "id": "eng-power-401-per-unit-system-and-network-models-q2",
+          "type": "short-answer",
+          "prompt": "Explain Per-unit system and network models in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Per-unit system and network models accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "eng-power-401-per-unit-system-and-network-models-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Per-unit system and network models. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "load-flow-analysis-concepts",
+      "title": "Load-flow analysis concepts",
+      "description": "Load-flow analysis concepts: a structured set of explanations, method, worked application, and critical checks for Power Systems Analysis.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Load-flow analysis concepts accurately.",
+        "Apply the central ideas in Load-flow analysis concepts to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Load-flow analysis concepts in Power Systems Analysis",
+          "paragraphs": [
+            "Load-flow analysis concepts is studied here as a specific part of Power Systems Analysis. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Engineering analysis begins with a defined system boundary, idealisations, units, and conservation laws. State whether quantities are steady-state or transient, ideal or measured, and whether losses or uncertainty are included. Check that equations are dimensionally consistent and that the result respects physical constraints.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Draw the system or circuit, label directions and reference values, write governing equations before substituting numbers, solve systematically, and validate using units, limiting cases, or an independent check.",
+            "Apply that method directly to “Load-flow analysis concepts”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Power Systems Analysis; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For a resistor under the passive sign convention, Ohm’s law gives V=IR. A 2 kΩ resistor carrying 3 mA has V=(2000 Ω)(0.003 A)=6 V. Converting kΩ and mA before multiplication prevents a factor-of-one-thousand error.",
+            "Now adapt the example to the topic “Load-flow analysis concepts”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Load-flow analysis concepts include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Boundary condition",
+          "definition": "A constraint specified at the edge of a model or domain."
+        },
+        {
+          "term": "Steady state",
+          "definition": "A condition in which the relevant system variables no longer change with time."
+        },
+        {
+          "term": "Dimensional analysis",
+          "definition": "Checking relationships through physical units."
+        },
+        {
+          "term": "Load-flow analysis concepts",
+          "definition": "The specific concept or method examined in this topic within Power Systems Analysis; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Load-flow analysis concepts",
+          "steps": [
+            "For “Load-flow analysis concepts”, define the system boundary and reference directions, record known quantities with SI units, write the governing relationship, solve before rounding, and check the result dimensionally. Compare the ideal-model answer with practical limits such as losses, tolerances, stability, or protection requirements where relevant.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "eng-power-401-load-flow-analysis-concepts-q1",
+          "type": "mcq",
+          "prompt": "Which check is most useful after solving an engineering problem on Load-flow analysis concepts?",
+          "options": [
+            "Check units, assumptions, and whether the result is physically plausible",
+            "Round every value before substituting",
+            "Ignore reference directions",
+            "Accept any numerical output from a calculator"
+          ],
+          "answerIndex": 0,
+          "explanation": "Dimensional and physical checks catch many modelling and arithmetic errors."
+        },
+        {
+          "id": "eng-power-401-load-flow-analysis-concepts-q2",
+          "type": "short-answer",
+          "prompt": "Explain Load-flow analysis concepts in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Load-flow analysis concepts accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "eng-power-401-load-flow-analysis-concepts-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Load-flow analysis concepts. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "symmetrical-fault-analysis",
+      "title": "Symmetrical fault analysis",
+      "description": "Symmetrical fault analysis: a structured set of explanations, method, worked application, and critical checks for Power Systems Analysis.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Symmetrical fault analysis accurately.",
+        "Apply the central ideas in Symmetrical fault analysis to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Symmetrical fault analysis in Power Systems Analysis",
+          "paragraphs": [
+            "Symmetrical fault analysis is studied here as a specific part of Power Systems Analysis. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Engineering analysis begins with a defined system boundary, idealisations, units, and conservation laws. State whether quantities are steady-state or transient, ideal or measured, and whether losses or uncertainty are included. Check that equations are dimensionally consistent and that the result respects physical constraints.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Draw the system or circuit, label directions and reference values, write governing equations before substituting numbers, solve systematically, and validate using units, limiting cases, or an independent check.",
+            "Apply that method directly to “Symmetrical fault analysis”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Power Systems Analysis; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For a resistor under the passive sign convention, Ohm’s law gives V=IR. A 2 kΩ resistor carrying 3 mA has V=(2000 Ω)(0.003 A)=6 V. Converting kΩ and mA before multiplication prevents a factor-of-one-thousand error.",
+            "Now adapt the example to the topic “Symmetrical fault analysis”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Symmetrical fault analysis include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Boundary condition",
+          "definition": "A constraint specified at the edge of a model or domain."
+        },
+        {
+          "term": "Steady state",
+          "definition": "A condition in which the relevant system variables no longer change with time."
+        },
+        {
+          "term": "Dimensional analysis",
+          "definition": "Checking relationships through physical units."
+        },
+        {
+          "term": "Symmetrical fault analysis",
+          "definition": "The specific concept or method examined in this topic within Power Systems Analysis; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Symmetrical fault analysis",
+          "steps": [
+            "For “Symmetrical fault analysis”, define the system boundary and reference directions, record known quantities with SI units, write the governing relationship, solve before rounding, and check the result dimensionally. Compare the ideal-model answer with practical limits such as losses, tolerances, stability, or protection requirements where relevant.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "eng-power-401-symmetrical-fault-analysis-q1",
+          "type": "mcq",
+          "prompt": "Which check is most useful after solving an engineering problem on Symmetrical fault analysis?",
+          "options": [
+            "Check units, assumptions, and whether the result is physically plausible",
+            "Round every value before substituting",
+            "Ignore reference directions",
+            "Accept any numerical output from a calculator"
+          ],
+          "answerIndex": 0,
+          "explanation": "Dimensional and physical checks catch many modelling and arithmetic errors."
+        },
+        {
+          "id": "eng-power-401-symmetrical-fault-analysis-q2",
+          "type": "short-answer",
+          "prompt": "Explain Symmetrical fault analysis in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Symmetrical fault analysis accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "eng-power-401-symmetrical-fault-analysis-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Symmetrical fault analysis. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "protection-coordination",
+      "title": "Protection coordination",
+      "description": "Protection coordination: a structured set of explanations, method, worked application, and critical checks for Power Systems Analysis.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Protection coordination accurately.",
+        "Apply the central ideas in Protection coordination to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Protection coordination in Power Systems Analysis",
+          "paragraphs": [
+            "Protection coordination is studied here as a specific part of Power Systems Analysis. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Engineering analysis begins with a defined system boundary, idealisations, units, and conservation laws. State whether quantities are steady-state or transient, ideal or measured, and whether losses or uncertainty are included. Check that equations are dimensionally consistent and that the result respects physical constraints.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Draw the system or circuit, label directions and reference values, write governing equations before substituting numbers, solve systematically, and validate using units, limiting cases, or an independent check.",
+            "Apply that method directly to “Protection coordination”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Power Systems Analysis; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For a resistor under the passive sign convention, Ohm’s law gives V=IR. A 2 kΩ resistor carrying 3 mA has V=(2000 Ω)(0.003 A)=6 V. Converting kΩ and mA before multiplication prevents a factor-of-one-thousand error.",
+            "Now adapt the example to the topic “Protection coordination”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Protection coordination include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Boundary condition",
+          "definition": "A constraint specified at the edge of a model or domain."
+        },
+        {
+          "term": "Steady state",
+          "definition": "A condition in which the relevant system variables no longer change with time."
+        },
+        {
+          "term": "Dimensional analysis",
+          "definition": "Checking relationships through physical units."
+        },
+        {
+          "term": "Protection coordination",
+          "definition": "The specific concept or method examined in this topic within Power Systems Analysis; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Protection coordination",
+          "steps": [
+            "For “Protection coordination”, define the system boundary and reference directions, record known quantities with SI units, write the governing relationship, solve before rounding, and check the result dimensionally. Compare the ideal-model answer with practical limits such as losses, tolerances, stability, or protection requirements where relevant.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "eng-power-401-protection-coordination-q1",
+          "type": "mcq",
+          "prompt": "Which check is most useful after solving an engineering problem on Protection coordination?",
+          "options": [
+            "Check units, assumptions, and whether the result is physically plausible",
+            "Round every value before substituting",
+            "Ignore reference directions",
+            "Accept any numerical output from a calculator"
+          ],
+          "answerIndex": 0,
+          "explanation": "Dimensional and physical checks catch many modelling and arithmetic errors."
+        },
+        {
+          "id": "eng-power-401-protection-coordination-q2",
+          "type": "short-answer",
+          "prompt": "Explain Protection coordination in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Protection coordination accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "eng-power-401-protection-coordination-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Protection coordination. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "reliability-losses-and-grid-constraints",
+      "title": "Reliability, losses and grid constraints",
+      "description": "Reliability, losses and grid constraints: a structured set of explanations, method, worked application, and critical checks for Power Systems Analysis.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Reliability, losses and grid constraints accurately.",
+        "Apply the central ideas in Reliability, losses and grid constraints to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Reliability, losses and grid constraints in Power Systems Analysis",
+          "paragraphs": [
+            "Reliability, losses and grid constraints is studied here as a specific part of Power Systems Analysis. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Engineering analysis begins with a defined system boundary, idealisations, units, and conservation laws. State whether quantities are steady-state or transient, ideal or measured, and whether losses or uncertainty are included. Check that equations are dimensionally consistent and that the result respects physical constraints.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Draw the system or circuit, label directions and reference values, write governing equations before substituting numbers, solve systematically, and validate using units, limiting cases, or an independent check.",
+            "Apply that method directly to “Reliability, losses and grid constraints”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Power Systems Analysis; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For a resistor under the passive sign convention, Ohm’s law gives V=IR. A 2 kΩ resistor carrying 3 mA has V=(2000 Ω)(0.003 A)=6 V. Converting kΩ and mA before multiplication prevents a factor-of-one-thousand error.",
+            "Now adapt the example to the topic “Reliability, losses and grid constraints”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Reliability, losses and grid constraints include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Boundary condition",
+          "definition": "A constraint specified at the edge of a model or domain."
+        },
+        {
+          "term": "Steady state",
+          "definition": "A condition in which the relevant system variables no longer change with time."
+        },
+        {
+          "term": "Dimensional analysis",
+          "definition": "Checking relationships through physical units."
+        },
+        {
+          "term": "Reliability, losses and grid constraints",
+          "definition": "The specific concept or method examined in this topic within Power Systems Analysis; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Reliability, losses and grid constraints",
+          "steps": [
+            "For “Reliability, losses and grid constraints”, define the system boundary and reference directions, record known quantities with SI units, write the governing relationship, solve before rounding, and check the result dimensionally. Compare the ideal-model answer with practical limits such as losses, tolerances, stability, or protection requirements where relevant.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "eng-power-401-reliability-losses-and-grid-constraints-q1",
+          "type": "mcq",
+          "prompt": "Which check is most useful after solving an engineering problem on Reliability, losses and grid constraints?",
+          "options": [
+            "Check units, assumptions, and whether the result is physically plausible",
+            "Round every value before substituting",
+            "Ignore reference directions",
+            "Accept any numerical output from a calculator"
+          ],
+          "answerIndex": 0,
+          "explanation": "Dimensional and physical checks catch many modelling and arithmetic errors."
+        },
+        {
+          "id": "eng-power-401-reliability-losses-and-grid-constraints-q2",
+          "type": "short-answer",
+          "prompt": "Explain Reliability, losses and grid constraints in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Reliability, losses and grid constraints accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "eng-power-401-reliability-losses-and-grid-constraints-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Reliability, losses and grid constraints. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ],
+  "contentNotice": "Original instructional draft. Course title/code is illustrative and must be checked against the student’s current departmental course outline. Not an authentic past paper.",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "All questions in this lesson are original practice questions unless a separate verified source record explicitly says otherwise."
+  }
+}

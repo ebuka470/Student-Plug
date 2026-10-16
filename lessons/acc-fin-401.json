@@ -1,0 +1,545 @@
+{
+  "courseId": "acc-fin-401",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "400-level undergraduate learning depth",
+  "topics": [
+    {
+      "id": "conceptual-framework-and-judgement",
+      "title": "Conceptual framework and judgement",
+      "description": "Conceptual framework and judgement: a structured set of explanations, method, worked application, and critical checks for Advanced Financial Reporting.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Conceptual framework and judgement accurately.",
+        "Apply the central ideas in Conceptual framework and judgement to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Conceptual framework and judgement in Advanced Financial Reporting",
+          "paragraphs": [
+            "Conceptual framework and judgement is studied here as a specific part of Advanced Financial Reporting. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Accounting records and communicates financial effects of transactions. The accounting equation is Assets = Liabilities + Equity. Double-entry recording means each transaction affects at least two accounts so total debits equal total credits; this arithmetic equality does not, by itself, prove that every transaction is correct or complete.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the transaction, accounts affected, account classification, increase or decrease, and debit/credit treatment. Post entries to the ledger, balance accounts, prepare a trial balance, and then consider adjustments before producing financial statements.",
+            "Apply that method directly to “Conceptual framework and judgement”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Advanced Financial Reporting; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If a business owner contributes ₦100,000 cash, cash (an asset) increases by ₦100,000 and owner’s capital (equity) increases by ₦100,000. The equation remains balanced: assets rise by the same amount as equity.",
+            "Now adapt the example to the topic “Conceptual framework and judgement”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Conceptual framework and judgement include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Asset",
+          "definition": "A resource controlled by an entity as a result of past events."
+        },
+        {
+          "term": "Liability",
+          "definition": "A present obligation arising from past events."
+        },
+        {
+          "term": "Accrual basis",
+          "definition": "Recognising transactions when the relevant economic events occur, rather than only when cash moves."
+        },
+        {
+          "term": "Conceptual framework and judgement",
+          "definition": "The specific concept or method examined in this topic within Advanced Financial Reporting; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Conceptual framework and judgement",
+          "steps": [
+            "In an accounting case about “Conceptual framework and judgement”, identify the reporting period, the relevant accounts or disclosure, the applicable recognition/measurement principle, and the evidence supporting the treatment. Then explain the effect on profit, assets, liabilities, equity, or cash flow as appropriate.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "acc-fin-401-conceptual-framework-and-judgement-q1",
+          "type": "mcq",
+          "prompt": "Which approach is strongest when answering a question on Conceptual framework and judgement?",
+          "options": [
+            "Identify the relevant accounting treatment, support it with facts, and explain the financial-statement effect",
+            "Choose a treatment solely because it improves profit",
+            "Ignore the reporting period",
+            "Record every transaction as cash revenue"
+          ],
+          "answerIndex": 0,
+          "explanation": "Accounting treatments should follow the applicable principles and evidence, not the desired result."
+        },
+        {
+          "id": "acc-fin-401-conceptual-framework-and-judgement-q2",
+          "type": "short-answer",
+          "prompt": "Explain Conceptual framework and judgement in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Conceptual framework and judgement accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "acc-fin-401-conceptual-framework-and-judgement-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Conceptual framework and judgement. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "group-accounts-and-consolidation-concepts",
+      "title": "Group accounts and consolidation concepts",
+      "description": "Group accounts and consolidation concepts: a structured set of explanations, method, worked application, and critical checks for Advanced Financial Reporting.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Group accounts and consolidation concepts accurately.",
+        "Apply the central ideas in Group accounts and consolidation concepts to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Group accounts and consolidation concepts in Advanced Financial Reporting",
+          "paragraphs": [
+            "Group accounts and consolidation concepts is studied here as a specific part of Advanced Financial Reporting. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Accounting records and communicates financial effects of transactions. The accounting equation is Assets = Liabilities + Equity. Double-entry recording means each transaction affects at least two accounts so total debits equal total credits; this arithmetic equality does not, by itself, prove that every transaction is correct or complete.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the transaction, accounts affected, account classification, increase or decrease, and debit/credit treatment. Post entries to the ledger, balance accounts, prepare a trial balance, and then consider adjustments before producing financial statements.",
+            "Apply that method directly to “Group accounts and consolidation concepts”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Advanced Financial Reporting; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If a business owner contributes ₦100,000 cash, cash (an asset) increases by ₦100,000 and owner’s capital (equity) increases by ₦100,000. The equation remains balanced: assets rise by the same amount as equity.",
+            "Now adapt the example to the topic “Group accounts and consolidation concepts”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Group accounts and consolidation concepts include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Asset",
+          "definition": "A resource controlled by an entity as a result of past events."
+        },
+        {
+          "term": "Liability",
+          "definition": "A present obligation arising from past events."
+        },
+        {
+          "term": "Accrual basis",
+          "definition": "Recognising transactions when the relevant economic events occur, rather than only when cash moves."
+        },
+        {
+          "term": "Group accounts and consolidation concepts",
+          "definition": "The specific concept or method examined in this topic within Advanced Financial Reporting; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Group accounts and consolidation concepts",
+          "steps": [
+            "In an accounting case about “Group accounts and consolidation concepts”, identify the reporting period, the relevant accounts or disclosure, the applicable recognition/measurement principle, and the evidence supporting the treatment. Then explain the effect on profit, assets, liabilities, equity, or cash flow as appropriate.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "acc-fin-401-group-accounts-and-consolidation-concepts-q1",
+          "type": "mcq",
+          "prompt": "Which approach is strongest when answering a question on Group accounts and consolidation concepts?",
+          "options": [
+            "Identify the relevant accounting treatment, support it with facts, and explain the financial-statement effect",
+            "Choose a treatment solely because it improves profit",
+            "Ignore the reporting period",
+            "Record every transaction as cash revenue"
+          ],
+          "answerIndex": 0,
+          "explanation": "Accounting treatments should follow the applicable principles and evidence, not the desired result."
+        },
+        {
+          "id": "acc-fin-401-group-accounts-and-consolidation-concepts-q2",
+          "type": "short-answer",
+          "prompt": "Explain Group accounts and consolidation concepts in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Group accounts and consolidation concepts accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "acc-fin-401-group-accounts-and-consolidation-concepts-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Group accounts and consolidation concepts. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "revenue-and-lease-reporting-cases",
+      "title": "Revenue and lease reporting cases",
+      "description": "Revenue and lease reporting cases: a structured set of explanations, method, worked application, and critical checks for Advanced Financial Reporting.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Revenue and lease reporting cases accurately.",
+        "Apply the central ideas in Revenue and lease reporting cases to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Revenue and lease reporting cases in Advanced Financial Reporting",
+          "paragraphs": [
+            "Revenue and lease reporting cases is studied here as a specific part of Advanced Financial Reporting. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Accounting records and communicates financial effects of transactions. The accounting equation is Assets = Liabilities + Equity. Double-entry recording means each transaction affects at least two accounts so total debits equal total credits; this arithmetic equality does not, by itself, prove that every transaction is correct or complete.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the transaction, accounts affected, account classification, increase or decrease, and debit/credit treatment. Post entries to the ledger, balance accounts, prepare a trial balance, and then consider adjustments before producing financial statements.",
+            "Apply that method directly to “Revenue and lease reporting cases”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Advanced Financial Reporting; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If a business owner contributes ₦100,000 cash, cash (an asset) increases by ₦100,000 and owner’s capital (equity) increases by ₦100,000. The equation remains balanced: assets rise by the same amount as equity.",
+            "Now adapt the example to the topic “Revenue and lease reporting cases”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Revenue and lease reporting cases include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Asset",
+          "definition": "A resource controlled by an entity as a result of past events."
+        },
+        {
+          "term": "Liability",
+          "definition": "A present obligation arising from past events."
+        },
+        {
+          "term": "Accrual basis",
+          "definition": "Recognising transactions when the relevant economic events occur, rather than only when cash moves."
+        },
+        {
+          "term": "Revenue and lease reporting cases",
+          "definition": "The specific concept or method examined in this topic within Advanced Financial Reporting; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Revenue and lease reporting cases",
+          "steps": [
+            "In an accounting case about “Revenue and lease reporting cases”, identify the reporting period, the relevant accounts or disclosure, the applicable recognition/measurement principle, and the evidence supporting the treatment. Then explain the effect on profit, assets, liabilities, equity, or cash flow as appropriate.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "acc-fin-401-revenue-and-lease-reporting-cases-q1",
+          "type": "mcq",
+          "prompt": "Which approach is strongest when answering a question on Revenue and lease reporting cases?",
+          "options": [
+            "Identify the relevant accounting treatment, support it with facts, and explain the financial-statement effect",
+            "Choose a treatment solely because it improves profit",
+            "Ignore the reporting period",
+            "Record every transaction as cash revenue"
+          ],
+          "answerIndex": 0,
+          "explanation": "Accounting treatments should follow the applicable principles and evidence, not the desired result."
+        },
+        {
+          "id": "acc-fin-401-revenue-and-lease-reporting-cases-q2",
+          "type": "short-answer",
+          "prompt": "Explain Revenue and lease reporting cases in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Revenue and lease reporting cases accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "acc-fin-401-revenue-and-lease-reporting-cases-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Revenue and lease reporting cases. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "impairment-and-provisions",
+      "title": "Impairment and provisions",
+      "description": "Impairment and provisions: a structured set of explanations, method, worked application, and critical checks for Advanced Financial Reporting.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Impairment and provisions accurately.",
+        "Apply the central ideas in Impairment and provisions to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Impairment and provisions in Advanced Financial Reporting",
+          "paragraphs": [
+            "Impairment and provisions is studied here as a specific part of Advanced Financial Reporting. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Accounting records and communicates financial effects of transactions. The accounting equation is Assets = Liabilities + Equity. Double-entry recording means each transaction affects at least two accounts so total debits equal total credits; this arithmetic equality does not, by itself, prove that every transaction is correct or complete.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the transaction, accounts affected, account classification, increase or decrease, and debit/credit treatment. Post entries to the ledger, balance accounts, prepare a trial balance, and then consider adjustments before producing financial statements.",
+            "Apply that method directly to “Impairment and provisions”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Advanced Financial Reporting; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If a business owner contributes ₦100,000 cash, cash (an asset) increases by ₦100,000 and owner’s capital (equity) increases by ₦100,000. The equation remains balanced: assets rise by the same amount as equity.",
+            "Now adapt the example to the topic “Impairment and provisions”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Impairment and provisions include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Asset",
+          "definition": "A resource controlled by an entity as a result of past events."
+        },
+        {
+          "term": "Liability",
+          "definition": "A present obligation arising from past events."
+        },
+        {
+          "term": "Accrual basis",
+          "definition": "Recognising transactions when the relevant economic events occur, rather than only when cash moves."
+        },
+        {
+          "term": "Impairment and provisions",
+          "definition": "The specific concept or method examined in this topic within Advanced Financial Reporting; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Impairment and provisions",
+          "steps": [
+            "In an accounting case about “Impairment and provisions”, identify the reporting period, the relevant accounts or disclosure, the applicable recognition/measurement principle, and the evidence supporting the treatment. Then explain the effect on profit, assets, liabilities, equity, or cash flow as appropriate.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "acc-fin-401-impairment-and-provisions-q1",
+          "type": "mcq",
+          "prompt": "Which approach is strongest when answering a question on Impairment and provisions?",
+          "options": [
+            "Identify the relevant accounting treatment, support it with facts, and explain the financial-statement effect",
+            "Choose a treatment solely because it improves profit",
+            "Ignore the reporting period",
+            "Record every transaction as cash revenue"
+          ],
+          "answerIndex": 0,
+          "explanation": "Accounting treatments should follow the applicable principles and evidence, not the desired result."
+        },
+        {
+          "id": "acc-fin-401-impairment-and-provisions-q2",
+          "type": "short-answer",
+          "prompt": "Explain Impairment and provisions in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Impairment and provisions accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "acc-fin-401-impairment-and-provisions-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Impairment and provisions. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "disclosure-quality-and-interpretation",
+      "title": "Disclosure quality and interpretation",
+      "description": "Disclosure quality and interpretation: a structured set of explanations, method, worked application, and critical checks for Advanced Financial Reporting.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Disclosure quality and interpretation accurately.",
+        "Apply the central ideas in Disclosure quality and interpretation to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Disclosure quality and interpretation in Advanced Financial Reporting",
+          "paragraphs": [
+            "Disclosure quality and interpretation is studied here as a specific part of Advanced Financial Reporting. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Accounting records and communicates financial effects of transactions. The accounting equation is Assets = Liabilities + Equity. Double-entry recording means each transaction affects at least two accounts so total debits equal total credits; this arithmetic equality does not, by itself, prove that every transaction is correct or complete.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the transaction, accounts affected, account classification, increase or decrease, and debit/credit treatment. Post entries to the ledger, balance accounts, prepare a trial balance, and then consider adjustments before producing financial statements.",
+            "Apply that method directly to “Disclosure quality and interpretation”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Advanced Financial Reporting; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If a business owner contributes ₦100,000 cash, cash (an asset) increases by ₦100,000 and owner’s capital (equity) increases by ₦100,000. The equation remains balanced: assets rise by the same amount as equity.",
+            "Now adapt the example to the topic “Disclosure quality and interpretation”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Disclosure quality and interpretation include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Asset",
+          "definition": "A resource controlled by an entity as a result of past events."
+        },
+        {
+          "term": "Liability",
+          "definition": "A present obligation arising from past events."
+        },
+        {
+          "term": "Accrual basis",
+          "definition": "Recognising transactions when the relevant economic events occur, rather than only when cash moves."
+        },
+        {
+          "term": "Disclosure quality and interpretation",
+          "definition": "The specific concept or method examined in this topic within Advanced Financial Reporting; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Disclosure quality and interpretation",
+          "steps": [
+            "In an accounting case about “Disclosure quality and interpretation”, identify the reporting period, the relevant accounts or disclosure, the applicable recognition/measurement principle, and the evidence supporting the treatment. Then explain the effect on profit, assets, liabilities, equity, or cash flow as appropriate.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "acc-fin-401-disclosure-quality-and-interpretation-q1",
+          "type": "mcq",
+          "prompt": "Which approach is strongest when answering a question on Disclosure quality and interpretation?",
+          "options": [
+            "Identify the relevant accounting treatment, support it with facts, and explain the financial-statement effect",
+            "Choose a treatment solely because it improves profit",
+            "Ignore the reporting period",
+            "Record every transaction as cash revenue"
+          ],
+          "answerIndex": 0,
+          "explanation": "Accounting treatments should follow the applicable principles and evidence, not the desired result."
+        },
+        {
+          "id": "acc-fin-401-disclosure-quality-and-interpretation-q2",
+          "type": "short-answer",
+          "prompt": "Explain Disclosure quality and interpretation in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Disclosure quality and interpretation accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "acc-fin-401-disclosure-quality-and-interpretation-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Disclosure quality and interpretation. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ],
+  "contentNotice": "Original instructional draft. Course title/code is illustrative and must be checked against the student’s current departmental course outline. Not an authentic past paper.",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "All questions in this lesson are original practice questions unless a separate verified source record explicitly says otherwise."
+  }
+}

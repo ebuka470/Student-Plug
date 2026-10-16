@@ -1,0 +1,226 @@
+{
+  "courseId": "nsg-217",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "topics": [
+    {
+      "id": "patient-safety-basics",
+      "title": "Foundations of patient safety",
+      "description": "Foundations of patient safety: a structured set of explanations, method, worked application, and critical checks for Nursing Practical.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Foundations of patient safety accurately.",
+        "Apply the central ideas in Foundations of patient safety to a structured course problem.",
+        "Check a solution to Foundations of patient safety for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Foundations of patient safety in Nursing Practical",
+          "paragraphs": [
+            "Foundations of patient safety is studied here as a specific part of Nursing Practical. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Nursing practice combines evidence, clinical judgement, communication, patient preferences, and local protocols. Educational notes do not replace supervised clinical instruction or a facility’s current procedures. Prioritise patient identification, consent, infection prevention, privacy, documentation, escalation, and scope of practice.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Use a structured assessment: collect relevant cues, identify immediate risks, prioritise concerns, plan a measurable goal, carry out authorised interventions, and evaluate the response. Document facts objectively and escalate deterioration promptly according to the clinical setting’s protocol.",
+            "Apply that method directly to “Foundations of patient safety”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Nursing Practical; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "During a handover, communicate the patient’s identity using approved identifiers, current concern, relevant background, observations, actions already taken, and the next action required. Invite clarification and confirm responsibility for follow-up rather than relying on an ambiguous verbal message.",
+            "Now adapt the example to the topic “Foundations of patient safety”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Foundations of patient safety include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Evidence-based practice",
+          "definition": "Integrating best available evidence, professional expertise, and patient values."
+        },
+        {
+          "term": "Handover",
+          "definition": "Transfer of relevant information and responsibility between care providers."
+        },
+        {
+          "term": "Clinical escalation",
+          "definition": "Seeking timely review when a patient’s condition or risk requires a higher level of response."
+        },
+        {
+          "term": "Foundations of patient safety",
+          "definition": "The specific concept or method examined in this topic within Nursing Practical; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Foundations of patient safety",
+          "steps": [
+            "In a learning case involving “Foundations of patient safety”, describe the relevant assessment cues, immediate safety considerations, authorised action, communication/documentation needs, and how the outcome would be evaluated. Use current institutional guidance and supervised clinical instruction for actual care decisions.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "nsg-217-patient-safety-basics-q1",
+          "type": "mcq",
+          "prompt": "Which response is most appropriate when applying Foundations of patient safety in a clinical learning scenario?",
+          "options": [
+            "Follow current protocol, document objectively, and escalate concerns within scope",
+            "Rely on memory when a protocol is available",
+            "Share identifiable patient details in a public forum",
+            "Perform any intervention without checking authorisation"
+          ],
+          "answerIndex": 0,
+          "explanation": "Safe practice depends on current protocols, scope, confidentiality, and escalation."
+        },
+        {
+          "id": "nsg-217-patient-safety-basics-q2",
+          "type": "short-answer",
+          "prompt": "Explain Foundations of patient safety in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Foundations of patient safety accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "nsg-217-patient-safety-basics-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Foundations of patient safety. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "communication-and-handover",
+      "title": "Communication and handover",
+      "description": "Communication and handover: a structured set of explanations, method, worked application, and critical checks for Nursing Practical.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Communication and handover accurately.",
+        "Apply the central ideas in Communication and handover to a structured course problem.",
+        "Check a solution to Communication and handover for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Communication and handover in Nursing Practical",
+          "paragraphs": [
+            "Communication and handover is studied here as a specific part of Nursing Practical. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Nursing practice combines evidence, clinical judgement, communication, patient preferences, and local protocols. Educational notes do not replace supervised clinical instruction or a facility’s current procedures. Prioritise patient identification, consent, infection prevention, privacy, documentation, escalation, and scope of practice.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Use a structured assessment: collect relevant cues, identify immediate risks, prioritise concerns, plan a measurable goal, carry out authorised interventions, and evaluate the response. Document facts objectively and escalate deterioration promptly according to the clinical setting’s protocol.",
+            "Apply that method directly to “Communication and handover”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Nursing Practical; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "During a handover, communicate the patient’s identity using approved identifiers, current concern, relevant background, observations, actions already taken, and the next action required. Invite clarification and confirm responsibility for follow-up rather than relying on an ambiguous verbal message.",
+            "Now adapt the example to the topic “Communication and handover”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Communication and handover include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Evidence-based practice",
+          "definition": "Integrating best available evidence, professional expertise, and patient values."
+        },
+        {
+          "term": "Handover",
+          "definition": "Transfer of relevant information and responsibility between care providers."
+        },
+        {
+          "term": "Clinical escalation",
+          "definition": "Seeking timely review when a patient’s condition or risk requires a higher level of response."
+        },
+        {
+          "term": "Communication and handover",
+          "definition": "The specific concept or method examined in this topic within Nursing Practical; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Communication and handover",
+          "steps": [
+            "In a learning case involving “Communication and handover”, describe the relevant assessment cues, immediate safety considerations, authorised action, communication/documentation needs, and how the outcome would be evaluated. Use current institutional guidance and supervised clinical instruction for actual care decisions.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "nsg-217-communication-and-handover-q1",
+          "type": "mcq",
+          "prompt": "Which response is most appropriate when applying Communication and handover in a clinical learning scenario?",
+          "options": [
+            "Follow current protocol, document objectively, and escalate concerns within scope",
+            "Rely on memory when a protocol is available",
+            "Share identifiable patient details in a public forum",
+            "Perform any intervention without checking authorisation"
+          ],
+          "answerIndex": 0,
+          "explanation": "Safe practice depends on current protocols, scope, confidentiality, and escalation."
+        },
+        {
+          "id": "nsg-217-communication-and-handover-q2",
+          "type": "short-answer",
+          "prompt": "Explain Communication and handover in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Communication and handover accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "nsg-217-communication-and-handover-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Communication and handover. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ],
+  "levelFit": "200-level undergraduate learning depth",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "All questions in this lesson are original practice questions unless a separate verified source record explicitly says otherwise."
+  }
+}

@@ -1,0 +1,545 @@
+{
+  "courseId": "nsg-research-301",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "300-level undergraduate learning depth",
+  "topics": [
+    {
+      "id": "pico-question-formulation",
+      "title": "PICO question formulation",
+      "description": "PICO question formulation: a structured set of explanations, method, worked application, and critical checks for Nursing Research and Evidence-Based Practice.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain PICO question formulation accurately.",
+        "Apply the central ideas in PICO question formulation to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "PICO question formulation in Nursing Research and Evidence-Based Practice",
+          "paragraphs": [
+            "PICO question formulation is studied here as a specific part of Nursing Research and Evidence-Based Practice. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Nursing practice combines evidence, clinical judgement, communication, patient preferences, and local protocols. Educational notes do not replace supervised clinical instruction or a facility’s current procedures. Prioritise patient identification, consent, infection prevention, privacy, documentation, escalation, and scope of practice.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Use a structured assessment: collect relevant cues, identify immediate risks, prioritise concerns, plan a measurable goal, carry out authorised interventions, and evaluate the response. Document facts objectively and escalate deterioration promptly according to the clinical setting’s protocol.",
+            "Apply that method directly to “PICO question formulation”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Nursing Research and Evidence-Based Practice; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "During a handover, communicate the patient’s identity using approved identifiers, current concern, relevant background, observations, actions already taken, and the next action required. Invite clarification and confirm responsibility for follow-up rather than relying on an ambiguous verbal message.",
+            "Now adapt the example to the topic “PICO question formulation”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying PICO question formulation include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Evidence-based practice",
+          "definition": "Integrating best available evidence, professional expertise, and patient values."
+        },
+        {
+          "term": "Handover",
+          "definition": "Transfer of relevant information and responsibility between care providers."
+        },
+        {
+          "term": "Clinical escalation",
+          "definition": "Seeking timely review when a patient’s condition or risk requires a higher level of response."
+        },
+        {
+          "term": "PICO question formulation",
+          "definition": "The specific concept or method examined in this topic within Nursing Research and Evidence-Based Practice; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: PICO question formulation",
+          "steps": [
+            "In a learning case involving “PICO question formulation”, describe the relevant assessment cues, immediate safety considerations, authorised action, communication/documentation needs, and how the outcome would be evaluated. Use current institutional guidance and supervised clinical instruction for actual care decisions.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "nsg-research-301-pico-question-formulation-q1",
+          "type": "mcq",
+          "prompt": "Which response is most appropriate when applying PICO question formulation in a clinical learning scenario?",
+          "options": [
+            "Follow current protocol, document objectively, and escalate concerns within scope",
+            "Rely on memory when a protocol is available",
+            "Share identifiable patient details in a public forum",
+            "Perform any intervention without checking authorisation"
+          ],
+          "answerIndex": 0,
+          "explanation": "Safe practice depends on current protocols, scope, confidentiality, and escalation."
+        },
+        {
+          "id": "nsg-research-301-pico-question-formulation-q2",
+          "type": "short-answer",
+          "prompt": "Explain PICO question formulation in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines PICO question formulation accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "nsg-research-301-pico-question-formulation-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about PICO question formulation. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "quantitative-and-qualitative-designs",
+      "title": "Quantitative and qualitative designs",
+      "description": "Quantitative and qualitative designs: a structured set of explanations, method, worked application, and critical checks for Nursing Research and Evidence-Based Practice.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Quantitative and qualitative designs accurately.",
+        "Apply the central ideas in Quantitative and qualitative designs to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Quantitative and qualitative designs in Nursing Research and Evidence-Based Practice",
+          "paragraphs": [
+            "Quantitative and qualitative designs is studied here as a specific part of Nursing Research and Evidence-Based Practice. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Nursing practice combines evidence, clinical judgement, communication, patient preferences, and local protocols. Educational notes do not replace supervised clinical instruction or a facility’s current procedures. Prioritise patient identification, consent, infection prevention, privacy, documentation, escalation, and scope of practice.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Use a structured assessment: collect relevant cues, identify immediate risks, prioritise concerns, plan a measurable goal, carry out authorised interventions, and evaluate the response. Document facts objectively and escalate deterioration promptly according to the clinical setting’s protocol.",
+            "Apply that method directly to “Quantitative and qualitative designs”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Nursing Research and Evidence-Based Practice; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "During a handover, communicate the patient’s identity using approved identifiers, current concern, relevant background, observations, actions already taken, and the next action required. Invite clarification and confirm responsibility for follow-up rather than relying on an ambiguous verbal message.",
+            "Now adapt the example to the topic “Quantitative and qualitative designs”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Quantitative and qualitative designs include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Evidence-based practice",
+          "definition": "Integrating best available evidence, professional expertise, and patient values."
+        },
+        {
+          "term": "Handover",
+          "definition": "Transfer of relevant information and responsibility between care providers."
+        },
+        {
+          "term": "Clinical escalation",
+          "definition": "Seeking timely review when a patient’s condition or risk requires a higher level of response."
+        },
+        {
+          "term": "Quantitative and qualitative designs",
+          "definition": "The specific concept or method examined in this topic within Nursing Research and Evidence-Based Practice; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Quantitative and qualitative designs",
+          "steps": [
+            "In a learning case involving “Quantitative and qualitative designs”, describe the relevant assessment cues, immediate safety considerations, authorised action, communication/documentation needs, and how the outcome would be evaluated. Use current institutional guidance and supervised clinical instruction for actual care decisions.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "nsg-research-301-quantitative-and-qualitative-designs-q1",
+          "type": "mcq",
+          "prompt": "Which response is most appropriate when applying Quantitative and qualitative designs in a clinical learning scenario?",
+          "options": [
+            "Follow current protocol, document objectively, and escalate concerns within scope",
+            "Rely on memory when a protocol is available",
+            "Share identifiable patient details in a public forum",
+            "Perform any intervention without checking authorisation"
+          ],
+          "answerIndex": 0,
+          "explanation": "Safe practice depends on current protocols, scope, confidentiality, and escalation."
+        },
+        {
+          "id": "nsg-research-301-quantitative-and-qualitative-designs-q2",
+          "type": "short-answer",
+          "prompt": "Explain Quantitative and qualitative designs in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Quantitative and qualitative designs accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "nsg-research-301-quantitative-and-qualitative-designs-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Quantitative and qualitative designs. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "sampling-and-bias",
+      "title": "Sampling and bias",
+      "description": "Sampling and bias: a structured set of explanations, method, worked application, and critical checks for Nursing Research and Evidence-Based Practice.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Sampling and bias accurately.",
+        "Apply the central ideas in Sampling and bias to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Sampling and bias in Nursing Research and Evidence-Based Practice",
+          "paragraphs": [
+            "Sampling and bias is studied here as a specific part of Nursing Research and Evidence-Based Practice. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Nursing practice combines evidence, clinical judgement, communication, patient preferences, and local protocols. Educational notes do not replace supervised clinical instruction or a facility’s current procedures. Prioritise patient identification, consent, infection prevention, privacy, documentation, escalation, and scope of practice.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Use a structured assessment: collect relevant cues, identify immediate risks, prioritise concerns, plan a measurable goal, carry out authorised interventions, and evaluate the response. Document facts objectively and escalate deterioration promptly according to the clinical setting’s protocol.",
+            "Apply that method directly to “Sampling and bias”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Nursing Research and Evidence-Based Practice; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "During a handover, communicate the patient’s identity using approved identifiers, current concern, relevant background, observations, actions already taken, and the next action required. Invite clarification and confirm responsibility for follow-up rather than relying on an ambiguous verbal message.",
+            "Now adapt the example to the topic “Sampling and bias”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Sampling and bias include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Evidence-based practice",
+          "definition": "Integrating best available evidence, professional expertise, and patient values."
+        },
+        {
+          "term": "Handover",
+          "definition": "Transfer of relevant information and responsibility between care providers."
+        },
+        {
+          "term": "Clinical escalation",
+          "definition": "Seeking timely review when a patient’s condition or risk requires a higher level of response."
+        },
+        {
+          "term": "Sampling and bias",
+          "definition": "The specific concept or method examined in this topic within Nursing Research and Evidence-Based Practice; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Sampling and bias",
+          "steps": [
+            "Sampling bias arises when the selection mechanism systematically makes some members of the target population more or less likely to be represented. Increasing sample size reduces random sampling error under suitable conditions but does not automatically remove systematic bias. Define the target population and frame before choosing a sampling method.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "nsg-research-301-sampling-and-bias-q1",
+          "type": "mcq",
+          "prompt": "A survey of campus internet quality is shared only in an online student group. What is the main concern?",
+          "options": [
+            "Coverage/self-selection bias may exclude students with poor access",
+            "A large sample guarantees representativeness",
+            "The survey automatically becomes experimental",
+            "The response scale determines the target population"
+          ],
+          "answerIndex": 0,
+          "explanation": "Recruitment through an online group may underrepresent people least able to access that group."
+        },
+        {
+          "id": "nsg-research-301-sampling-and-bias-q2",
+          "type": "short-answer",
+          "prompt": "Explain Sampling and bias in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Sampling and bias accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "nsg-research-301-sampling-and-bias-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Sampling and bias. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "critical-appraisal-and-evidence-hierarchy",
+      "title": "Critical appraisal and evidence hierarchy",
+      "description": "Critical appraisal and evidence hierarchy: a structured set of explanations, method, worked application, and critical checks for Nursing Research and Evidence-Based Practice.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Critical appraisal and evidence hierarchy accurately.",
+        "Apply the central ideas in Critical appraisal and evidence hierarchy to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Critical appraisal and evidence hierarchy in Nursing Research and Evidence-Based Practice",
+          "paragraphs": [
+            "Critical appraisal and evidence hierarchy is studied here as a specific part of Nursing Research and Evidence-Based Practice. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Nursing practice combines evidence, clinical judgement, communication, patient preferences, and local protocols. Educational notes do not replace supervised clinical instruction or a facility’s current procedures. Prioritise patient identification, consent, infection prevention, privacy, documentation, escalation, and scope of practice.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Use a structured assessment: collect relevant cues, identify immediate risks, prioritise concerns, plan a measurable goal, carry out authorised interventions, and evaluate the response. Document facts objectively and escalate deterioration promptly according to the clinical setting’s protocol.",
+            "Apply that method directly to “Critical appraisal and evidence hierarchy”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Nursing Research and Evidence-Based Practice; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "During a handover, communicate the patient’s identity using approved identifiers, current concern, relevant background, observations, actions already taken, and the next action required. Invite clarification and confirm responsibility for follow-up rather than relying on an ambiguous verbal message.",
+            "Now adapt the example to the topic “Critical appraisal and evidence hierarchy”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Critical appraisal and evidence hierarchy include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Evidence-based practice",
+          "definition": "Integrating best available evidence, professional expertise, and patient values."
+        },
+        {
+          "term": "Handover",
+          "definition": "Transfer of relevant information and responsibility between care providers."
+        },
+        {
+          "term": "Clinical escalation",
+          "definition": "Seeking timely review when a patient’s condition or risk requires a higher level of response."
+        },
+        {
+          "term": "Critical appraisal and evidence hierarchy",
+          "definition": "The specific concept or method examined in this topic within Nursing Research and Evidence-Based Practice; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Critical appraisal and evidence hierarchy",
+          "steps": [
+            "In a learning case involving “Critical appraisal and evidence hierarchy”, describe the relevant assessment cues, immediate safety considerations, authorised action, communication/documentation needs, and how the outcome would be evaluated. Use current institutional guidance and supervised clinical instruction for actual care decisions.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "nsg-research-301-critical-appraisal-and-evidence-hierarchy-q1",
+          "type": "mcq",
+          "prompt": "Which response is most appropriate when applying Critical appraisal and evidence hierarchy in a clinical learning scenario?",
+          "options": [
+            "Follow current protocol, document objectively, and escalate concerns within scope",
+            "Rely on memory when a protocol is available",
+            "Share identifiable patient details in a public forum",
+            "Perform any intervention without checking authorisation"
+          ],
+          "answerIndex": 0,
+          "explanation": "Safe practice depends on current protocols, scope, confidentiality, and escalation."
+        },
+        {
+          "id": "nsg-research-301-critical-appraisal-and-evidence-hierarchy-q2",
+          "type": "short-answer",
+          "prompt": "Explain Critical appraisal and evidence hierarchy in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Critical appraisal and evidence hierarchy accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "nsg-research-301-critical-appraisal-and-evidence-hierarchy-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Critical appraisal and evidence hierarchy. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "ethical-use-of-evidence",
+      "title": "Ethical use of evidence",
+      "description": "Ethical use of evidence: a structured set of explanations, method, worked application, and critical checks for Nursing Research and Evidence-Based Practice.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Ethical use of evidence accurately.",
+        "Apply the central ideas in Ethical use of evidence to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Ethical use of evidence in Nursing Research and Evidence-Based Practice",
+          "paragraphs": [
+            "Ethical use of evidence is studied here as a specific part of Nursing Research and Evidence-Based Practice. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Nursing practice combines evidence, clinical judgement, communication, patient preferences, and local protocols. Educational notes do not replace supervised clinical instruction or a facility’s current procedures. Prioritise patient identification, consent, infection prevention, privacy, documentation, escalation, and scope of practice.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Use a structured assessment: collect relevant cues, identify immediate risks, prioritise concerns, plan a measurable goal, carry out authorised interventions, and evaluate the response. Document facts objectively and escalate deterioration promptly according to the clinical setting’s protocol.",
+            "Apply that method directly to “Ethical use of evidence”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Nursing Research and Evidence-Based Practice; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "During a handover, communicate the patient’s identity using approved identifiers, current concern, relevant background, observations, actions already taken, and the next action required. Invite clarification and confirm responsibility for follow-up rather than relying on an ambiguous verbal message.",
+            "Now adapt the example to the topic “Ethical use of evidence”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Ethical use of evidence include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Evidence-based practice",
+          "definition": "Integrating best available evidence, professional expertise, and patient values."
+        },
+        {
+          "term": "Handover",
+          "definition": "Transfer of relevant information and responsibility between care providers."
+        },
+        {
+          "term": "Clinical escalation",
+          "definition": "Seeking timely review when a patient’s condition or risk requires a higher level of response."
+        },
+        {
+          "term": "Ethical use of evidence",
+          "definition": "The specific concept or method examined in this topic within Nursing Research and Evidence-Based Practice; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Ethical use of evidence",
+          "steps": [
+            "In a learning case involving “Ethical use of evidence”, describe the relevant assessment cues, immediate safety considerations, authorised action, communication/documentation needs, and how the outcome would be evaluated. Use current institutional guidance and supervised clinical instruction for actual care decisions.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "nsg-research-301-ethical-use-of-evidence-q1",
+          "type": "mcq",
+          "prompt": "Which response is most appropriate when applying Ethical use of evidence in a clinical learning scenario?",
+          "options": [
+            "Follow current protocol, document objectively, and escalate concerns within scope",
+            "Rely on memory when a protocol is available",
+            "Share identifiable patient details in a public forum",
+            "Perform any intervention without checking authorisation"
+          ],
+          "answerIndex": 0,
+          "explanation": "Safe practice depends on current protocols, scope, confidentiality, and escalation."
+        },
+        {
+          "id": "nsg-research-301-ethical-use-of-evidence-q2",
+          "type": "short-answer",
+          "prompt": "Explain Ethical use of evidence in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Ethical use of evidence accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "nsg-research-301-ethical-use-of-evidence-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Ethical use of evidence. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ],
+  "contentNotice": "Original instructional draft. Course title/code is illustrative and must be checked against the student’s current departmental course outline. Not an authentic past paper.",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "All questions in this lesson are original practice questions unless a separate verified source record explicitly says otherwise."
+  }
+}

@@ -1,0 +1,545 @@
+{
+  "courseId": "psy-method-201",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "200-level undergraduate learning depth",
+  "topics": [
+    {
+      "id": "research-questions-and-hypotheses",
+      "title": "Research questions and hypotheses",
+      "description": "Research questions and hypotheses: a structured set of explanations, method, worked application, and critical checks for Research Methods in Psychology.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Research questions and hypotheses accurately.",
+        "Apply the central ideas in Research questions and hypotheses to a structured course problem.",
+        "Check a solution to Research questions and hypotheses for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Research questions and hypotheses in Research Methods in Psychology",
+          "paragraphs": [
+            "Research questions and hypotheses is studied here as a specific part of Research Methods in Psychology. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Psychology studies behaviour and mental processes using multiple methods. Correlation indicates association but does not establish that one variable causes another. Psychological measures require evidence of reliability and validity, and findings should be interpreted with attention to context, culture, sampling, and ethical constraints.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the construct, explain how it is measured, identify the design, state what inference the design supports, and discuss alternative explanations. Avoid diagnosing a person from a single behaviour or treating a group-level pattern as a certainty about an individual.",
+            "Apply that method directly to “Research questions and hypotheses”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Research Methods in Psychology; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If students who sleep longer also report higher concentration, the association could reflect sleep effects, but workload, health, stress, or other factors may influence both. A cross-sectional correlation alone cannot establish the direction or causal mechanism.",
+            "Now adapt the example to the topic “Research questions and hypotheses”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Research questions and hypotheses include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Construct",
+          "definition": "A theoretical attribute that is not always directly observable."
+        },
+        {
+          "term": "Reliability",
+          "definition": "Consistency of measurement under specified conditions."
+        },
+        {
+          "term": "Validity",
+          "definition": "Evidence that supports the intended interpretation and use of a measure."
+        },
+        {
+          "term": "Research questions and hypotheses",
+          "definition": "The specific concept or method examined in this topic within Research Methods in Psychology; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Research questions and hypotheses",
+          "steps": [
+            "For “Research questions and hypotheses”, define the psychological construct and distinguish it from related constructs. Explain how it would be observed or measured, what alternative explanations could affect the result, and how culture, context, and individual differences constrain interpretation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "psy-method-201-research-questions-and-hypotheses-q1",
+          "type": "mcq",
+          "prompt": "Which conclusion is most defensible in a psychology question on Research questions and hypotheses?",
+          "options": [
+            "A conclusion proportionate to the design and measurement evidence",
+            "A diagnosis based on one isolated behaviour",
+            "A causal claim from any correlation",
+            "A claim that ignores context and measurement validity"
+          ],
+          "answerIndex": 0,
+          "explanation": "Interpretations must match the design, measurement quality, and evidence."
+        },
+        {
+          "id": "psy-method-201-research-questions-and-hypotheses-q2",
+          "type": "short-answer",
+          "prompt": "Explain Research questions and hypotheses in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Research questions and hypotheses accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "psy-method-201-research-questions-and-hypotheses-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Research questions and hypotheses. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "operational-definitions-and-measurement",
+      "title": "Operational definitions and measurement",
+      "description": "Operational definitions and measurement: a structured set of explanations, method, worked application, and critical checks for Research Methods in Psychology.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Operational definitions and measurement accurately.",
+        "Apply the central ideas in Operational definitions and measurement to a structured course problem.",
+        "Check a solution to Operational definitions and measurement for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Operational definitions and measurement in Research Methods in Psychology",
+          "paragraphs": [
+            "Operational definitions and measurement is studied here as a specific part of Research Methods in Psychology. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Psychology studies behaviour and mental processes using multiple methods. Correlation indicates association but does not establish that one variable causes another. Psychological measures require evidence of reliability and validity, and findings should be interpreted with attention to context, culture, sampling, and ethical constraints.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the construct, explain how it is measured, identify the design, state what inference the design supports, and discuss alternative explanations. Avoid diagnosing a person from a single behaviour or treating a group-level pattern as a certainty about an individual.",
+            "Apply that method directly to “Operational definitions and measurement”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Research Methods in Psychology; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If students who sleep longer also report higher concentration, the association could reflect sleep effects, but workload, health, stress, or other factors may influence both. A cross-sectional correlation alone cannot establish the direction or causal mechanism.",
+            "Now adapt the example to the topic “Operational definitions and measurement”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Operational definitions and measurement include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Construct",
+          "definition": "A theoretical attribute that is not always directly observable."
+        },
+        {
+          "term": "Reliability",
+          "definition": "Consistency of measurement under specified conditions."
+        },
+        {
+          "term": "Validity",
+          "definition": "Evidence that supports the intended interpretation and use of a measure."
+        },
+        {
+          "term": "Operational definitions and measurement",
+          "definition": "The specific concept or method examined in this topic within Research Methods in Psychology; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Operational definitions and measurement",
+          "steps": [
+            "For “Operational definitions and measurement”, define the psychological construct and distinguish it from related constructs. Explain how it would be observed or measured, what alternative explanations could affect the result, and how culture, context, and individual differences constrain interpretation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "psy-method-201-operational-definitions-and-measurement-q1",
+          "type": "mcq",
+          "prompt": "Which conclusion is most defensible in a psychology question on Operational definitions and measurement?",
+          "options": [
+            "A conclusion proportionate to the design and measurement evidence",
+            "A diagnosis based on one isolated behaviour",
+            "A causal claim from any correlation",
+            "A claim that ignores context and measurement validity"
+          ],
+          "answerIndex": 0,
+          "explanation": "Interpretations must match the design, measurement quality, and evidence."
+        },
+        {
+          "id": "psy-method-201-operational-definitions-and-measurement-q2",
+          "type": "short-answer",
+          "prompt": "Explain Operational definitions and measurement in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Operational definitions and measurement accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "psy-method-201-operational-definitions-and-measurement-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Operational definitions and measurement. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "experimental-and-correlational-designs",
+      "title": "Experimental and correlational designs",
+      "description": "Experimental and correlational designs: a structured set of explanations, method, worked application, and critical checks for Research Methods in Psychology.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Experimental and correlational designs accurately.",
+        "Apply the central ideas in Experimental and correlational designs to a structured course problem.",
+        "Check a solution to Experimental and correlational designs for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Experimental and correlational designs in Research Methods in Psychology",
+          "paragraphs": [
+            "Experimental and correlational designs is studied here as a specific part of Research Methods in Psychology. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Psychology studies behaviour and mental processes using multiple methods. Correlation indicates association but does not establish that one variable causes another. Psychological measures require evidence of reliability and validity, and findings should be interpreted with attention to context, culture, sampling, and ethical constraints.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the construct, explain how it is measured, identify the design, state what inference the design supports, and discuss alternative explanations. Avoid diagnosing a person from a single behaviour or treating a group-level pattern as a certainty about an individual.",
+            "Apply that method directly to “Experimental and correlational designs”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Research Methods in Psychology; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If students who sleep longer also report higher concentration, the association could reflect sleep effects, but workload, health, stress, or other factors may influence both. A cross-sectional correlation alone cannot establish the direction or causal mechanism.",
+            "Now adapt the example to the topic “Experimental and correlational designs”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Experimental and correlational designs include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Construct",
+          "definition": "A theoretical attribute that is not always directly observable."
+        },
+        {
+          "term": "Reliability",
+          "definition": "Consistency of measurement under specified conditions."
+        },
+        {
+          "term": "Validity",
+          "definition": "Evidence that supports the intended interpretation and use of a measure."
+        },
+        {
+          "term": "Experimental and correlational designs",
+          "definition": "The specific concept or method examined in this topic within Research Methods in Psychology; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Experimental and correlational designs",
+          "steps": [
+            "For “Experimental and correlational designs”, define the psychological construct and distinguish it from related constructs. Explain how it would be observed or measured, what alternative explanations could affect the result, and how culture, context, and individual differences constrain interpretation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "psy-method-201-experimental-and-correlational-designs-q1",
+          "type": "mcq",
+          "prompt": "Which conclusion is most defensible in a psychology question on Experimental and correlational designs?",
+          "options": [
+            "A conclusion proportionate to the design and measurement evidence",
+            "A diagnosis based on one isolated behaviour",
+            "A causal claim from any correlation",
+            "A claim that ignores context and measurement validity"
+          ],
+          "answerIndex": 0,
+          "explanation": "Interpretations must match the design, measurement quality, and evidence."
+        },
+        {
+          "id": "psy-method-201-experimental-and-correlational-designs-q2",
+          "type": "short-answer",
+          "prompt": "Explain Experimental and correlational designs in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Experimental and correlational designs accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "psy-method-201-experimental-and-correlational-designs-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Experimental and correlational designs. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "ethics-and-informed-consent",
+      "title": "Ethics and informed consent",
+      "description": "Ethics and informed consent: a structured set of explanations, method, worked application, and critical checks for Research Methods in Psychology.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Ethics and informed consent accurately.",
+        "Apply the central ideas in Ethics and informed consent to a structured course problem.",
+        "Check a solution to Ethics and informed consent for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Ethics and informed consent in Research Methods in Psychology",
+          "paragraphs": [
+            "Ethics and informed consent is studied here as a specific part of Research Methods in Psychology. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Psychology studies behaviour and mental processes using multiple methods. Correlation indicates association but does not establish that one variable causes another. Psychological measures require evidence of reliability and validity, and findings should be interpreted with attention to context, culture, sampling, and ethical constraints.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the construct, explain how it is measured, identify the design, state what inference the design supports, and discuss alternative explanations. Avoid diagnosing a person from a single behaviour or treating a group-level pattern as a certainty about an individual.",
+            "Apply that method directly to “Ethics and informed consent”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Research Methods in Psychology; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If students who sleep longer also report higher concentration, the association could reflect sleep effects, but workload, health, stress, or other factors may influence both. A cross-sectional correlation alone cannot establish the direction or causal mechanism.",
+            "Now adapt the example to the topic “Ethics and informed consent”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Ethics and informed consent include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Construct",
+          "definition": "A theoretical attribute that is not always directly observable."
+        },
+        {
+          "term": "Reliability",
+          "definition": "Consistency of measurement under specified conditions."
+        },
+        {
+          "term": "Validity",
+          "definition": "Evidence that supports the intended interpretation and use of a measure."
+        },
+        {
+          "term": "Ethics and informed consent",
+          "definition": "The specific concept or method examined in this topic within Research Methods in Psychology; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Ethics and informed consent",
+          "steps": [
+            "For “Ethics and informed consent”, define the psychological construct and distinguish it from related constructs. Explain how it would be observed or measured, what alternative explanations could affect the result, and how culture, context, and individual differences constrain interpretation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "psy-method-201-ethics-and-informed-consent-q1",
+          "type": "mcq",
+          "prompt": "Which conclusion is most defensible in a psychology question on Ethics and informed consent?",
+          "options": [
+            "A conclusion proportionate to the design and measurement evidence",
+            "A diagnosis based on one isolated behaviour",
+            "A causal claim from any correlation",
+            "A claim that ignores context and measurement validity"
+          ],
+          "answerIndex": 0,
+          "explanation": "Interpretations must match the design, measurement quality, and evidence."
+        },
+        {
+          "id": "psy-method-201-ethics-and-informed-consent-q2",
+          "type": "short-answer",
+          "prompt": "Explain Ethics and informed consent in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Ethics and informed consent accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "psy-method-201-ethics-and-informed-consent-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Ethics and informed consent. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "reliability-and-validity",
+      "title": "Reliability and validity",
+      "description": "Reliability and validity: a structured set of explanations, method, worked application, and critical checks for Research Methods in Psychology.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Reliability and validity accurately.",
+        "Apply the central ideas in Reliability and validity to a structured course problem.",
+        "Check a solution to Reliability and validity for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Reliability and validity in Research Methods in Psychology",
+          "paragraphs": [
+            "Reliability and validity is studied here as a specific part of Research Methods in Psychology. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Psychology studies behaviour and mental processes using multiple methods. Correlation indicates association but does not establish that one variable causes another. Psychological measures require evidence of reliability and validity, and findings should be interpreted with attention to context, culture, sampling, and ethical constraints.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the construct, explain how it is measured, identify the design, state what inference the design supports, and discuss alternative explanations. Avoid diagnosing a person from a single behaviour or treating a group-level pattern as a certainty about an individual.",
+            "Apply that method directly to “Reliability and validity”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Research Methods in Psychology; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If students who sleep longer also report higher concentration, the association could reflect sleep effects, but workload, health, stress, or other factors may influence both. A cross-sectional correlation alone cannot establish the direction or causal mechanism.",
+            "Now adapt the example to the topic “Reliability and validity”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Reliability and validity include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Construct",
+          "definition": "A theoretical attribute that is not always directly observable."
+        },
+        {
+          "term": "Reliability",
+          "definition": "Consistency of measurement under specified conditions."
+        },
+        {
+          "term": "Validity",
+          "definition": "Evidence that supports the intended interpretation and use of a measure."
+        },
+        {
+          "term": "Reliability and validity",
+          "definition": "The specific concept or method examined in this topic within Research Methods in Psychology; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Reliability and validity",
+          "steps": [
+            "For “Reliability and validity”, define the psychological construct and distinguish it from related constructs. Explain how it would be observed or measured, what alternative explanations could affect the result, and how culture, context, and individual differences constrain interpretation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "psy-method-201-reliability-and-validity-q1",
+          "type": "mcq",
+          "prompt": "Which conclusion is most defensible in a psychology question on Reliability and validity?",
+          "options": [
+            "A conclusion proportionate to the design and measurement evidence",
+            "A diagnosis based on one isolated behaviour",
+            "A causal claim from any correlation",
+            "A claim that ignores context and measurement validity"
+          ],
+          "answerIndex": 0,
+          "explanation": "Interpretations must match the design, measurement quality, and evidence."
+        },
+        {
+          "id": "psy-method-201-reliability-and-validity-q2",
+          "type": "short-answer",
+          "prompt": "Explain Reliability and validity in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Reliability and validity accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "psy-method-201-reliability-and-validity-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Reliability and validity. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ],
+  "contentNotice": "Original instructional draft. Course title/code is illustrative and must be checked against the student’s current departmental course outline. Not an authentic past paper.",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "All questions in this lesson are original practice questions unless a separate verified source record explicitly says otherwise."
+  }
+}

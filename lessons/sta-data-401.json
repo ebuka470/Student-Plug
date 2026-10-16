@@ -1,0 +1,545 @@
+{
+  "courseId": "sta-data-401",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "400-level undergraduate learning depth",
+  "topics": [
+    {
+      "id": "model-selection-and-overfitting",
+      "title": "Model selection and overfitting",
+      "description": "Model selection and overfitting: a structured set of explanations, method, worked application, and critical checks for Applied Statistical Modelling.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Model selection and overfitting accurately.",
+        "Apply the central ideas in Model selection and overfitting to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Model selection and overfitting in Applied Statistical Modelling",
+          "paragraphs": [
+            "Model selection and overfitting is studied here as a specific part of Applied Statistical Modelling. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Statistics separates describing observed data from drawing conclusions about a wider population. The sampling method, measurement process, missingness, and variability affect how much confidence a result deserves. A statistic is a sample summary; a parameter describes the population.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Inspect data quality and measurement scale, summarise the distribution, select a method aligned to the question and assumptions, report an estimate with uncertainty, and interpret the result in the original context rather than treating a p-value as the size or importance of an effect.",
+            "Apply that method directly to “Model selection and overfitting”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Applied Statistical Modelling; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For values 2, 4, 4, 10, the mean is 5 while the median is 4. The high value 10 pulls the mean upward, illustrating why centre should be considered alongside spread and shape.",
+            "Now adapt the example to the topic “Model selection and overfitting”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Model selection and overfitting include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Population",
+          "definition": "The complete set of units or outcomes about which a study asks."
+        },
+        {
+          "term": "Sample",
+          "definition": "The observed subset used to learn about a population."
+        },
+        {
+          "term": "Confidence interval",
+          "definition": "A procedure-based interval estimate with a stated long-run coverage property under its assumptions."
+        },
+        {
+          "term": "Model selection and overfitting",
+          "definition": "The specific concept or method examined in this topic within Applied Statistical Modelling; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Model selection and overfitting",
+          "steps": [
+            "For “Model selection and overfitting”, specify the variable types, target population, sampling or data-collection process, and question to be answered. Select a summary or model that fits those features, check its assumptions, and report uncertainty and practical interpretation rather than only a number.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "sta-data-401-model-selection-and-overfitting-q1",
+          "type": "mcq",
+          "prompt": "What should guide the choice of method for Model selection and overfitting?",
+          "options": [
+            "The research question, data type, design, and assumptions",
+            "Which method produces the smallest p-value",
+            "The software menu order",
+            "The sample size alone, regardless of design"
+          ],
+          "answerIndex": 0,
+          "explanation": "Method selection must fit the question and data structure; sample size alone is not enough."
+        },
+        {
+          "id": "sta-data-401-model-selection-and-overfitting-q2",
+          "type": "short-answer",
+          "prompt": "Explain Model selection and overfitting in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Model selection and overfitting accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "sta-data-401-model-selection-and-overfitting-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Model selection and overfitting. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "logistic-regression",
+      "title": "Logistic regression",
+      "description": "Logistic regression: a structured set of explanations, method, worked application, and critical checks for Applied Statistical Modelling.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Logistic regression accurately.",
+        "Apply the central ideas in Logistic regression to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Logistic regression in Applied Statistical Modelling",
+          "paragraphs": [
+            "Logistic regression is studied here as a specific part of Applied Statistical Modelling. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Statistics separates describing observed data from drawing conclusions about a wider population. The sampling method, measurement process, missingness, and variability affect how much confidence a result deserves. A statistic is a sample summary; a parameter describes the population.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Inspect data quality and measurement scale, summarise the distribution, select a method aligned to the question and assumptions, report an estimate with uncertainty, and interpret the result in the original context rather than treating a p-value as the size or importance of an effect.",
+            "Apply that method directly to “Logistic regression”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Applied Statistical Modelling; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For values 2, 4, 4, 10, the mean is 5 while the median is 4. The high value 10 pulls the mean upward, illustrating why centre should be considered alongside spread and shape.",
+            "Now adapt the example to the topic “Logistic regression”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Logistic regression include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Population",
+          "definition": "The complete set of units or outcomes about which a study asks."
+        },
+        {
+          "term": "Sample",
+          "definition": "The observed subset used to learn about a population."
+        },
+        {
+          "term": "Confidence interval",
+          "definition": "A procedure-based interval estimate with a stated long-run coverage property under its assumptions."
+        },
+        {
+          "term": "Logistic regression",
+          "definition": "The specific concept or method examined in this topic within Applied Statistical Modelling; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Logistic regression",
+          "steps": [
+            "For “Logistic regression”, specify the variable types, target population, sampling or data-collection process, and question to be answered. Select a summary or model that fits those features, check its assumptions, and report uncertainty and practical interpretation rather than only a number.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "sta-data-401-logistic-regression-q1",
+          "type": "mcq",
+          "prompt": "What should guide the choice of method for Logistic regression?",
+          "options": [
+            "The research question, data type, design, and assumptions",
+            "Which method produces the smallest p-value",
+            "The software menu order",
+            "The sample size alone, regardless of design"
+          ],
+          "answerIndex": 0,
+          "explanation": "Method selection must fit the question and data structure; sample size alone is not enough."
+        },
+        {
+          "id": "sta-data-401-logistic-regression-q2",
+          "type": "short-answer",
+          "prompt": "Explain Logistic regression in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Logistic regression accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "sta-data-401-logistic-regression-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Logistic regression. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "resampling-and-cross-validation",
+      "title": "Resampling and cross-validation",
+      "description": "Resampling and cross-validation: a structured set of explanations, method, worked application, and critical checks for Applied Statistical Modelling.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Resampling and cross-validation accurately.",
+        "Apply the central ideas in Resampling and cross-validation to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Resampling and cross-validation in Applied Statistical Modelling",
+          "paragraphs": [
+            "Resampling and cross-validation is studied here as a specific part of Applied Statistical Modelling. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Statistics separates describing observed data from drawing conclusions about a wider population. The sampling method, measurement process, missingness, and variability affect how much confidence a result deserves. A statistic is a sample summary; a parameter describes the population.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Inspect data quality and measurement scale, summarise the distribution, select a method aligned to the question and assumptions, report an estimate with uncertainty, and interpret the result in the original context rather than treating a p-value as the size or importance of an effect.",
+            "Apply that method directly to “Resampling and cross-validation”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Applied Statistical Modelling; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For values 2, 4, 4, 10, the mean is 5 while the median is 4. The high value 10 pulls the mean upward, illustrating why centre should be considered alongside spread and shape.",
+            "Now adapt the example to the topic “Resampling and cross-validation”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Resampling and cross-validation include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Population",
+          "definition": "The complete set of units or outcomes about which a study asks."
+        },
+        {
+          "term": "Sample",
+          "definition": "The observed subset used to learn about a population."
+        },
+        {
+          "term": "Confidence interval",
+          "definition": "A procedure-based interval estimate with a stated long-run coverage property under its assumptions."
+        },
+        {
+          "term": "Resampling and cross-validation",
+          "definition": "The specific concept or method examined in this topic within Applied Statistical Modelling; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Resampling and cross-validation",
+          "steps": [
+            "For “Resampling and cross-validation”, specify the variable types, target population, sampling or data-collection process, and question to be answered. Select a summary or model that fits those features, check its assumptions, and report uncertainty and practical interpretation rather than only a number.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "sta-data-401-resampling-and-cross-validation-q1",
+          "type": "mcq",
+          "prompt": "What should guide the choice of method for Resampling and cross-validation?",
+          "options": [
+            "The research question, data type, design, and assumptions",
+            "Which method produces the smallest p-value",
+            "The software menu order",
+            "The sample size alone, regardless of design"
+          ],
+          "answerIndex": 0,
+          "explanation": "Method selection must fit the question and data structure; sample size alone is not enough."
+        },
+        {
+          "id": "sta-data-401-resampling-and-cross-validation-q2",
+          "type": "short-answer",
+          "prompt": "Explain Resampling and cross-validation in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Resampling and cross-validation accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "sta-data-401-resampling-and-cross-validation-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Resampling and cross-validation. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "missing-data-and-robustness",
+      "title": "Missing data and robustness",
+      "description": "Missing data and robustness: a structured set of explanations, method, worked application, and critical checks for Applied Statistical Modelling.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Missing data and robustness accurately.",
+        "Apply the central ideas in Missing data and robustness to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Missing data and robustness in Applied Statistical Modelling",
+          "paragraphs": [
+            "Missing data and robustness is studied here as a specific part of Applied Statistical Modelling. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Statistics separates describing observed data from drawing conclusions about a wider population. The sampling method, measurement process, missingness, and variability affect how much confidence a result deserves. A statistic is a sample summary; a parameter describes the population.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Inspect data quality and measurement scale, summarise the distribution, select a method aligned to the question and assumptions, report an estimate with uncertainty, and interpret the result in the original context rather than treating a p-value as the size or importance of an effect.",
+            "Apply that method directly to “Missing data and robustness”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Applied Statistical Modelling; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For values 2, 4, 4, 10, the mean is 5 while the median is 4. The high value 10 pulls the mean upward, illustrating why centre should be considered alongside spread and shape.",
+            "Now adapt the example to the topic “Missing data and robustness”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Missing data and robustness include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Population",
+          "definition": "The complete set of units or outcomes about which a study asks."
+        },
+        {
+          "term": "Sample",
+          "definition": "The observed subset used to learn about a population."
+        },
+        {
+          "term": "Confidence interval",
+          "definition": "A procedure-based interval estimate with a stated long-run coverage property under its assumptions."
+        },
+        {
+          "term": "Missing data and robustness",
+          "definition": "The specific concept or method examined in this topic within Applied Statistical Modelling; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Missing data and robustness",
+          "steps": [
+            "For “Missing data and robustness”, specify the variable types, target population, sampling or data-collection process, and question to be answered. Select a summary or model that fits those features, check its assumptions, and report uncertainty and practical interpretation rather than only a number.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "sta-data-401-missing-data-and-robustness-q1",
+          "type": "mcq",
+          "prompt": "What should guide the choice of method for Missing data and robustness?",
+          "options": [
+            "The research question, data type, design, and assumptions",
+            "Which method produces the smallest p-value",
+            "The software menu order",
+            "The sample size alone, regardless of design"
+          ],
+          "answerIndex": 0,
+          "explanation": "Method selection must fit the question and data structure; sample size alone is not enough."
+        },
+        {
+          "id": "sta-data-401-missing-data-and-robustness-q2",
+          "type": "short-answer",
+          "prompt": "Explain Missing data and robustness in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Missing data and robustness accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "sta-data-401-missing-data-and-robustness-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Missing data and robustness. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "reproducible-statistical-reporting",
+      "title": "Reproducible statistical reporting",
+      "description": "Reproducible statistical reporting: a structured set of explanations, method, worked application, and critical checks for Applied Statistical Modelling.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Reproducible statistical reporting accurately.",
+        "Apply the central ideas in Reproducible statistical reporting to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Reproducible statistical reporting in Applied Statistical Modelling",
+          "paragraphs": [
+            "Reproducible statistical reporting is studied here as a specific part of Applied Statistical Modelling. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Statistics separates describing observed data from drawing conclusions about a wider population. The sampling method, measurement process, missingness, and variability affect how much confidence a result deserves. A statistic is a sample summary; a parameter describes the population.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Inspect data quality and measurement scale, summarise the distribution, select a method aligned to the question and assumptions, report an estimate with uncertainty, and interpret the result in the original context rather than treating a p-value as the size or importance of an effect.",
+            "Apply that method directly to “Reproducible statistical reporting”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Applied Statistical Modelling; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For values 2, 4, 4, 10, the mean is 5 while the median is 4. The high value 10 pulls the mean upward, illustrating why centre should be considered alongside spread and shape.",
+            "Now adapt the example to the topic “Reproducible statistical reporting”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Reproducible statistical reporting include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Population",
+          "definition": "The complete set of units or outcomes about which a study asks."
+        },
+        {
+          "term": "Sample",
+          "definition": "The observed subset used to learn about a population."
+        },
+        {
+          "term": "Confidence interval",
+          "definition": "A procedure-based interval estimate with a stated long-run coverage property under its assumptions."
+        },
+        {
+          "term": "Reproducible statistical reporting",
+          "definition": "The specific concept or method examined in this topic within Applied Statistical Modelling; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Reproducible statistical reporting",
+          "steps": [
+            "For “Reproducible statistical reporting”, specify the variable types, target population, sampling or data-collection process, and question to be answered. Select a summary or model that fits those features, check its assumptions, and report uncertainty and practical interpretation rather than only a number.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "sta-data-401-reproducible-statistical-reporting-q1",
+          "type": "mcq",
+          "prompt": "What should guide the choice of method for Reproducible statistical reporting?",
+          "options": [
+            "The research question, data type, design, and assumptions",
+            "Which method produces the smallest p-value",
+            "The software menu order",
+            "The sample size alone, regardless of design"
+          ],
+          "answerIndex": 0,
+          "explanation": "Method selection must fit the question and data structure; sample size alone is not enough."
+        },
+        {
+          "id": "sta-data-401-reproducible-statistical-reporting-q2",
+          "type": "short-answer",
+          "prompt": "Explain Reproducible statistical reporting in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Reproducible statistical reporting accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "sta-data-401-reproducible-statistical-reporting-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Reproducible statistical reporting. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ],
+  "contentNotice": "Original instructional draft. Course title/code is illustrative and must be checked against the student’s current departmental course outline. Not an authentic past paper.",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "All questions in this lesson are original practice questions unless a separate verified source record explicitly says otherwise."
+  }
+}

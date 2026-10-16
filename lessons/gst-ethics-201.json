@@ -1,0 +1,544 @@
+{
+  "courseId": "gst-ethics-201",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "200-level undergraduate learning depth",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "Original practice questions; no verified past papers included."
+  },
+  "topics": [
+    {
+      "id": "research-integrity-and-responsible-conduct",
+      "title": "Research integrity and responsible conduct",
+      "description": "Research integrity and responsible conduct: a structured set of explanations, method, worked application, and critical checks for Research Ethics and Academic Writing.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Research integrity and responsible conduct accurately.",
+        "Apply the central ideas in Research integrity and responsible conduct to a structured course problem.",
+        "Check a solution to Research integrity and responsible conduct for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Research integrity and responsible conduct in Research Ethics and Academic Writing",
+          "paragraphs": [
+            "Research integrity and responsible conduct is studied here as a specific part of Research Ethics and Academic Writing. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Research turns a topic into an answerable question and then uses a transparent method to gather and interpret evidence. The design should follow the question rather than convenience alone. Sampling, measurement, missing data, researcher decisions, and ethics all affect the credibility and transferability of findings.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Specify the population and setting; define the research question and constructs; select a design and sampling plan; choose instruments; plan analysis before looking for a preferred result; address consent, confidentiality, risk, and data management; and report limitations.",
+            "Apply that method directly to “Research integrity and responsible conduct”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Research Ethics and Academic Writing; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A question about the association between study hours and examination scores can be addressed with an observational design, but the result may be confounded by prior preparation, course difficulty, and access to resources. A causal question requires stronger design assumptions than a simple correlation.",
+            "Now adapt the example to the topic “Research integrity and responsible conduct”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Research integrity and responsible conduct include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Research question",
+          "definition": "A focused, answerable question guiding the study."
+        },
+        {
+          "term": "Confounder",
+          "definition": "A variable associated with both an exposure/predictor and outcome that can distort their relationship."
+        },
+        {
+          "term": "Operational definition",
+          "definition": "A specification of how a construct is observed or measured."
+        },
+        {
+          "term": "Research integrity and responsible conduct",
+          "definition": "The specific concept or method examined in this topic within Research Ethics and Academic Writing; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Research integrity and responsible conduct",
+          "steps": [
+            "For a study involving “Research integrity and responsible conduct”, connect the question to the design, sampling, measurement, analysis, and ethics plan. State what the design can support, what it cannot establish, and how another researcher could inspect or reproduce the decisions made.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "gst-ethics-201-research-integrity-and-responsible-conduct-q1",
+          "type": "mcq",
+          "prompt": "Which feature most strengthens work on Research integrity and responsible conduct?",
+          "options": [
+            "Transparent methods, justified decisions, ethical safeguards, and explicit limitations",
+            "Removing unfavourable findings",
+            "Selecting participants only after seeing the desired result",
+            "Reporting conclusions without describing the method"
+          ],
+          "answerIndex": 0,
+          "explanation": "Transparent and ethically sound methods make the evidence assessable."
+        },
+        {
+          "id": "gst-ethics-201-research-integrity-and-responsible-conduct-q2",
+          "type": "short-answer",
+          "prompt": "Explain Research integrity and responsible conduct in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Research integrity and responsible conduct accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "gst-ethics-201-research-integrity-and-responsible-conduct-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Research integrity and responsible conduct. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "citation-styles-and-source-tracing",
+      "title": "Citation styles and source tracing",
+      "description": "Citation styles and source tracing: a structured set of explanations, method, worked application, and critical checks for Research Ethics and Academic Writing.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Citation styles and source tracing accurately.",
+        "Apply the central ideas in Citation styles and source tracing to a structured course problem.",
+        "Check a solution to Citation styles and source tracing for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Citation styles and source tracing in Research Ethics and Academic Writing",
+          "paragraphs": [
+            "Citation styles and source tracing is studied here as a specific part of Research Ethics and Academic Writing. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Research turns a topic into an answerable question and then uses a transparent method to gather and interpret evidence. The design should follow the question rather than convenience alone. Sampling, measurement, missing data, researcher decisions, and ethics all affect the credibility and transferability of findings.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Specify the population and setting; define the research question and constructs; select a design and sampling plan; choose instruments; plan analysis before looking for a preferred result; address consent, confidentiality, risk, and data management; and report limitations.",
+            "Apply that method directly to “Citation styles and source tracing”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Research Ethics and Academic Writing; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A question about the association between study hours and examination scores can be addressed with an observational design, but the result may be confounded by prior preparation, course difficulty, and access to resources. A causal question requires stronger design assumptions than a simple correlation.",
+            "Now adapt the example to the topic “Citation styles and source tracing”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Citation styles and source tracing include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Research question",
+          "definition": "A focused, answerable question guiding the study."
+        },
+        {
+          "term": "Confounder",
+          "definition": "A variable associated with both an exposure/predictor and outcome that can distort their relationship."
+        },
+        {
+          "term": "Operational definition",
+          "definition": "A specification of how a construct is observed or measured."
+        },
+        {
+          "term": "Citation styles and source tracing",
+          "definition": "The specific concept or method examined in this topic within Research Ethics and Academic Writing; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Citation styles and source tracing",
+          "steps": [
+            "A citation connects a claim or borrowed idea to a traceable source. The reference list should allow a reader to locate the work, and quotations require clear marking and page or locator details when the style requires them. Citing a source does not make a misrepresentation acceptable; sources must be read and claims represented accurately.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "gst-ethics-201-citation-styles-and-source-tracing-q1",
+          "type": "mcq",
+          "prompt": "What is the main academic purpose of a citation?",
+          "options": [
+            "To let readers trace the source of a claim or idea",
+            "To make unsupported claims automatically true",
+            "To replace the need to evaluate evidence",
+            "To increase word count"
+          ],
+          "answerIndex": 0,
+          "explanation": "Citations support attribution and traceability; the writer remains responsible for accurate representation."
+        },
+        {
+          "id": "gst-ethics-201-citation-styles-and-source-tracing-q2",
+          "type": "short-answer",
+          "prompt": "Explain Citation styles and source tracing in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Citation styles and source tracing accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "gst-ethics-201-citation-styles-and-source-tracing-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Citation styles and source tracing. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "argument-structure-and-evidence-synthesis",
+      "title": "Argument structure and evidence synthesis",
+      "description": "Argument structure and evidence synthesis: a structured set of explanations, method, worked application, and critical checks for Research Ethics and Academic Writing.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Argument structure and evidence synthesis accurately.",
+        "Apply the central ideas in Argument structure and evidence synthesis to a structured course problem.",
+        "Check a solution to Argument structure and evidence synthesis for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Argument structure and evidence synthesis in Research Ethics and Academic Writing",
+          "paragraphs": [
+            "Argument structure and evidence synthesis is studied here as a specific part of Research Ethics and Academic Writing. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Research turns a topic into an answerable question and then uses a transparent method to gather and interpret evidence. The design should follow the question rather than convenience alone. Sampling, measurement, missing data, researcher decisions, and ethics all affect the credibility and transferability of findings.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Specify the population and setting; define the research question and constructs; select a design and sampling plan; choose instruments; plan analysis before looking for a preferred result; address consent, confidentiality, risk, and data management; and report limitations.",
+            "Apply that method directly to “Argument structure and evidence synthesis”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Research Ethics and Academic Writing; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A question about the association between study hours and examination scores can be addressed with an observational design, but the result may be confounded by prior preparation, course difficulty, and access to resources. A causal question requires stronger design assumptions than a simple correlation.",
+            "Now adapt the example to the topic “Argument structure and evidence synthesis”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Argument structure and evidence synthesis include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Research question",
+          "definition": "A focused, answerable question guiding the study."
+        },
+        {
+          "term": "Confounder",
+          "definition": "A variable associated with both an exposure/predictor and outcome that can distort their relationship."
+        },
+        {
+          "term": "Operational definition",
+          "definition": "A specification of how a construct is observed or measured."
+        },
+        {
+          "term": "Argument structure and evidence synthesis",
+          "definition": "The specific concept or method examined in this topic within Research Ethics and Academic Writing; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Argument structure and evidence synthesis",
+          "steps": [
+            "For a study involving “Argument structure and evidence synthesis”, connect the question to the design, sampling, measurement, analysis, and ethics plan. State what the design can support, what it cannot establish, and how another researcher could inspect or reproduce the decisions made.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "gst-ethics-201-argument-structure-and-evidence-synthesis-q1",
+          "type": "mcq",
+          "prompt": "Which feature most strengthens work on Argument structure and evidence synthesis?",
+          "options": [
+            "Transparent methods, justified decisions, ethical safeguards, and explicit limitations",
+            "Removing unfavourable findings",
+            "Selecting participants only after seeing the desired result",
+            "Reporting conclusions without describing the method"
+          ],
+          "answerIndex": 0,
+          "explanation": "Transparent and ethically sound methods make the evidence assessable."
+        },
+        {
+          "id": "gst-ethics-201-argument-structure-and-evidence-synthesis-q2",
+          "type": "short-answer",
+          "prompt": "Explain Argument structure and evidence synthesis in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Argument structure and evidence synthesis accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "gst-ethics-201-argument-structure-and-evidence-synthesis-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Argument structure and evidence synthesis. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "ethics-review-consent-and-privacy",
+      "title": "Ethics review, consent, and privacy",
+      "description": "Ethics review, consent, and privacy: a structured set of explanations, method, worked application, and critical checks for Research Ethics and Academic Writing.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Ethics review, consent, and privacy accurately.",
+        "Apply the central ideas in Ethics review, consent, and privacy to a structured course problem.",
+        "Check a solution to Ethics review, consent, and privacy for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Ethics review, consent, and privacy in Research Ethics and Academic Writing",
+          "paragraphs": [
+            "Ethics review, consent, and privacy is studied here as a specific part of Research Ethics and Academic Writing. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Research turns a topic into an answerable question and then uses a transparent method to gather and interpret evidence. The design should follow the question rather than convenience alone. Sampling, measurement, missing data, researcher decisions, and ethics all affect the credibility and transferability of findings.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Specify the population and setting; define the research question and constructs; select a design and sampling plan; choose instruments; plan analysis before looking for a preferred result; address consent, confidentiality, risk, and data management; and report limitations.",
+            "Apply that method directly to “Ethics review, consent, and privacy”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Research Ethics and Academic Writing; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A question about the association between study hours and examination scores can be addressed with an observational design, but the result may be confounded by prior preparation, course difficulty, and access to resources. A causal question requires stronger design assumptions than a simple correlation.",
+            "Now adapt the example to the topic “Ethics review, consent, and privacy”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Ethics review, consent, and privacy include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Research question",
+          "definition": "A focused, answerable question guiding the study."
+        },
+        {
+          "term": "Confounder",
+          "definition": "A variable associated with both an exposure/predictor and outcome that can distort their relationship."
+        },
+        {
+          "term": "Operational definition",
+          "definition": "A specification of how a construct is observed or measured."
+        },
+        {
+          "term": "Ethics review, consent, and privacy",
+          "definition": "The specific concept or method examined in this topic within Research Ethics and Academic Writing; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Ethics review, consent, and privacy",
+          "steps": [
+            "For a study involving “Ethics review, consent, and privacy”, connect the question to the design, sampling, measurement, analysis, and ethics plan. State what the design can support, what it cannot establish, and how another researcher could inspect or reproduce the decisions made.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "gst-ethics-201-ethics-review-consent-and-privacy-q1",
+          "type": "mcq",
+          "prompt": "Which feature most strengthens work on Ethics review, consent, and privacy?",
+          "options": [
+            "Transparent methods, justified decisions, ethical safeguards, and explicit limitations",
+            "Removing unfavourable findings",
+            "Selecting participants only after seeing the desired result",
+            "Reporting conclusions without describing the method"
+          ],
+          "answerIndex": 0,
+          "explanation": "Transparent and ethically sound methods make the evidence assessable."
+        },
+        {
+          "id": "gst-ethics-201-ethics-review-consent-and-privacy-q2",
+          "type": "short-answer",
+          "prompt": "Explain Ethics review, consent, and privacy in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Ethics review, consent, and privacy accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "gst-ethics-201-ethics-review-consent-and-privacy-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Ethics review, consent, and privacy. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "editing-revision-and-academic-tone",
+      "title": "Editing, revision, and academic tone",
+      "description": "Editing, revision, and academic tone: a structured set of explanations, method, worked application, and critical checks for Research Ethics and Academic Writing.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Editing, revision, and academic tone accurately.",
+        "Apply the central ideas in Editing, revision, and academic tone to a structured course problem.",
+        "Check a solution to Editing, revision, and academic tone for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Editing, revision, and academic tone in Research Ethics and Academic Writing",
+          "paragraphs": [
+            "Editing, revision, and academic tone is studied here as a specific part of Research Ethics and Academic Writing. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Research turns a topic into an answerable question and then uses a transparent method to gather and interpret evidence. The design should follow the question rather than convenience alone. Sampling, measurement, missing data, researcher decisions, and ethics all affect the credibility and transferability of findings.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Specify the population and setting; define the research question and constructs; select a design and sampling plan; choose instruments; plan analysis before looking for a preferred result; address consent, confidentiality, risk, and data management; and report limitations.",
+            "Apply that method directly to “Editing, revision, and academic tone”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Research Ethics and Academic Writing; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A question about the association between study hours and examination scores can be addressed with an observational design, but the result may be confounded by prior preparation, course difficulty, and access to resources. A causal question requires stronger design assumptions than a simple correlation.",
+            "Now adapt the example to the topic “Editing, revision, and academic tone”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Editing, revision, and academic tone include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Research question",
+          "definition": "A focused, answerable question guiding the study."
+        },
+        {
+          "term": "Confounder",
+          "definition": "A variable associated with both an exposure/predictor and outcome that can distort their relationship."
+        },
+        {
+          "term": "Operational definition",
+          "definition": "A specification of how a construct is observed or measured."
+        },
+        {
+          "term": "Editing, revision, and academic tone",
+          "definition": "The specific concept or method examined in this topic within Research Ethics and Academic Writing; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Editing, revision, and academic tone",
+          "steps": [
+            "For a study involving “Editing, revision, and academic tone”, connect the question to the design, sampling, measurement, analysis, and ethics plan. State what the design can support, what it cannot establish, and how another researcher could inspect or reproduce the decisions made.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "gst-ethics-201-editing-revision-and-academic-tone-q1",
+          "type": "mcq",
+          "prompt": "Which feature most strengthens work on Editing, revision, and academic tone?",
+          "options": [
+            "Transparent methods, justified decisions, ethical safeguards, and explicit limitations",
+            "Removing unfavourable findings",
+            "Selecting participants only after seeing the desired result",
+            "Reporting conclusions without describing the method"
+          ],
+          "answerIndex": 0,
+          "explanation": "Transparent and ethically sound methods make the evidence assessable."
+        },
+        {
+          "id": "gst-ethics-201-editing-revision-and-academic-tone-q2",
+          "type": "short-answer",
+          "prompt": "Explain Editing, revision, and academic tone in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Editing, revision, and academic tone accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "gst-ethics-201-editing-revision-and-academic-tone-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Editing, revision, and academic tone. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ]
+}

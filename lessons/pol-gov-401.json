@@ -1,0 +1,545 @@
+{
+  "courseId": "pol-gov-401",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "400-level undergraduate learning depth",
+  "topics": [
+    {
+      "id": "policy-cycle-and-agenda-setting",
+      "title": "Policy cycle and agenda setting",
+      "description": "Policy cycle and agenda setting: a structured set of explanations, method, worked application, and critical checks for Public Policy Analysis.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Policy cycle and agenda setting accurately.",
+        "Apply the central ideas in Policy cycle and agenda setting to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Policy cycle and agenda setting in Public Policy Analysis",
+          "paragraphs": [
+            "Policy cycle and agenda setting is studied here as a specific part of Public Policy Analysis. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Social sciences examine patterned relationships, institutions, power, culture, and collective outcomes. A strong answer distinguishes individual explanations from structural explanations and links claims to evidence. Concepts and theories are analytical tools: their assumptions and limits should be stated rather than treated as universal laws.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the concept, identify the level of analysis, apply the theory to a specific case, use evidence, consider competing explanations, and state what the framework explains well or leaves unresolved.",
+            "Apply that method directly to “Policy cycle and agenda setting”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Public Policy Analysis; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A low rate of school attendance may involve household income, transport, school access, safety, policy, and family expectations. Explaining it solely as an individual choice overlooks structural constraints; explaining it only structurally may overlook differences in agency and local circumstances.",
+            "Now adapt the example to the topic “Policy cycle and agenda setting”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Policy cycle and agenda setting include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Institution",
+          "definition": "A durable set of rules and practices organising social life."
+        },
+        {
+          "term": "Operationalisation",
+          "definition": "Turning an abstract concept into observable indicators."
+        },
+        {
+          "term": "Agency",
+          "definition": "Capacity of people to act within, negotiate, or alter constraints."
+        },
+        {
+          "term": "Policy cycle and agenda setting",
+          "definition": "The specific concept or method examined in this topic within Public Policy Analysis; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Policy cycle and agenda setting",
+          "steps": [
+            "A policy cycle is a heuristic for analysing agenda setting, formulation, adoption, implementation, and evaluation. Real policy processes are often iterative rather than strictly linear: implementation can reshape the problem, evaluation can reopen agenda setting, and actors may pursue several stages simultaneously.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "pol-gov-401-policy-cycle-and-agenda-setting-q1",
+          "type": "mcq",
+          "prompt": "What is the primary purpose of policy evaluation?",
+          "options": [
+            "Assess implementation and outcomes against explicit criteria",
+            "Guarantee the policy will be politically popular",
+            "Replace evidence with stakeholder preference",
+            "Prevent future policy revision"
+          ],
+          "answerIndex": 0,
+          "explanation": "Evaluation assesses what happened, for whom, at what cost, and with what limitations."
+        },
+        {
+          "id": "pol-gov-401-policy-cycle-and-agenda-setting-q2",
+          "type": "short-answer",
+          "prompt": "Explain Policy cycle and agenda setting in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Policy cycle and agenda setting accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "pol-gov-401-policy-cycle-and-agenda-setting-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Policy cycle and agenda setting. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "stakeholder-and-power-analysis",
+      "title": "Stakeholder and power analysis",
+      "description": "Stakeholder and power analysis: a structured set of explanations, method, worked application, and critical checks for Public Policy Analysis.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Stakeholder and power analysis accurately.",
+        "Apply the central ideas in Stakeholder and power analysis to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Stakeholder and power analysis in Public Policy Analysis",
+          "paragraphs": [
+            "Stakeholder and power analysis is studied here as a specific part of Public Policy Analysis. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Social sciences examine patterned relationships, institutions, power, culture, and collective outcomes. A strong answer distinguishes individual explanations from structural explanations and links claims to evidence. Concepts and theories are analytical tools: their assumptions and limits should be stated rather than treated as universal laws.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the concept, identify the level of analysis, apply the theory to a specific case, use evidence, consider competing explanations, and state what the framework explains well or leaves unresolved.",
+            "Apply that method directly to “Stakeholder and power analysis”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Public Policy Analysis; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A low rate of school attendance may involve household income, transport, school access, safety, policy, and family expectations. Explaining it solely as an individual choice overlooks structural constraints; explaining it only structurally may overlook differences in agency and local circumstances.",
+            "Now adapt the example to the topic “Stakeholder and power analysis”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Stakeholder and power analysis include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Institution",
+          "definition": "A durable set of rules and practices organising social life."
+        },
+        {
+          "term": "Operationalisation",
+          "definition": "Turning an abstract concept into observable indicators."
+        },
+        {
+          "term": "Agency",
+          "definition": "Capacity of people to act within, negotiate, or alter constraints."
+        },
+        {
+          "term": "Stakeholder and power analysis",
+          "definition": "The specific concept or method examined in this topic within Public Policy Analysis; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Stakeholder and power analysis",
+          "steps": [
+            "Apply “Stakeholder and power analysis” by defining the concept, selecting a level of analysis, identifying relevant institutions or actors, and using evidence from the case. Compare structural conditions with individual agency and consider at least one alternative explanation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "pol-gov-401-stakeholder-and-power-analysis-q1",
+          "type": "mcq",
+          "prompt": "Which answer best applies Stakeholder and power analysis to a real social or political case?",
+          "options": [
+            "A defined concept linked to evidence, actors, context, and an alternative explanation",
+            "A personal opinion without supporting evidence",
+            "A universal claim based on one anecdote",
+            "A list of names without analysis"
+          ],
+          "answerIndex": 0,
+          "explanation": "Application requires concepts, evidence, context, and critical comparison."
+        },
+        {
+          "id": "pol-gov-401-stakeholder-and-power-analysis-q2",
+          "type": "short-answer",
+          "prompt": "Explain Stakeholder and power analysis in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Stakeholder and power analysis accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "pol-gov-401-stakeholder-and-power-analysis-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Stakeholder and power analysis. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "cost-benefit-and-equity-considerations",
+      "title": "Cost-benefit and equity considerations",
+      "description": "Cost-benefit and equity considerations: a structured set of explanations, method, worked application, and critical checks for Public Policy Analysis.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Cost-benefit and equity considerations accurately.",
+        "Apply the central ideas in Cost-benefit and equity considerations to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Cost-benefit and equity considerations in Public Policy Analysis",
+          "paragraphs": [
+            "Cost-benefit and equity considerations is studied here as a specific part of Public Policy Analysis. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Social sciences examine patterned relationships, institutions, power, culture, and collective outcomes. A strong answer distinguishes individual explanations from structural explanations and links claims to evidence. Concepts and theories are analytical tools: their assumptions and limits should be stated rather than treated as universal laws.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the concept, identify the level of analysis, apply the theory to a specific case, use evidence, consider competing explanations, and state what the framework explains well or leaves unresolved.",
+            "Apply that method directly to “Cost-benefit and equity considerations”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Public Policy Analysis; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A low rate of school attendance may involve household income, transport, school access, safety, policy, and family expectations. Explaining it solely as an individual choice overlooks structural constraints; explaining it only structurally may overlook differences in agency and local circumstances.",
+            "Now adapt the example to the topic “Cost-benefit and equity considerations”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Cost-benefit and equity considerations include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Institution",
+          "definition": "A durable set of rules and practices organising social life."
+        },
+        {
+          "term": "Operationalisation",
+          "definition": "Turning an abstract concept into observable indicators."
+        },
+        {
+          "term": "Agency",
+          "definition": "Capacity of people to act within, negotiate, or alter constraints."
+        },
+        {
+          "term": "Cost-benefit and equity considerations",
+          "definition": "The specific concept or method examined in this topic within Public Policy Analysis; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Cost-benefit and equity considerations",
+          "steps": [
+            "Apply “Cost-benefit and equity considerations” by defining the concept, selecting a level of analysis, identifying relevant institutions or actors, and using evidence from the case. Compare structural conditions with individual agency and consider at least one alternative explanation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "pol-gov-401-cost-benefit-and-equity-considerations-q1",
+          "type": "mcq",
+          "prompt": "Which answer best applies Cost-benefit and equity considerations to a real social or political case?",
+          "options": [
+            "A defined concept linked to evidence, actors, context, and an alternative explanation",
+            "A personal opinion without supporting evidence",
+            "A universal claim based on one anecdote",
+            "A list of names without analysis"
+          ],
+          "answerIndex": 0,
+          "explanation": "Application requires concepts, evidence, context, and critical comparison."
+        },
+        {
+          "id": "pol-gov-401-cost-benefit-and-equity-considerations-q2",
+          "type": "short-answer",
+          "prompt": "Explain Cost-benefit and equity considerations in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Cost-benefit and equity considerations accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "pol-gov-401-cost-benefit-and-equity-considerations-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Cost-benefit and equity considerations. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "implementation-constraints",
+      "title": "Implementation constraints",
+      "description": "Implementation constraints: a structured set of explanations, method, worked application, and critical checks for Public Policy Analysis.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Implementation constraints accurately.",
+        "Apply the central ideas in Implementation constraints to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Implementation constraints in Public Policy Analysis",
+          "paragraphs": [
+            "Implementation constraints is studied here as a specific part of Public Policy Analysis. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Social sciences examine patterned relationships, institutions, power, culture, and collective outcomes. A strong answer distinguishes individual explanations from structural explanations and links claims to evidence. Concepts and theories are analytical tools: their assumptions and limits should be stated rather than treated as universal laws.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the concept, identify the level of analysis, apply the theory to a specific case, use evidence, consider competing explanations, and state what the framework explains well or leaves unresolved.",
+            "Apply that method directly to “Implementation constraints”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Public Policy Analysis; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A low rate of school attendance may involve household income, transport, school access, safety, policy, and family expectations. Explaining it solely as an individual choice overlooks structural constraints; explaining it only structurally may overlook differences in agency and local circumstances.",
+            "Now adapt the example to the topic “Implementation constraints”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Implementation constraints include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Institution",
+          "definition": "A durable set of rules and practices organising social life."
+        },
+        {
+          "term": "Operationalisation",
+          "definition": "Turning an abstract concept into observable indicators."
+        },
+        {
+          "term": "Agency",
+          "definition": "Capacity of people to act within, negotiate, or alter constraints."
+        },
+        {
+          "term": "Implementation constraints",
+          "definition": "The specific concept or method examined in this topic within Public Policy Analysis; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Implementation constraints",
+          "steps": [
+            "Apply “Implementation constraints” by defining the concept, selecting a level of analysis, identifying relevant institutions or actors, and using evidence from the case. Compare structural conditions with individual agency and consider at least one alternative explanation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "pol-gov-401-implementation-constraints-q1",
+          "type": "mcq",
+          "prompt": "Which answer best applies Implementation constraints to a real social or political case?",
+          "options": [
+            "A defined concept linked to evidence, actors, context, and an alternative explanation",
+            "A personal opinion without supporting evidence",
+            "A universal claim based on one anecdote",
+            "A list of names without analysis"
+          ],
+          "answerIndex": 0,
+          "explanation": "Application requires concepts, evidence, context, and critical comparison."
+        },
+        {
+          "id": "pol-gov-401-implementation-constraints-q2",
+          "type": "short-answer",
+          "prompt": "Explain Implementation constraints in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Implementation constraints accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "pol-gov-401-implementation-constraints-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Implementation constraints. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "monitoring-and-policy-evaluation",
+      "title": "Monitoring and policy evaluation",
+      "description": "Monitoring and policy evaluation: a structured set of explanations, method, worked application, and critical checks for Public Policy Analysis.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Monitoring and policy evaluation accurately.",
+        "Apply the central ideas in Monitoring and policy evaluation to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Monitoring and policy evaluation in Public Policy Analysis",
+          "paragraphs": [
+            "Monitoring and policy evaluation is studied here as a specific part of Public Policy Analysis. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Social sciences examine patterned relationships, institutions, power, culture, and collective outcomes. A strong answer distinguishes individual explanations from structural explanations and links claims to evidence. Concepts and theories are analytical tools: their assumptions and limits should be stated rather than treated as universal laws.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the concept, identify the level of analysis, apply the theory to a specific case, use evidence, consider competing explanations, and state what the framework explains well or leaves unresolved.",
+            "Apply that method directly to “Monitoring and policy evaluation”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Public Policy Analysis; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A low rate of school attendance may involve household income, transport, school access, safety, policy, and family expectations. Explaining it solely as an individual choice overlooks structural constraints; explaining it only structurally may overlook differences in agency and local circumstances.",
+            "Now adapt the example to the topic “Monitoring and policy evaluation”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Monitoring and policy evaluation include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Institution",
+          "definition": "A durable set of rules and practices organising social life."
+        },
+        {
+          "term": "Operationalisation",
+          "definition": "Turning an abstract concept into observable indicators."
+        },
+        {
+          "term": "Agency",
+          "definition": "Capacity of people to act within, negotiate, or alter constraints."
+        },
+        {
+          "term": "Monitoring and policy evaluation",
+          "definition": "The specific concept or method examined in this topic within Public Policy Analysis; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Monitoring and policy evaluation",
+          "steps": [
+            "Apply “Monitoring and policy evaluation” by defining the concept, selecting a level of analysis, identifying relevant institutions or actors, and using evidence from the case. Compare structural conditions with individual agency and consider at least one alternative explanation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "pol-gov-401-monitoring-and-policy-evaluation-q1",
+          "type": "mcq",
+          "prompt": "Which answer best applies Monitoring and policy evaluation to a real social or political case?",
+          "options": [
+            "A defined concept linked to evidence, actors, context, and an alternative explanation",
+            "A personal opinion without supporting evidence",
+            "A universal claim based on one anecdote",
+            "A list of names without analysis"
+          ],
+          "answerIndex": 0,
+          "explanation": "Application requires concepts, evidence, context, and critical comparison."
+        },
+        {
+          "id": "pol-gov-401-monitoring-and-policy-evaluation-q2",
+          "type": "short-answer",
+          "prompt": "Explain Monitoring and policy evaluation in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Monitoring and policy evaluation accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "pol-gov-401-monitoring-and-policy-evaluation-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Monitoring and policy evaluation. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ],
+  "contentNotice": "Original instructional draft. Course title/code is illustrative and must be checked against the student’s current departmental course outline. Not an authentic past paper.",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "All questions in this lesson are original practice questions unless a separate verified source record explicitly says otherwise."
+  }
+}

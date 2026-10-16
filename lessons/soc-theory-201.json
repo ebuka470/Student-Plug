@@ -1,0 +1,545 @@
+{
+  "courseId": "soc-theory-201",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "200-level undergraduate learning depth",
+  "topics": [
+    {
+      "id": "marx-and-class-relations",
+      "title": "Marx and class relations",
+      "description": "Marx and class relations: a structured set of explanations, method, worked application, and critical checks for Classical Sociological Theory.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Marx and class relations accurately.",
+        "Apply the central ideas in Marx and class relations to a structured course problem.",
+        "Check a solution to Marx and class relations for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Marx and class relations in Classical Sociological Theory",
+          "paragraphs": [
+            "Marx and class relations is studied here as a specific part of Classical Sociological Theory. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Social sciences examine patterned relationships, institutions, power, culture, and collective outcomes. A strong answer distinguishes individual explanations from structural explanations and links claims to evidence. Concepts and theories are analytical tools: their assumptions and limits should be stated rather than treated as universal laws.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the concept, identify the level of analysis, apply the theory to a specific case, use evidence, consider competing explanations, and state what the framework explains well or leaves unresolved.",
+            "Apply that method directly to “Marx and class relations”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Classical Sociological Theory; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A low rate of school attendance may involve household income, transport, school access, safety, policy, and family expectations. Explaining it solely as an individual choice overlooks structural constraints; explaining it only structurally may overlook differences in agency and local circumstances.",
+            "Now adapt the example to the topic “Marx and class relations”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Marx and class relations include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Institution",
+          "definition": "A durable set of rules and practices organising social life."
+        },
+        {
+          "term": "Operationalisation",
+          "definition": "Turning an abstract concept into observable indicators."
+        },
+        {
+          "term": "Agency",
+          "definition": "Capacity of people to act within, negotiate, or alter constraints."
+        },
+        {
+          "term": "Marx and class relations",
+          "definition": "The specific concept or method examined in this topic within Classical Sociological Theory; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Marx and class relations",
+          "steps": [
+            "Apply “Marx and class relations” by defining the concept, selecting a level of analysis, identifying relevant institutions or actors, and using evidence from the case. Compare structural conditions with individual agency and consider at least one alternative explanation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "soc-theory-201-marx-and-class-relations-q1",
+          "type": "mcq",
+          "prompt": "Which answer best applies Marx and class relations to a real social or political case?",
+          "options": [
+            "A defined concept linked to evidence, actors, context, and an alternative explanation",
+            "A personal opinion without supporting evidence",
+            "A universal claim based on one anecdote",
+            "A list of names without analysis"
+          ],
+          "answerIndex": 0,
+          "explanation": "Application requires concepts, evidence, context, and critical comparison."
+        },
+        {
+          "id": "soc-theory-201-marx-and-class-relations-q2",
+          "type": "short-answer",
+          "prompt": "Explain Marx and class relations in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Marx and class relations accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "soc-theory-201-marx-and-class-relations-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Marx and class relations. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "durkheim-and-social-solidarity",
+      "title": "Durkheim and social solidarity",
+      "description": "Durkheim and social solidarity: a structured set of explanations, method, worked application, and critical checks for Classical Sociological Theory.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Durkheim and social solidarity accurately.",
+        "Apply the central ideas in Durkheim and social solidarity to a structured course problem.",
+        "Check a solution to Durkheim and social solidarity for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Durkheim and social solidarity in Classical Sociological Theory",
+          "paragraphs": [
+            "Durkheim and social solidarity is studied here as a specific part of Classical Sociological Theory. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Social sciences examine patterned relationships, institutions, power, culture, and collective outcomes. A strong answer distinguishes individual explanations from structural explanations and links claims to evidence. Concepts and theories are analytical tools: their assumptions and limits should be stated rather than treated as universal laws.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the concept, identify the level of analysis, apply the theory to a specific case, use evidence, consider competing explanations, and state what the framework explains well or leaves unresolved.",
+            "Apply that method directly to “Durkheim and social solidarity”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Classical Sociological Theory; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A low rate of school attendance may involve household income, transport, school access, safety, policy, and family expectations. Explaining it solely as an individual choice overlooks structural constraints; explaining it only structurally may overlook differences in agency and local circumstances.",
+            "Now adapt the example to the topic “Durkheim and social solidarity”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Durkheim and social solidarity include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Institution",
+          "definition": "A durable set of rules and practices organising social life."
+        },
+        {
+          "term": "Operationalisation",
+          "definition": "Turning an abstract concept into observable indicators."
+        },
+        {
+          "term": "Agency",
+          "definition": "Capacity of people to act within, negotiate, or alter constraints."
+        },
+        {
+          "term": "Durkheim and social solidarity",
+          "definition": "The specific concept or method examined in this topic within Classical Sociological Theory; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Durkheim and social solidarity",
+          "steps": [
+            "Apply “Durkheim and social solidarity” by defining the concept, selecting a level of analysis, identifying relevant institutions or actors, and using evidence from the case. Compare structural conditions with individual agency and consider at least one alternative explanation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "soc-theory-201-durkheim-and-social-solidarity-q1",
+          "type": "mcq",
+          "prompt": "Which answer best applies Durkheim and social solidarity to a real social or political case?",
+          "options": [
+            "A defined concept linked to evidence, actors, context, and an alternative explanation",
+            "A personal opinion without supporting evidence",
+            "A universal claim based on one anecdote",
+            "A list of names without analysis"
+          ],
+          "answerIndex": 0,
+          "explanation": "Application requires concepts, evidence, context, and critical comparison."
+        },
+        {
+          "id": "soc-theory-201-durkheim-and-social-solidarity-q2",
+          "type": "short-answer",
+          "prompt": "Explain Durkheim and social solidarity in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Durkheim and social solidarity accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "soc-theory-201-durkheim-and-social-solidarity-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Durkheim and social solidarity. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "weber-and-authority",
+      "title": "Weber and authority",
+      "description": "Weber and authority: a structured set of explanations, method, worked application, and critical checks for Classical Sociological Theory.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Weber and authority accurately.",
+        "Apply the central ideas in Weber and authority to a structured course problem.",
+        "Check a solution to Weber and authority for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Weber and authority in Classical Sociological Theory",
+          "paragraphs": [
+            "Weber and authority is studied here as a specific part of Classical Sociological Theory. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Social sciences examine patterned relationships, institutions, power, culture, and collective outcomes. A strong answer distinguishes individual explanations from structural explanations and links claims to evidence. Concepts and theories are analytical tools: their assumptions and limits should be stated rather than treated as universal laws.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the concept, identify the level of analysis, apply the theory to a specific case, use evidence, consider competing explanations, and state what the framework explains well or leaves unresolved.",
+            "Apply that method directly to “Weber and authority”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Classical Sociological Theory; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A low rate of school attendance may involve household income, transport, school access, safety, policy, and family expectations. Explaining it solely as an individual choice overlooks structural constraints; explaining it only structurally may overlook differences in agency and local circumstances.",
+            "Now adapt the example to the topic “Weber and authority”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Weber and authority include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Institution",
+          "definition": "A durable set of rules and practices organising social life."
+        },
+        {
+          "term": "Operationalisation",
+          "definition": "Turning an abstract concept into observable indicators."
+        },
+        {
+          "term": "Agency",
+          "definition": "Capacity of people to act within, negotiate, or alter constraints."
+        },
+        {
+          "term": "Weber and authority",
+          "definition": "The specific concept or method examined in this topic within Classical Sociological Theory; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Weber and authority",
+          "steps": [
+            "Apply “Weber and authority” by defining the concept, selecting a level of analysis, identifying relevant institutions or actors, and using evidence from the case. Compare structural conditions with individual agency and consider at least one alternative explanation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "soc-theory-201-weber-and-authority-q1",
+          "type": "mcq",
+          "prompt": "Which answer best applies Weber and authority to a real social or political case?",
+          "options": [
+            "A defined concept linked to evidence, actors, context, and an alternative explanation",
+            "A personal opinion without supporting evidence",
+            "A universal claim based on one anecdote",
+            "A list of names without analysis"
+          ],
+          "answerIndex": 0,
+          "explanation": "Application requires concepts, evidence, context, and critical comparison."
+        },
+        {
+          "id": "soc-theory-201-weber-and-authority-q2",
+          "type": "short-answer",
+          "prompt": "Explain Weber and authority in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Weber and authority accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "soc-theory-201-weber-and-authority-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Weber and authority. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "functionalist-and-conflict-approaches",
+      "title": "Functionalist and conflict approaches",
+      "description": "Functionalist and conflict approaches: a structured set of explanations, method, worked application, and critical checks for Classical Sociological Theory.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Functionalist and conflict approaches accurately.",
+        "Apply the central ideas in Functionalist and conflict approaches to a structured course problem.",
+        "Check a solution to Functionalist and conflict approaches for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Functionalist and conflict approaches in Classical Sociological Theory",
+          "paragraphs": [
+            "Functionalist and conflict approaches is studied here as a specific part of Classical Sociological Theory. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Social sciences examine patterned relationships, institutions, power, culture, and collective outcomes. A strong answer distinguishes individual explanations from structural explanations and links claims to evidence. Concepts and theories are analytical tools: their assumptions and limits should be stated rather than treated as universal laws.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the concept, identify the level of analysis, apply the theory to a specific case, use evidence, consider competing explanations, and state what the framework explains well or leaves unresolved.",
+            "Apply that method directly to “Functionalist and conflict approaches”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Classical Sociological Theory; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A low rate of school attendance may involve household income, transport, school access, safety, policy, and family expectations. Explaining it solely as an individual choice overlooks structural constraints; explaining it only structurally may overlook differences in agency and local circumstances.",
+            "Now adapt the example to the topic “Functionalist and conflict approaches”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Functionalist and conflict approaches include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Institution",
+          "definition": "A durable set of rules and practices organising social life."
+        },
+        {
+          "term": "Operationalisation",
+          "definition": "Turning an abstract concept into observable indicators."
+        },
+        {
+          "term": "Agency",
+          "definition": "Capacity of people to act within, negotiate, or alter constraints."
+        },
+        {
+          "term": "Functionalist and conflict approaches",
+          "definition": "The specific concept or method examined in this topic within Classical Sociological Theory; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Functionalist and conflict approaches",
+          "steps": [
+            "Apply “Functionalist and conflict approaches” by defining the concept, selecting a level of analysis, identifying relevant institutions or actors, and using evidence from the case. Compare structural conditions with individual agency and consider at least one alternative explanation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "soc-theory-201-functionalist-and-conflict-approaches-q1",
+          "type": "mcq",
+          "prompt": "Which answer best applies Functionalist and conflict approaches to a real social or political case?",
+          "options": [
+            "A defined concept linked to evidence, actors, context, and an alternative explanation",
+            "A personal opinion without supporting evidence",
+            "A universal claim based on one anecdote",
+            "A list of names without analysis"
+          ],
+          "answerIndex": 0,
+          "explanation": "Application requires concepts, evidence, context, and critical comparison."
+        },
+        {
+          "id": "soc-theory-201-functionalist-and-conflict-approaches-q2",
+          "type": "short-answer",
+          "prompt": "Explain Functionalist and conflict approaches in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Functionalist and conflict approaches accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "soc-theory-201-functionalist-and-conflict-approaches-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Functionalist and conflict approaches. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "applying-theory-to-nigerian-social-contexts",
+      "title": "Applying theory to Nigerian social contexts",
+      "description": "Applying theory to Nigerian social contexts: a structured set of explanations, method, worked application, and critical checks for Classical Sociological Theory.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Applying theory to Nigerian social contexts accurately.",
+        "Apply the central ideas in Applying theory to Nigerian social contexts to a structured course problem.",
+        "Check a solution to Applying theory to Nigerian social contexts for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Applying theory to Nigerian social contexts in Classical Sociological Theory",
+          "paragraphs": [
+            "Applying theory to Nigerian social contexts is studied here as a specific part of Classical Sociological Theory. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Social sciences examine patterned relationships, institutions, power, culture, and collective outcomes. A strong answer distinguishes individual explanations from structural explanations and links claims to evidence. Concepts and theories are analytical tools: their assumptions and limits should be stated rather than treated as universal laws.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the concept, identify the level of analysis, apply the theory to a specific case, use evidence, consider competing explanations, and state what the framework explains well or leaves unresolved.",
+            "Apply that method directly to “Applying theory to Nigerian social contexts”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Classical Sociological Theory; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A low rate of school attendance may involve household income, transport, school access, safety, policy, and family expectations. Explaining it solely as an individual choice overlooks structural constraints; explaining it only structurally may overlook differences in agency and local circumstances.",
+            "Now adapt the example to the topic “Applying theory to Nigerian social contexts”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Applying theory to Nigerian social contexts include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Institution",
+          "definition": "A durable set of rules and practices organising social life."
+        },
+        {
+          "term": "Operationalisation",
+          "definition": "Turning an abstract concept into observable indicators."
+        },
+        {
+          "term": "Agency",
+          "definition": "Capacity of people to act within, negotiate, or alter constraints."
+        },
+        {
+          "term": "Applying theory to Nigerian social contexts",
+          "definition": "The specific concept or method examined in this topic within Classical Sociological Theory; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Applying theory to Nigerian social contexts",
+          "steps": [
+            "Apply “Applying theory to Nigerian social contexts” by defining the concept, selecting a level of analysis, identifying relevant institutions or actors, and using evidence from the case. Compare structural conditions with individual agency and consider at least one alternative explanation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "soc-theory-201-applying-theory-to-nigerian-social-contexts-q1",
+          "type": "mcq",
+          "prompt": "Which answer best applies Applying theory to Nigerian social contexts to a real social or political case?",
+          "options": [
+            "A defined concept linked to evidence, actors, context, and an alternative explanation",
+            "A personal opinion without supporting evidence",
+            "A universal claim based on one anecdote",
+            "A list of names without analysis"
+          ],
+          "answerIndex": 0,
+          "explanation": "Application requires concepts, evidence, context, and critical comparison."
+        },
+        {
+          "id": "soc-theory-201-applying-theory-to-nigerian-social-contexts-q2",
+          "type": "short-answer",
+          "prompt": "Explain Applying theory to Nigerian social contexts in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Applying theory to Nigerian social contexts accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "soc-theory-201-applying-theory-to-nigerian-social-contexts-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Applying theory to Nigerian social contexts. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ],
+  "contentNotice": "Original instructional draft. Course title/code is illustrative and must be checked against the student’s current departmental course outline. Not an authentic past paper.",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "All questions in this lesson are original practice questions unless a separate verified source record explicitly says otherwise."
+  }
+}

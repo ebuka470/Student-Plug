@@ -1,0 +1,545 @@
+{
+  "courseId": "eng-control-301",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "300-level undergraduate learning depth",
+  "topics": [
+    {
+      "id": "transfer-functions-and-block-diagrams",
+      "title": "Transfer functions and block diagrams",
+      "description": "Transfer functions and block diagrams: a structured set of explanations, method, worked application, and critical checks for Control Systems.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Transfer functions and block diagrams accurately.",
+        "Apply the central ideas in Transfer functions and block diagrams to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Transfer functions and block diagrams in Control Systems",
+          "paragraphs": [
+            "Transfer functions and block diagrams is studied here as a specific part of Control Systems. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Engineering analysis begins with a defined system boundary, idealisations, units, and conservation laws. State whether quantities are steady-state or transient, ideal or measured, and whether losses or uncertainty are included. Check that equations are dimensionally consistent and that the result respects physical constraints.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Draw the system or circuit, label directions and reference values, write governing equations before substituting numbers, solve systematically, and validate using units, limiting cases, or an independent check.",
+            "Apply that method directly to “Transfer functions and block diagrams”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Control Systems; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For a resistor under the passive sign convention, Ohm’s law gives V=IR. A 2 kΩ resistor carrying 3 mA has V=(2000 Ω)(0.003 A)=6 V. Converting kΩ and mA before multiplication prevents a factor-of-one-thousand error.",
+            "Now adapt the example to the topic “Transfer functions and block diagrams”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Transfer functions and block diagrams include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Boundary condition",
+          "definition": "A constraint specified at the edge of a model or domain."
+        },
+        {
+          "term": "Steady state",
+          "definition": "A condition in which the relevant system variables no longer change with time."
+        },
+        {
+          "term": "Dimensional analysis",
+          "definition": "Checking relationships through physical units."
+        },
+        {
+          "term": "Transfer functions and block diagrams",
+          "definition": "The specific concept or method examined in this topic within Control Systems; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Transfer functions and block diagrams",
+          "steps": [
+            "For “Transfer functions and block diagrams”, define the system boundary and reference directions, record known quantities with SI units, write the governing relationship, solve before rounding, and check the result dimensionally. Compare the ideal-model answer with practical limits such as losses, tolerances, stability, or protection requirements where relevant.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "eng-control-301-transfer-functions-and-block-diagrams-q1",
+          "type": "mcq",
+          "prompt": "Which check is most useful after solving an engineering problem on Transfer functions and block diagrams?",
+          "options": [
+            "Check units, assumptions, and whether the result is physically plausible",
+            "Round every value before substituting",
+            "Ignore reference directions",
+            "Accept any numerical output from a calculator"
+          ],
+          "answerIndex": 0,
+          "explanation": "Dimensional and physical checks catch many modelling and arithmetic errors."
+        },
+        {
+          "id": "eng-control-301-transfer-functions-and-block-diagrams-q2",
+          "type": "short-answer",
+          "prompt": "Explain Transfer functions and block diagrams in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Transfer functions and block diagrams accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "eng-control-301-transfer-functions-and-block-diagrams-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Transfer functions and block diagrams. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "time-domain-response",
+      "title": "Time-domain response",
+      "description": "Time-domain response: a structured set of explanations, method, worked application, and critical checks for Control Systems.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Time-domain response accurately.",
+        "Apply the central ideas in Time-domain response to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Time-domain response in Control Systems",
+          "paragraphs": [
+            "Time-domain response is studied here as a specific part of Control Systems. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Engineering analysis begins with a defined system boundary, idealisations, units, and conservation laws. State whether quantities are steady-state or transient, ideal or measured, and whether losses or uncertainty are included. Check that equations are dimensionally consistent and that the result respects physical constraints.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Draw the system or circuit, label directions and reference values, write governing equations before substituting numbers, solve systematically, and validate using units, limiting cases, or an independent check.",
+            "Apply that method directly to “Time-domain response”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Control Systems; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For a resistor under the passive sign convention, Ohm’s law gives V=IR. A 2 kΩ resistor carrying 3 mA has V=(2000 Ω)(0.003 A)=6 V. Converting kΩ and mA before multiplication prevents a factor-of-one-thousand error.",
+            "Now adapt the example to the topic “Time-domain response”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Time-domain response include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Boundary condition",
+          "definition": "A constraint specified at the edge of a model or domain."
+        },
+        {
+          "term": "Steady state",
+          "definition": "A condition in which the relevant system variables no longer change with time."
+        },
+        {
+          "term": "Dimensional analysis",
+          "definition": "Checking relationships through physical units."
+        },
+        {
+          "term": "Time-domain response",
+          "definition": "The specific concept or method examined in this topic within Control Systems; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Time-domain response",
+          "steps": [
+            "For “Time-domain response”, define the system boundary and reference directions, record known quantities with SI units, write the governing relationship, solve before rounding, and check the result dimensionally. Compare the ideal-model answer with practical limits such as losses, tolerances, stability, or protection requirements where relevant.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "eng-control-301-time-domain-response-q1",
+          "type": "mcq",
+          "prompt": "Which check is most useful after solving an engineering problem on Time-domain response?",
+          "options": [
+            "Check units, assumptions, and whether the result is physically plausible",
+            "Round every value before substituting",
+            "Ignore reference directions",
+            "Accept any numerical output from a calculator"
+          ],
+          "answerIndex": 0,
+          "explanation": "Dimensional and physical checks catch many modelling and arithmetic errors."
+        },
+        {
+          "id": "eng-control-301-time-domain-response-q2",
+          "type": "short-answer",
+          "prompt": "Explain Time-domain response in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Time-domain response accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "eng-control-301-time-domain-response-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Time-domain response. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "stability-and-routh-hurwitz-criterion",
+      "title": "Stability and Routh-Hurwitz criterion",
+      "description": "Stability and Routh-Hurwitz criterion: a structured set of explanations, method, worked application, and critical checks for Control Systems.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Stability and Routh-Hurwitz criterion accurately.",
+        "Apply the central ideas in Stability and Routh-Hurwitz criterion to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Stability and Routh-Hurwitz criterion in Control Systems",
+          "paragraphs": [
+            "Stability and Routh-Hurwitz criterion is studied here as a specific part of Control Systems. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Engineering analysis begins with a defined system boundary, idealisations, units, and conservation laws. State whether quantities are steady-state or transient, ideal or measured, and whether losses or uncertainty are included. Check that equations are dimensionally consistent and that the result respects physical constraints.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Draw the system or circuit, label directions and reference values, write governing equations before substituting numbers, solve systematically, and validate using units, limiting cases, or an independent check.",
+            "Apply that method directly to “Stability and Routh-Hurwitz criterion”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Control Systems; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For a resistor under the passive sign convention, Ohm’s law gives V=IR. A 2 kΩ resistor carrying 3 mA has V=(2000 Ω)(0.003 A)=6 V. Converting kΩ and mA before multiplication prevents a factor-of-one-thousand error.",
+            "Now adapt the example to the topic “Stability and Routh-Hurwitz criterion”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Stability and Routh-Hurwitz criterion include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Boundary condition",
+          "definition": "A constraint specified at the edge of a model or domain."
+        },
+        {
+          "term": "Steady state",
+          "definition": "A condition in which the relevant system variables no longer change with time."
+        },
+        {
+          "term": "Dimensional analysis",
+          "definition": "Checking relationships through physical units."
+        },
+        {
+          "term": "Stability and Routh-Hurwitz criterion",
+          "definition": "The specific concept or method examined in this topic within Control Systems; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Stability and Routh-Hurwitz criterion",
+          "steps": [
+            "For “Stability and Routh-Hurwitz criterion”, define the system boundary and reference directions, record known quantities with SI units, write the governing relationship, solve before rounding, and check the result dimensionally. Compare the ideal-model answer with practical limits such as losses, tolerances, stability, or protection requirements where relevant.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "eng-control-301-stability-and-routh-hurwitz-criterion-q1",
+          "type": "mcq",
+          "prompt": "Which check is most useful after solving an engineering problem on Stability and Routh-Hurwitz criterion?",
+          "options": [
+            "Check units, assumptions, and whether the result is physically plausible",
+            "Round every value before substituting",
+            "Ignore reference directions",
+            "Accept any numerical output from a calculator"
+          ],
+          "answerIndex": 0,
+          "explanation": "Dimensional and physical checks catch many modelling and arithmetic errors."
+        },
+        {
+          "id": "eng-control-301-stability-and-routh-hurwitz-criterion-q2",
+          "type": "short-answer",
+          "prompt": "Explain Stability and Routh-Hurwitz criterion in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Stability and Routh-Hurwitz criterion accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "eng-control-301-stability-and-routh-hurwitz-criterion-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Stability and Routh-Hurwitz criterion. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "root-locus-and-frequency-response",
+      "title": "Root locus and frequency response",
+      "description": "Root locus and frequency response: a structured set of explanations, method, worked application, and critical checks for Control Systems.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Root locus and frequency response accurately.",
+        "Apply the central ideas in Root locus and frequency response to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Root locus and frequency response in Control Systems",
+          "paragraphs": [
+            "Root locus and frequency response is studied here as a specific part of Control Systems. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Engineering analysis begins with a defined system boundary, idealisations, units, and conservation laws. State whether quantities are steady-state or transient, ideal or measured, and whether losses or uncertainty are included. Check that equations are dimensionally consistent and that the result respects physical constraints.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Draw the system or circuit, label directions and reference values, write governing equations before substituting numbers, solve systematically, and validate using units, limiting cases, or an independent check.",
+            "Apply that method directly to “Root locus and frequency response”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Control Systems; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For a resistor under the passive sign convention, Ohm’s law gives V=IR. A 2 kΩ resistor carrying 3 mA has V=(2000 Ω)(0.003 A)=6 V. Converting kΩ and mA before multiplication prevents a factor-of-one-thousand error.",
+            "Now adapt the example to the topic “Root locus and frequency response”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Root locus and frequency response include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Boundary condition",
+          "definition": "A constraint specified at the edge of a model or domain."
+        },
+        {
+          "term": "Steady state",
+          "definition": "A condition in which the relevant system variables no longer change with time."
+        },
+        {
+          "term": "Dimensional analysis",
+          "definition": "Checking relationships through physical units."
+        },
+        {
+          "term": "Root locus and frequency response",
+          "definition": "The specific concept or method examined in this topic within Control Systems; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Root locus and frequency response",
+          "steps": [
+            "For “Root locus and frequency response”, define the system boundary and reference directions, record known quantities with SI units, write the governing relationship, solve before rounding, and check the result dimensionally. Compare the ideal-model answer with practical limits such as losses, tolerances, stability, or protection requirements where relevant.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "eng-control-301-root-locus-and-frequency-response-q1",
+          "type": "mcq",
+          "prompt": "Which check is most useful after solving an engineering problem on Root locus and frequency response?",
+          "options": [
+            "Check units, assumptions, and whether the result is physically plausible",
+            "Round every value before substituting",
+            "Ignore reference directions",
+            "Accept any numerical output from a calculator"
+          ],
+          "answerIndex": 0,
+          "explanation": "Dimensional and physical checks catch many modelling and arithmetic errors."
+        },
+        {
+          "id": "eng-control-301-root-locus-and-frequency-response-q2",
+          "type": "short-answer",
+          "prompt": "Explain Root locus and frequency response in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Root locus and frequency response accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "eng-control-301-root-locus-and-frequency-response-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Root locus and frequency response. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "pid-control-and-design-trade-offs",
+      "title": "PID control and design trade-offs",
+      "description": "PID control and design trade-offs: a structured set of explanations, method, worked application, and critical checks for Control Systems.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain PID control and design trade-offs accurately.",
+        "Apply the central ideas in PID control and design trade-offs to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "PID control and design trade-offs in Control Systems",
+          "paragraphs": [
+            "PID control and design trade-offs is studied here as a specific part of Control Systems. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Engineering analysis begins with a defined system boundary, idealisations, units, and conservation laws. State whether quantities are steady-state or transient, ideal or measured, and whether losses or uncertainty are included. Check that equations are dimensionally consistent and that the result respects physical constraints.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Draw the system or circuit, label directions and reference values, write governing equations before substituting numbers, solve systematically, and validate using units, limiting cases, or an independent check.",
+            "Apply that method directly to “PID control and design trade-offs”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Control Systems; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For a resistor under the passive sign convention, Ohm’s law gives V=IR. A 2 kΩ resistor carrying 3 mA has V=(2000 Ω)(0.003 A)=6 V. Converting kΩ and mA before multiplication prevents a factor-of-one-thousand error.",
+            "Now adapt the example to the topic “PID control and design trade-offs”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying PID control and design trade-offs include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Boundary condition",
+          "definition": "A constraint specified at the edge of a model or domain."
+        },
+        {
+          "term": "Steady state",
+          "definition": "A condition in which the relevant system variables no longer change with time."
+        },
+        {
+          "term": "Dimensional analysis",
+          "definition": "Checking relationships through physical units."
+        },
+        {
+          "term": "PID control and design trade-offs",
+          "definition": "The specific concept or method examined in this topic within Control Systems; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: PID control and design trade-offs",
+          "steps": [
+            "For “PID control and design trade-offs”, define the system boundary and reference directions, record known quantities with SI units, write the governing relationship, solve before rounding, and check the result dimensionally. Compare the ideal-model answer with practical limits such as losses, tolerances, stability, or protection requirements where relevant.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "eng-control-301-pid-control-and-design-trade-offs-q1",
+          "type": "mcq",
+          "prompt": "Which check is most useful after solving an engineering problem on PID control and design trade-offs?",
+          "options": [
+            "Check units, assumptions, and whether the result is physically plausible",
+            "Round every value before substituting",
+            "Ignore reference directions",
+            "Accept any numerical output from a calculator"
+          ],
+          "answerIndex": 0,
+          "explanation": "Dimensional and physical checks catch many modelling and arithmetic errors."
+        },
+        {
+          "id": "eng-control-301-pid-control-and-design-trade-offs-q2",
+          "type": "short-answer",
+          "prompt": "Explain PID control and design trade-offs in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines PID control and design trade-offs accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "eng-control-301-pid-control-and-design-trade-offs-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about PID control and design trade-offs. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ],
+  "contentNotice": "Original instructional draft. Course title/code is illustrative and must be checked against the student’s current departmental course outline. Not an authentic past paper.",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "All questions in this lesson are original practice questions unless a separate verified source record explicitly says otherwise."
+  }
+}

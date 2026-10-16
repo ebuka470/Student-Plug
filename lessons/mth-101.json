@@ -1,0 +1,332 @@
+{
+  "courseId": "mth-101",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "topics": [
+    {
+      "id": "functions-and-relations",
+      "title": "Functions and relations",
+      "description": "Functions and relations: a structured set of explanations, method, worked application, and critical checks for Elementary Mathematics I.",
+      "estimatedMinutes": 20,
+      "difficulty": "introductory",
+      "learningObjectives": [
+        "Define and explain Functions and relations accurately.",
+        "Apply the central ideas in Functions and relations to a structured course problem.",
+        "Check a solution to Functions and relations for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Functions and relations in Elementary Mathematics I",
+          "paragraphs": [
+            "Functions and relations is studied here as a specific part of Elementary Mathematics I. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Mathematical work begins by stating definitions and assumptions, then choosing a valid rule and showing each transformation. Keep equality signs for equivalent expressions; use implication symbols only when one statement follows from another. Check domain restrictions before dividing by a variable or applying an inverse operation.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At introductory level, establish accurate definitions first, then explain the relationship between concepts and practise a worked example. Be able to explain the idea in your own words rather than memorising a phrase."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Write the known values, the quantity required, the governing formula, substitution, simplification, and a final statement with units where relevant. Verify the result by substitution or an independent estimate.",
+            "Apply that method directly to “Functions and relations”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Elementary Mathematics I; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For a linear equation 3x + 5 = 20, subtract 5 from both sides to obtain 3x = 15, then divide both sides by 3 to obtain x = 5. Substitution gives 3(5)+5=20, so the solution satisfies the original equation.",
+            "Now adapt the example to the topic “Functions and relations”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Functions and relations include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Domain",
+          "definition": "The set of permitted input values for a function or expression."
+        },
+        {
+          "term": "Identity",
+          "definition": "An equality true for every value in the stated domain."
+        },
+        {
+          "term": "Verification",
+          "definition": "Checking a result using the original condition or an independent method."
+        },
+        {
+          "term": "Functions and relations",
+          "definition": "The specific concept or method examined in this topic within Elementary Mathematics I; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Functions and relations",
+          "steps": [
+            "For “Functions and relations”, define the concept, explain how its components relate, apply it to a concrete case, and state one assumption or limitation. Use evidence and explicit reasoning rather than relying on a memorised definition alone.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "mth-101-functions-and-relations-q1",
+          "type": "mcq",
+          "prompt": "Which approach best demonstrates understanding of Functions and relations?",
+          "options": [
+            "Accurate definition, reasoned application, and a justified limitation",
+            "A memorised phrase with no application",
+            "An unsupported opinion",
+            "A list of unrelated terms"
+          ],
+          "answerIndex": 0,
+          "explanation": "Strong academic work links the definition to a justified application and acknowledges limits where relevant."
+        },
+        {
+          "id": "mth-101-functions-and-relations-q2",
+          "type": "short-answer",
+          "prompt": "Explain Functions and relations in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Functions and relations accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "mth-101-functions-and-relations-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Functions and relations. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "linear-equations",
+      "title": "Linear equations",
+      "description": "Linear equations: a structured set of explanations, method, worked application, and critical checks for Elementary Mathematics I.",
+      "estimatedMinutes": 20,
+      "difficulty": "introductory",
+      "learningObjectives": [
+        "Define and explain Linear equations accurately.",
+        "Apply the central ideas in Linear equations to a structured course problem.",
+        "Check a solution to Linear equations for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Linear equations in Elementary Mathematics I",
+          "paragraphs": [
+            "Linear equations is studied here as a specific part of Elementary Mathematics I. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Mathematical work begins by stating definitions and assumptions, then choosing a valid rule and showing each transformation. Keep equality signs for equivalent expressions; use implication symbols only when one statement follows from another. Check domain restrictions before dividing by a variable or applying an inverse operation.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At introductory level, establish accurate definitions first, then explain the relationship between concepts and practise a worked example. Be able to explain the idea in your own words rather than memorising a phrase."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Write the known values, the quantity required, the governing formula, substitution, simplification, and a final statement with units where relevant. Verify the result by substitution or an independent estimate.",
+            "Apply that method directly to “Linear equations”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Elementary Mathematics I; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For a linear equation 3x + 5 = 20, subtract 5 from both sides to obtain 3x = 15, then divide both sides by 3 to obtain x = 5. Substitution gives 3(5)+5=20, so the solution satisfies the original equation.",
+            "Now adapt the example to the topic “Linear equations”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Linear equations include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Domain",
+          "definition": "The set of permitted input values for a function or expression."
+        },
+        {
+          "term": "Identity",
+          "definition": "An equality true for every value in the stated domain."
+        },
+        {
+          "term": "Verification",
+          "definition": "Checking a result using the original condition or an independent method."
+        },
+        {
+          "term": "Linear equations",
+          "definition": "The specific concept or method examined in this topic within Elementary Mathematics I; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Linear equations",
+          "steps": [
+            "For “Linear equations”, define the concept, explain how its components relate, apply it to a concrete case, and state one assumption or limitation. Use evidence and explicit reasoning rather than relying on a memorised definition alone.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "mth-101-linear-equations-q1",
+          "type": "mcq",
+          "prompt": "Which approach best demonstrates understanding of Linear equations?",
+          "options": [
+            "Accurate definition, reasoned application, and a justified limitation",
+            "A memorised phrase with no application",
+            "An unsupported opinion",
+            "A list of unrelated terms"
+          ],
+          "answerIndex": 0,
+          "explanation": "Strong academic work links the definition to a justified application and acknowledges limits where relevant."
+        },
+        {
+          "id": "mth-101-linear-equations-q2",
+          "type": "short-answer",
+          "prompt": "Explain Linear equations in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Linear equations accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "mth-101-linear-equations-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Linear equations. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "indices-and-scientific-notation",
+      "title": "Indices and scientific notation",
+      "description": "Indices and scientific notation: a structured set of explanations, method, worked application, and critical checks for Elementary Mathematics I.",
+      "estimatedMinutes": 20,
+      "difficulty": "introductory",
+      "learningObjectives": [
+        "Define and explain Indices and scientific notation accurately.",
+        "Apply the central ideas in Indices and scientific notation to a structured course problem.",
+        "Check a solution to Indices and scientific notation for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Indices and scientific notation in Elementary Mathematics I",
+          "paragraphs": [
+            "Indices and scientific notation is studied here as a specific part of Elementary Mathematics I. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Mathematical work begins by stating definitions and assumptions, then choosing a valid rule and showing each transformation. Keep equality signs for equivalent expressions; use implication symbols only when one statement follows from another. Check domain restrictions before dividing by a variable or applying an inverse operation.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At introductory level, establish accurate definitions first, then explain the relationship between concepts and practise a worked example. Be able to explain the idea in your own words rather than memorising a phrase."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Write the known values, the quantity required, the governing formula, substitution, simplification, and a final statement with units where relevant. Verify the result by substitution or an independent estimate.",
+            "Apply that method directly to “Indices and scientific notation”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Elementary Mathematics I; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For a linear equation 3x + 5 = 20, subtract 5 from both sides to obtain 3x = 15, then divide both sides by 3 to obtain x = 5. Substitution gives 3(5)+5=20, so the solution satisfies the original equation.",
+            "Now adapt the example to the topic “Indices and scientific notation”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Indices and scientific notation include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Domain",
+          "definition": "The set of permitted input values for a function or expression."
+        },
+        {
+          "term": "Identity",
+          "definition": "An equality true for every value in the stated domain."
+        },
+        {
+          "term": "Verification",
+          "definition": "Checking a result using the original condition or an independent method."
+        },
+        {
+          "term": "Indices and scientific notation",
+          "definition": "The specific concept or method examined in this topic within Elementary Mathematics I; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Indices and scientific notation",
+          "steps": [
+            "For “Indices and scientific notation”, define the concept, explain how its components relate, apply it to a concrete case, and state one assumption or limitation. Use evidence and explicit reasoning rather than relying on a memorised definition alone.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "mth-101-indices-and-scientific-notation-q1",
+          "type": "mcq",
+          "prompt": "Which approach best demonstrates understanding of Indices and scientific notation?",
+          "options": [
+            "Accurate definition, reasoned application, and a justified limitation",
+            "A memorised phrase with no application",
+            "An unsupported opinion",
+            "A list of unrelated terms"
+          ],
+          "answerIndex": 0,
+          "explanation": "Strong academic work links the definition to a justified application and acknowledges limits where relevant."
+        },
+        {
+          "id": "mth-101-indices-and-scientific-notation-q2",
+          "type": "short-answer",
+          "prompt": "Explain Indices and scientific notation in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Indices and scientific notation accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "mth-101-indices-and-scientific-notation-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Indices and scientific notation. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ],
+  "levelFit": "100-level undergraduate learning depth",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "All questions in this lesson are original practice questions unless a separate verified source record explicitly says otherwise."
+  }
+}

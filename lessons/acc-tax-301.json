@@ -1,0 +1,544 @@
+{
+  "courseId": "acc-tax-301",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "300-level undergraduate learning depth",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "Original practice questions; no verified past papers included."
+  },
+  "topics": [
+    {
+      "id": "tax-systems-and-statutory-interpretation",
+      "title": "Tax systems and statutory interpretation",
+      "description": "Tax systems and statutory interpretation: a structured set of explanations, method, worked application, and critical checks for Taxation Principles and Practice.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Tax systems and statutory interpretation accurately.",
+        "Apply the central ideas in Tax systems and statutory interpretation to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Tax systems and statutory interpretation in Taxation Principles and Practice",
+          "paragraphs": [
+            "Tax systems and statutory interpretation is studied here as a specific part of Taxation Principles and Practice. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Accounting records and communicates financial effects of transactions. The accounting equation is Assets = Liabilities + Equity. Double-entry recording means each transaction affects at least two accounts so total debits equal total credits; this arithmetic equality does not, by itself, prove that every transaction is correct or complete.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the transaction, accounts affected, account classification, increase or decrease, and debit/credit treatment. Post entries to the ledger, balance accounts, prepare a trial balance, and then consider adjustments before producing financial statements.",
+            "Apply that method directly to “Tax systems and statutory interpretation”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Taxation Principles and Practice; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If a business owner contributes ₦100,000 cash, cash (an asset) increases by ₦100,000 and owner’s capital (equity) increases by ₦100,000. The equation remains balanced: assets rise by the same amount as equity.",
+            "Now adapt the example to the topic “Tax systems and statutory interpretation”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Tax systems and statutory interpretation include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Asset",
+          "definition": "A resource controlled by an entity as a result of past events."
+        },
+        {
+          "term": "Liability",
+          "definition": "A present obligation arising from past events."
+        },
+        {
+          "term": "Accrual basis",
+          "definition": "Recognising transactions when the relevant economic events occur, rather than only when cash moves."
+        },
+        {
+          "term": "Tax systems and statutory interpretation",
+          "definition": "The specific concept or method examined in this topic within Taxation Principles and Practice; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Tax systems and statutory interpretation",
+          "steps": [
+            "In an accounting case about “Tax systems and statutory interpretation”, identify the reporting period, the relevant accounts or disclosure, the applicable recognition/measurement principle, and the evidence supporting the treatment. Then explain the effect on profit, assets, liabilities, equity, or cash flow as appropriate.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "acc-tax-301-tax-systems-and-statutory-interpretation-q1",
+          "type": "mcq",
+          "prompt": "Which approach is strongest when answering a question on Tax systems and statutory interpretation?",
+          "options": [
+            "Identify the relevant accounting treatment, support it with facts, and explain the financial-statement effect",
+            "Choose a treatment solely because it improves profit",
+            "Ignore the reporting period",
+            "Record every transaction as cash revenue"
+          ],
+          "answerIndex": 0,
+          "explanation": "Accounting treatments should follow the applicable principles and evidence, not the desired result."
+        },
+        {
+          "id": "acc-tax-301-tax-systems-and-statutory-interpretation-q2",
+          "type": "short-answer",
+          "prompt": "Explain Tax systems and statutory interpretation in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Tax systems and statutory interpretation accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "acc-tax-301-tax-systems-and-statutory-interpretation-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Tax systems and statutory interpretation. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "taxable-income-and-allowable-deductions",
+      "title": "Taxable income and allowable deductions",
+      "description": "Taxable income and allowable deductions: a structured set of explanations, method, worked application, and critical checks for Taxation Principles and Practice.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Taxable income and allowable deductions accurately.",
+        "Apply the central ideas in Taxable income and allowable deductions to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Taxable income and allowable deductions in Taxation Principles and Practice",
+          "paragraphs": [
+            "Taxable income and allowable deductions is studied here as a specific part of Taxation Principles and Practice. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Accounting records and communicates financial effects of transactions. The accounting equation is Assets = Liabilities + Equity. Double-entry recording means each transaction affects at least two accounts so total debits equal total credits; this arithmetic equality does not, by itself, prove that every transaction is correct or complete.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the transaction, accounts affected, account classification, increase or decrease, and debit/credit treatment. Post entries to the ledger, balance accounts, prepare a trial balance, and then consider adjustments before producing financial statements.",
+            "Apply that method directly to “Taxable income and allowable deductions”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Taxation Principles and Practice; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If a business owner contributes ₦100,000 cash, cash (an asset) increases by ₦100,000 and owner’s capital (equity) increases by ₦100,000. The equation remains balanced: assets rise by the same amount as equity.",
+            "Now adapt the example to the topic “Taxable income and allowable deductions”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Taxable income and allowable deductions include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Asset",
+          "definition": "A resource controlled by an entity as a result of past events."
+        },
+        {
+          "term": "Liability",
+          "definition": "A present obligation arising from past events."
+        },
+        {
+          "term": "Accrual basis",
+          "definition": "Recognising transactions when the relevant economic events occur, rather than only when cash moves."
+        },
+        {
+          "term": "Taxable income and allowable deductions",
+          "definition": "The specific concept or method examined in this topic within Taxation Principles and Practice; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Taxable income and allowable deductions",
+          "steps": [
+            "In an accounting case about “Taxable income and allowable deductions”, identify the reporting period, the relevant accounts or disclosure, the applicable recognition/measurement principle, and the evidence supporting the treatment. Then explain the effect on profit, assets, liabilities, equity, or cash flow as appropriate.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "acc-tax-301-taxable-income-and-allowable-deductions-q1",
+          "type": "mcq",
+          "prompt": "Which approach is strongest when answering a question on Taxable income and allowable deductions?",
+          "options": [
+            "Identify the relevant accounting treatment, support it with facts, and explain the financial-statement effect",
+            "Choose a treatment solely because it improves profit",
+            "Ignore the reporting period",
+            "Record every transaction as cash revenue"
+          ],
+          "answerIndex": 0,
+          "explanation": "Accounting treatments should follow the applicable principles and evidence, not the desired result."
+        },
+        {
+          "id": "acc-tax-301-taxable-income-and-allowable-deductions-q2",
+          "type": "short-answer",
+          "prompt": "Explain Taxable income and allowable deductions in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Taxable income and allowable deductions accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "acc-tax-301-taxable-income-and-allowable-deductions-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Taxable income and allowable deductions. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "tax-administration-and-compliance",
+      "title": "Tax administration and compliance",
+      "description": "Tax administration and compliance: a structured set of explanations, method, worked application, and critical checks for Taxation Principles and Practice.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Tax administration and compliance accurately.",
+        "Apply the central ideas in Tax administration and compliance to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Tax administration and compliance in Taxation Principles and Practice",
+          "paragraphs": [
+            "Tax administration and compliance is studied here as a specific part of Taxation Principles and Practice. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Accounting records and communicates financial effects of transactions. The accounting equation is Assets = Liabilities + Equity. Double-entry recording means each transaction affects at least two accounts so total debits equal total credits; this arithmetic equality does not, by itself, prove that every transaction is correct or complete.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the transaction, accounts affected, account classification, increase or decrease, and debit/credit treatment. Post entries to the ledger, balance accounts, prepare a trial balance, and then consider adjustments before producing financial statements.",
+            "Apply that method directly to “Tax administration and compliance”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Taxation Principles and Practice; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If a business owner contributes ₦100,000 cash, cash (an asset) increases by ₦100,000 and owner’s capital (equity) increases by ₦100,000. The equation remains balanced: assets rise by the same amount as equity.",
+            "Now adapt the example to the topic “Tax administration and compliance”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Tax administration and compliance include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Asset",
+          "definition": "A resource controlled by an entity as a result of past events."
+        },
+        {
+          "term": "Liability",
+          "definition": "A present obligation arising from past events."
+        },
+        {
+          "term": "Accrual basis",
+          "definition": "Recognising transactions when the relevant economic events occur, rather than only when cash moves."
+        },
+        {
+          "term": "Tax administration and compliance",
+          "definition": "The specific concept or method examined in this topic within Taxation Principles and Practice; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Tax administration and compliance",
+          "steps": [
+            "In an accounting case about “Tax administration and compliance”, identify the reporting period, the relevant accounts or disclosure, the applicable recognition/measurement principle, and the evidence supporting the treatment. Then explain the effect on profit, assets, liabilities, equity, or cash flow as appropriate.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "acc-tax-301-tax-administration-and-compliance-q1",
+          "type": "mcq",
+          "prompt": "Which approach is strongest when answering a question on Tax administration and compliance?",
+          "options": [
+            "Identify the relevant accounting treatment, support it with facts, and explain the financial-statement effect",
+            "Choose a treatment solely because it improves profit",
+            "Ignore the reporting period",
+            "Record every transaction as cash revenue"
+          ],
+          "answerIndex": 0,
+          "explanation": "Accounting treatments should follow the applicable principles and evidence, not the desired result."
+        },
+        {
+          "id": "acc-tax-301-tax-administration-and-compliance-q2",
+          "type": "short-answer",
+          "prompt": "Explain Tax administration and compliance in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Tax administration and compliance accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "acc-tax-301-tax-administration-and-compliance-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Tax administration and compliance. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "indirect-taxes-and-business-transactions",
+      "title": "Indirect taxes and business transactions",
+      "description": "Indirect taxes and business transactions: a structured set of explanations, method, worked application, and critical checks for Taxation Principles and Practice.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Indirect taxes and business transactions accurately.",
+        "Apply the central ideas in Indirect taxes and business transactions to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Indirect taxes and business transactions in Taxation Principles and Practice",
+          "paragraphs": [
+            "Indirect taxes and business transactions is studied here as a specific part of Taxation Principles and Practice. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Accounting records and communicates financial effects of transactions. The accounting equation is Assets = Liabilities + Equity. Double-entry recording means each transaction affects at least two accounts so total debits equal total credits; this arithmetic equality does not, by itself, prove that every transaction is correct or complete.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the transaction, accounts affected, account classification, increase or decrease, and debit/credit treatment. Post entries to the ledger, balance accounts, prepare a trial balance, and then consider adjustments before producing financial statements.",
+            "Apply that method directly to “Indirect taxes and business transactions”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Taxation Principles and Practice; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If a business owner contributes ₦100,000 cash, cash (an asset) increases by ₦100,000 and owner’s capital (equity) increases by ₦100,000. The equation remains balanced: assets rise by the same amount as equity.",
+            "Now adapt the example to the topic “Indirect taxes and business transactions”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Indirect taxes and business transactions include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Asset",
+          "definition": "A resource controlled by an entity as a result of past events."
+        },
+        {
+          "term": "Liability",
+          "definition": "A present obligation arising from past events."
+        },
+        {
+          "term": "Accrual basis",
+          "definition": "Recognising transactions when the relevant economic events occur, rather than only when cash moves."
+        },
+        {
+          "term": "Indirect taxes and business transactions",
+          "definition": "The specific concept or method examined in this topic within Taxation Principles and Practice; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Indirect taxes and business transactions",
+          "steps": [
+            "In an accounting case about “Indirect taxes and business transactions”, identify the reporting period, the relevant accounts or disclosure, the applicable recognition/measurement principle, and the evidence supporting the treatment. Then explain the effect on profit, assets, liabilities, equity, or cash flow as appropriate.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "acc-tax-301-indirect-taxes-and-business-transactions-q1",
+          "type": "mcq",
+          "prompt": "Which approach is strongest when answering a question on Indirect taxes and business transactions?",
+          "options": [
+            "Identify the relevant accounting treatment, support it with facts, and explain the financial-statement effect",
+            "Choose a treatment solely because it improves profit",
+            "Ignore the reporting period",
+            "Record every transaction as cash revenue"
+          ],
+          "answerIndex": 0,
+          "explanation": "Accounting treatments should follow the applicable principles and evidence, not the desired result."
+        },
+        {
+          "id": "acc-tax-301-indirect-taxes-and-business-transactions-q2",
+          "type": "short-answer",
+          "prompt": "Explain Indirect taxes and business transactions in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Indirect taxes and business transactions accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "acc-tax-301-indirect-taxes-and-business-transactions-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Indirect taxes and business transactions. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "tax-planning-ethics-and-documentation",
+      "title": "Tax planning, ethics, and documentation",
+      "description": "Tax planning, ethics, and documentation: a structured set of explanations, method, worked application, and critical checks for Taxation Principles and Practice.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Tax planning, ethics, and documentation accurately.",
+        "Apply the central ideas in Tax planning, ethics, and documentation to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Tax planning, ethics, and documentation in Taxation Principles and Practice",
+          "paragraphs": [
+            "Tax planning, ethics, and documentation is studied here as a specific part of Taxation Principles and Practice. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Accounting records and communicates financial effects of transactions. The accounting equation is Assets = Liabilities + Equity. Double-entry recording means each transaction affects at least two accounts so total debits equal total credits; this arithmetic equality does not, by itself, prove that every transaction is correct or complete.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the transaction, accounts affected, account classification, increase or decrease, and debit/credit treatment. Post entries to the ledger, balance accounts, prepare a trial balance, and then consider adjustments before producing financial statements.",
+            "Apply that method directly to “Tax planning, ethics, and documentation”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Taxation Principles and Practice; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If a business owner contributes ₦100,000 cash, cash (an asset) increases by ₦100,000 and owner’s capital (equity) increases by ₦100,000. The equation remains balanced: assets rise by the same amount as equity.",
+            "Now adapt the example to the topic “Tax planning, ethics, and documentation”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Tax planning, ethics, and documentation include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Asset",
+          "definition": "A resource controlled by an entity as a result of past events."
+        },
+        {
+          "term": "Liability",
+          "definition": "A present obligation arising from past events."
+        },
+        {
+          "term": "Accrual basis",
+          "definition": "Recognising transactions when the relevant economic events occur, rather than only when cash moves."
+        },
+        {
+          "term": "Tax planning, ethics, and documentation",
+          "definition": "The specific concept or method examined in this topic within Taxation Principles and Practice; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Tax planning, ethics, and documentation",
+          "steps": [
+            "In an accounting case about “Tax planning, ethics, and documentation”, identify the reporting period, the relevant accounts or disclosure, the applicable recognition/measurement principle, and the evidence supporting the treatment. Then explain the effect on profit, assets, liabilities, equity, or cash flow as appropriate.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "acc-tax-301-tax-planning-ethics-and-documentation-q1",
+          "type": "mcq",
+          "prompt": "Which approach is strongest when answering a question on Tax planning, ethics, and documentation?",
+          "options": [
+            "Identify the relevant accounting treatment, support it with facts, and explain the financial-statement effect",
+            "Choose a treatment solely because it improves profit",
+            "Ignore the reporting period",
+            "Record every transaction as cash revenue"
+          ],
+          "answerIndex": 0,
+          "explanation": "Accounting treatments should follow the applicable principles and evidence, not the desired result."
+        },
+        {
+          "id": "acc-tax-301-tax-planning-ethics-and-documentation-q2",
+          "type": "short-answer",
+          "prompt": "Explain Tax planning, ethics, and documentation in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Tax planning, ethics, and documentation accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "acc-tax-301-tax-planning-ethics-and-documentation-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Tax planning, ethics, and documentation. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ]
+}

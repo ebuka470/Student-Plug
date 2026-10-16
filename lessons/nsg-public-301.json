@@ -1,0 +1,544 @@
+{
+  "courseId": "nsg-public-301",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "300-level undergraduate learning depth",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "Original practice questions; no verified past papers included."
+  },
+  "topics": [
+    {
+      "id": "population-health-and-determinants",
+      "title": "Population health and determinants",
+      "description": "Population health and determinants: a structured set of explanations, method, worked application, and critical checks for Public Health and Community Assessment.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Population health and determinants accurately.",
+        "Apply the central ideas in Population health and determinants to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Population health and determinants in Public Health and Community Assessment",
+          "paragraphs": [
+            "Population health and determinants is studied here as a specific part of Public Health and Community Assessment. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Nursing practice combines evidence, clinical judgement, communication, patient preferences, and local protocols. Educational notes do not replace supervised clinical instruction or a facility’s current procedures. Prioritise patient identification, consent, infection prevention, privacy, documentation, escalation, and scope of practice.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Use a structured assessment: collect relevant cues, identify immediate risks, prioritise concerns, plan a measurable goal, carry out authorised interventions, and evaluate the response. Document facts objectively and escalate deterioration promptly according to the clinical setting’s protocol.",
+            "Apply that method directly to “Population health and determinants”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Public Health and Community Assessment; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "During a handover, communicate the patient’s identity using approved identifiers, current concern, relevant background, observations, actions already taken, and the next action required. Invite clarification and confirm responsibility for follow-up rather than relying on an ambiguous verbal message.",
+            "Now adapt the example to the topic “Population health and determinants”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Population health and determinants include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Evidence-based practice",
+          "definition": "Integrating best available evidence, professional expertise, and patient values."
+        },
+        {
+          "term": "Handover",
+          "definition": "Transfer of relevant information and responsibility between care providers."
+        },
+        {
+          "term": "Clinical escalation",
+          "definition": "Seeking timely review when a patient’s condition or risk requires a higher level of response."
+        },
+        {
+          "term": "Population health and determinants",
+          "definition": "The specific concept or method examined in this topic within Public Health and Community Assessment; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Population health and determinants",
+          "steps": [
+            "In a learning case involving “Population health and determinants”, describe the relevant assessment cues, immediate safety considerations, authorised action, communication/documentation needs, and how the outcome would be evaluated. Use current institutional guidance and supervised clinical instruction for actual care decisions.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "nsg-public-301-population-health-and-determinants-q1",
+          "type": "mcq",
+          "prompt": "Which response is most appropriate when applying Population health and determinants in a clinical learning scenario?",
+          "options": [
+            "Follow current protocol, document objectively, and escalate concerns within scope",
+            "Rely on memory when a protocol is available",
+            "Share identifiable patient details in a public forum",
+            "Perform any intervention without checking authorisation"
+          ],
+          "answerIndex": 0,
+          "explanation": "Safe practice depends on current protocols, scope, confidentiality, and escalation."
+        },
+        {
+          "id": "nsg-public-301-population-health-and-determinants-q2",
+          "type": "short-answer",
+          "prompt": "Explain Population health and determinants in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Population health and determinants accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "nsg-public-301-population-health-and-determinants-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Population health and determinants. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "community-assessment-and-prioritisation",
+      "title": "Community assessment and prioritisation",
+      "description": "Community assessment and prioritisation: a structured set of explanations, method, worked application, and critical checks for Public Health and Community Assessment.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Community assessment and prioritisation accurately.",
+        "Apply the central ideas in Community assessment and prioritisation to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Community assessment and prioritisation in Public Health and Community Assessment",
+          "paragraphs": [
+            "Community assessment and prioritisation is studied here as a specific part of Public Health and Community Assessment. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Nursing practice combines evidence, clinical judgement, communication, patient preferences, and local protocols. Educational notes do not replace supervised clinical instruction or a facility’s current procedures. Prioritise patient identification, consent, infection prevention, privacy, documentation, escalation, and scope of practice.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Use a structured assessment: collect relevant cues, identify immediate risks, prioritise concerns, plan a measurable goal, carry out authorised interventions, and evaluate the response. Document facts objectively and escalate deterioration promptly according to the clinical setting’s protocol.",
+            "Apply that method directly to “Community assessment and prioritisation”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Public Health and Community Assessment; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "During a handover, communicate the patient’s identity using approved identifiers, current concern, relevant background, observations, actions already taken, and the next action required. Invite clarification and confirm responsibility for follow-up rather than relying on an ambiguous verbal message.",
+            "Now adapt the example to the topic “Community assessment and prioritisation”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Community assessment and prioritisation include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Evidence-based practice",
+          "definition": "Integrating best available evidence, professional expertise, and patient values."
+        },
+        {
+          "term": "Handover",
+          "definition": "Transfer of relevant information and responsibility between care providers."
+        },
+        {
+          "term": "Clinical escalation",
+          "definition": "Seeking timely review when a patient’s condition or risk requires a higher level of response."
+        },
+        {
+          "term": "Community assessment and prioritisation",
+          "definition": "The specific concept or method examined in this topic within Public Health and Community Assessment; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Community assessment and prioritisation",
+          "steps": [
+            "In a learning case involving “Community assessment and prioritisation”, describe the relevant assessment cues, immediate safety considerations, authorised action, communication/documentation needs, and how the outcome would be evaluated. Use current institutional guidance and supervised clinical instruction for actual care decisions.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "nsg-public-301-community-assessment-and-prioritisation-q1",
+          "type": "mcq",
+          "prompt": "Which response is most appropriate when applying Community assessment and prioritisation in a clinical learning scenario?",
+          "options": [
+            "Follow current protocol, document objectively, and escalate concerns within scope",
+            "Rely on memory when a protocol is available",
+            "Share identifiable patient details in a public forum",
+            "Perform any intervention without checking authorisation"
+          ],
+          "answerIndex": 0,
+          "explanation": "Safe practice depends on current protocols, scope, confidentiality, and escalation."
+        },
+        {
+          "id": "nsg-public-301-community-assessment-and-prioritisation-q2",
+          "type": "short-answer",
+          "prompt": "Explain Community assessment and prioritisation in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Community assessment and prioritisation accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "nsg-public-301-community-assessment-and-prioritisation-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Community assessment and prioritisation. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "screening-and-prevention-principles",
+      "title": "Screening and prevention principles",
+      "description": "Screening and prevention principles: a structured set of explanations, method, worked application, and critical checks for Public Health and Community Assessment.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Screening and prevention principles accurately.",
+        "Apply the central ideas in Screening and prevention principles to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Screening and prevention principles in Public Health and Community Assessment",
+          "paragraphs": [
+            "Screening and prevention principles is studied here as a specific part of Public Health and Community Assessment. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Nursing practice combines evidence, clinical judgement, communication, patient preferences, and local protocols. Educational notes do not replace supervised clinical instruction or a facility’s current procedures. Prioritise patient identification, consent, infection prevention, privacy, documentation, escalation, and scope of practice.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Use a structured assessment: collect relevant cues, identify immediate risks, prioritise concerns, plan a measurable goal, carry out authorised interventions, and evaluate the response. Document facts objectively and escalate deterioration promptly according to the clinical setting’s protocol.",
+            "Apply that method directly to “Screening and prevention principles”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Public Health and Community Assessment; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "During a handover, communicate the patient’s identity using approved identifiers, current concern, relevant background, observations, actions already taken, and the next action required. Invite clarification and confirm responsibility for follow-up rather than relying on an ambiguous verbal message.",
+            "Now adapt the example to the topic “Screening and prevention principles”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Screening and prevention principles include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Evidence-based practice",
+          "definition": "Integrating best available evidence, professional expertise, and patient values."
+        },
+        {
+          "term": "Handover",
+          "definition": "Transfer of relevant information and responsibility between care providers."
+        },
+        {
+          "term": "Clinical escalation",
+          "definition": "Seeking timely review when a patient’s condition or risk requires a higher level of response."
+        },
+        {
+          "term": "Screening and prevention principles",
+          "definition": "The specific concept or method examined in this topic within Public Health and Community Assessment; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Screening and prevention principles",
+          "steps": [
+            "In a learning case involving “Screening and prevention principles”, describe the relevant assessment cues, immediate safety considerations, authorised action, communication/documentation needs, and how the outcome would be evaluated. Use current institutional guidance and supervised clinical instruction for actual care decisions.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "nsg-public-301-screening-and-prevention-principles-q1",
+          "type": "mcq",
+          "prompt": "Which response is most appropriate when applying Screening and prevention principles in a clinical learning scenario?",
+          "options": [
+            "Follow current protocol, document objectively, and escalate concerns within scope",
+            "Rely on memory when a protocol is available",
+            "Share identifiable patient details in a public forum",
+            "Perform any intervention without checking authorisation"
+          ],
+          "answerIndex": 0,
+          "explanation": "Safe practice depends on current protocols, scope, confidentiality, and escalation."
+        },
+        {
+          "id": "nsg-public-301-screening-and-prevention-principles-q2",
+          "type": "short-answer",
+          "prompt": "Explain Screening and prevention principles in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Screening and prevention principles accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "nsg-public-301-screening-and-prevention-principles-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Screening and prevention principles. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "health-promotion-planning",
+      "title": "Health promotion planning",
+      "description": "Health promotion planning: a structured set of explanations, method, worked application, and critical checks for Public Health and Community Assessment.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Health promotion planning accurately.",
+        "Apply the central ideas in Health promotion planning to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Health promotion planning in Public Health and Community Assessment",
+          "paragraphs": [
+            "Health promotion planning is studied here as a specific part of Public Health and Community Assessment. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Nursing practice combines evidence, clinical judgement, communication, patient preferences, and local protocols. Educational notes do not replace supervised clinical instruction or a facility’s current procedures. Prioritise patient identification, consent, infection prevention, privacy, documentation, escalation, and scope of practice.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Use a structured assessment: collect relevant cues, identify immediate risks, prioritise concerns, plan a measurable goal, carry out authorised interventions, and evaluate the response. Document facts objectively and escalate deterioration promptly according to the clinical setting’s protocol.",
+            "Apply that method directly to “Health promotion planning”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Public Health and Community Assessment; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "During a handover, communicate the patient’s identity using approved identifiers, current concern, relevant background, observations, actions already taken, and the next action required. Invite clarification and confirm responsibility for follow-up rather than relying on an ambiguous verbal message.",
+            "Now adapt the example to the topic “Health promotion planning”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Health promotion planning include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Evidence-based practice",
+          "definition": "Integrating best available evidence, professional expertise, and patient values."
+        },
+        {
+          "term": "Handover",
+          "definition": "Transfer of relevant information and responsibility between care providers."
+        },
+        {
+          "term": "Clinical escalation",
+          "definition": "Seeking timely review when a patient’s condition or risk requires a higher level of response."
+        },
+        {
+          "term": "Health promotion planning",
+          "definition": "The specific concept or method examined in this topic within Public Health and Community Assessment; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Health promotion planning",
+          "steps": [
+            "In a learning case involving “Health promotion planning”, describe the relevant assessment cues, immediate safety considerations, authorised action, communication/documentation needs, and how the outcome would be evaluated. Use current institutional guidance and supervised clinical instruction for actual care decisions.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "nsg-public-301-health-promotion-planning-q1",
+          "type": "mcq",
+          "prompt": "Which response is most appropriate when applying Health promotion planning in a clinical learning scenario?",
+          "options": [
+            "Follow current protocol, document objectively, and escalate concerns within scope",
+            "Rely on memory when a protocol is available",
+            "Share identifiable patient details in a public forum",
+            "Perform any intervention without checking authorisation"
+          ],
+          "answerIndex": 0,
+          "explanation": "Safe practice depends on current protocols, scope, confidentiality, and escalation."
+        },
+        {
+          "id": "nsg-public-301-health-promotion-planning-q2",
+          "type": "short-answer",
+          "prompt": "Explain Health promotion planning in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Health promotion planning accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "nsg-public-301-health-promotion-planning-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Health promotion planning. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "evaluating-community-interventions",
+      "title": "Evaluating community interventions",
+      "description": "Evaluating community interventions: a structured set of explanations, method, worked application, and critical checks for Public Health and Community Assessment.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Evaluating community interventions accurately.",
+        "Apply the central ideas in Evaluating community interventions to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Evaluating community interventions in Public Health and Community Assessment",
+          "paragraphs": [
+            "Evaluating community interventions is studied here as a specific part of Public Health and Community Assessment. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Nursing practice combines evidence, clinical judgement, communication, patient preferences, and local protocols. Educational notes do not replace supervised clinical instruction or a facility’s current procedures. Prioritise patient identification, consent, infection prevention, privacy, documentation, escalation, and scope of practice.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, move beyond definition: apply the method to data or a case, explain assumptions, interpret results, and identify at least one limitation or alternative explanation."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Use a structured assessment: collect relevant cues, identify immediate risks, prioritise concerns, plan a measurable goal, carry out authorised interventions, and evaluate the response. Document facts objectively and escalate deterioration promptly according to the clinical setting’s protocol.",
+            "Apply that method directly to “Evaluating community interventions”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Public Health and Community Assessment; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "During a handover, communicate the patient’s identity using approved identifiers, current concern, relevant background, observations, actions already taken, and the next action required. Invite clarification and confirm responsibility for follow-up rather than relying on an ambiguous verbal message.",
+            "Now adapt the example to the topic “Evaluating community interventions”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Evaluating community interventions include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Evidence-based practice",
+          "definition": "Integrating best available evidence, professional expertise, and patient values."
+        },
+        {
+          "term": "Handover",
+          "definition": "Transfer of relevant information and responsibility between care providers."
+        },
+        {
+          "term": "Clinical escalation",
+          "definition": "Seeking timely review when a patient’s condition or risk requires a higher level of response."
+        },
+        {
+          "term": "Evaluating community interventions",
+          "definition": "The specific concept or method examined in this topic within Public Health and Community Assessment; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Evaluating community interventions",
+          "steps": [
+            "In a learning case involving “Evaluating community interventions”, describe the relevant assessment cues, immediate safety considerations, authorised action, communication/documentation needs, and how the outcome would be evaluated. Use current institutional guidance and supervised clinical instruction for actual care decisions.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "nsg-public-301-evaluating-community-interventions-q1",
+          "type": "mcq",
+          "prompt": "Which response is most appropriate when applying Evaluating community interventions in a clinical learning scenario?",
+          "options": [
+            "Follow current protocol, document objectively, and escalate concerns within scope",
+            "Rely on memory when a protocol is available",
+            "Share identifiable patient details in a public forum",
+            "Perform any intervention without checking authorisation"
+          ],
+          "answerIndex": 0,
+          "explanation": "Safe practice depends on current protocols, scope, confidentiality, and escalation."
+        },
+        {
+          "id": "nsg-public-301-evaluating-community-interventions-q2",
+          "type": "short-answer",
+          "prompt": "Explain Evaluating community interventions in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Evaluating community interventions accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "nsg-public-301-evaluating-community-interventions-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Evaluating community interventions. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ]
+}

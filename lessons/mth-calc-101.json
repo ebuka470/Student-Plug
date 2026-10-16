@@ -1,0 +1,544 @@
+{
+  "courseId": "mth-calc-101",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "100-level undergraduate learning depth",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "Original practice questions; no verified past papers included."
+  },
+  "topics": [
+    {
+      "id": "functions-limits-and-continuity",
+      "title": "Functions, limits, and continuity",
+      "description": "Functions, limits, and continuity: a structured set of explanations, method, worked application, and critical checks for Calculus I: Limits and Differentiation.",
+      "estimatedMinutes": 20,
+      "difficulty": "introductory",
+      "learningObjectives": [
+        "Define and explain Functions, limits, and continuity accurately.",
+        "Apply the central ideas in Functions, limits, and continuity to a structured course problem.",
+        "Check a solution to Functions, limits, and continuity for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Functions, limits, and continuity in Calculus I: Limits and Differentiation",
+          "paragraphs": [
+            "Functions, limits, and continuity is studied here as a specific part of Calculus I: Limits and Differentiation. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Mathematical work begins by stating definitions and assumptions, then choosing a valid rule and showing each transformation. Keep equality signs for equivalent expressions; use implication symbols only when one statement follows from another. Check domain restrictions before dividing by a variable or applying an inverse operation.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At introductory level, establish accurate definitions first, then explain the relationship between concepts and practise a worked example. Be able to explain the idea in your own words rather than memorising a phrase."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Write the known values, the quantity required, the governing formula, substitution, simplification, and a final statement with units where relevant. Verify the result by substitution or an independent estimate.",
+            "Apply that method directly to “Functions, limits, and continuity”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Calculus I: Limits and Differentiation; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For a linear equation 3x + 5 = 20, subtract 5 from both sides to obtain 3x = 15, then divide both sides by 3 to obtain x = 5. Substitution gives 3(5)+5=20, so the solution satisfies the original equation.",
+            "Now adapt the example to the topic “Functions, limits, and continuity”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Functions, limits, and continuity include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Domain",
+          "definition": "The set of permitted input values for a function or expression."
+        },
+        {
+          "term": "Identity",
+          "definition": "An equality true for every value in the stated domain."
+        },
+        {
+          "term": "Verification",
+          "definition": "Checking a result using the original condition or an independent method."
+        },
+        {
+          "term": "Functions, limits, and continuity",
+          "definition": "The specific concept or method examined in this topic within Calculus I: Limits and Differentiation; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Functions, limits, and continuity",
+          "steps": [
+            "A function assigns each permitted input exactly one output. A limit describes the value approached near a point and can exist even when the function is undefined at that point. Continuity at x=a requires the function value to exist, the limit to exist, and the limit to equal the function value.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "mth-calc-101-functions-limits-and-continuity-q1",
+          "type": "mcq",
+          "prompt": "Which condition is required for continuity at x=a?",
+          "options": [
+            "The limit as x approaches a equals f(a), with both defined",
+            "The graph must be a straight line everywhere",
+            "The derivative must be infinite",
+            "The function must be periodic"
+          ],
+          "answerIndex": 0,
+          "explanation": "Continuity requires a defined function value and matching two-sided limit at the point."
+        },
+        {
+          "id": "mth-calc-101-functions-limits-and-continuity-q2",
+          "type": "short-answer",
+          "prompt": "Explain Functions, limits, and continuity in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Functions, limits, and continuity accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "mth-calc-101-functions-limits-and-continuity-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Functions, limits, and continuity. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "derivative-from-first-principles",
+      "title": "Derivative from first principles",
+      "description": "Derivative from first principles: a structured set of explanations, method, worked application, and critical checks for Calculus I: Limits and Differentiation.",
+      "estimatedMinutes": 20,
+      "difficulty": "introductory",
+      "learningObjectives": [
+        "Define and explain Derivative from first principles accurately.",
+        "Apply the central ideas in Derivative from first principles to a structured course problem.",
+        "Check a solution to Derivative from first principles for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Derivative from first principles in Calculus I: Limits and Differentiation",
+          "paragraphs": [
+            "Derivative from first principles is studied here as a specific part of Calculus I: Limits and Differentiation. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Mathematical work begins by stating definitions and assumptions, then choosing a valid rule and showing each transformation. Keep equality signs for equivalent expressions; use implication symbols only when one statement follows from another. Check domain restrictions before dividing by a variable or applying an inverse operation.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At introductory level, establish accurate definitions first, then explain the relationship between concepts and practise a worked example. Be able to explain the idea in your own words rather than memorising a phrase."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Write the known values, the quantity required, the governing formula, substitution, simplification, and a final statement with units where relevant. Verify the result by substitution or an independent estimate.",
+            "Apply that method directly to “Derivative from first principles”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Calculus I: Limits and Differentiation; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For a linear equation 3x + 5 = 20, subtract 5 from both sides to obtain 3x = 15, then divide both sides by 3 to obtain x = 5. Substitution gives 3(5)+5=20, so the solution satisfies the original equation.",
+            "Now adapt the example to the topic “Derivative from first principles”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Derivative from first principles include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Domain",
+          "definition": "The set of permitted input values for a function or expression."
+        },
+        {
+          "term": "Identity",
+          "definition": "An equality true for every value in the stated domain."
+        },
+        {
+          "term": "Verification",
+          "definition": "Checking a result using the original condition or an independent method."
+        },
+        {
+          "term": "Derivative from first principles",
+          "definition": "The specific concept or method examined in this topic within Calculus I: Limits and Differentiation; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Derivative from first principles",
+          "steps": [
+            "The derivative at a point is the limiting rate of change, often interpreted as the slope of the tangent where the derivative exists. The first-principles definition is lim(h→0)[f(x+h)−f(x)]/h. Differentiation rules are efficient consequences of this definition and require attention to domains and differentiability.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "mth-calc-101-derivative-from-first-principles-q1",
+          "type": "mcq",
+          "prompt": "For f(x)=x², what is f′(x)?",
+          "options": [
+            "2x",
+            "x",
+            "x²/2",
+            "2"
+          ],
+          "answerIndex": 0,
+          "explanation": "Using the power rule, d(x²)/dx=2x."
+        },
+        {
+          "id": "mth-calc-101-derivative-from-first-principles-q2",
+          "type": "short-answer",
+          "prompt": "Explain Derivative from first principles in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Derivative from first principles accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "mth-calc-101-derivative-from-first-principles-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Derivative from first principles. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "differentiation-rules-and-composite-functions",
+      "title": "Differentiation rules and composite functions",
+      "description": "Differentiation rules and composite functions: a structured set of explanations, method, worked application, and critical checks for Calculus I: Limits and Differentiation.",
+      "estimatedMinutes": 20,
+      "difficulty": "introductory",
+      "learningObjectives": [
+        "Define and explain Differentiation rules and composite functions accurately.",
+        "Apply the central ideas in Differentiation rules and composite functions to a structured course problem.",
+        "Check a solution to Differentiation rules and composite functions for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Differentiation rules and composite functions in Calculus I: Limits and Differentiation",
+          "paragraphs": [
+            "Differentiation rules and composite functions is studied here as a specific part of Calculus I: Limits and Differentiation. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Mathematical work begins by stating definitions and assumptions, then choosing a valid rule and showing each transformation. Keep equality signs for equivalent expressions; use implication symbols only when one statement follows from another. Check domain restrictions before dividing by a variable or applying an inverse operation.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At introductory level, establish accurate definitions first, then explain the relationship between concepts and practise a worked example. Be able to explain the idea in your own words rather than memorising a phrase."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Write the known values, the quantity required, the governing formula, substitution, simplification, and a final statement with units where relevant. Verify the result by substitution or an independent estimate.",
+            "Apply that method directly to “Differentiation rules and composite functions”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Calculus I: Limits and Differentiation; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For a linear equation 3x + 5 = 20, subtract 5 from both sides to obtain 3x = 15, then divide both sides by 3 to obtain x = 5. Substitution gives 3(5)+5=20, so the solution satisfies the original equation.",
+            "Now adapt the example to the topic “Differentiation rules and composite functions”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Differentiation rules and composite functions include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Domain",
+          "definition": "The set of permitted input values for a function or expression."
+        },
+        {
+          "term": "Identity",
+          "definition": "An equality true for every value in the stated domain."
+        },
+        {
+          "term": "Verification",
+          "definition": "Checking a result using the original condition or an independent method."
+        },
+        {
+          "term": "Differentiation rules and composite functions",
+          "definition": "The specific concept or method examined in this topic within Calculus I: Limits and Differentiation; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Differentiation rules and composite functions",
+          "steps": [
+            "For “Differentiation rules and composite functions”, define the concept, explain how its components relate, apply it to a concrete case, and state one assumption or limitation. Use evidence and explicit reasoning rather than relying on a memorised definition alone.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "mth-calc-101-differentiation-rules-and-composite-functions-q1",
+          "type": "mcq",
+          "prompt": "Which approach best demonstrates understanding of Differentiation rules and composite functions?",
+          "options": [
+            "Accurate definition, reasoned application, and a justified limitation",
+            "A memorised phrase with no application",
+            "An unsupported opinion",
+            "A list of unrelated terms"
+          ],
+          "answerIndex": 0,
+          "explanation": "Strong academic work links the definition to a justified application and acknowledges limits where relevant."
+        },
+        {
+          "id": "mth-calc-101-differentiation-rules-and-composite-functions-q2",
+          "type": "short-answer",
+          "prompt": "Explain Differentiation rules and composite functions in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Differentiation rules and composite functions accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "mth-calc-101-differentiation-rules-and-composite-functions-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Differentiation rules and composite functions. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "applications-of-derivatives",
+      "title": "Applications of derivatives",
+      "description": "Applications of derivatives: a structured set of explanations, method, worked application, and critical checks for Calculus I: Limits and Differentiation.",
+      "estimatedMinutes": 20,
+      "difficulty": "introductory",
+      "learningObjectives": [
+        "Define and explain Applications of derivatives accurately.",
+        "Apply the central ideas in Applications of derivatives to a structured course problem.",
+        "Check a solution to Applications of derivatives for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Applications of derivatives in Calculus I: Limits and Differentiation",
+          "paragraphs": [
+            "Applications of derivatives is studied here as a specific part of Calculus I: Limits and Differentiation. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Mathematical work begins by stating definitions and assumptions, then choosing a valid rule and showing each transformation. Keep equality signs for equivalent expressions; use implication symbols only when one statement follows from another. Check domain restrictions before dividing by a variable or applying an inverse operation.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At introductory level, establish accurate definitions first, then explain the relationship between concepts and practise a worked example. Be able to explain the idea in your own words rather than memorising a phrase."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Write the known values, the quantity required, the governing formula, substitution, simplification, and a final statement with units where relevant. Verify the result by substitution or an independent estimate.",
+            "Apply that method directly to “Applications of derivatives”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Calculus I: Limits and Differentiation; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For a linear equation 3x + 5 = 20, subtract 5 from both sides to obtain 3x = 15, then divide both sides by 3 to obtain x = 5. Substitution gives 3(5)+5=20, so the solution satisfies the original equation.",
+            "Now adapt the example to the topic “Applications of derivatives”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Applications of derivatives include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Domain",
+          "definition": "The set of permitted input values for a function or expression."
+        },
+        {
+          "term": "Identity",
+          "definition": "An equality true for every value in the stated domain."
+        },
+        {
+          "term": "Verification",
+          "definition": "Checking a result using the original condition or an independent method."
+        },
+        {
+          "term": "Applications of derivatives",
+          "definition": "The specific concept or method examined in this topic within Calculus I: Limits and Differentiation; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Applications of derivatives",
+          "steps": [
+            "The derivative at a point is the limiting rate of change, often interpreted as the slope of the tangent where the derivative exists. The first-principles definition is lim(h→0)[f(x+h)−f(x)]/h. Differentiation rules are efficient consequences of this definition and require attention to domains and differentiability.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "mth-calc-101-applications-of-derivatives-q1",
+          "type": "mcq",
+          "prompt": "For f(x)=x², what is f′(x)?",
+          "options": [
+            "2x",
+            "x",
+            "x²/2",
+            "2"
+          ],
+          "answerIndex": 0,
+          "explanation": "Using the power rule, d(x²)/dx=2x."
+        },
+        {
+          "id": "mth-calc-101-applications-of-derivatives-q2",
+          "type": "short-answer",
+          "prompt": "Explain Applications of derivatives in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Applications of derivatives accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "mth-calc-101-applications-of-derivatives-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Applications of derivatives. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "curve-sketching-and-optimisation",
+      "title": "Curve sketching and optimisation",
+      "description": "Curve sketching and optimisation: a structured set of explanations, method, worked application, and critical checks for Calculus I: Limits and Differentiation.",
+      "estimatedMinutes": 20,
+      "difficulty": "introductory",
+      "learningObjectives": [
+        "Define and explain Curve sketching and optimisation accurately.",
+        "Apply the central ideas in Curve sketching and optimisation to a structured course problem.",
+        "Check a solution to Curve sketching and optimisation for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Curve sketching and optimisation in Calculus I: Limits and Differentiation",
+          "paragraphs": [
+            "Curve sketching and optimisation is studied here as a specific part of Calculus I: Limits and Differentiation. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Mathematical work begins by stating definitions and assumptions, then choosing a valid rule and showing each transformation. Keep equality signs for equivalent expressions; use implication symbols only when one statement follows from another. Check domain restrictions before dividing by a variable or applying an inverse operation.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At introductory level, establish accurate definitions first, then explain the relationship between concepts and practise a worked example. Be able to explain the idea in your own words rather than memorising a phrase."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Write the known values, the quantity required, the governing formula, substitution, simplification, and a final statement with units where relevant. Verify the result by substitution or an independent estimate.",
+            "Apply that method directly to “Curve sketching and optimisation”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Calculus I: Limits and Differentiation; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For a linear equation 3x + 5 = 20, subtract 5 from both sides to obtain 3x = 15, then divide both sides by 3 to obtain x = 5. Substitution gives 3(5)+5=20, so the solution satisfies the original equation.",
+            "Now adapt the example to the topic “Curve sketching and optimisation”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Curve sketching and optimisation include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Domain",
+          "definition": "The set of permitted input values for a function or expression."
+        },
+        {
+          "term": "Identity",
+          "definition": "An equality true for every value in the stated domain."
+        },
+        {
+          "term": "Verification",
+          "definition": "Checking a result using the original condition or an independent method."
+        },
+        {
+          "term": "Curve sketching and optimisation",
+          "definition": "The specific concept or method examined in this topic within Calculus I: Limits and Differentiation; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Curve sketching and optimisation",
+          "steps": [
+            "For “Curve sketching and optimisation”, define the concept, explain how its components relate, apply it to a concrete case, and state one assumption or limitation. Use evidence and explicit reasoning rather than relying on a memorised definition alone.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "mth-calc-101-curve-sketching-and-optimisation-q1",
+          "type": "mcq",
+          "prompt": "Which approach best demonstrates understanding of Curve sketching and optimisation?",
+          "options": [
+            "Accurate definition, reasoned application, and a justified limitation",
+            "A memorised phrase with no application",
+            "An unsupported opinion",
+            "A list of unrelated terms"
+          ],
+          "answerIndex": 0,
+          "explanation": "Strong academic work links the definition to a justified application and acknowledges limits where relevant."
+        },
+        {
+          "id": "mth-calc-101-curve-sketching-and-optimisation-q2",
+          "type": "short-answer",
+          "prompt": "Explain Curve sketching and optimisation in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Curve sketching and optimisation accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "mth-calc-101-curve-sketching-and-optimisation-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Curve sketching and optimisation. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ]
+}

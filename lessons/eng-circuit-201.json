@@ -1,0 +1,545 @@
+{
+  "courseId": "eng-circuit-201",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "200-level undergraduate learning depth",
+  "topics": [
+    {
+      "id": "kirchhoff-laws-and-network-reduction",
+      "title": "Kirchhoff laws and network reduction",
+      "description": "Kirchhoff laws and network reduction: a structured set of explanations, method, worked application, and critical checks for Circuit Theory.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Kirchhoff laws and network reduction accurately.",
+        "Apply the central ideas in Kirchhoff laws and network reduction to a structured course problem.",
+        "Check a solution to Kirchhoff laws and network reduction for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Kirchhoff laws and network reduction in Circuit Theory",
+          "paragraphs": [
+            "Kirchhoff laws and network reduction is studied here as a specific part of Circuit Theory. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Engineering analysis begins with a defined system boundary, idealisations, units, and conservation laws. State whether quantities are steady-state or transient, ideal or measured, and whether losses or uncertainty are included. Check that equations are dimensionally consistent and that the result respects physical constraints.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Draw the system or circuit, label directions and reference values, write governing equations before substituting numbers, solve systematically, and validate using units, limiting cases, or an independent check.",
+            "Apply that method directly to “Kirchhoff laws and network reduction”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Circuit Theory; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For a resistor under the passive sign convention, Ohm’s law gives V=IR. A 2 kΩ resistor carrying 3 mA has V=(2000 Ω)(0.003 A)=6 V. Converting kΩ and mA before multiplication prevents a factor-of-one-thousand error.",
+            "Now adapt the example to the topic “Kirchhoff laws and network reduction”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Kirchhoff laws and network reduction include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Boundary condition",
+          "definition": "A constraint specified at the edge of a model or domain."
+        },
+        {
+          "term": "Steady state",
+          "definition": "A condition in which the relevant system variables no longer change with time."
+        },
+        {
+          "term": "Dimensional analysis",
+          "definition": "Checking relationships through physical units."
+        },
+        {
+          "term": "Kirchhoff laws and network reduction",
+          "definition": "The specific concept or method examined in this topic within Circuit Theory; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Kirchhoff laws and network reduction",
+          "steps": [
+            "Kirchhoff’s Current Law follows conservation of charge: algebraic current entering a node equals current leaving it. Kirchhoff’s Voltage Law follows energy conservation around a lumped circuit loop: the algebraic sum of voltage rises and drops is zero. Define current and voltage reference directions consistently before writing equations.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "eng-circuit-201-kirchhoff-laws-and-network-reduction-q1",
+          "type": "mcq",
+          "prompt": "At a node, 4 A enters and two branches carry 1.5 A and 0.8 A away. What current must leave through the third branch?",
+          "options": [
+            "1.7 A",
+            "6.3 A",
+            "2.3 A",
+            "0.8 A"
+          ],
+          "answerIndex": 0,
+          "explanation": "Total leaving must equal 4 A, so the third branch carries 4−1.5−0.8=1.7 A away."
+        },
+        {
+          "id": "eng-circuit-201-kirchhoff-laws-and-network-reduction-q2",
+          "type": "short-answer",
+          "prompt": "Explain Kirchhoff laws and network reduction in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Kirchhoff laws and network reduction accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "eng-circuit-201-kirchhoff-laws-and-network-reduction-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Kirchhoff laws and network reduction. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "nodal-and-mesh-analysis",
+      "title": "Nodal and mesh analysis",
+      "description": "Nodal and mesh analysis: a structured set of explanations, method, worked application, and critical checks for Circuit Theory.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Nodal and mesh analysis accurately.",
+        "Apply the central ideas in Nodal and mesh analysis to a structured course problem.",
+        "Check a solution to Nodal and mesh analysis for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Nodal and mesh analysis in Circuit Theory",
+          "paragraphs": [
+            "Nodal and mesh analysis is studied here as a specific part of Circuit Theory. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Engineering analysis begins with a defined system boundary, idealisations, units, and conservation laws. State whether quantities are steady-state or transient, ideal or measured, and whether losses or uncertainty are included. Check that equations are dimensionally consistent and that the result respects physical constraints.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Draw the system or circuit, label directions and reference values, write governing equations before substituting numbers, solve systematically, and validate using units, limiting cases, or an independent check.",
+            "Apply that method directly to “Nodal and mesh analysis”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Circuit Theory; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For a resistor under the passive sign convention, Ohm’s law gives V=IR. A 2 kΩ resistor carrying 3 mA has V=(2000 Ω)(0.003 A)=6 V. Converting kΩ and mA before multiplication prevents a factor-of-one-thousand error.",
+            "Now adapt the example to the topic “Nodal and mesh analysis”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Nodal and mesh analysis include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Boundary condition",
+          "definition": "A constraint specified at the edge of a model or domain."
+        },
+        {
+          "term": "Steady state",
+          "definition": "A condition in which the relevant system variables no longer change with time."
+        },
+        {
+          "term": "Dimensional analysis",
+          "definition": "Checking relationships through physical units."
+        },
+        {
+          "term": "Nodal and mesh analysis",
+          "definition": "The specific concept or method examined in this topic within Circuit Theory; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Nodal and mesh analysis",
+          "steps": [
+            "For “Nodal and mesh analysis”, define the system boundary and reference directions, record known quantities with SI units, write the governing relationship, solve before rounding, and check the result dimensionally. Compare the ideal-model answer with practical limits such as losses, tolerances, stability, or protection requirements where relevant.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "eng-circuit-201-nodal-and-mesh-analysis-q1",
+          "type": "mcq",
+          "prompt": "Which check is most useful after solving an engineering problem on Nodal and mesh analysis?",
+          "options": [
+            "Check units, assumptions, and whether the result is physically plausible",
+            "Round every value before substituting",
+            "Ignore reference directions",
+            "Accept any numerical output from a calculator"
+          ],
+          "answerIndex": 0,
+          "explanation": "Dimensional and physical checks catch many modelling and arithmetic errors."
+        },
+        {
+          "id": "eng-circuit-201-nodal-and-mesh-analysis-q2",
+          "type": "short-answer",
+          "prompt": "Explain Nodal and mesh analysis in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Nodal and mesh analysis accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "eng-circuit-201-nodal-and-mesh-analysis-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Nodal and mesh analysis. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "thevenin-and-norton-equivalents",
+      "title": "Thevenin and Norton equivalents",
+      "description": "Thevenin and Norton equivalents: a structured set of explanations, method, worked application, and critical checks for Circuit Theory.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Thevenin and Norton equivalents accurately.",
+        "Apply the central ideas in Thevenin and Norton equivalents to a structured course problem.",
+        "Check a solution to Thevenin and Norton equivalents for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Thevenin and Norton equivalents in Circuit Theory",
+          "paragraphs": [
+            "Thevenin and Norton equivalents is studied here as a specific part of Circuit Theory. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Engineering analysis begins with a defined system boundary, idealisations, units, and conservation laws. State whether quantities are steady-state or transient, ideal or measured, and whether losses or uncertainty are included. Check that equations are dimensionally consistent and that the result respects physical constraints.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Draw the system or circuit, label directions and reference values, write governing equations before substituting numbers, solve systematically, and validate using units, limiting cases, or an independent check.",
+            "Apply that method directly to “Thevenin and Norton equivalents”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Circuit Theory; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For a resistor under the passive sign convention, Ohm’s law gives V=IR. A 2 kΩ resistor carrying 3 mA has V=(2000 Ω)(0.003 A)=6 V. Converting kΩ and mA before multiplication prevents a factor-of-one-thousand error.",
+            "Now adapt the example to the topic “Thevenin and Norton equivalents”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Thevenin and Norton equivalents include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Boundary condition",
+          "definition": "A constraint specified at the edge of a model or domain."
+        },
+        {
+          "term": "Steady state",
+          "definition": "A condition in which the relevant system variables no longer change with time."
+        },
+        {
+          "term": "Dimensional analysis",
+          "definition": "Checking relationships through physical units."
+        },
+        {
+          "term": "Thevenin and Norton equivalents",
+          "definition": "The specific concept or method examined in this topic within Circuit Theory; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Thevenin and Norton equivalents",
+          "steps": [
+            "For “Thevenin and Norton equivalents”, define the system boundary and reference directions, record known quantities with SI units, write the governing relationship, solve before rounding, and check the result dimensionally. Compare the ideal-model answer with practical limits such as losses, tolerances, stability, or protection requirements where relevant.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "eng-circuit-201-thevenin-and-norton-equivalents-q1",
+          "type": "mcq",
+          "prompt": "Which check is most useful after solving an engineering problem on Thevenin and Norton equivalents?",
+          "options": [
+            "Check units, assumptions, and whether the result is physically plausible",
+            "Round every value before substituting",
+            "Ignore reference directions",
+            "Accept any numerical output from a calculator"
+          ],
+          "answerIndex": 0,
+          "explanation": "Dimensional and physical checks catch many modelling and arithmetic errors."
+        },
+        {
+          "id": "eng-circuit-201-thevenin-and-norton-equivalents-q2",
+          "type": "short-answer",
+          "prompt": "Explain Thevenin and Norton equivalents in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Thevenin and Norton equivalents accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "eng-circuit-201-thevenin-and-norton-equivalents-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Thevenin and Norton equivalents. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "sinusoidal-steady-state-analysis",
+      "title": "Sinusoidal steady-state analysis",
+      "description": "Sinusoidal steady-state analysis: a structured set of explanations, method, worked application, and critical checks for Circuit Theory.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Sinusoidal steady-state analysis accurately.",
+        "Apply the central ideas in Sinusoidal steady-state analysis to a structured course problem.",
+        "Check a solution to Sinusoidal steady-state analysis for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Sinusoidal steady-state analysis in Circuit Theory",
+          "paragraphs": [
+            "Sinusoidal steady-state analysis is studied here as a specific part of Circuit Theory. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Engineering analysis begins with a defined system boundary, idealisations, units, and conservation laws. State whether quantities are steady-state or transient, ideal or measured, and whether losses or uncertainty are included. Check that equations are dimensionally consistent and that the result respects physical constraints.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Draw the system or circuit, label directions and reference values, write governing equations before substituting numbers, solve systematically, and validate using units, limiting cases, or an independent check.",
+            "Apply that method directly to “Sinusoidal steady-state analysis”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Circuit Theory; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For a resistor under the passive sign convention, Ohm’s law gives V=IR. A 2 kΩ resistor carrying 3 mA has V=(2000 Ω)(0.003 A)=6 V. Converting kΩ and mA before multiplication prevents a factor-of-one-thousand error.",
+            "Now adapt the example to the topic “Sinusoidal steady-state analysis”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Sinusoidal steady-state analysis include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Boundary condition",
+          "definition": "A constraint specified at the edge of a model or domain."
+        },
+        {
+          "term": "Steady state",
+          "definition": "A condition in which the relevant system variables no longer change with time."
+        },
+        {
+          "term": "Dimensional analysis",
+          "definition": "Checking relationships through physical units."
+        },
+        {
+          "term": "Sinusoidal steady-state analysis",
+          "definition": "The specific concept or method examined in this topic within Circuit Theory; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Sinusoidal steady-state analysis",
+          "steps": [
+            "For “Sinusoidal steady-state analysis”, define the system boundary and reference directions, record known quantities with SI units, write the governing relationship, solve before rounding, and check the result dimensionally. Compare the ideal-model answer with practical limits such as losses, tolerances, stability, or protection requirements where relevant.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "eng-circuit-201-sinusoidal-steady-state-analysis-q1",
+          "type": "mcq",
+          "prompt": "Which check is most useful after solving an engineering problem on Sinusoidal steady-state analysis?",
+          "options": [
+            "Check units, assumptions, and whether the result is physically plausible",
+            "Round every value before substituting",
+            "Ignore reference directions",
+            "Accept any numerical output from a calculator"
+          ],
+          "answerIndex": 0,
+          "explanation": "Dimensional and physical checks catch many modelling and arithmetic errors."
+        },
+        {
+          "id": "eng-circuit-201-sinusoidal-steady-state-analysis-q2",
+          "type": "short-answer",
+          "prompt": "Explain Sinusoidal steady-state analysis in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Sinusoidal steady-state analysis accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "eng-circuit-201-sinusoidal-steady-state-analysis-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Sinusoidal steady-state analysis. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "power-and-resonance",
+      "title": "Power and resonance",
+      "description": "Power and resonance: a structured set of explanations, method, worked application, and critical checks for Circuit Theory.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Power and resonance accurately.",
+        "Apply the central ideas in Power and resonance to a structured course problem.",
+        "Check a solution to Power and resonance for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Power and resonance in Circuit Theory",
+          "paragraphs": [
+            "Power and resonance is studied here as a specific part of Circuit Theory. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Engineering analysis begins with a defined system boundary, idealisations, units, and conservation laws. State whether quantities are steady-state or transient, ideal or measured, and whether losses or uncertainty are included. Check that equations are dimensionally consistent and that the result respects physical constraints.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Draw the system or circuit, label directions and reference values, write governing equations before substituting numbers, solve systematically, and validate using units, limiting cases, or an independent check.",
+            "Apply that method directly to “Power and resonance”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Circuit Theory; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "For a resistor under the passive sign convention, Ohm’s law gives V=IR. A 2 kΩ resistor carrying 3 mA has V=(2000 Ω)(0.003 A)=6 V. Converting kΩ and mA before multiplication prevents a factor-of-one-thousand error.",
+            "Now adapt the example to the topic “Power and resonance”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Power and resonance include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Boundary condition",
+          "definition": "A constraint specified at the edge of a model or domain."
+        },
+        {
+          "term": "Steady state",
+          "definition": "A condition in which the relevant system variables no longer change with time."
+        },
+        {
+          "term": "Dimensional analysis",
+          "definition": "Checking relationships through physical units."
+        },
+        {
+          "term": "Power and resonance",
+          "definition": "The specific concept or method examined in this topic within Circuit Theory; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Power and resonance",
+          "steps": [
+            "For “Power and resonance”, define the system boundary and reference directions, record known quantities with SI units, write the governing relationship, solve before rounding, and check the result dimensionally. Compare the ideal-model answer with practical limits such as losses, tolerances, stability, or protection requirements where relevant.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "eng-circuit-201-power-and-resonance-q1",
+          "type": "mcq",
+          "prompt": "Which check is most useful after solving an engineering problem on Power and resonance?",
+          "options": [
+            "Check units, assumptions, and whether the result is physically plausible",
+            "Round every value before substituting",
+            "Ignore reference directions",
+            "Accept any numerical output from a calculator"
+          ],
+          "answerIndex": 0,
+          "explanation": "Dimensional and physical checks catch many modelling and arithmetic errors."
+        },
+        {
+          "id": "eng-circuit-201-power-and-resonance-q2",
+          "type": "short-answer",
+          "prompt": "Explain Power and resonance in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Power and resonance accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "eng-circuit-201-power-and-resonance-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Power and resonance. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ],
+  "contentNotice": "Original instructional draft. Course title/code is illustrative and must be checked against the student’s current departmental course outline. Not an authentic past paper.",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "All questions in this lesson are original practice questions unless a separate verified source record explicitly says otherwise."
+  }
+}

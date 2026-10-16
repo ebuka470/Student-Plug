@@ -1,0 +1,544 @@
+{
+  "courseId": "bio-gen-201",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "200-level undergraduate learning depth",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "Original practice questions; no verified past papers included."
+  },
+  "topics": [
+    {
+      "id": "dna-structure-and-replication",
+      "title": "DNA structure and replication",
+      "description": "DNA structure and replication: a structured set of explanations, method, worked application, and critical checks for Genetics and Molecular Biology.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain DNA structure and replication accurately.",
+        "Apply the central ideas in DNA structure and replication to a structured course problem.",
+        "Check a solution to DNA structure and replication for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "DNA structure and replication in Genetics and Molecular Biology",
+          "paragraphs": [
+            "DNA structure and replication is studied here as a specific part of Genetics and Molecular Biology. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Biology explains living systems across levels of organisation, from molecules and cells to organisms, populations, communities, and ecosystems. Strong explanations connect structure to function and distinguish observations from inferences. A proposed biological mechanism should be consistent with evidence and acknowledge variation among organisms.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the biological level being discussed, define the process, describe its sequence, connect each step to the outcome, and use an example. For comparisons, use the same criteria for both organisms or processes.",
+            "Apply that method directly to “DNA structure and replication”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Genetics and Molecular Biology; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A cell membrane is selectively permeable: some substances cross more readily than others. Small non-polar molecules can diffuse through the lipid bilayer, while ions generally require channels or transport proteins. The direction of net diffusion depends on the relevant concentration or electrochemical gradient.",
+            "Now adapt the example to the topic “DNA structure and replication”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying DNA structure and replication include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Homeostasis",
+          "definition": "Regulation that maintains internal conditions within a viable range."
+        },
+        {
+          "term": "Diffusion",
+          "definition": "Net movement down a concentration gradient due to random molecular motion."
+        },
+        {
+          "term": "Ecosystem",
+          "definition": "Organisms interacting with one another and with their physical environment."
+        },
+        {
+          "term": "DNA structure and replication",
+          "definition": "The specific concept or method examined in this topic within Genetics and Molecular Biology; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: DNA structure and replication",
+          "steps": [
+            "For “DNA structure and replication”, connect structure to function and explain the process in sequence. Identify the biological level, the relevant variables or conditions, and what evidence would support the explanation. Distinguish a well-supported mechanism from a simplified model.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "bio-gen-201-dna-structure-and-replication-q1",
+          "type": "mcq",
+          "prompt": "Which answer best demonstrates understanding of DNA structure and replication?",
+          "options": [
+            "A mechanism explained step by step with structure, function, and relevant conditions",
+            "A definition without any biological relationship",
+            "A claim that ignores variation and conditions",
+            "A list of terms without a process"
+          ],
+          "answerIndex": 0,
+          "explanation": "Biological explanations connect mechanism, structure, function, and evidence."
+        },
+        {
+          "id": "bio-gen-201-dna-structure-and-replication-q2",
+          "type": "short-answer",
+          "prompt": "Explain DNA structure and replication in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines DNA structure and replication accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "bio-gen-201-dna-structure-and-replication-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about DNA structure and replication. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "gene-expression-and-protein-synthesis",
+      "title": "Gene expression and protein synthesis",
+      "description": "Gene expression and protein synthesis: a structured set of explanations, method, worked application, and critical checks for Genetics and Molecular Biology.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Gene expression and protein synthesis accurately.",
+        "Apply the central ideas in Gene expression and protein synthesis to a structured course problem.",
+        "Check a solution to Gene expression and protein synthesis for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Gene expression and protein synthesis in Genetics and Molecular Biology",
+          "paragraphs": [
+            "Gene expression and protein synthesis is studied here as a specific part of Genetics and Molecular Biology. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Biology explains living systems across levels of organisation, from molecules and cells to organisms, populations, communities, and ecosystems. Strong explanations connect structure to function and distinguish observations from inferences. A proposed biological mechanism should be consistent with evidence and acknowledge variation among organisms.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the biological level being discussed, define the process, describe its sequence, connect each step to the outcome, and use an example. For comparisons, use the same criteria for both organisms or processes.",
+            "Apply that method directly to “Gene expression and protein synthesis”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Genetics and Molecular Biology; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A cell membrane is selectively permeable: some substances cross more readily than others. Small non-polar molecules can diffuse through the lipid bilayer, while ions generally require channels or transport proteins. The direction of net diffusion depends on the relevant concentration or electrochemical gradient.",
+            "Now adapt the example to the topic “Gene expression and protein synthesis”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Gene expression and protein synthesis include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Homeostasis",
+          "definition": "Regulation that maintains internal conditions within a viable range."
+        },
+        {
+          "term": "Diffusion",
+          "definition": "Net movement down a concentration gradient due to random molecular motion."
+        },
+        {
+          "term": "Ecosystem",
+          "definition": "Organisms interacting with one another and with their physical environment."
+        },
+        {
+          "term": "Gene expression and protein synthesis",
+          "definition": "The specific concept or method examined in this topic within Genetics and Molecular Biology; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Gene expression and protein synthesis",
+          "steps": [
+            "For “Gene expression and protein synthesis”, connect structure to function and explain the process in sequence. Identify the biological level, the relevant variables or conditions, and what evidence would support the explanation. Distinguish a well-supported mechanism from a simplified model.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "bio-gen-201-gene-expression-and-protein-synthesis-q1",
+          "type": "mcq",
+          "prompt": "Which answer best demonstrates understanding of Gene expression and protein synthesis?",
+          "options": [
+            "A mechanism explained step by step with structure, function, and relevant conditions",
+            "A definition without any biological relationship",
+            "A claim that ignores variation and conditions",
+            "A list of terms without a process"
+          ],
+          "answerIndex": 0,
+          "explanation": "Biological explanations connect mechanism, structure, function, and evidence."
+        },
+        {
+          "id": "bio-gen-201-gene-expression-and-protein-synthesis-q2",
+          "type": "short-answer",
+          "prompt": "Explain Gene expression and protein synthesis in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Gene expression and protein synthesis accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "bio-gen-201-gene-expression-and-protein-synthesis-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Gene expression and protein synthesis. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "mendelian-inheritance-and-probability",
+      "title": "Mendelian inheritance and probability",
+      "description": "Mendelian inheritance and probability: a structured set of explanations, method, worked application, and critical checks for Genetics and Molecular Biology.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Mendelian inheritance and probability accurately.",
+        "Apply the central ideas in Mendelian inheritance and probability to a structured course problem.",
+        "Check a solution to Mendelian inheritance and probability for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Mendelian inheritance and probability in Genetics and Molecular Biology",
+          "paragraphs": [
+            "Mendelian inheritance and probability is studied here as a specific part of Genetics and Molecular Biology. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Biology explains living systems across levels of organisation, from molecules and cells to organisms, populations, communities, and ecosystems. Strong explanations connect structure to function and distinguish observations from inferences. A proposed biological mechanism should be consistent with evidence and acknowledge variation among organisms.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the biological level being discussed, define the process, describe its sequence, connect each step to the outcome, and use an example. For comparisons, use the same criteria for both organisms or processes.",
+            "Apply that method directly to “Mendelian inheritance and probability”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Genetics and Molecular Biology; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A cell membrane is selectively permeable: some substances cross more readily than others. Small non-polar molecules can diffuse through the lipid bilayer, while ions generally require channels or transport proteins. The direction of net diffusion depends on the relevant concentration or electrochemical gradient.",
+            "Now adapt the example to the topic “Mendelian inheritance and probability”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Mendelian inheritance and probability include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Homeostasis",
+          "definition": "Regulation that maintains internal conditions within a viable range."
+        },
+        {
+          "term": "Diffusion",
+          "definition": "Net movement down a concentration gradient due to random molecular motion."
+        },
+        {
+          "term": "Ecosystem",
+          "definition": "Organisms interacting with one another and with their physical environment."
+        },
+        {
+          "term": "Mendelian inheritance and probability",
+          "definition": "The specific concept or method examined in this topic within Genetics and Molecular Biology; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Mendelian inheritance and probability",
+          "steps": [
+            "For “Mendelian inheritance and probability”, connect structure to function and explain the process in sequence. Identify the biological level, the relevant variables or conditions, and what evidence would support the explanation. Distinguish a well-supported mechanism from a simplified model.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "bio-gen-201-mendelian-inheritance-and-probability-q1",
+          "type": "mcq",
+          "prompt": "Which answer best demonstrates understanding of Mendelian inheritance and probability?",
+          "options": [
+            "A mechanism explained step by step with structure, function, and relevant conditions",
+            "A definition without any biological relationship",
+            "A claim that ignores variation and conditions",
+            "A list of terms without a process"
+          ],
+          "answerIndex": 0,
+          "explanation": "Biological explanations connect mechanism, structure, function, and evidence."
+        },
+        {
+          "id": "bio-gen-201-mendelian-inheritance-and-probability-q2",
+          "type": "short-answer",
+          "prompt": "Explain Mendelian inheritance and probability in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Mendelian inheritance and probability accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "bio-gen-201-mendelian-inheritance-and-probability-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Mendelian inheritance and probability. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "mutation-variation-and-inheritance",
+      "title": "Mutation, variation, and inheritance",
+      "description": "Mutation, variation, and inheritance: a structured set of explanations, method, worked application, and critical checks for Genetics and Molecular Biology.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Mutation, variation, and inheritance accurately.",
+        "Apply the central ideas in Mutation, variation, and inheritance to a structured course problem.",
+        "Check a solution to Mutation, variation, and inheritance for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Mutation, variation, and inheritance in Genetics and Molecular Biology",
+          "paragraphs": [
+            "Mutation, variation, and inheritance is studied here as a specific part of Genetics and Molecular Biology. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Biology explains living systems across levels of organisation, from molecules and cells to organisms, populations, communities, and ecosystems. Strong explanations connect structure to function and distinguish observations from inferences. A proposed biological mechanism should be consistent with evidence and acknowledge variation among organisms.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the biological level being discussed, define the process, describe its sequence, connect each step to the outcome, and use an example. For comparisons, use the same criteria for both organisms or processes.",
+            "Apply that method directly to “Mutation, variation, and inheritance”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Genetics and Molecular Biology; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A cell membrane is selectively permeable: some substances cross more readily than others. Small non-polar molecules can diffuse through the lipid bilayer, while ions generally require channels or transport proteins. The direction of net diffusion depends on the relevant concentration or electrochemical gradient.",
+            "Now adapt the example to the topic “Mutation, variation, and inheritance”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Mutation, variation, and inheritance include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Homeostasis",
+          "definition": "Regulation that maintains internal conditions within a viable range."
+        },
+        {
+          "term": "Diffusion",
+          "definition": "Net movement down a concentration gradient due to random molecular motion."
+        },
+        {
+          "term": "Ecosystem",
+          "definition": "Organisms interacting with one another and with their physical environment."
+        },
+        {
+          "term": "Mutation, variation, and inheritance",
+          "definition": "The specific concept or method examined in this topic within Genetics and Molecular Biology; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Mutation, variation, and inheritance",
+          "steps": [
+            "For “Mutation, variation, and inheritance”, connect structure to function and explain the process in sequence. Identify the biological level, the relevant variables or conditions, and what evidence would support the explanation. Distinguish a well-supported mechanism from a simplified model.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "bio-gen-201-mutation-variation-and-inheritance-q1",
+          "type": "mcq",
+          "prompt": "Which answer best demonstrates understanding of Mutation, variation, and inheritance?",
+          "options": [
+            "A mechanism explained step by step with structure, function, and relevant conditions",
+            "A definition without any biological relationship",
+            "A claim that ignores variation and conditions",
+            "A list of terms without a process"
+          ],
+          "answerIndex": 0,
+          "explanation": "Biological explanations connect mechanism, structure, function, and evidence."
+        },
+        {
+          "id": "bio-gen-201-mutation-variation-and-inheritance-q2",
+          "type": "short-answer",
+          "prompt": "Explain Mutation, variation, and inheritance in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Mutation, variation, and inheritance accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "bio-gen-201-mutation-variation-and-inheritance-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Mutation, variation, and inheritance. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "molecular-methods-and-evidence",
+      "title": "Molecular methods and evidence",
+      "description": "Molecular methods and evidence: a structured set of explanations, method, worked application, and critical checks for Genetics and Molecular Biology.",
+      "estimatedMinutes": 20,
+      "difficulty": "intermediate",
+      "learningObjectives": [
+        "Define and explain Molecular methods and evidence accurately.",
+        "Apply the central ideas in Molecular methods and evidence to a structured course problem.",
+        "Check a solution to Molecular methods and evidence for logical or procedural errors."
+      ],
+      "sections": [
+        {
+          "heading": "Molecular methods and evidence in Genetics and Molecular Biology",
+          "paragraphs": [
+            "Molecular methods and evidence is studied here as a specific part of Genetics and Molecular Biology. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Biology explains living systems across levels of organisation, from molecules and cells to organisms, populations, communities, and ecosystems. Strong explanations connect structure to function and distinguish observations from inferences. A proposed biological mechanism should be consistent with evidence and acknowledge variation among organisms.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At this level, connect definitions to method. Show how the concept works in a structured example, compare closely related ideas, and explain why a chosen procedure is appropriate."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Identify the biological level being discussed, define the process, describe its sequence, connect each step to the outcome, and use an example. For comparisons, use the same criteria for both organisms or processes.",
+            "Apply that method directly to “Molecular methods and evidence”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Genetics and Molecular Biology; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "A cell membrane is selectively permeable: some substances cross more readily than others. Small non-polar molecules can diffuse through the lipid bilayer, while ions generally require channels or transport proteins. The direction of net diffusion depends on the relevant concentration or electrochemical gradient.",
+            "Now adapt the example to the topic “Molecular methods and evidence”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Molecular methods and evidence include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Homeostasis",
+          "definition": "Regulation that maintains internal conditions within a viable range."
+        },
+        {
+          "term": "Diffusion",
+          "definition": "Net movement down a concentration gradient due to random molecular motion."
+        },
+        {
+          "term": "Ecosystem",
+          "definition": "Organisms interacting with one another and with their physical environment."
+        },
+        {
+          "term": "Molecular methods and evidence",
+          "definition": "The specific concept or method examined in this topic within Genetics and Molecular Biology; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Molecular methods and evidence",
+          "steps": [
+            "For “Molecular methods and evidence”, connect structure to function and explain the process in sequence. Identify the biological level, the relevant variables or conditions, and what evidence would support the explanation. Distinguish a well-supported mechanism from a simplified model.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "bio-gen-201-molecular-methods-and-evidence-q1",
+          "type": "mcq",
+          "prompt": "Which answer best demonstrates understanding of Molecular methods and evidence?",
+          "options": [
+            "A mechanism explained step by step with structure, function, and relevant conditions",
+            "A definition without any biological relationship",
+            "A claim that ignores variation and conditions",
+            "A list of terms without a process"
+          ],
+          "answerIndex": 0,
+          "explanation": "Biological explanations connect mechanism, structure, function, and evidence."
+        },
+        {
+          "id": "bio-gen-201-molecular-methods-and-evidence-q2",
+          "type": "short-answer",
+          "prompt": "Explain Molecular methods and evidence in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Molecular methods and evidence accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "bio-gen-201-molecular-methods-and-evidence-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Molecular methods and evidence. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ]
+}

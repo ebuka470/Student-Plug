@@ -1,0 +1,545 @@
+{
+  "courseId": "psy-clin-401",
+  "version": 3,
+  "contentStatus": "original-instructional-notes",
+  "reviewStatus": "needs-subject-matter-and-syllabus-review",
+  "levelFit": "400-level undergraduate learning depth",
+  "topics": [
+    {
+      "id": "classification-and-diagnostic-limits",
+      "title": "Classification and diagnostic limits",
+      "description": "Classification and diagnostic limits: a structured set of explanations, method, worked application, and critical checks for Abnormal Psychology.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Classification and diagnostic limits accurately.",
+        "Apply the central ideas in Classification and diagnostic limits to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Classification and diagnostic limits in Abnormal Psychology",
+          "paragraphs": [
+            "Classification and diagnostic limits is studied here as a specific part of Abnormal Psychology. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Psychology studies behaviour and mental processes using multiple methods. Correlation indicates association but does not establish that one variable causes another. Psychological measures require evidence of reliability and validity, and findings should be interpreted with attention to context, culture, sampling, and ethical constraints.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the construct, explain how it is measured, identify the design, state what inference the design supports, and discuss alternative explanations. Avoid diagnosing a person from a single behaviour or treating a group-level pattern as a certainty about an individual.",
+            "Apply that method directly to “Classification and diagnostic limits”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Abnormal Psychology; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If students who sleep longer also report higher concentration, the association could reflect sleep effects, but workload, health, stress, or other factors may influence both. A cross-sectional correlation alone cannot establish the direction or causal mechanism.",
+            "Now adapt the example to the topic “Classification and diagnostic limits”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Classification and diagnostic limits include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Construct",
+          "definition": "A theoretical attribute that is not always directly observable."
+        },
+        {
+          "term": "Reliability",
+          "definition": "Consistency of measurement under specified conditions."
+        },
+        {
+          "term": "Validity",
+          "definition": "Evidence that supports the intended interpretation and use of a measure."
+        },
+        {
+          "term": "Classification and diagnostic limits",
+          "definition": "The specific concept or method examined in this topic within Abnormal Psychology; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Classification and diagnostic limits",
+          "steps": [
+            "For “Classification and diagnostic limits”, define the psychological construct and distinguish it from related constructs. Explain how it would be observed or measured, what alternative explanations could affect the result, and how culture, context, and individual differences constrain interpretation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "psy-clin-401-classification-and-diagnostic-limits-q1",
+          "type": "mcq",
+          "prompt": "Which conclusion is most defensible in a psychology question on Classification and diagnostic limits?",
+          "options": [
+            "A conclusion proportionate to the design and measurement evidence",
+            "A diagnosis based on one isolated behaviour",
+            "A causal claim from any correlation",
+            "A claim that ignores context and measurement validity"
+          ],
+          "answerIndex": 0,
+          "explanation": "Interpretations must match the design, measurement quality, and evidence."
+        },
+        {
+          "id": "psy-clin-401-classification-and-diagnostic-limits-q2",
+          "type": "short-answer",
+          "prompt": "Explain Classification and diagnostic limits in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Classification and diagnostic limits accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "psy-clin-401-classification-and-diagnostic-limits-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Classification and diagnostic limits. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "biopsychosocial-formulation",
+      "title": "Biopsychosocial formulation",
+      "description": "Biopsychosocial formulation: a structured set of explanations, method, worked application, and critical checks for Abnormal Psychology.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Biopsychosocial formulation accurately.",
+        "Apply the central ideas in Biopsychosocial formulation to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Biopsychosocial formulation in Abnormal Psychology",
+          "paragraphs": [
+            "Biopsychosocial formulation is studied here as a specific part of Abnormal Psychology. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Psychology studies behaviour and mental processes using multiple methods. Correlation indicates association but does not establish that one variable causes another. Psychological measures require evidence of reliability and validity, and findings should be interpreted with attention to context, culture, sampling, and ethical constraints.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the construct, explain how it is measured, identify the design, state what inference the design supports, and discuss alternative explanations. Avoid diagnosing a person from a single behaviour or treating a group-level pattern as a certainty about an individual.",
+            "Apply that method directly to “Biopsychosocial formulation”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Abnormal Psychology; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If students who sleep longer also report higher concentration, the association could reflect sleep effects, but workload, health, stress, or other factors may influence both. A cross-sectional correlation alone cannot establish the direction or causal mechanism.",
+            "Now adapt the example to the topic “Biopsychosocial formulation”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Biopsychosocial formulation include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Construct",
+          "definition": "A theoretical attribute that is not always directly observable."
+        },
+        {
+          "term": "Reliability",
+          "definition": "Consistency of measurement under specified conditions."
+        },
+        {
+          "term": "Validity",
+          "definition": "Evidence that supports the intended interpretation and use of a measure."
+        },
+        {
+          "term": "Biopsychosocial formulation",
+          "definition": "The specific concept or method examined in this topic within Abnormal Psychology; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Biopsychosocial formulation",
+          "steps": [
+            "For “Biopsychosocial formulation”, define the psychological construct and distinguish it from related constructs. Explain how it would be observed or measured, what alternative explanations could affect the result, and how culture, context, and individual differences constrain interpretation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "psy-clin-401-biopsychosocial-formulation-q1",
+          "type": "mcq",
+          "prompt": "Which conclusion is most defensible in a psychology question on Biopsychosocial formulation?",
+          "options": [
+            "A conclusion proportionate to the design and measurement evidence",
+            "A diagnosis based on one isolated behaviour",
+            "A causal claim from any correlation",
+            "A claim that ignores context and measurement validity"
+          ],
+          "answerIndex": 0,
+          "explanation": "Interpretations must match the design, measurement quality, and evidence."
+        },
+        {
+          "id": "psy-clin-401-biopsychosocial-formulation-q2",
+          "type": "short-answer",
+          "prompt": "Explain Biopsychosocial formulation in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Biopsychosocial formulation accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "psy-clin-401-biopsychosocial-formulation-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Biopsychosocial formulation. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "anxiety-and-mood-conditions-overview",
+      "title": "Anxiety and mood conditions overview",
+      "description": "Anxiety and mood conditions overview: a structured set of explanations, method, worked application, and critical checks for Abnormal Psychology.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Anxiety and mood conditions overview accurately.",
+        "Apply the central ideas in Anxiety and mood conditions overview to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Anxiety and mood conditions overview in Abnormal Psychology",
+          "paragraphs": [
+            "Anxiety and mood conditions overview is studied here as a specific part of Abnormal Psychology. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Psychology studies behaviour and mental processes using multiple methods. Correlation indicates association but does not establish that one variable causes another. Psychological measures require evidence of reliability and validity, and findings should be interpreted with attention to context, culture, sampling, and ethical constraints.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the construct, explain how it is measured, identify the design, state what inference the design supports, and discuss alternative explanations. Avoid diagnosing a person from a single behaviour or treating a group-level pattern as a certainty about an individual.",
+            "Apply that method directly to “Anxiety and mood conditions overview”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Abnormal Psychology; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If students who sleep longer also report higher concentration, the association could reflect sleep effects, but workload, health, stress, or other factors may influence both. A cross-sectional correlation alone cannot establish the direction or causal mechanism.",
+            "Now adapt the example to the topic “Anxiety and mood conditions overview”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Anxiety and mood conditions overview include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Construct",
+          "definition": "A theoretical attribute that is not always directly observable."
+        },
+        {
+          "term": "Reliability",
+          "definition": "Consistency of measurement under specified conditions."
+        },
+        {
+          "term": "Validity",
+          "definition": "Evidence that supports the intended interpretation and use of a measure."
+        },
+        {
+          "term": "Anxiety and mood conditions overview",
+          "definition": "The specific concept or method examined in this topic within Abnormal Psychology; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Anxiety and mood conditions overview",
+          "steps": [
+            "For “Anxiety and mood conditions overview”, define the psychological construct and distinguish it from related constructs. Explain how it would be observed or measured, what alternative explanations could affect the result, and how culture, context, and individual differences constrain interpretation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "psy-clin-401-anxiety-and-mood-conditions-overview-q1",
+          "type": "mcq",
+          "prompt": "Which conclusion is most defensible in a psychology question on Anxiety and mood conditions overview?",
+          "options": [
+            "A conclusion proportionate to the design and measurement evidence",
+            "A diagnosis based on one isolated behaviour",
+            "A causal claim from any correlation",
+            "A claim that ignores context and measurement validity"
+          ],
+          "answerIndex": 0,
+          "explanation": "Interpretations must match the design, measurement quality, and evidence."
+        },
+        {
+          "id": "psy-clin-401-anxiety-and-mood-conditions-overview-q2",
+          "type": "short-answer",
+          "prompt": "Explain Anxiety and mood conditions overview in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Anxiety and mood conditions overview accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "psy-clin-401-anxiety-and-mood-conditions-overview-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Anxiety and mood conditions overview. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "assessment-culture-and-context",
+      "title": "Assessment, culture and context",
+      "description": "Assessment, culture and context: a structured set of explanations, method, worked application, and critical checks for Abnormal Psychology.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Assessment, culture and context accurately.",
+        "Apply the central ideas in Assessment, culture and context to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Assessment, culture and context in Abnormal Psychology",
+          "paragraphs": [
+            "Assessment, culture and context is studied here as a specific part of Abnormal Psychology. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Psychology studies behaviour and mental processes using multiple methods. Correlation indicates association but does not establish that one variable causes another. Psychological measures require evidence of reliability and validity, and findings should be interpreted with attention to context, culture, sampling, and ethical constraints.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the construct, explain how it is measured, identify the design, state what inference the design supports, and discuss alternative explanations. Avoid diagnosing a person from a single behaviour or treating a group-level pattern as a certainty about an individual.",
+            "Apply that method directly to “Assessment, culture and context”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Abnormal Psychology; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If students who sleep longer also report higher concentration, the association could reflect sleep effects, but workload, health, stress, or other factors may influence both. A cross-sectional correlation alone cannot establish the direction or causal mechanism.",
+            "Now adapt the example to the topic “Assessment, culture and context”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Assessment, culture and context include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Construct",
+          "definition": "A theoretical attribute that is not always directly observable."
+        },
+        {
+          "term": "Reliability",
+          "definition": "Consistency of measurement under specified conditions."
+        },
+        {
+          "term": "Validity",
+          "definition": "Evidence that supports the intended interpretation and use of a measure."
+        },
+        {
+          "term": "Assessment, culture and context",
+          "definition": "The specific concept or method examined in this topic within Abnormal Psychology; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Assessment, culture and context",
+          "steps": [
+            "For “Assessment, culture and context”, define the psychological construct and distinguish it from related constructs. Explain how it would be observed or measured, what alternative explanations could affect the result, and how culture, context, and individual differences constrain interpretation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "psy-clin-401-assessment-culture-and-context-q1",
+          "type": "mcq",
+          "prompt": "Which conclusion is most defensible in a psychology question on Assessment, culture and context?",
+          "options": [
+            "A conclusion proportionate to the design and measurement evidence",
+            "A diagnosis based on one isolated behaviour",
+            "A causal claim from any correlation",
+            "A claim that ignores context and measurement validity"
+          ],
+          "answerIndex": 0,
+          "explanation": "Interpretations must match the design, measurement quality, and evidence."
+        },
+        {
+          "id": "psy-clin-401-assessment-culture-and-context-q2",
+          "type": "short-answer",
+          "prompt": "Explain Assessment, culture and context in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Assessment, culture and context accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "psy-clin-401-assessment-culture-and-context-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Assessment, culture and context. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    },
+    {
+      "id": "treatment-evidence-and-stigma-reduction",
+      "title": "Treatment evidence and stigma reduction",
+      "description": "Treatment evidence and stigma reduction: a structured set of explanations, method, worked application, and critical checks for Abnormal Psychology.",
+      "estimatedMinutes": 25,
+      "difficulty": "advanced",
+      "learningObjectives": [
+        "Define and explain Treatment evidence and stigma reduction accurately.",
+        "Apply the central ideas in Treatment evidence and stigma reduction to a structured course problem.",
+        "Justify a conclusion and identify a relevant assumption, limitation, or alternative."
+      ],
+      "sections": [
+        {
+          "heading": "Treatment evidence and stigma reduction in Abnormal Psychology",
+          "paragraphs": [
+            "Treatment evidence and stigma reduction is studied here as a specific part of Abnormal Psychology. Begin by defining the term precisely and identifying the problem it helps explain or solve. Keep the scope narrow: related ideas may interact with it, but they are not interchangeable.",
+            "Psychology studies behaviour and mental processes using multiple methods. Correlation indicates association but does not establish that one variable causes another. Psychological measures require evidence of reliability and validity, and findings should be interpreted with attention to context, culture, sampling, and ethical constraints.",
+            "For this topic, distinguish the central principle from its assumptions. Ask: what is given, what must be inferred or calculated, what evidence would support the conclusion, and in what circumstances would the conclusion no longer hold? At final-year level, a good answer must justify the choice of method, connect claims to evidence, evaluate assumptions, compare plausible alternatives, and state limitations or implementation consequences. Do not merely define terms."
+          ]
+        },
+        {
+          "heading": "Method and reasoning",
+          "paragraphs": [
+            "Define the construct, explain how it is measured, identify the design, state what inference the design supports, and discuss alternative explanations. Avoid diagnosing a person from a single behaviour or treating a group-level pattern as a certainty about an individual.",
+            "Apply that method directly to “Treatment evidence and stigma reduction”: (1) state the question in one sentence; (2) define relevant terms and symbols; (3) record the facts or assumptions; (4) show the reasoning in order; (5) interpret the result in the context of Abnormal Psychology; and (6) check whether the result answers the original question.",
+            "When a prompt uses command words, respond to them deliberately. “Define” asks for a precise meaning; “explain” asks for mechanisms or reasons; “compare” requires explicit similarities and differences; “analyse” asks you to break evidence into relationships; and “evaluate/discuss” requires a reasoned judgement supported by criteria."
+          ]
+        },
+        {
+          "heading": "Worked application",
+          "paragraphs": [
+            "If students who sleep longer also report higher concentration, the association could reflect sleep effects, but workload, health, stress, or other factors may influence both. A cross-sectional correlation alone cannot establish the direction or causal mechanism.",
+            "Now adapt the example to the topic “Treatment evidence and stigma reduction”. Identify which parts of the example are fixed facts and which are assumptions. Change one assumption and ask whether the conclusion still follows. This counter-check is a useful way to detect rote learning and to prepare for questions that change the context.",
+            "A strong written solution shows enough intermediate reasoning for a lecturer or classmate to reproduce it. Where calculation is involved, include units and an interpretation; where a theory is involved, link each claim to a feature of the case; where research is involved, distinguish findings from the author’s interpretation."
+          ]
+        },
+        {
+          "heading": "Common errors and exam technique",
+          "paragraphs": [
+            "Common errors when studying Treatment evidence and stigma reduction include using a related term as if it were identical, skipping assumptions, giving an example without explaining why it fits, and making a conclusion stronger than the evidence allows.",
+            "Before submitting an answer, check four things: terminology is accurate; the method fits the question; each conclusion follows from the steps shown; and limitations or boundary conditions are acknowledged when relevant. For numerical work, recalculate one step and check units or magnitude.",
+            "For revision, close your notes and write a short explanation from memory, then solve a fresh problem without looking at the worked example. Mark the exact step where your reasoning fails and revisit that section instead of rereading the entire topic."
+          ]
+        }
+      ],
+      "keyTerms": [
+        {
+          "term": "Construct",
+          "definition": "A theoretical attribute that is not always directly observable."
+        },
+        {
+          "term": "Reliability",
+          "definition": "Consistency of measurement under specified conditions."
+        },
+        {
+          "term": "Validity",
+          "definition": "Evidence that supports the intended interpretation and use of a measure."
+        },
+        {
+          "term": "Treatment evidence and stigma reduction",
+          "definition": "The specific concept or method examined in this topic within Abnormal Psychology; define its scope and explain how it is applied."
+        }
+      ],
+      "examples": [
+        {
+          "title": "Worked application: Treatment evidence and stigma reduction",
+          "steps": [
+            "For “Treatment evidence and stigma reduction”, define the psychological construct and distinguish it from related constructs. Explain how it would be observed or measured, what alternative explanations could affect the result, and how culture, context, and individual differences constrain interpretation.",
+            "Identify the assumption or condition on which the explanation depends.",
+            "Apply the same principle to a changed case and state what would change in the result.",
+            "Write a conclusion that answers the question directly and notes one relevant limitation."
+          ],
+          "note": "Original Student Plug teaching example; not an official university solution or verified past examination question."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "psy-clin-401-treatment-evidence-and-stigma-reduction-q1",
+          "type": "mcq",
+          "prompt": "Which conclusion is most defensible in a psychology question on Treatment evidence and stigma reduction?",
+          "options": [
+            "A conclusion proportionate to the design and measurement evidence",
+            "A diagnosis based on one isolated behaviour",
+            "A causal claim from any correlation",
+            "A claim that ignores context and measurement validity"
+          ],
+          "answerIndex": 0,
+          "explanation": "Interpretations must match the design, measurement quality, and evidence."
+        },
+        {
+          "id": "psy-clin-401-treatment-evidence-and-stigma-reduction-q2",
+          "type": "short-answer",
+          "prompt": "Explain Treatment evidence and stigma reduction in your own words, then apply it to a new case. Identify one assumption or limitation.",
+          "answer": "A complete response defines Treatment evidence and stigma reduction accurately, shows how the relevant method or principle applies to the case, and explains an assumption or limitation. Use the explanatory notes as a guide, but check your current course outline.",
+          "explanation": "This item assesses transfer and reasoning, not recall alone."
+        },
+        {
+          "id": "psy-clin-401-treatment-evidence-and-stigma-reduction-q3",
+          "type": "application",
+          "prompt": "A lecturer changes one important condition in a question about Treatment evidence and stigma reduction. Explain how you would decide whether your original conclusion still holds.",
+          "answer": "Identify the changed condition, determine which assumption or step depends on it, reapply the relevant principle, and explain whether the conclusion changes. State any uncertainty or additional evidence required.",
+          "explanation": "Good application makes assumptions explicit and updates reasoning when the facts change."
+        }
+      ],
+      "studyNote": "Student Plug original instructional notes. Compare the scope and terminology with your current lecturer-provided course outline; course codes and semester placement are not institution-certified."
+    }
+  ],
+  "contentNotice": "Original instructional draft. Course title/code is illustrative and must be checked against the student’s current departmental course outline. Not an authentic past paper.",
+  "sourcePolicy": {
+    "origin": "Original Student Plug instructional writing",
+    "officialStatus": "not official university notes",
+    "pastQuestions": "All questions in this lesson are original practice questions unless a separate verified source record explicitly says otherwise."
+  }
+}

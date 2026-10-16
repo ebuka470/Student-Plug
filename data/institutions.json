@@ -1,0 +1,50 @@
+{
+  "version": 2,
+  "institutions": [
+    {
+      "id": "unilag",
+      "name": "University of Lagos",
+      "shortName": "UNILAG",
+      "type": "university",
+      "country": "Nigeria",
+      "contentCoverage": "developing",
+      "note": "Programme names are aligned broadly to publicly listed UNILAG faculties; course codes and semester mappings must be checked against your current departmental handbook."
+    },
+    {
+      "id": "ui",
+      "name": "University of Ibadan",
+      "shortName": "UI",
+      "type": "university",
+      "country": "Nigeria",
+      "contentCoverage": "developing",
+      "note": "Programme names are aligned broadly to publicly listed UI faculties and programmes; content is not an official UI course pack."
+    },
+    {
+      "id": "unn",
+      "name": "University of Nigeria, Nsukka",
+      "shortName": "UNN",
+      "type": "university",
+      "country": "Nigeria",
+      "contentCoverage": "developing",
+      "note": "General programme options; exact course codes and curriculum sequence must be confirmed with the department."
+    },
+    {
+      "id": "oau",
+      "name": "Obafemi Awolowo University",
+      "shortName": "OAU",
+      "type": "university",
+      "country": "Nigeria",
+      "contentCoverage": "developing",
+      "note": "General programme options; exact course codes and curriculum sequence must be confirmed with the department."
+    },
+    {
+      "id": "other",
+      "name": "Another university / polytechnic",
+      "shortName": "Other",
+      "type": "other",
+      "country": "Nigeria",
+      "contentCoverage": "general",
+      "note": "Use general subject content and compare with your current course outline."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "resources": [
+    {
+      "id": "ui-oer-notes",
+      "title": "University of Ibadan OER — Lecture Notes",
+      "type": "external-catalogue",
+      "institutionId": "ui",
+      "url": "https://oer.ui.edu.ng/lecture-notes",
+      "description": "Public catalogue listing lecture-note resources and course codes. Check individual material, syllabus fit, and reuse terms before reproducing any content.",
+      "licenceStatus": "check-per-resource",
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "id": "ui-oer-courseware",
+      "title": "University of Ibadan OER — Courseware",
+      "type": "external-catalogue",
+      "institutionId": "ui",
+      "url": "https://oer.ui.edu.ng/courseware",
+      "description": "Public courseware catalogue. Student Plug links to the source rather than copying files without confirming permissions.",
+      "licenceStatus": "check-per-resource",
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "id": "nou-ecourseware",
+      "title": "National Open University of Nigeria — e-Courseware",
+      "type": "external-catalogue",
+      "institutionId": null,
+      "url": "https://nou.edu.ng/ecourseware/",
+      "description": "Potential future source for course materials. Course fit and reuse terms must be checked individually.",
+      "licenceStatus": "check-per-resource",
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "id": "unilag-oer",
+      "title": "UNILAG official academics and programmes",
+      "url": "https://unilag.edu.ng/academics/",
+      "description": "Check current faculties, programmes, and official academic information.",
+      "type": "official-reference"
+    },
+    {
+      "id": "ui-oer",
+      "title": "University of Ibadan faculties and departments",
+      "url": "https://ui.edu.ng/content/faculties-and-departments-0",
+      "description": "Use the official department list to confirm programme names.",
+      "type": "official-reference"
+    },
+    {
+      "id": "unn-home",
+      "title": "University of Nigeria, Nsukka official website",
+      "url": "https://www.unn.edu.ng/",
+      "description": "Confirm current programme and academic information with the institution.",
+      "type": "official-reference"
+    },
+    {
+      "id": "oau-home",
+      "title": "Obafemi Awolowo University official website",
+      "url": "https://oauife.edu.ng/",
+      "description": "Confirm current programme and academic information with the institution.",
+      "type": "official-reference"
+    }
+  ]
+}

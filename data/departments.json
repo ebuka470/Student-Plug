@@ -1,0 +1,709 @@
+{
+  "version": 3,
+  "departments": [
+    {
+      "id": "computer-science",
+      "institutionId": "ui",
+      "name": "Computer Science / Computing",
+      "courseIds": [
+        "cis-104",
+        "cis-103",
+        "ict-101"
+      ]
+    },
+    {
+      "id": "nursing",
+      "institutionId": "ui",
+      "name": "Nursing Science",
+      "courseIds": [
+        "nsg-217"
+      ]
+    },
+    {
+      "id": "psychology",
+      "institutionId": "ui",
+      "name": "Psychology / Behavioural Science",
+      "courseIds": []
+    },
+    {
+      "id": "general",
+      "institutionId": "other",
+      "name": "General / Not listed",
+      "courseIds": []
+    },
+    {
+      "id": "business",
+      "institutionId": "other",
+      "name": "Business / Accounting",
+      "courseIds": [
+        "eco-101",
+        "acc-101",
+        "bus-101",
+        "eco-public-301",
+        "acc-tax-301",
+        "bus-entre-201"
+      ]
+    },
+    {
+      "id": "social-sciences",
+      "institutionId": "other",
+      "name": "Social Sciences",
+      "courseIds": [
+        "psy-101",
+        "gst-103",
+        "soc-101",
+        "pol-101",
+        "pol-comparative-301",
+        "com-digital-301"
+      ]
+    },
+    {
+      "id": "physical-sciences",
+      "institutionId": "other",
+      "name": "Physical and Life Sciences",
+      "courseIds": [
+        "mth-101",
+        "phy-101",
+        "chm-101",
+        "bio-101",
+        "sta-101",
+        "mth-calc-101",
+        "sta-research-201",
+        "bio-gen-201",
+        "phy-elec-201"
+      ]
+    },
+    {
+      "id": "general-studies",
+      "institutionId": "other",
+      "name": "General Studies and Communication",
+      "courseIds": [
+        "gst-101",
+        "com-101",
+        "gst-ethics-201"
+      ]
+    },
+    {
+      "id": "unilag-cs",
+      "institutionId": "unilag",
+      "name": "Computer Science / Computing",
+      "courseIds": [
+        "cs-alg-201",
+        "cs-db-301",
+        "cs-os-301",
+        "cs-net-301",
+        "cs-se-301",
+        "cs-ai-401",
+        "cs-sec-401",
+        "cs-dist-401",
+        "cs-project-401"
+      ]
+    },
+    {
+      "id": "unilag-bus",
+      "institutionId": "unilag",
+      "name": "Business Administration",
+      "courseIds": [
+        "bus-org-201",
+        "bus-mkt-301",
+        "bus-strat-401"
+      ]
+    },
+    {
+      "id": "unilag-acc",
+      "institutionId": "unilag",
+      "name": "Accounting",
+      "courseIds": [
+        "acc-cost-201",
+        "acc-audit-301",
+        "acc-fin-401"
+      ]
+    },
+    {
+      "id": "unilag-eco",
+      "institutionId": "unilag",
+      "name": "Economics",
+      "courseIds": [
+        "eco-micro-201",
+        "eco-macro-301",
+        "eco-dev-401"
+      ]
+    },
+    {
+      "id": "unilag-mth",
+      "institutionId": "unilag",
+      "name": "Mathematics / Statistics",
+      "courseIds": [
+        "sta-reg-201",
+        "sta-mult-301",
+        "sta-data-401"
+      ]
+    },
+    {
+      "id": "unilag-eng",
+      "institutionId": "unilag",
+      "name": "Engineering",
+      "courseIds": [
+        "eng-circuit-201",
+        "eng-control-301",
+        "eng-power-401"
+      ]
+    },
+    {
+      "id": "unilag-nsg",
+      "institutionId": "unilag",
+      "name": "Nursing Science",
+      "courseIds": [
+        "nsg-research-301",
+        "nsg-community-401"
+      ]
+    },
+    {
+      "id": "unilag-psy",
+      "institutionId": "unilag",
+      "name": "Psychology",
+      "courseIds": [
+        "psy-method-201",
+        "psy-clin-401"
+      ]
+    },
+    {
+      "id": "unilag-soc",
+      "institutionId": "unilag",
+      "name": "Sociology",
+      "courseIds": [
+        "soc-theory-201",
+        "soc-policy-401"
+      ]
+    },
+    {
+      "id": "unilag-pol",
+      "institutionId": "unilag",
+      "name": "Political Science",
+      "courseIds": [
+        "pol-method-201",
+        "pol-gov-401"
+      ]
+    },
+    {
+      "id": "unilag-com",
+      "institutionId": "unilag",
+      "name": "Mass Communication",
+      "courseIds": [
+        "com-theory-201",
+        "com-research-401"
+      ]
+    },
+    {
+      "id": "unilag-gst",
+      "institutionId": "unilag",
+      "name": "General Studies",
+      "courseIds": [
+        "gst-research-201"
+      ]
+    },
+    {
+      "id": "ui-cs",
+      "institutionId": "ui",
+      "name": "Computer Science / Computing",
+      "courseIds": [
+        "cs-alg-201-ui",
+        "cs-db-301-ui",
+        "cs-os-301-ui",
+        "cs-net-301-ui",
+        "cs-se-301-ui",
+        "cs-ai-401-ui",
+        "cs-sec-401-ui",
+        "cs-dist-401-ui",
+        "cs-project-401-ui"
+      ]
+    },
+    {
+      "id": "ui-bus",
+      "institutionId": "ui",
+      "name": "Business Administration",
+      "courseIds": [
+        "bus-org-201-ui",
+        "bus-mkt-301-ui",
+        "bus-strat-401-ui"
+      ]
+    },
+    {
+      "id": "ui-acc",
+      "institutionId": "ui",
+      "name": "Accounting",
+      "courseIds": [
+        "acc-cost-201-ui",
+        "acc-audit-301-ui",
+        "acc-fin-401-ui"
+      ]
+    },
+    {
+      "id": "ui-eco",
+      "institutionId": "ui",
+      "name": "Economics",
+      "courseIds": [
+        "eco-micro-201-ui",
+        "eco-macro-301-ui",
+        "eco-dev-401-ui"
+      ]
+    },
+    {
+      "id": "ui-mth",
+      "institutionId": "ui",
+      "name": "Mathematics / Statistics",
+      "courseIds": [
+        "sta-reg-201-ui",
+        "sta-mult-301-ui",
+        "sta-data-401-ui"
+      ]
+    },
+    {
+      "id": "ui-eng",
+      "institutionId": "ui",
+      "name": "Engineering",
+      "courseIds": [
+        "eng-circuit-201-ui",
+        "eng-control-301-ui",
+        "eng-power-401-ui"
+      ]
+    },
+    {
+      "id": "ui-nsg",
+      "institutionId": "ui",
+      "name": "Nursing Science",
+      "courseIds": [
+        "nsg-research-301-ui",
+        "nsg-community-401-ui"
+      ]
+    },
+    {
+      "id": "ui-psy",
+      "institutionId": "ui",
+      "name": "Psychology",
+      "courseIds": [
+        "psy-method-201-ui",
+        "psy-clin-401-ui"
+      ]
+    },
+    {
+      "id": "ui-soc",
+      "institutionId": "ui",
+      "name": "Sociology",
+      "courseIds": [
+        "soc-theory-201-ui",
+        "soc-policy-401-ui"
+      ]
+    },
+    {
+      "id": "ui-pol",
+      "institutionId": "ui",
+      "name": "Political Science",
+      "courseIds": [
+        "pol-method-201-ui",
+        "pol-gov-401-ui"
+      ]
+    },
+    {
+      "id": "ui-com",
+      "institutionId": "ui",
+      "name": "Mass Communication",
+      "courseIds": [
+        "com-theory-201-ui",
+        "com-research-401-ui"
+      ]
+    },
+    {
+      "id": "ui-gst",
+      "institutionId": "ui",
+      "name": "General Studies",
+      "courseIds": [
+        "gst-research-201-ui"
+      ]
+    },
+    {
+      "id": "unn-cs",
+      "institutionId": "unn",
+      "name": "Computer Science / Computing",
+      "courseIds": [
+        "cs-alg-201-unn",
+        "cs-db-301-unn",
+        "cs-os-301-unn",
+        "cs-net-301-unn",
+        "cs-se-301-unn",
+        "cs-ai-401-unn",
+        "cs-sec-401-unn",
+        "cs-dist-401-unn",
+        "cs-project-401-unn"
+      ]
+    },
+    {
+      "id": "unn-bus",
+      "institutionId": "unn",
+      "name": "Business Administration",
+      "courseIds": [
+        "bus-org-201-unn",
+        "bus-mkt-301-unn",
+        "bus-strat-401-unn"
+      ]
+    },
+    {
+      "id": "unn-acc",
+      "institutionId": "unn",
+      "name": "Accounting",
+      "courseIds": [
+        "acc-cost-201-unn",
+        "acc-audit-301-unn",
+        "acc-fin-401-unn"
+      ]
+    },
+    {
+      "id": "unn-eco",
+      "institutionId": "unn",
+      "name": "Economics",
+      "courseIds": [
+        "eco-micro-201-unn",
+        "eco-macro-301-unn",
+        "eco-dev-401-unn"
+      ]
+    },
+    {
+      "id": "unn-mth",
+      "institutionId": "unn",
+      "name": "Mathematics / Statistics",
+      "courseIds": [
+        "sta-reg-201-unn",
+        "sta-mult-301-unn",
+        "sta-data-401-unn"
+      ]
+    },
+    {
+      "id": "unn-eng",
+      "institutionId": "unn",
+      "name": "Engineering",
+      "courseIds": [
+        "eng-circuit-201-unn",
+        "eng-control-301-unn",
+        "eng-power-401-unn"
+      ]
+    },
+    {
+      "id": "unn-nsg",
+      "institutionId": "unn",
+      "name": "Nursing Science",
+      "courseIds": [
+        "nsg-research-301-unn",
+        "nsg-community-401-unn"
+      ]
+    },
+    {
+      "id": "unn-psy",
+      "institutionId": "unn",
+      "name": "Psychology",
+      "courseIds": [
+        "psy-method-201-unn",
+        "psy-clin-401-unn"
+      ]
+    },
+    {
+      "id": "unn-soc",
+      "institutionId": "unn",
+      "name": "Sociology",
+      "courseIds": [
+        "soc-theory-201-unn",
+        "soc-policy-401-unn"
+      ]
+    },
+    {
+      "id": "unn-pol",
+      "institutionId": "unn",
+      "name": "Political Science",
+      "courseIds": [
+        "pol-method-201-unn",
+        "pol-gov-401-unn"
+      ]
+    },
+    {
+      "id": "unn-com",
+      "institutionId": "unn",
+      "name": "Mass Communication",
+      "courseIds": [
+        "com-theory-201-unn",
+        "com-research-401-unn"
+      ]
+    },
+    {
+      "id": "unn-gst",
+      "institutionId": "unn",
+      "name": "General Studies",
+      "courseIds": [
+        "gst-research-201-unn"
+      ]
+    },
+    {
+      "id": "oau-cs",
+      "institutionId": "oau",
+      "name": "Computer Science / Computing",
+      "courseIds": [
+        "cs-alg-201-oau",
+        "cs-db-301-oau",
+        "cs-os-301-oau",
+        "cs-net-301-oau",
+        "cs-se-301-oau",
+        "cs-ai-401-oau",
+        "cs-sec-401-oau",
+        "cs-dist-401-oau",
+        "cs-project-401-oau"
+      ]
+    },
+    {
+      "id": "oau-bus",
+      "institutionId": "oau",
+      "name": "Business Administration",
+      "courseIds": [
+        "bus-org-201-oau",
+        "bus-mkt-301-oau",
+        "bus-strat-401-oau"
+      ]
+    },
+    {
+      "id": "oau-acc",
+      "institutionId": "oau",
+      "name": "Accounting",
+      "courseIds": [
+        "acc-cost-201-oau",
+        "acc-audit-301-oau",
+        "acc-fin-401-oau"
+      ]
+    },
+    {
+      "id": "oau-eco",
+      "institutionId": "oau",
+      "name": "Economics",
+      "courseIds": [
+        "eco-micro-201-oau",
+        "eco-macro-301-oau",
+        "eco-dev-401-oau"
+      ]
+    },
+    {
+      "id": "oau-mth",
+      "institutionId": "oau",
+      "name": "Mathematics / Statistics",
+      "courseIds": [
+        "sta-reg-201-oau",
+        "sta-mult-301-oau",
+        "sta-data-401-oau"
+      ]
+    },
+    {
+      "id": "oau-eng",
+      "institutionId": "oau",
+      "name": "Engineering",
+      "courseIds": [
+        "eng-circuit-201-oau",
+        "eng-control-301-oau",
+        "eng-power-401-oau"
+      ]
+    },
+    {
+      "id": "oau-nsg",
+      "institutionId": "oau",
+      "name": "Nursing Science",
+      "courseIds": [
+        "nsg-research-301-oau",
+        "nsg-community-401-oau"
+      ]
+    },
+    {
+      "id": "oau-psy",
+      "institutionId": "oau",
+      "name": "Psychology",
+      "courseIds": [
+        "psy-method-201-oau",
+        "psy-clin-401-oau"
+      ]
+    },
+    {
+      "id": "oau-soc",
+      "institutionId": "oau",
+      "name": "Sociology",
+      "courseIds": [
+        "soc-theory-201-oau",
+        "soc-policy-401-oau"
+      ]
+    },
+    {
+      "id": "oau-pol",
+      "institutionId": "oau",
+      "name": "Political Science",
+      "courseIds": [
+        "pol-method-201-oau",
+        "pol-gov-401-oau"
+      ]
+    },
+    {
+      "id": "oau-com",
+      "institutionId": "oau",
+      "name": "Mass Communication",
+      "courseIds": [
+        "com-theory-201-oau",
+        "com-research-401-oau"
+      ]
+    },
+    {
+      "id": "oau-gst",
+      "institutionId": "oau",
+      "name": "General Studies",
+      "courseIds": [
+        "gst-research-201-oau"
+      ]
+    },
+    {
+      "id": "other-cs",
+      "institutionId": "other",
+      "name": "Computer Science / Computing",
+      "courseIds": [
+        "cs-alg-201-other",
+        "cs-db-301-other",
+        "cs-os-301-other",
+        "cs-net-301-other",
+        "cs-se-301-other",
+        "cs-ai-401-other",
+        "cs-sec-401-other",
+        "cs-dist-401-other",
+        "cs-project-401-other"
+      ]
+    },
+    {
+      "id": "other-bus",
+      "institutionId": "other",
+      "name": "Business Administration",
+      "courseIds": [
+        "bus-org-201-other",
+        "bus-mkt-301-other",
+        "bus-strat-401-other"
+      ]
+    },
+    {
+      "id": "other-acc",
+      "institutionId": "other",
+      "name": "Accounting",
+      "courseIds": [
+        "acc-cost-201-other",
+        "acc-audit-301-other",
+        "acc-fin-401-other"
+      ]
+    },
+    {
+      "id": "other-eco",
+      "institutionId": "other",
+      "name": "Economics",
+      "courseIds": [
+        "eco-micro-201-other",
+        "eco-macro-301-other",
+        "eco-dev-401-other"
+      ]
+    },
+    {
+      "id": "other-mth",
+      "institutionId": "other",
+      "name": "Mathematics / Statistics",
+      "courseIds": [
+        "sta-reg-201-other",
+        "sta-mult-301-other",
+        "sta-data-401-other"
+      ]
+    },
+    {
+      "id": "other-eng",
+      "institutionId": "other",
+      "name": "Engineering",
+      "courseIds": [
+        "eng-circuit-201-other",
+        "eng-control-301-other",
+        "eng-power-401-other"
+      ]
+    },
+    {
+      "id": "other-nsg",
+      "institutionId": "other",
+      "name": "Nursing Science",
+      "courseIds": [
+        "nsg-research-301-other",
+        "nsg-community-401-other"
+      ]
+    },
+    {
+      "id": "other-psy",
+      "institutionId": "other",
+      "name": "Psychology",
+      "courseIds": [
+        "psy-method-201-other",
+        "psy-clin-401-other"
+      ]
+    },
+    {
+      "id": "other-soc",
+      "institutionId": "other",
+      "name": "Sociology",
+      "courseIds": [
+        "soc-theory-201-other",
+        "soc-policy-401-other"
+      ]
+    },
+    {
+      "id": "other-pol",
+      "institutionId": "other",
+      "name": "Political Science",
+      "courseIds": [
+        "pol-method-201-other",
+        "pol-gov-401-other"
+      ]
+    },
+    {
+      "id": "other-com",
+      "institutionId": "other",
+      "name": "Mass Communication",
+      "courseIds": [
+        "com-theory-201-other",
+        "com-research-401-other"
+      ]
+    },
+    {
+      "id": "other-gst",
+      "institutionId": "other",
+      "name": "General Studies",
+      "courseIds": [
+        "gst-research-201-other"
+      ]
+    },
+    {
+      "id": "computer-science",
+      "institutionId": "other",
+      "name": "Computer Science / Computing",
+      "courseIds": [
+        "cs-oop-201",
+        "cs-web-301",
+        "cs-hci-301",
+        "cs-cloud-401"
+      ]
+    },
+    {
+      "id": "nursing",
+      "institutionId": "other",
+      "name": "Nursing Science",
+      "courseIds": [
+        "nsg-public-301"
+      ]
+    },
+    {
+      "id": "psychology",
+      "institutionId": "other",
+      "name": "Psychology",
+      "courseIds": [
+        "psy-cog-301"
+      ]
+    }
+  ]
+}
